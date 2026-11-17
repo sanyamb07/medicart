@@ -169,3 +169,12 @@ func sqlState(err error) string {
 	}
 	return ""
 }
+
+// IsMarketGuard reports whether err came from the migration-000014 database
+// guards: MK001 = product not sellable in the business's market, MK002 =
+// prescription line in a market without Rx sales enabled, MK003 = order
+// currency differs from the market currency (000015).
+func IsMarketGuard(err error) bool {
+	s := sqlState(err)
+	return s == "MK001" || s == "MK002" || s == "MK003"
+}

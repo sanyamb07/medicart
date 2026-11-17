@@ -73,7 +73,7 @@ func (h *Handlers) getProduct(c *gin.Context) {
 		httpx.Fail(c, err)
 		return
 	}
-	related, err := h.repo.RelatedProducts(c.Request.Context(), p.ID, 6)
+	related, err := h.repo.RelatedProductsForBusiness(c.Request.Context(), businessID, p.ID, 6)
 	if err != nil {
 		httpx.Fail(c, err)
 		return

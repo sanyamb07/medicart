@@ -300,6 +300,12 @@ func (s *Service) Create(ctx context.Context, in CreateInput) (*Order, error) {
 		}
 		return nil
 	})
+	if db.IsMarketGuard(err) {
+		// The database refused a line the application thought was sellable
+		// (eligibility changed mid-checkout, Rx in a non-Rx market, or a
+		// currency mismatch). Nothing was written; tell the customer plainly.
+		return nil, httpx.ErrConflict.WithMessage("An item in your cart is no longer available here. Please review your cart.")
+	}
 	if err != nil {
 		return nil, err
 	}

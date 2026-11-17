@@ -109,9 +109,8 @@ func (s *Service) AddItem(ctx context.Context, cartID, productID string, qty int
 	}
 	var maxQty int
 	err = s.pool.QueryRow(ctx, `
-		SELECT p.max_qty_per_order FROM business_products bp JOIN products p ON p.id = bp.product_id
-		 WHERE bp.product_id = $1 AND bp.business_id = $2
-		   AND bp.is_listed = TRUE AND bp.is_visible = TRUE AND p.is_active = TRUE`, productID, businessID).
+		SELECT p.max_qty_per_order FROM storefront_listings sl JOIN products p ON p.id = sl.product_id
+		 WHERE sl.product_id = $1 AND sl.business_id = $2`, productID, businessID).
 		Scan(&maxQty)
 	if db.IsNoRows(err) {
 		return fmt.Errorf("cart: product not found")
@@ -149,9 +148,8 @@ func (s *Service) SetQty(ctx context.Context, cartID, productID string, qty int)
 	}
 	var maxQty int
 	err = s.pool.QueryRow(ctx, `
-		SELECT p.max_qty_per_order FROM business_products bp JOIN products p ON p.id = bp.product_id
-		 WHERE bp.product_id = $1 AND bp.business_id = $2
-		   AND bp.is_listed = TRUE AND bp.is_visible = TRUE AND p.is_active = TRUE`, productID, businessID).
+		SELECT p.max_qty_per_order FROM storefront_listings sl JOIN products p ON p.id = sl.product_id
+		 WHERE sl.product_id = $1 AND sl.business_id = $2`, productID, businessID).
 		Scan(&maxQty)
 	if db.IsNoRows(err) {
 		return fmt.Errorf("cart: product not found")
@@ -183,15 +181,15 @@ func (s *Service) RemoveItem(ctx context.Context, cartID, productID string) erro
 }
 
 // Get returns the priced cart, re-pricing every line live from this cart's
-// own business's business_products row — never the master product directly,
+// own business's storefront_listings row — never the master product directly,
 // and never another business's pricing or stock.
 func (s *Service) Get(ctx context.Context, cartID string) (*Summary, error) {
 	rows, err := s.pool.Query(ctx, `
 		SELECT p.id::text, p.slug, p.name, p.sku, b.name,
 		       (SELECT pi.storage_key FROM customer_product_images pi WHERE pi.product_id = p.id ORDER BY pi.display_order LIMIT 1),
-		       p.pack_size, p.strength, p.dosage_form, ci.qty, p.mrp_paise,
-		       COALESCE(bp.price_paise, p.price_paise), p.requires_prescription,
-		       p.max_qty_per_order, (p.is_active AND COALESCE(bp.is_listed, FALSE) AND COALESCE(bp.is_visible, FALSE)),
+		       p.pack_size, p.strength, p.dosage_form, ci.qty, COALESCE(sl.mrp_minor, p.mrp_paise),
+		       COALESCE(sl.price_minor, p.price_paise), COALESCE(sl.requires_prescription, p.requires_prescription),
+		       p.max_qty_per_order, (sl.product_id IS NOT NULL),
 		       COALESCE((SELECT SUM(ib.qty_on_hand - ib.qty_reserved) FROM inventory_batches ib
 		                  WHERE ib.product_id = p.id AND ib.business_id = c.business_id
 		                    AND ib.is_blocked = FALSE AND ib.expiry_date > CURRENT_DATE), 0)
@@ -199,7 +197,10 @@ func (s *Service) Get(ctx context.Context, cartID string) (*Summary, error) {
 		  JOIN carts c ON c.id = ci.cart_id
 		  JOIN products p ON p.id = ci.product_id
 		  LEFT JOIN brands b ON b.id = p.brand_id
-		  LEFT JOIN business_products bp ON bp.product_id = p.id AND bp.business_id = c.business_id
+		  -- storefront_listings decides sellability (market LIVE, product
+		  -- ELIGIBLE there, listed, active). A line that is no longer
+		  -- sellable is flagged inactive and blocks checkout.
+		  LEFT JOIN storefront_listings sl ON sl.product_id = p.id AND sl.business_id = c.business_id
 		 WHERE ci.cart_id = $1
 		 ORDER BY ci.added_at`, cartID)
 	if err != nil {

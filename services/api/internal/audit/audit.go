@@ -63,6 +63,8 @@ const (
 	ActionAffiliateSuspended      = "affiliate.suspended"
 	ActionAffiliateCommissionPaid = "affiliate.commission_paid"
 	ActionAffiliateSettingUpdated = "affiliate.setting_updated"
+
+	ActionMarketListingSet = "market.listing_set"
 )
 
 // Entry is one audit record.

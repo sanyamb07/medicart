@@ -8,19 +8,20 @@ import (
 	"github.com/sanyam/medicart/services/api/internal/httpx"
 )
 
-// businessProductColumns mirrors productColumns but reads price, visibility
-// and featured status from business_products — a business's own storefront
-// never prices or lists a product from the master row directly. The master
-// MRP stays authoritative (a manufacturer ceiling, not something a seller
-// changes).
+// businessProductColumns mirrors productColumns but reads price, MRP,
+// prescription status and featured flag from storefront_listings (aliased
+// bp) — the database view that is the single definition of "sellable": the
+// business listed it, the product is active, the business's market is LIVE
+// and the product is ELIGIBLE there (migration 000014). Prices are minor
+// units of the business's market currency (paise for India).
 const businessProductColumns = `
 	p.id::text, p.sku, p.slug, p.name,
 	b.name, b.slug, b.manufacturer,
 	p.generic_name, p.strength, p.dosage_form, p.pack_size,
 	p.description, p.key_uses, p.storage_info, p.manufacturer_info,
-	p.mrp_paise, COALESCE(bp.price_paise, p.price_paise), p.requires_prescription,
+	bp.mrp_minor, bp.price_minor, bp.requires_prescription,
 	p.max_qty_per_order,
-	p.is_demo_data, bp.is_featured, (p.is_active AND bp.is_visible),
+	p.is_demo_data, bp.is_featured, p.is_active,
 	COALESCE((
 		SELECT SUM(ib.qty_on_hand - ib.qty_reserved)
 		  FROM inventory_batches ib
@@ -44,7 +45,7 @@ func (r *Repo) ListForBusiness(ctx context.Context, businessID string, f ListFil
 	}
 
 	var (
-		where   = []string{"bp.business_id = $1", "bp.is_listed = TRUE", "p.is_active = TRUE", "bp.is_visible = TRUE"}
+		where   = []string{"bp.business_id = $1"}
 		args    = []any{businessID}
 		argN    = 1
 		addArg  = func(v any) string { argN++; args = append(args, v); return fmt.Sprintf("$%d", argN) }
@@ -80,9 +81,9 @@ func (r *Repo) ListForBusiness(ctx context.Context, businessID string, f ListFil
 		where = append(where, fmt.Sprintf("b.slug = %s", ph))
 	}
 	if f.RxOnly != nil {
-		where = append(where, fmt.Sprintf("p.requires_prescription = %s", addArg(*f.RxOnly)))
+		where = append(where, fmt.Sprintf("bp.requires_prescription = %s", addArg(*f.RxOnly)))
 	}
-	priceExpr := "COALESCE(bp.price_paise, p.price_paise)"
+	priceExpr := "bp.price_minor"
 	if f.MinPaise > 0 {
 		where = append(where, fmt.Sprintf("%s >= %s", priceExpr, addArg(f.MinPaise)))
 	}
@@ -105,7 +106,7 @@ func (r *Repo) ListForBusiness(ctx context.Context, businessID string, f ListFil
 
 	var total int
 	countSQL := fmt.Sprintf(`
-		SELECT count(*) FROM business_products bp
+		SELECT count(*) FROM storefront_listings bp
 		JOIN products p ON p.id = bp.product_id
 		LEFT JOIN brands b ON b.id = p.brand_id
 		WHERE %s`, whereSQL)
@@ -117,7 +118,7 @@ func (r *Repo) ListForBusiness(ctx context.Context, businessID string, f ListFil
 	offsetPH := addArg((f.Page - 1) * f.PageSize)
 	listSQL := fmt.Sprintf(`
 		SELECT %s, %s
-		  FROM business_products bp
+		  FROM storefront_listings bp
 		  JOIN products p ON p.id = bp.product_id
 		  LEFT JOIN brands b ON b.id = p.brand_id
 		 WHERE %s
@@ -148,11 +149,10 @@ func (r *Repo) ListForBusiness(ctx context.Context, businessID string, f ListFil
 func (r *Repo) GetBySlugForBusiness(ctx context.Context, businessID, slug string) (*Product, error) {
 	sql := fmt.Sprintf(`
 		SELECT %s
-		  FROM business_products bp
+		  FROM storefront_listings bp
 		  JOIN products p ON p.id = bp.product_id
 		  LEFT JOIN brands b ON b.id = p.brand_id
-		 WHERE p.slug = $2 AND bp.business_id = $1
-		   AND bp.is_listed = TRUE AND bp.is_visible = TRUE AND p.is_active = TRUE`, businessProductColumns)
+		 WHERE p.slug = $2 AND bp.business_id = $1`, businessProductColumns)
 	p, err := scanProduct(r.pool.QueryRow(ctx, sql, businessID, slug))
 	if err != nil {
 		return nil, err
@@ -175,12 +175,50 @@ func (r *Repo) GetBySlugForBusiness(ctx context.Context, businessID, slug string
 func (r *Repo) GetByIDForBusiness(ctx context.Context, businessID, productID string) (*Product, error) {
 	sql := fmt.Sprintf(`
 		SELECT %s
-		  FROM business_products bp
+		  FROM storefront_listings bp
 		  JOIN products p ON p.id = bp.product_id
 		  LEFT JOIN brands b ON b.id = p.brand_id
-		 WHERE p.id = $2 AND bp.business_id = $1
-		   AND bp.is_listed = TRUE AND bp.is_visible = TRUE AND p.is_active = TRUE`, businessProductColumns)
+		 WHERE p.id = $2 AND bp.business_id = $1`, businessProductColumns)
 	return scanProduct(r.pool.QueryRow(ctx, sql, businessID, productID))
+}
+
+// RelatedProductsForBusiness returns other products sharing a category with
+// productID that this business can actually sell (storefront_listings), at
+// this business's own price. The product page uses this so a related item
+// can never surface a product that is ineligible in the business's market.
+func (r *Repo) RelatedProductsForBusiness(ctx context.Context, businessID, productID string, limit int) ([]*Product, error) {
+	if limit <= 0 || limit > 20 {
+		limit = 6
+	}
+	sql := fmt.Sprintf(`
+		SELECT %s, 0 AS rank
+		  FROM storefront_listings bp
+		  JOIN products p ON p.id = bp.product_id
+		  LEFT JOIN brands b ON b.id = p.brand_id
+		 WHERE bp.business_id = $1 AND p.id <> $2
+		   AND p.id IN (
+		       SELECT pc2.product_id FROM product_categories pc2
+		        WHERE pc2.category_id IN (
+		            SELECT category_id FROM product_categories WHERE product_id = $2
+		        ) AND pc2.product_id <> $2
+		   )
+		 ORDER BY bp.is_featured DESC, p.created_at DESC
+		 LIMIT $3`, businessProductColumns)
+	rows, err := r.pool.Query(ctx, sql, businessID, productID, limit)
+	if err != nil {
+		return nil, fmt.Errorf("related products: %w", err)
+	}
+	defer rows.Close()
+	out := make([]*Product, 0, limit)
+	for rows.Next() {
+		var rank float64
+		p, err := scanProductWithRank(rows, &rank)
+		if err != nil {
+			return nil, err
+		}
+		out = append(out, p)
+	}
+	return out, rows.Err()
 }
 
 // ---------------------------------------------------------------- business catalog management

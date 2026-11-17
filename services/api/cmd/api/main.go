@@ -30,6 +30,7 @@ import (
 	"github.com/sanyam/medicart/services/api/internal/enrichment"
 	"github.com/sanyam/medicart/services/api/internal/httpx"
 	"github.com/sanyam/medicart/services/api/internal/inventory"
+	"github.com/sanyam/medicart/services/api/internal/markets"
 	"github.com/sanyam/medicart/services/api/internal/orders"
 	"github.com/sanyam/medicart/services/api/internal/payments"
 	"github.com/sanyam/medicart/services/api/internal/platform/logger"
@@ -139,6 +140,7 @@ func run() error {
 	inventoryAdminHandlers := inventory.NewAdminHandlers(pool)
 
 	enrichmentHandlers := enrichment.NewHandlers(enrichment.NewService(pool, os.Getenv("OPENFDA_API_KEY")))
+	marketHandlers := markets.NewHandlers(markets.NewRepo(pool, rec))
 
 	// ---------------------------------------------------------------- router
 
@@ -197,6 +199,7 @@ func run() error {
 		analyticsHandlers.Register(v1.Group("", httpx.RateLimit(writeLimiter, httpx.ByIP)))
 		prescriptionHandlers.Register(v1.Group("", httpx.RateLimit(writeLimiter, httpx.ByUserOrIP)))
 		assistantHandlers.Register(v1.Group("", httpx.RateLimit(aiLimiter, httpx.ByUserOrIP)))
+		marketHandlers.Register(v1)
 
 		// A staff session always acts for exactly the business it belongs to
 		// (business_staff), never a business the client names — see
@@ -243,6 +246,7 @@ func run() error {
 			bizHandlers.RegisterPlatformAdmin(platform)
 			affiliateHandlers.RegisterPlatformAdmin(platform)
 			enrichmentHandlers.RegisterPlatformAdmin(platform)
+			marketHandlers.RegisterPlatformAdmin(platform)
 			catalogHandlers.RegisterAdmin(platform) // master product catalog
 		}
 	}

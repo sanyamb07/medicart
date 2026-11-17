@@ -38,6 +38,7 @@ type Business struct {
 	Tagline         *string   `json:"tagline"`
 	SupportWhatsApp *string   `json:"supportWhatsapp"`
 	LicenseStatus   string    `json:"licenseStatus"`
+	MarketCode      string    `json:"marketCode"`
 	CreatedAt       time.Time `json:"createdAt"`
 }
 
@@ -52,11 +53,11 @@ type Repo struct{ pool *db.Pool }
 
 func NewRepo(pool *db.Pool) *Repo { return &Repo{pool: pool} }
 
-var bizColumns = `id::text, slug, name, status, logo_url, tagline, support_whatsapp, license_status, created_at`
+var bizColumns = `id::text, slug, name, status, logo_url, tagline, support_whatsapp, license_status, market_code, created_at`
 
 func scanBusiness(row interface{ Scan(...any) error }) (*Business, error) {
 	var b Business
-	if err := row.Scan(&b.ID, &b.Slug, &b.Name, &b.Status, &b.LogoURL, &b.Tagline, &b.SupportWhatsApp, &b.LicenseStatus, &b.CreatedAt); err != nil {
+	if err := row.Scan(&b.ID, &b.Slug, &b.Name, &b.Status, &b.LogoURL, &b.Tagline, &b.SupportWhatsApp, &b.LicenseStatus, &b.MarketCode, &b.CreatedAt); err != nil {
 		return nil, err
 	}
 	return &b, nil

@@ -386,43 +386,6 @@ func (r *Repo) attachCategories(ctx context.Context, p *Product) error {
 	return rows.Err()
 }
 
-// RelatedProducts returns a handful of other active products sharing the
-// primary category, for the product detail page.
-func (r *Repo) RelatedProducts(ctx context.Context, productID string, limit int) ([]*Product, error) {
-	if limit <= 0 || limit > 20 {
-		limit = 6
-	}
-	sql := fmt.Sprintf(`
-		SELECT %s, 0 AS rank
-		  FROM products p
-		  LEFT JOIN brands b ON b.id = p.brand_id
-		 WHERE p.is_active = TRUE AND p.id <> $1
-		   AND p.id IN (
-		       SELECT pc2.product_id FROM product_categories pc2
-		        WHERE pc2.category_id IN (
-		            SELECT category_id FROM product_categories WHERE product_id = $1
-		        ) AND pc2.product_id <> $1
-		   )
-		 ORDER BY p.is_featured DESC, p.created_at DESC
-		 LIMIT $2`, productColumns)
-	rows, err := r.pool.Query(ctx, sql, productID, limit)
-	if err != nil {
-		return nil, fmt.Errorf("related products: %w", err)
-	}
-	defer rows.Close()
-
-	out := make([]*Product, 0, limit)
-	for rows.Next() {
-		var rank float64
-		p, err := scanProductWithRank(rows, &rank)
-		if err != nil {
-			return nil, err
-		}
-		out = append(out, p)
-	}
-	return out, rows.Err()
-}
-
 // ListCategories returns active top-level and child categories with a live
 // product count, for the homepage "shop by category" section and filters.
 func (r *Repo) ListCategories(ctx context.Context) ([]*Category, error) {

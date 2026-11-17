@@ -31,6 +31,7 @@ blob-report/
 apps/web/playwright/.cache/
 data/enrichment/images_raw/
 data/enrichment/*.dump
+data/enrichment/*.dump.sha256
 
 # runtime logs (may contain customer phone numbers / OTP traces)
 data/enrichment/logs/api.log
