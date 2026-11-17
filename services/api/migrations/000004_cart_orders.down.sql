@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS shipments;
+DROP TABLE IF EXISTS stock_reservations;
+DROP TABLE IF EXISTS order_status_history;
+DROP TABLE IF EXISTS order_item_allocations;
+DROP TABLE IF EXISTS order_items;
+ALTER TABLE IF EXISTS inventory_movements DROP CONSTRAINT IF EXISTS movements_order_fk;
+DROP TABLE IF EXISTS orders;
+DROP TABLE IF EXISTS prescription_reviews;
+DROP TABLE IF EXISTS prescriptions;
+DROP TABLE IF EXISTS cart_items;
+DROP TABLE IF EXISTS carts;

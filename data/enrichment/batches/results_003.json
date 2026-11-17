@@ -1,0 +1,1935 @@
+[
+ {
+  "sr": 210,
+  "sku": "IMP-0210",
+  "name": "AUGMENTIN R 1000MG",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India; Worli, Mumbai) - per official PI",
+  "manufacturer_source_url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "official_product_page_url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "composition_on_source": "AUGMENTIN 1g DUO: each film coated tablet contains Amoxycillin Trihydrate IP eq. to Amoxycillin 875 mg + Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 125 mg",
+  "strength": "875 mg + 125 mg (1 g)",
+  "dosage_form": "TABLET",
+  "pack_size": "Aluminium strips (count not stated in PI)",
+  "composition_matches_list": true,
+  "composition_note": "Generic matches (list misspells 'AMOXYCILIN'/'CLAVULANTE'). Official GSK India name is 'AUGMENTIN 625 / 1g DUO'; the 'R' in the list name is unexplained (possibly a registered-trademark sign misread, or a different/export variant). Assumed to correspond to AUGMENTIN 1g DUO - needs confirmation. PI version AUG-TAB/PI/IN/2025/01.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official tablet image. The only Augmentin image on india-pharma.gsk.com shows AUGMENTIN DDS suspension (rejected under IMP-0211)."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "List name 'AUGMENTIN R 1000MG' does not exactly match official 'AUGMENTIN 1g DUO' - confirm product identity",
+   "No official image of the tablet"
+  ],
+  "sources_consulted": [
+   "https://india-pharma.gsk.com/en-in/products/",
+   "https://india-pharma.gsk.com/en-in/products/prescribing-information/",
+   "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf"
+  ]
+ },
+ {
+  "sr": 211,
+  "sku": "IMP-0211",
+  "name": "AUGMENTIN R 625MG",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India; Worli, Mumbai) - per official PI",
+  "manufacturer_source_url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "official_product_page_url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "composition_on_source": "AUGMENTIN 625 DUO: each film-coated tablet contains Amoxycillin Trihydrate IP eq. to Amoxycillin 500 mg + Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 125 mg",
+  "strength": "500 mg + 125 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "Aluminium strips (count not stated in PI)",
+  "composition_matches_list": true,
+  "composition_note": "Generic matches. Official GSK India name 'AUGMENTIN 625 DUO'; the 'R' in list name unexplained - confirm. GSK also has an older AUGMENTIN 625 (non-Duo) in other markets; only the Duo PI was found for India.",
+  "official_description": null,
+  "image": {
+   "status": "rejected",
+   "image_url": "https://india-pharma.gsk.com/media/pzmic3eh/augmentin.jpg",
+   "page_url": "https://india-pharma.gsk.com/en-in/products/",
+   "local_file": null,
+   "visible_pack_text": "Rx AMOXYCILLIN AND POTASSIUM CLAVULANATE ORAL SUSPENSION IP 457 mg / 5 mL; AUGMENTIN DDS; Co-amoxiclav; 5.4 g / 30 mL; FOR PAEDIATRIC USE ONLY",
+   "checks": {
+    "brand": true,
+    "strength": false,
+    "form": false,
+    "pack": false
+   },
+   "pixel_size": "300x375",
+   "notes": "Only Augmentin image on GSK India site shows AUGMENTIN DDS oral suspension, not the tablet; also <300px short side would be borderline. Rejected and file deleted."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "List name 'AUGMENTIN R 625MG' does not exactly match official 'AUGMENTIN 625 DUO' - confirm product identity",
+   "Official image is a different product (DDS suspension) - rejected"
+  ],
+  "sources_consulted": [
+   "https://india-pharma.gsk.com/en-in/products/",
+   "https://india-pharma.gsk.com/en-in/products/prescribing-information/",
+   "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf"
+  ]
+ },
+ {
+  "sr": 212,
+  "sku": "IMP-0212",
+  "name": "AUGUCLAV 625MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "625 mg (presumed 500+125)",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No source found for brand 'Auguclav' at all (possible misspelling of another amoxiclav brand). Not on Healing Pharma site.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found anywhere - check spelling against invoice/pack"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=auguclav"
+  ]
+ },
+ {
+  "sr": 213,
+  "sku": "IMP-0213",
+  "name": "AUROGRA 100MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "100 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail/B2B listings attribute Aurogra 100 (sildenafil citrate) to Aurochem (Laboratories/Pharmaceuticals); other listings name Centurion Laboratories or Roots Lifecare. Company site (aurochem.global per registry) not confirmed and no Aurogra page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Conflicting manufacturer attributions on marketplaces",
+   "Price Rs 2 unusually low"
+  ],
+  "sources_consulted": [
+   "https://www.newswire.com/news/advanced-100-mg-aurogra-tablets-for-ed-therapy-by-aurochem-labs-191182",
+   "https://www.tofler.in/aurochem-laboratories-india-private-limited/company/U24230MH1997PTC112098"
+  ]
+ },
+ {
+  "sr": 214,
+  "sku": "IMP-0214",
+  "name": "AVAFORCE 100MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "100 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Only reseller/B2B listings (GNH India, Global Linker 'Dr Precision'/Bluepill Express) - none names a manufacturer. Note: Healing Pharma sells a different brand 'Avadaforce' (avanafil) - NOT the same name, not used.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown",
+   "Do not confuse with Healing Pharma 'Avadaforce'"
+  ],
+  "sources_consulted": [
+   "https://www.gnhindia.com/products/avaforce-100-mg-tablet",
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=avaforce"
+  ]
+ },
+ {
+  "sr": 215,
+  "sku": "IMP-0215",
+  "name": "AVAFORCE 200MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "200 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Only reseller/B2B listings (GNH India, Global Linker 'Dr Precision'/Bluepill Express) - none names a manufacturer. Note: Healing Pharma sells a different brand 'Avadaforce' (avanafil) - NOT the same name, not used.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown",
+   "Do not confuse with Healing Pharma 'Avadaforce'"
+  ],
+  "sources_consulted": [
+   "https://www.gnhindia.com/products/avaforce-100-mg-tablet",
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=avaforce"
+  ]
+ },
+ {
+  "sr": 216,
+  "sku": "IMP-0216",
+  "name": "AVAGRA 100MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "100 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No result for brand 'Avagra' anywhere; may be misspelling (e.g. Avana/Avanair).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found - check spelling"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Avagra\" avanafil 100 mg manufacturer",
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=avagra"
+  ]
+ },
+ {
+  "sr": 217,
+  "sku": "IMP-0217",
+  "name": "AVANA 100MG",
+  "manufacturer": "Sunrise Remedies Pvt. Ltd. (Ahmedabad)",
+  "manufacturer_source_url": "https://sunriseremedies.in/our-products/avana/",
+  "official_product_page_url": "https://sunriseremedies.in/our-products/avana/",
+  "composition_on_source": "Avanafil (page lists 50 mg, 100 mg, 200 mg); carton: 'Avanafil Tablet 100 mg'",
+  "strength": "100 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Matches list generic AVANAFIL 100 mg. Pack count not stated on page or visible on carton.",
+  "official_description": "Avana by Sunrise Remedies is an avanafil tablet (PDE5 inhibitor) for erectile dysfunction in men; prescription medicine.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://sunriseremedies.in/images/products/avana/Avana18-sunrise.jpg",
+   "page_url": "https://sunriseremedies.in/our-products/avana/",
+   "local_file": "data/enrichment/images_raw/IMP-0217.jpg",
+   "visible_pack_text": "Avanafil Tablet 100 mg; AVANA-100 (TM) on front and side panel; corner logo 'Sunrise Remedies Pvt. Ltd. Rising healthcare benchmarks www.sunriseremedies.in'",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": null
+   },
+   "pixel_size": "2880x2880",
+   "notes": "Carton mock-up render from official site (served via Next.js image proxy, original path given). Pack count not visible. A second official image (300x300 label graphic, AVANA-100) was downloaded and discarded as a label-only graphic at minimum size."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Pack size unknown",
+   "Image pending pharmacist approval",
+   "Company is an export-oriented ED-brand maker; confirm Indian marketing licence"
+  ],
+  "sources_consulted": [
+   "https://sunriseremedies.in/our-products/avana/",
+   "https://www.sunriseremedies.in/our-products"
+  ]
+ },
+ {
+  "sr": 218,
+  "sku": "IMP-0218",
+  "name": "AVANA 200MG",
+  "manufacturer": "Sunrise Remedies Pvt. Ltd. (Ahmedabad)",
+  "manufacturer_source_url": "https://sunriseremedies.in/our-products/avana/",
+  "official_product_page_url": "https://sunriseremedies.in/our-products/avana/",
+  "composition_on_source": "Avanafil (page lists 50 mg, 100 mg, 200 mg)",
+  "strength": "200 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Official page lists Avana in 50/100/200 mg; 200 mg strength confirmed only as a listed strength, no separate page.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official page shows only the 100 mg carton; 100 mg image not reused for 200 mg."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image for this strength",
+   "Pack size unknown"
+  ],
+  "sources_consulted": [
+   "https://sunriseremedies.in/our-products/avana/",
+   "https://www.sunriseremedies.in/our-products"
+  ]
+ },
+ {
+  "sr": 219,
+  "sku": "IMP-0219",
+  "name": "AVANA 50MG",
+  "manufacturer": "Sunrise Remedies Pvt. Ltd. (Ahmedabad)",
+  "manufacturer_source_url": "https://sunriseremedies.in/our-products/avana/",
+  "official_product_page_url": "https://sunriseremedies.in/our-products/avana/",
+  "composition_on_source": "Avanafil (page lists 50 mg, 100 mg, 200 mg)",
+  "strength": "50 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Official page lists Avana in 50/100/200 mg; 50 mg strength confirmed only as a listed strength, no separate page.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official page shows only the 100 mg carton; 100 mg image not reused for 50 mg."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image for this strength",
+   "Pack size unknown"
+  ],
+  "sources_consulted": [
+   "https://sunriseremedies.in/our-products/avana/",
+   "https://www.sunriseremedies.in/our-products"
+  ]
+ },
+ {
+  "sr": 220,
+  "sku": "IMP-0220",
+  "name": "AVBET 100MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "100 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail lists Avbet 50 mg; one IndiaMART listing for Avbet 100 names Enormmed Pharma / Arvincare (inconsistent). No official page.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed; conflicting names"
+  ],
+  "sources_consulted": [
+   "https://dir.indiamart.com/impcat/artesunate-tablet.html",
+   "https://www.1mg.com/drugs/avbet-50mg-tablet-407637"
+  ]
+ },
+ {
+  "sr": 221,
+  "sku": "IMP-0221",
+  "name": "AVOL 200MG CR",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "200 mg",
+  "dosage_form": "CONTROLLED RELEASE TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Apollo listing names Elikem Pharmaceuticals Pvt Ltd for Avol-500 CR (sodium valproate). No official Elikem page found; split of sodium valproate/valproic acid not confirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer only from retailer listing",
+   "Exact valproate/valproic acid split unconfirmed"
+  ],
+  "sources_consulted": [
+   "https://perfmedicine.apollopharmacy.in/medicine/avol-500-cr-tab-10-s"
+  ]
+ },
+ {
+  "sr": 222,
+  "sku": "IMP-0222",
+  "name": "AVOL 500MG CR",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "500 mg",
+  "dosage_form": "CONTROLLED RELEASE TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Apollo listing names Elikem Pharmaceuticals Pvt Ltd for Avol-500 CR (sodium valproate). No official Elikem page found; split of sodium valproate/valproic acid not confirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer only from retailer listing",
+   "Exact valproate/valproic acid split unconfirmed"
+  ],
+  "sources_consulted": [
+   "https://perfmedicine.apollopharmacy.in/medicine/avol-500-cr-tab-10-s"
+  ]
+ },
+ {
+  "sr": 223,
+  "sku": "IMP-0223",
+  "name": "AVOMIN TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "25 mg (per retail)",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings know this as 'AVOMINE' 25 mg (promethazine) by Abbott Healthcare; list spells 'AVOMIN' and gives no strength. abbott.co.in / medicines.abbott.com had no Avomine page.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Name spelling differs (Avomin vs Avomine)",
+   "Strength missing in list",
+   "Manufacturer not confirmed on official page"
+  ],
+  "sources_consulted": [
+   "https://pharmeasy.in/online-medicine-order/avomine-25mg-tablet-36050",
+   "https://medicines.abbott.com/"
+  ]
+ },
+ {
+  "sr": 224,
+  "sku": "IMP-0224",
+  "name": "AVONZA TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "400 mg/300 mg/300 mg (per news)",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Launch press coverage (2017) and retail: Mylan (now Viatris) Avonza = efavirenz 400 + lamivudine 300 + tenofovir DF 300 mg. Official mylan.in press release and viatris.in product list were found in search but NOT opened (fetch declined by user), so not confirmed on an official page.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official Mylan/Viatris page not opened - confirm",
+   "Composition matches list generic per secondary sources"
+  ],
+  "sources_consulted": [
+   "https://business.medicaldialogues.in/mylan-launches-avonza-india-hiv",
+   "https://www.thepharmaletter.com/pharma-news/mylan-given-green-light-to-launch-avonza-in-india"
+  ]
+ },
+ {
+  "sr": 225,
+  "sku": "IMP-0225",
+  "name": "AVOSTERIDE 0.5MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "0.5 mg",
+  "dosage_form": "CAPSULE",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No source mentions 'Avosteride'. Dutasteride 0.5 mg is normally a soft capsule - list form unknown.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found - check spelling",
+   "Dosage form unknown"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Avosteride\" dutasteride 0.5 mg manufacturer",
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=avosteride"
+  ]
+ },
+ {
+  "sr": 226,
+  "sku": "IMP-0226",
+  "name": "AXENTRI 150MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "150 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail (PharmEasy/1mg) and B2B listings attribute Axentri 150 (maraviroc) to Emcure Pharmaceuticals; an Emcure price-list PDF on emcure.com appears in search with 'AXENTRI TABLET 60 T' but was NOT opened (download declined by user). Not confirmed on an official page.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official Emcure document not opened - confirm",
+   "Pack 60 tablets per secondary sources"
+  ],
+  "sources_consulted": [
+   "https://pharmeasy.in/online-medicine-order/axentri-150mg-tablet-60-s-231063"
+  ]
+ },
+ {
+  "sr": 227,
+  "sku": "IMP-0227",
+  "name": "AXEPTA 10MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "10 mg",
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Search index of https://www.intaspharma.com/products/ shows AXEPTA = atomoxetine hydrochloride 10/18/25/40/60 mg, 10s (Intas Pharmaceuticals), but the page returned HTTP 500 on every fetch (and fails curl SSL verification), so not confirmed. Retail lists it as tablets; atomoxetine is usually a capsule - form unconfirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official Intas page unreachable - re-check",
+   "Dosage form (tablet vs capsule) unconfirmed"
+  ],
+  "sources_consulted": [
+   "https://www.intaspharma.com/products/",
+   "https://www.apollopharmacy.in/medicine/axepta-10mg-tablet"
+  ]
+ },
+ {
+  "sr": 228,
+  "sku": "IMP-0228",
+  "name": "AXEPTA 18MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "18 mg",
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Search index of https://www.intaspharma.com/products/ shows AXEPTA = atomoxetine hydrochloride 10/18/25/40/60 mg, 10s (Intas Pharmaceuticals), but the page returned HTTP 500 on every fetch (and fails curl SSL verification), so not confirmed. Retail lists it as tablets; atomoxetine is usually a capsule - form unconfirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official Intas page unreachable - re-check",
+   "Dosage form (tablet vs capsule) unconfirmed"
+  ],
+  "sources_consulted": [
+   "https://www.intaspharma.com/products/",
+   "https://www.apollopharmacy.in/medicine/axepta-10mg-tablet"
+  ]
+ },
+ {
+  "sr": 229,
+  "sku": "IMP-0229",
+  "name": "AXEPTA 25MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "25 mg",
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Search index of https://www.intaspharma.com/products/ shows AXEPTA = atomoxetine hydrochloride 10/18/25/40/60 mg, 10s (Intas Pharmaceuticals), but the page returned HTTP 500 on every fetch (and fails curl SSL verification), so not confirmed. Retail lists it as tablets; atomoxetine is usually a capsule - form unconfirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official Intas page unreachable - re-check",
+   "Dosage form (tablet vs capsule) unconfirmed"
+  ],
+  "sources_consulted": [
+   "https://www.intaspharma.com/products/",
+   "https://www.apollopharmacy.in/medicine/axepta-10mg-tablet"
+  ]
+ },
+ {
+  "sr": 230,
+  "sku": "IMP-0230",
+  "name": "AXEPTA 40MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "40 mg",
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Search index of https://www.intaspharma.com/products/ shows AXEPTA = atomoxetine hydrochloride 10/18/25/40/60 mg, 10s (Intas Pharmaceuticals), but the page returned HTTP 500 on every fetch (and fails curl SSL verification), so not confirmed. Retail lists it as tablets; atomoxetine is usually a capsule - form unconfirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official Intas page unreachable - re-check",
+   "Dosage form (tablet vs capsule) unconfirmed"
+  ],
+  "sources_consulted": [
+   "https://www.intaspharma.com/products/",
+   "https://www.apollopharmacy.in/medicine/axepta-10mg-tablet"
+  ]
+ },
+ {
+  "sr": 231,
+  "sku": "IMP-0231",
+  "name": "AXEPTA 60MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "60 mg",
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Search index of https://www.intaspharma.com/products/ shows AXEPTA = atomoxetine hydrochloride 10/18/25/40/60 mg, 10s (Intas Pharmaceuticals), but the page returned HTTP 500 on every fetch (and fails curl SSL verification), so not confirmed. Retail lists it as tablets; atomoxetine is usually a capsule - form unconfirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official Intas page unreachable - re-check",
+   "Dosage form (tablet vs capsule) unconfirmed"
+  ],
+  "sources_consulted": [
+   "https://www.intaspharma.com/products/",
+   "https://www.apollopharmacy.in/medicine/axepta-10mg-tablet"
+  ]
+ },
+ {
+  "sr": 232,
+  "sku": "IMP-0232",
+  "name": "AXOVIR 500 INJ",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "500 mg",
+  "dosage_form": "INJECTION",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings (Apollo, Medibuddy, PharmEasy) name Samarth Life Sciences Pvt Ltd, Mumbai (aciclovir 500 mg vial). No official Samarth page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer only from retailers"
+  ],
+  "sources_consulted": [
+   "https://apollopharmacy.in/medicine/axovir-500mg-injection"
+  ]
+ },
+ {
+  "sr": 233,
+  "sku": "IMP-0233",
+  "name": "AYUR SLIM CAP",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": "CAPSULE",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Official Himalaya page https://himalayawellness.in/products/ayurslim-capsules found by search (snippet: 60 capsules; Chebulic Myrobalan, Garcinia, Gymnema, Indian Bdellium, Fenugreek; Himalaya Wellness Company, Makali, Bengaluru) but every fetch returned HTTP 429, so not confirmed/no image downloaded. List generic 'HERBAL CAPSULES' is non-specific. Note snippet said product type 'Tablet' on page vs capsules.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official image exists on Himalaya page but could not be downloaded (HTTP 429)."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official page rate-limited (429) - re-check",
+   "OTC herbal product, not a drug"
+  ],
+  "sources_consulted": [
+   "https://himalayawellness.in/products/ayurslim-capsules"
+  ]
+ },
+ {
+  "sr": 234,
+  "sku": "IMP-0234",
+  "name": "AZACAN 50MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/azacan-50/",
+  "official_product_page_url": "https://www.healingpharma.in/product/azacan-50/",
+  "composition_on_source": "Azathioprine 50mg (page); pack: 'Azathioprine Tablets IP 50 mg'",
+  "strength": "50 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 x 10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Matches list generic AZATHIOPRINE 50 mg. Pack size read from carton image.",
+  "official_description": "Azacan 50 (Azathioprine Tablets IP 50 mg) by Healing Pharma, an immunosuppressant tablet used with other medicines to help prevent kidney transplant rejection.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/11/Azacan-50.jpeg",
+   "page_url": "https://www.healingpharma.in/product/azacan-50/",
+   "local_file": "data/enrichment/images_raw/IMP-0234.jpeg",
+   "visible_pack_text": "Rx Azathioprine Tablets IP 50 mg; Azacan 50mg; A50 logo; 10 x 10 Tablets; Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1280x1280",
+   "notes": "Carton + blister render from official site; tablets visible in blister."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image pending pharmacist approval",
+   "Underlying manufacturer (contract site) not legible on image"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=aza",
+   "https://www.healingpharma.in/product/azacan-50/",
+   "https://www.healingpharma.in/wp-json/wp/v2/media/7003"
+  ]
+ },
+ {
+  "sr": 235,
+  "sku": "IMP-0235",
+  "name": "AZAPINE 50MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "50 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No source for 'Azapine 50' azathioprine; Healing Pharma search returns only olanzapine brands. 'Azapine' is also a name used for other molecules elsewhere - check.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found",
+   "Possible name clash"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=azapine"
+  ]
+ },
+ {
+  "sr": 236,
+  "sku": "IMP-0236",
+  "name": "AZAQUEST 50MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "50 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No source found for 'Azaquest'.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Azacan 50\" OR \"Azapine 50\" OR \"Azaquest 50\" azathioprine tablet manufacturer",
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=azaquest"
+  ]
+ },
+ {
+  "sr": 237,
+  "sku": "IMP-0237",
+  "name": "AZEE 250MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "250 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail lists Azee tablets by Cipla Ltd. Official ciplamed.com product index has only 'Azee Dispersible Tablets' (Cipla Limited) - not this strength/form; cipla.com search failed (ECONNRESET).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official page only for a different form (DT)",
+   "Manufacturer Cipla per retail - confirm"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/azee-dispersible-tablets",
+   "https://pharmeasy.in/online-medicine-order/azee-500mg-strip-of-3-tablets-36262"
+  ]
+ },
+ {
+  "sr": 238,
+  "sku": "IMP-0238",
+  "name": "AZEE 500MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "500 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail lists Azee tablets by Cipla Ltd. Official ciplamed.com product index has only 'Azee Dispersible Tablets' (Cipla Limited) - not this strength/form; cipla.com search failed (ECONNRESET).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official page only for a different form (DT)",
+   "Manufacturer Cipla per retail - confirm"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/azee-dispersible-tablets",
+   "https://pharmeasy.in/online-medicine-order/azee-500mg-strip-of-3-tablets-36262"
+  ]
+ },
+ {
+  "sr": 239,
+  "sku": "IMP-0239",
+  "name": "AZEETOP 100MG DT",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/azeetop-100-dt/",
+  "official_product_page_url": "https://www.healingpharma.in/product/azeetop-100-dt/",
+  "composition_on_source": "Pack: 'Azithromycin Dispersible Tablets 100mg' (page has no text composition)",
+  "strength": "100 mg",
+  "dosage_form": "DISPERSIBLE TABLET",
+  "pack_size": "10 x 10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Composition taken from carton text on the official product image; page body is empty (title + SKU HP0060 only).",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Azeetop-100-DT-New.jpg",
+   "page_url": "https://www.healingpharma.in/product/azeetop-100-dt/",
+   "local_file": "data/enrichment/images_raw/IMP-0239.jpg",
+   "visible_pack_text": "Rx Azithromycin Dispersible Tablets 100mg; Azeetop 100 DT; 100mg; 10 x 10 Tablets; Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Carton + blister render. Media API reports 2000x2000 original; served file is 1600x1600."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Composition only from pack image, no text on page",
+   "Image pending pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=azeetop",
+   "https://www.healingpharma.in/product/azeetop-100-dt/",
+   "https://www.healingpharma.in/wp-json/wp/v2/media/13402"
+  ]
+ },
+ {
+  "sr": 240,
+  "sku": "IMP-0240",
+  "name": "AZEETOP 1GM",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/azeetop-1gm/",
+  "official_product_page_url": "https://www.healingpharma.in/product/azeetop-1gm/",
+  "composition_on_source": "Pack: 'Azithromycin Tablets IP 1g' (page has no text composition)",
+  "strength": "1 g",
+  "dosage_form": "TABLET",
+  "pack_size": "10 x 1 tablet",
+  "composition_matches_list": true,
+  "composition_note": "Composition from carton text on official image; page body empty (title + SKU HP0061).",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Azeetop-1gm-New.jpg",
+   "page_url": "https://www.healingpharma.in/product/azeetop-1gm/",
+   "local_file": "data/enrichment/images_raw/IMP-0240.jpg",
+   "visible_pack_text": "Rx Azithromycin Tablets IP 1g; Azeetop-1g; 1g; 10 x 1 Tablet; Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Carton + single-tablet blister render."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Composition only from pack image, no text on page",
+   "Image pending pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=azeetop",
+   "https://www.healingpharma.in/product/azeetop-1gm/",
+   "https://www.healingpharma.in/wp-json/wp/v2/media/13401"
+  ]
+ },
+ {
+  "sr": 241,
+  "sku": "IMP-0241",
+  "name": "AZEETOP 500MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/azeetop-500mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/azeetop-500mg/",
+  "composition_on_source": "Active ingredients: Azithromycin; Strength: 500 mg (page); pack: 'Azithromycin Tablets IP 500 mg'",
+  "strength": "500 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "20 x 5 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Matches list. Page tags include '20X5tab' and '3rd-Party-Manufacturer'.",
+  "official_description": "Azeetop 500 mg (Azithromycin) tablets by Healing Pharma, a macrolide antibiotic used in the treatment of various bacterial infections.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/AZEETOP-500-1.jpg",
+   "page_url": "https://www.healingpharma.in/product/azeetop-500mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0241.jpg",
+   "visible_pack_text": "Rx Azithromycin Tablets IP 500 mg; AZEETOP-500; 500 mg; 20 x 5 Tablets; Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Carton + 5-tablet blister render. Media API reports 2165x2165 original."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Page text contains promotional/indication claims (e.g. COVID-19 tag) - not reused",
+   "Image pending pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=azeetop",
+   "https://www.healingpharma.in/product/azeetop-500mg/",
+   "https://www.healingpharma.in/wp-json/wp/v2/media/15105"
+  ]
+ },
+ {
+  "sr": 242,
+  "sku": "IMP-0242",
+  "name": "AZELAX 20% GEL",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "20%",
+  "dosage_form": "GEL",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Healing Pharma lists only 'Azelax Cream' (Azelaic Acid 20%); no Azelax GEL on its site (WP product search 'azelax' returns only azelax-cream). Gel may be from the same family or a different company - not confirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official gel image; Azelax CREAM image not reused for the gel (different dosage form)."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Gel form not found on any official page",
+   "Possible list error (gel vs cream) or different marketer"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=azelax",
+   "https://www.healingpharma.in/product/azelax-cream/"
+  ]
+ },
+ {
+  "sr": 243,
+  "sku": "IMP-0243",
+  "name": "AZELAX CREAM 20GM",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/azelax-cream/",
+  "official_product_page_url": "https://www.healingpharma.in/product/azelax-cream/",
+  "composition_on_source": "Azelaic Acid 20% (page); pack: 'Azelaic Acid Cream 20% w/w'",
+  "strength": "20% w/w",
+  "dosage_form": "CREAM",
+  "pack_size": "20 g tube",
+  "composition_matches_list": true,
+  "composition_note": "List gives no strength; official page/pack state 20% w/w. 20 g matches list name.",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/08/Azelax-Cream-20-new.jpg",
+   "page_url": "https://www.healingpharma.in/product/azelax-cream/",
+   "local_file": "data/enrichment/images_raw/IMP-0243.jpg",
+   "visible_pack_text": "Azelaic Acid Cream 20% w/w; Azelax; 20 g (tube and carton); side panel 'Azelax 20%'; Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Carton + tube render. Decorative face artwork part of pack design."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image pending pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=azelax",
+   "https://www.healingpharma.in/product/azelax-cream/",
+   "https://www.healingpharma.in/wp-json/wp/v2/media/13406"
+  ]
+ },
+ {
+  "sr": 244,
+  "sku": "IMP-0244",
+  "name": "AZICIP 100MG ORAL SYRP 15ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "100 mg/5 ml (presumed)",
+  "dosage_form": "ORAL SUSPENSION",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail lists Azicip (azithromycin) by Cipla Ltd. No Azicip entry found on ciplamed.com/cipla.com.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer only from retailers"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index",
+   "https://pharmeasy.in/online-medicine-order/azicip-500mg-tablet-36287"
+  ]
+ },
+ {
+  "sr": 245,
+  "sku": "IMP-0245",
+  "name": "AZICIP 200MG 15ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "200 mg/5 ml (presumed)",
+  "dosage_form": "ORAL SUSPENSION",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail lists Azicip (azithromycin) by Cipla Ltd. No Azicip entry found on ciplamed.com/cipla.com.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer only from retailers"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index",
+   "https://pharmeasy.in/online-medicine-order/azicip-500mg-tablet-36287"
+  ]
+ },
+ {
+  "sr": 246,
+  "sku": "IMP-0246",
+  "name": "AZICIP 250MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "250 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail lists Azicip (azithromycin) by Cipla Ltd. No Azicip entry found on ciplamed.com/cipla.com.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer only from retailers"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index",
+   "https://pharmeasy.in/online-medicine-order/azicip-500mg-tablet-36287"
+  ]
+ },
+ {
+  "sr": 247,
+  "sku": "IMP-0247",
+  "name": "AZICIP 500MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "500 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail lists Azicip (azithromycin) by Cipla Ltd. No Azicip entry found on ciplamed.com/cipla.com.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer only from retailers"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index",
+   "https://pharmeasy.in/online-medicine-order/azicip-500mg-tablet-36287"
+  ]
+ },
+ {
+  "sr": 248,
+  "sku": "IMP-0248",
+  "name": "AZIDERM 10% CREAM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "10%",
+  "dosage_form": "CREAM",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail lists Aziderm (azelaic acid) by Micro Labs Ltd. microlabsltd.com dermatology page failed (redirect loop); no Aziderm page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer only from retailers"
+  ],
+  "sources_consulted": [
+   "https://www.microlabsltd.com/therapy/dermatology",
+   "https://pharmeasy.in/online-medicine-order/aziderm-10-cream-36295"
+  ]
+ },
+ {
+  "sr": 249,
+  "sku": "IMP-0249",
+  "name": "AZIDERM 20% CREAM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "20%",
+  "dosage_form": "CREAM",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail lists Aziderm (azelaic acid) by Micro Labs Ltd. microlabsltd.com dermatology page failed (redirect loop); no Aziderm page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer only from retailers"
+  ],
+  "sources_consulted": [
+   "https://www.microlabsltd.com/therapy/dermatology",
+   "https://pharmeasy.in/online-medicine-order/aziderm-10-cream-36295"
+  ]
+ },
+ {
+  "sr": 250,
+  "sku": "IMP-0250",
+  "name": "AZIFAST GEL",
+  "manufacturer": "Ipca Laboratories Ltd.",
+  "manufacturer_source_url": "https://www.ipca.com/wp-content/pdf/revised-pricelist-of-all-domestic-formulations-applicable-22-09-2025.pdf",
+  "official_product_page_url": null,
+  "composition_on_source": "Ipca official price list (22-09-2025): 'Azifast 2 % Gel 20 Gm' - Azithromycin 2 % GEL 20.00 GM",
+  "strength": "2%",
+  "dosage_form": "GEL",
+  "pack_size": "20 g",
+  "composition_matches_list": true,
+  "composition_note": "Confirmed in Ipca's official domestic price list PDF (not a product page). List name gives no strength; official = azithromycin 2% gel 20 g. Ipca also sells Azifast tablets/suspensions (not in this part).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No product page/image on ipca.com found; price list has no images."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Source is official price list, no product page",
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.ipca.com/pharmaceutical-formulations-manufacturers-india/",
+   "https://www.ipca.com/wp-content/pdf/revised-pricelist-of-all-domestic-formulations-applicable-22-09-2025.pdf"
+  ]
+ },
+ {
+  "sr": 251,
+  "sku": "IMP-0251",
+  "name": "AZIHEART 500MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "500 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No source found for 'Aziheart'.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=aziheart"
+  ]
+ },
+ {
+  "sr": 252,
+  "sku": "IMP-0252",
+  "name": "AZILAB 500MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "500 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail/IndiaMART name Laborate Pharmaceuticals (some say Lablex); a Bangladesh Labaid 'Azilab 500mg' also exists - different company. No official Laborate page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Conflicting manufacturer names",
+   "Same brand used in Bangladesh by another firm"
+  ],
+  "sources_consulted": [
+   "https://m.indiamart.com/city/vapi/azilab.html",
+   "https://labaidgroup.com/pharma/products/view/15"
+  ]
+ },
+ {
+  "sr": 253,
+  "sku": "IMP-0253",
+  "name": "AZISIGN 250MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "250 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Only B2B listings: Bluepill Express/'Dr Precision', 'Signature', Iscon Life Sciences (one is azithromycin+probiotic). No official page.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Conflicting manufacturers",
+   "One variant contains probiotic - confirm composition"
+  ],
+  "sources_consulted": [
+   "https://www.globallinker.com/products/azisign-500-tab-dr-precision-8514835",
+   "https://m.indiamart.com/impcat/azithromycin-lactobacillus-tablet.html"
+  ]
+ },
+ {
+  "sr": 254,
+  "sku": "IMP-0254",
+  "name": "AZISIGN 500MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "500 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Only B2B listings: Bluepill Express/'Dr Precision', 'Signature', Iscon Life Sciences (one is azithromycin+probiotic). No official page.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Conflicting manufacturers",
+   "One variant contains probiotic - confirm composition"
+  ],
+  "sources_consulted": [
+   "https://www.globallinker.com/products/azisign-500-tab-dr-precision-8514835",
+   "https://m.indiamart.com/impcat/azithromycin-lactobacillus-tablet.html"
+  ]
+ },
+ {
+  "sr": 255,
+  "sku": "IMP-0255",
+  "name": "AZITHRAL EYE DROPS 3ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "1% w/v (per retail)",
+  "dosage_form": "EYE DROPS",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Azithral is an Alembic Pharmaceuticals brand (named in Alembic investor presentations), but no official page for the eye drops/ointment found; retail lists both by Alembic.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Form-specific product not confirmed on official page"
+  ],
+  "sources_consulted": [
+   "https://alembicpharmaceuticals.com/webfiles/pdf/Investor/investors_presentations/2024-2025/Q3/Investor-Presentation-December%202024.pdf",
+   "https://www.apollopharmacy.in/medicine/azithral-eye-drops-3ml"
+  ]
+ },
+ {
+  "sr": 256,
+  "sku": "IMP-0256",
+  "name": "AZITHRAL EYE OINT 5GM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": "EYE OINTMENT",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Azithral is an Alembic Pharmaceuticals brand (named in Alembic investor presentations), but no official page for the eye drops/ointment found; retail lists both by Alembic.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Form-specific product not confirmed on official page"
+  ],
+  "sources_consulted": [
+   "https://alembicpharmaceuticals.com/webfiles/pdf/Investor/investors_presentations/2024-2025/Q3/Investor-Presentation-December%202024.pdf",
+   "https://www.apollopharmacy.in/medicine/azithral-eye-drops-3ml"
+  ]
+ },
+ {
+  "sr": 257,
+  "sku": "IMP-0257",
+  "name": "AZITHROMAX 250MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "250 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No source found for 'Azithromax' (not Pfizer's Zithromax). Possible misspelling.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found - check spelling (not Zithromax)"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Azizoom 250\" OR \"Azithromax 250\" azithromycin tablet manufacturer India",
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=azithromax"
+  ]
+ },
+ {
+  "sr": 258,
+  "sku": "IMP-0258",
+  "name": "AZITHROMAX 500MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "500 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No source found for 'Azithromax' (not Pfizer's Zithromax). Possible misspelling.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found - check spelling (not Zithromax)"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Azizoom 250\" OR \"Azithromax 250\" azithromycin tablet manufacturer India",
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=azithromax"
+  ]
+ },
+ {
+  "sr": 259,
+  "sku": "IMP-0259",
+  "name": "AZIZOOM 250MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "250 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "TrueMeds lists Azizoom 250 by Glenmark Pharmaceuticals; IndiaMART lists Healtech Pharma (Greater Noida). Not confirmed on official site.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer/marketer page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Conflicting manufacturers"
+  ],
+  "sources_consulted": [
+   "https://www.truemeds.in/medicine/azizoom-250-mg-tablet-6-tm-tacr1-057396",
+   "https://m.indiamart.com/proddetail/250mg-azizoom-azithromycin-tablets-ip-2855361853773.html?pos=4"
+  ]
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 3123,
+  "name": "VILAFINIL 200MG",
+  "generic": "MODAFINIL",
+  "price": "4.5",
+  "sku": "IMP-3123"
+ },
+ {
+  "sr": 3124,
+  "name": "VILAFINIL TAB.",
+  "generic": "MODAFINIL",
+  "price": "5",
+  "sku": "IMP-3124"
+ },
+ {
+  "sr": 3125,
+  "name": "VILANO 40MG",
+  "generic": "VILAZODONE",
+  "price": "29",
+  "sku": "IMP-3125"
+ },
+ {
+  "sr": 3126,
+  "name": "VILAPAD 20MG",
+  "generic": "VILAZODONE",
+  "price": "11.5",
+  "sku": "IMP-3126"
+ },
+ {
+  "sr": 3127,
+  "name": "VILAPAD 40MG",
+  "generic": "VILAZODONE",
+  "price": "17",
+  "sku": "IMP-3127"
+ },
+ {
+  "sr": 3128,
+  "name": "VILITRA 10MG",
+  "generic": "VARDENAFIL",
+  "price": "3.5",
+  "sku": "IMP-3128"
+ },
+ {
+  "sr": 3129,
+  "name": "VILITRA 20MG",
+  "generic": "VARDENAFIL",
+  "price": "5",
+  "sku": "IMP-3129"
+ },
+ {
+  "sr": 3130,
+  "name": "VILITRA 40MG",
+  "generic": "VARDENAFIL",
+  "price": "10",
+  "sku": "IMP-3130"
+ },
+ {
+  "sr": 3131,
+  "name": "VILITRA 60MG",
+  "generic": "VARDENAFIL",
+  "price": "13.5",
+  "sku": "IMP-3131"
+ },
+ {
+  "sr": 3132,
+  "name": "VILITRA 80MG",
+  "generic": "VARDENAFIL",
+  "price": "17.5",
+  "sku": "IMP-3132"
+ },
+ {
+  "sr": 3133,
+  "name": "VIROASH 25MG",
+  "generic": "MESTEROLONE",
+  "price": "17",
+  "sku": "IMP-3133"
+ },
+ {
+  "sr": 3134,
+  "name": "VIROLFI 450MG",
+  "generic": "VALGANCICLOVIR",
+  "price": "195",
+  "sku": "IMP-3134"
+ },
+ {
+  "sr": 3135,
+  "name": "VIROPACE 25MG",
+  "generic": "MESTEROLONE",
+  "price": "22.5",
+  "sku": "IMP-3135"
+ },
+ {
+  "sr": 3136,
+  "name": "VIROPIL TAB",
+  "generic": "DOLUTEGRAVIR+LAMIVUDINE+TENOFOVIR DISOP",
+  "price": "62",
+  "sku": "IMP-3136"
+ },
+ {
+  "sr": 3137,
+  "name": "VIROVIR 250MG",
+  "generic": "FAMCICLOVIR",
+  "price": "46",
+  "sku": "IMP-3137"
+ },
+ {
+  "sr": 3138,
+  "name": "VIROVIR 500MG",
+  "generic": "FAMCICLOVIR",
+  "price": "95",
+  "sku": "IMP-3138"
+ },
+ {
+  "sr": 3139,
+  "name": "VISIOCARE 5G STERILE",
+  "generic": "CYCLOSPORINE",
+  "price": "260",
+  "sku": "IMP-3139"
+ },
+ {
+  "sr": 3140,
+  "name": "VISIOCARE OINTMENT 5GM",
+  "generic": "CYCLOSPORINE OPTH",
+  "price": "260",
+  "sku": "IMP-3140"
+ },
+ {
+  "sr": 3141,
+  "name": "VITAMIN C INJ 5ML",
+  "generic": "ASCORBIC ACID",
+  "price": "12",
+  "sku": "IMP-3141"
+ },
+ {
+  "sr": 3142,
+  "name": "VITARA V 20MG TAB",
+  "generic": "VARDENAFIL",
+  "price": "5",
+  "sku": "IMP-3142"
+ },
+ {
+  "sr": 3143,
+  "name": "VITARA V 40MG",
+  "generic": "VARDENAFIL",
+  "price": "11",
+  "sku": "IMP-3143"
+ },
+ {
+  "sr": 3144,
+  "name": "VITBION FORTE TAB",
+  "generic": "VITAMIN B12",
+  "price": "1",
+  "sku": "IMP-3144"
+ },
+ {
+  "sr": 3145,
+  "name": "VITCOFOL C INJ",
+  "generic": "COMBIPACK OF VITAMIN B FOLIC ACID & NIACINAMIDE",
+  "price": "16",
+  "sku": "IMP-3145"
+ },
+ {
+  "sr": 3146,
+  "name": "VITCOFOL INJ 10ML",
+  "generic": "CYANOCOBALAMIN- + FOLIC ACID+ NICOTINAMIDE",
+  "price": "80",
+  "sku": "IMP-3146"
+ },
+ {
+  "sr": 3147,
+  "name": "VIVETA CREAM 5GM",
+  "generic": "LIDOCAINE+ TETRACAINE",
+  "price": "155",
+  "sku": "IMP-3147"
+ },
+ {
+  "sr": 3148,
+  "name": "VOLINI SPRAY",
+  "generic": "DICLOFENAC DIETHLAMINE +METHYL SALICYLATE",
+  "price": "95",
+  "sku": "IMP-3148"
+ },
+ {
+  "sr": 3149,
+  "name": "VOLNAPAR GEL",
+  "generic": "DICLOFENAC DIETHLAMINE+SODIUM+MEPHE",
+  "price": "20",
+  "sku": "IMP-3149"
+ },
+ {
+  "sr": 3150,
+  "name": "VOMIKIND MD 4MG",
+  "generic": "ONDANSETRON",
+  "price": "4.25",
+  "sku": "IMP-3150"
+ },
+ {
+  "sr": 3151,
+  "name": "VOMINIL MD TAB",
+  "generic": "ONDANSETRON",
+  "price": "1",
+  "sku": "IMP-3151"
+ },
+ {
+  "sr": 3152,
+  "name": "VOMINORM TAB",
+  "generic": "METOCLOPRAMIDE",
+  "price": "1",
+  "sku": "IMP-3152"
+ },
+ {
+  "sr": 3153,
+  "name": "VOMISTOP 10MG",
+  "generic": "DOMPERIDONE",
+  "price": "1",
+  "sku": "IMP-3153"
+ },
+ {
+  "sr": 3154,
+  "name": "VONOSTRUM 20MG",
+  "generic": "VORICONAZOLE",
+  "price": "8",
+  "sku": "IMP-3154"
+ },
+ {
+  "sr": 3155,
+  "name": "VORICONAZ 200MG INJ",
+  "generic": "VORICONAZOLE",
+  "price": "530",
+  "sku": "IMP-3155"
+ },
+ {
+  "sr": 3156,
+  "name": "VORIJOHN 200MG",
+  "generic": "VORICONAZOLE",
+  "price": "75",
+  "sku": "IMP-3156"
+ },
+ {
+  "sr": 3157,
+  "name": "VORLIJOHN 200MG",
+  "generic": "VORICONAZOLE",
+  "price": "75",
+  "sku": "IMP-3157"
+ },
+ {
+  "sr": 3158,
+  "name": "VORTIKEM 5MG",
+  "generic": "VORTIOXETINE",
+  "price": "3.5",
+  "sku": "IMP-3158"
+ },
+ {
+  "sr": 3159,
+  "name": "VORTISIGN 10MG",
+  "generic": "VORTIOXETINE",
+  "price": "3.5",
+  "sku": "IMP-3159"
+ },
+ {
+  "sr": 3160,
+  "name": "VORTIXET 20MG",
+  "generic": "VORTIOXETINE",
+  "price": "19",
+  "sku": "IMP-3160"
+ },
+ {
+  "sr": 3161,
+  "name": "VORTIXET 5MG",
+  "generic": "VORTIOXETINE",
+  "price": "5.5",
+  "sku": "IMP-3161"
+ },
+ {
+  "sr": 3162,
+  "name": "VOXA 100MG",
+  "generic": "FLUVOXAMINE",
+  "price": "6",
+  "sku": "IMP-3162"
+ },
+ {
+  "sr": 3163,
+  "name": "VOXA 50MG",
+  "generic": "FLUVOXAMINE",
+  "price": "4",
+  "sku": "IMP-3163"
+ },
+ {
+  "sr": 3164,
+  "name": "VOXITIN 5MG",
+  "generic": "VORTIOXETINE",
+  "price": "8",
+  "sku": "IMP-3164"
+ },
+ {
+  "sr": 3165,
+  "name": "VYMATOR 100 MG Tablets",
+  "generic": "SACUBITRIL+ VALSARTAN",
+  "price": "12",
+  "sku": "IMP-3165"
+ },
+ {
+  "sr": 3166,
+  "name": "WAF-5MG TAB",
+  "generic": "WARFARIN",
+  "price": "2.5",
+  "sku": "IMP-3166"
+ },
+ {
+  "sr": 3167,
+  "name": "WAKLERT 150MG",
+  "generic": "ARMODAFINIL",
+  "price": "29",
+  "sku": "IMP-3167"
+ },
+ {
+  "sr": 3168,
+  "name": "WALCOBAL AMP 1500MG 1ML",
+  "generic": "METHYLCOBALAMIN",
+  "price": "10",
+  "sku": "IMP-3168"
+ },
+ {
+  "sr": 3169,
+  "name": "WALCOBAL AMP 2500MG 1ML",
+  "generic": "METHYLCOBALAMIN",
+  "price": "25",
+  "sku": "IMP-3169"
+ },
+ {
+  "sr": 3170,
+  "name": "WELLSTAB",
+  "generic": "TIANEPTINE",
+  "price": "12",
+  "sku": "IMP-3170"
+ },
+ {
+  "sr": 3171,
+  "name": "WELLSTAB ER 37.5MG",
+  "generic": "TIANEPTINE",
+  "price": "37",
+  "sku": "IMP-3171"
+ },
+ {
+  "sr": 3172,
+  "name": "WHOO P 7MG ODS 1BOX",
+  "generic": "",
+  "price": "280",
+  "sku": "IMP-3172"
+ }
+]

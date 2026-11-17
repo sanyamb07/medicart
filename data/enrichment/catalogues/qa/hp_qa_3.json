@@ -1,0 +1,842 @@
+[
+ {
+  "sku": "IMP-0018",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Isotretinoin Capsules IP 40 mg; Accufine 40 mg; 1 x 10 Softgel Capsules",
+  "note": "Brand Accufine, 40 mg, capsule pack render match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0066",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Fexofenadine Hydrochloride Tablets I.P.; Algreat 180mg; Non-Sleepy; 10 Tablets",
+  "note": "Brand, 180mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0100",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Amoxycillin and Potassium Clavulanate Tablets IP 375 mg; Amoxyheal-CV 375; 1 x 10 Tablets",
+  "note": "Brand Amoxyheal-CV, 375 mg, tablets match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0120",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Lisinopril Tablets IP 10mg; Angiotensin-10; 30 x 10 Tablets",
+  "note": "Brand, 10mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0132",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Apixaban Tablets 2.5 mg; Apismart 2.5 mg; 10x10 Tablets",
+  "note": "Brand, 2.5 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0189",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Hydroxyzine Hydrochloride Tablets IP 25 mg; Atarise 25 Tablets; 20 x 15 Tablets",
+  "note": "Brand, 25 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0193",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Atomoxetine Tablets 10 mg; Atomoxet-10; 10 x 10 Tablets",
+  "note": "Brand, 10 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0234",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Azathioprine Tablets IP 50 mg; Azacan 50mg; 10 x 10 Tablets",
+  "note": "Brand, 50 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0241",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Azithromycin Tablets IP 500 mg; AZEETOP-500; 500 mg; 20 x 5 Tablets",
+  "note": "Brand, 500 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0298",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Metoprolol Succinate Extended Release Tablets IP 100 mg; Betablock XL-100; 3 x 10 Tablets",
+  "note": "Brand Betablock XL (row says XL), 100 mg, ER tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0371",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Bupropion Hydrochloride Extended Release Tablets USP 150mg; BUPROBAN-150; 3 X 10 Tablets",
+  "note": "Brand, 150mg, tablet match (ER tablet; row name has no form).",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0447",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Disulfiram Tablets I.P. 250 mg; Carnotol - 250; 20x10 Tablets",
+  "note": "Brand, 250 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0482",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Cefuroxime Axetil Tablets I.P.; Cefubrook 250; 1x10 Tablets",
+  "note": "Brand, 250, tablet match (strength shown as 250 on brand badge).",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0486",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Celecoxib Capsules 200mg; CELEHEAL 200; 10 x 10 Capsules",
+  "note": "Brand, 200mg, capsule match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0531",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Cilnidipine Tablets IP 10 mg; Cilniheal-10; C10; 20 x 10 Tablets",
+  "note": "Brand, 10 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0557",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Clarithromycin Tablets IP 250 mg; Clariface 250; 1x4 Tablets",
+  "note": "Brand, 250 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0616",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Colchicine Tablets IP 0.5mg; Colchiheal 0.5; 10 x 10 Tablets",
+  "note": "Brand, 0.5mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0643",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Losartan Potassium Tablets IP 50mg; COZARTAN-50; 10x10 Tablets",
+  "note": "Brand, 50mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0679",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Misoprostol Tablets IP 200 mcg; Cytoheal 200 mcg; 20 x 10 Tablets",
+  "note": "Strength mismatch: pack is 200 mcg, row name says 200MG. Brand/form match; misoprostol is marketed as 200 mcg so the list name is very likely a unit typo - fix the list to 200MCG and re-check.",
+  "extra_reasons": [
+   "List name strength unit (200MG) disagrees with pack (200 mcg); likely list typo"
+  ]
+ },
+ {
+  "sku": "IMP-0697",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Dapagliflozin Tablets 10 mg; Dapasmart 10 mg; 1 x 10 Tablets",
+  "note": "Brand, 10 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0702",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Dapoxetine Tablets 60 mg; Dapoforce 60; 10 x 10 Tablets",
+  "note": "Brand, 60 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0757",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Diclofenac and Paracetamol Tablet; Dicloheal super; side panel: Each uncoated tablet contains Diclofenac Sodium IP 50mg, Paracetamol IP 325mg; 50 x 10 Tablets",
+  "note": "Brand Dicloheal Super (row says SUPER), tablet; strength 50mg/325mg visible on side panel.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0813",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Duloxetine Gastro-Resistant Tablets IP 20 mg; Dulata-20; 20 x 10 Tablets",
+  "note": "Brand, 20 mg, GR tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0831",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Dutasteride Tablets 0.5 mg; Dutaheal 0.5mg; 10x10 Tablets",
+  "note": "Brand, 0.5 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0904",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Estradiol Valerate 2mg Tablets; Estraheal 2mg; 1 x 28 Tablets",
+  "note": "Brand, 2mg, tablet match.",
+  "extra_reasons": [
+   "Pack composition: Estradiol Valerate 2mg; list says ESTRADIOL"
+  ]
+ },
+ {
+  "sku": "IMP-0982",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Febuxostat Tablets 40 mg; Febutop 40; 3x10 Tablets",
+  "note": "Brand, 40 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1008",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Clomifene Tablets IP 25 mg; FERTOGARD-25; 10 X 10 TABLETS",
+  "note": "Brand, 25 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1054",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Trimetazidine Hydrochloride Extended Release Capsules 80 mg; Flaveheal OD-80; 10 x 10 Capsules",
+  "note": "Dosage form mismatch: pack is capsules, row name says TAB. Brand and 80 mg match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1075",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Fluconazole Tablets I.P.; Fluconaz-150mg; 1 x 4 Tablets",
+  "note": "Brand, 150mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1078",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Fluconazole Tablets I.P.; Fluconaz-50mg; 1X4 Tablets",
+  "note": "Brand, 50mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1097",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Fluoxetine Capsules I.P. 60 mg; Fluxican 60; 10 x 10 Capsules",
+  "note": "Brand, 60 mg, capsule match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1136",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Gabapentin Capsules IP 100mg; GABATOP-100; 3 x 10 Capsules",
+  "note": "Brand, 100mg, capsule match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1139",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "GABAPENTIN TABLETS IP 600mg; GABATOP - 600; 3 x 10 Tablets",
+  "note": "Brand, 600mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1180",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Gliclazide Modified Release Tablets 60mg; Glycitop-MR 60; 10 x 10 Tablets",
+  "note": "Brand Glycitop-MR (row says MR), 60mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1218",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Hydrochlorothiazide 12.5mg Tablets; Hctzide 12.5mg; 10 x 10 Tablets",
+  "note": "Brand, 12.5mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1232",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Ginseng, Multivitamin & Multimineral Soft Gelatin Capsules; HEALVITAL; 1x10 Softgels",
+  "note": "Brand and capsule form match, but strength not visible (no strength/composition amounts on pack). Rejected per brief rule; lead may override since a multivitamin has no single strength.",
+  "extra_reasons": [
+   "Pack composition: Ginseng, Multivitamin & Multimineral; list says MULTIVITAMIN  & MULTIMINERALS"
+  ]
+ },
+ {
+  "sku": "IMP-1247",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Sildenafil Citrate Tablets 200 mg; HIFORCE-200; 10 x 10 Tablets",
+  "note": "Brand, 200 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1269",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Hydroxychloroquine Sulfate Tablet I.P.; Hqcheal 200; 10 x 10 Tablet",
+  "note": "Brand, 200 (on brand badge), tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1306",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Cyclosporine Capsules 100 mg; Immunosporin 100; 1 x 10 Capsules",
+  "note": "Brand, 100 mg, capsule match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1349",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Ivabradine Tablets 7.5mg; Ivasmart 7.5mg; 10 x 10 tablets",
+  "note": "Brand, 7.5mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1451",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Ketoconazole Tablets I.P.; Ketoforce 200; 10 x 10 Tablets",
+  "note": "Brand, 200 (brand badge), tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1494",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Lamotrigine Dispersible Tablets I.P. 100 mg; Lamotrig-DT 100mg; 10 x 10 Tablets",
+  "note": "Brand Lamotrig-DT (row says DT), 100 mg, dispersible tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1511",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Low Dose Naltrexone 4.5; Naltrexone HCL Capsules 4.5 mg; LDN; 30 Capsules Immediate Release",
+  "note": "Brand LDN (Low Dose Naltrexone), 4.5 mg, capsule match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1542",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Levofloxacin Tablets I.P. 250 mg; Levoheal 250; 10 x 10 Tablet",
+  "note": "Brand, 250 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1549",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Escitalopram Tablets IP 20 mg; Lexaheal-20 Tablet; 20 X 10 Tablets",
+  "note": "Brand, 20 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1565",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Atorvastatin Tablets IP 20 mg; Lipidator 20 Tablets; 3x10 Tablets",
+  "note": "Brand, 20 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1616",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Luliconazole Cream; Luliconaz; 20 g (tube and carton)",
+  "note": "Brand, cream form and 20 g pack size match, but no drug concentration (e.g. 1% w/w) is shown anywhere on tube or carton - strength not visible. Rejected per brief rule; lead may override since the row name gives only pack size (20GM), which matches.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1720",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Methotrexate Tablets IP 5 mg; Methotrex 5; 10x10 Tablets",
+  "note": "Brand, 5 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1784",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Minoxidil Tablets IP 2.5 mg; Minoxytop 2.5; 5x10 Tablets",
+  "note": "Brand, 2.5 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1811",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Modafinil Tablets USP 200mg; MODAHEAL 200; 10 x 10 Tablets",
+  "note": "Brand, 200mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1872",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Methylprednisolone Tablets IP 4 mg; MPHEAL-4; 10 x 10 Tablets",
+  "note": "Brand, 4 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1885",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Mupirocin Ointment IP 2%w/w; Mupiheal; 5g (tube and carton)",
+  "note": "Brand, ointment form, 2% w/w and 5g pack match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1918",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Naproxen Tablets 500 mg; Naproheal 500 mg; 10 x 15 Tablets",
+  "note": "Brand, 500 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2043",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Olmesartan Medoxomil Tablets IP 20mg; OLMEHEAL 20; 10 X 15 TABLETS",
+  "note": "Brand, 20mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2070",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Ondansetron Orally Disintegrating Tablets IP; Ondaheal MD 4; Strawberry Flavour; 10 x 10 Tablets",
+  "note": "Brand Ondaheal MD (row says MD), 4 (badge), orally disintegrating tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2149",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Permethrin 5%w/w Cream; Permiforce Cream 5%; 30g (tube and carton)",
+  "note": "Brand, cream form, 5% w/w, 30g pack match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2215",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Prednisolone Tablets IP 10mg; Predniheal 10mg; 50X10 Tablets",
+  "note": "Brand, 10mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2218",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Prednisolone Tablets IP 5mg; Predniheal 5mg; 50X10 Tablets",
+  "note": "Brand, 5mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2243",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Pregabalin Capsules IP 50mg; PREGARICA 50; 10 x 10 Capsules",
+  "note": "Brand, 50mg, capsule match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2325",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Raloxifene Hydrochloride Tablets IP 60 mg; Raloxiheal; 60 mg; 10x10 Tablets",
+  "note": "Brand, 60 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2387",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Rifaximin Tablets 400mg; Rifaxiheal 400; 1 x 10 Tablets",
+  "note": "Brand, 400mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2398",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Rivaroxaban Tablets 20 mg; Rivasmart 20MG; 10 x 14 Tablets",
+  "note": "Brand, 20 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2420",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Rosuvastatin Calcium IP 10 mg Tablets; ROSUFREE 10; 10 mg; 10 x 10 Tablets",
+  "note": "Brand, 10 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2423",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Rosuvastatin Tablets IP; Rosufree 5; 5 mg; 10 x 10 Tablets",
+  "note": "Brand, 5 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2443",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Allium Cepa Extract, Heparin Sodium & Allantoin Gel; Scarheal Gel; 15g (tube and carton)",
+  "note": "Brand and gel form match, but no ingredient strengths/concentrations are visible on tube or carton - strength not visible. Rejected per brief rule; lead may override (row name has no strength either).",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2456",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Quetiapine Fumarate Tablets I.P. 50 mg; Seroquit-50mg; 10 X 10 Tablets",
+  "note": "Brand, 50 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2521",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Sitagliptin Phosphate Tablets IP 100 mg; Sitasmart-100; 100 mg; 3x10 Tablets",
+  "note": "Brand, 100 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2546",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Orlistat Capsules USP 60mg; Slimtop 60; 3 x 10 Capsules",
+  "note": "Brand, 60mg, capsule match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2609",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Sumatriptan Tablets BP 100mg; SUMITOP-100; 3 x 10 Tablets",
+  "note": "Brand, 100mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2612",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Cholecalciferol Capsules USP; SUNFORCE D3 60K; 1 Blister Strip of 8 Capsules",
+  "note": "Brand Sunforce D3, 60K (IU), capsule match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2632",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Verdenafil & Dapoxetine Tablets; Super Varditra; 10 x 10 Tablets",
+  "note": "Brand and tablet form match, but no strength shown on the pack - strength not visible. Composition also differs from the list (see extra reason).",
+  "extra_reasons": [
+   "Pack composition: Vardenafil (printed 'Verdenafil') & Dapoxetine; list says TADALAFIL & DAPOXETINE"
+  ]
+ },
+ {
+  "sku": "IMP-2720",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Tamoxifen Tablets 20 mg; Tamoxican 20; 10 x 10 Tablets",
+  "note": "Brand, 20 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2754",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Tadalafil Tablets IP 10 mg; Tastylia 10; 10 x 10 Tablets",
+  "note": "Brand, 10 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2758",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Tadalafil Tablets IP 5 mg; Tastylia 5; 10 x 10 Tablets",
+  "note": "Brand, 5 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2798",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Terbinafine Tablets USP 250mg; TERBIFACE 250; 1 x 7 Tablets",
+  "note": "Brand, 250mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2932",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Topiramate Tablets IP; Topaheal-100; 10 x 10 Tablets",
+  "note": "Brand, 100 (brand suffix), tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2942",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Tranexamic Acid Tablets; Tranexaheal 500; 10 x 10 Tablets",
+  "note": "Brand, 500 (badge), tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-3015",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Amitriptyline Hydrochloride Tablets I.P.; Tryptican 10; 10 x 10 Tablets",
+  "note": "Brand, 10 (badge), tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-3034",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Nitrofurantoin Capsules USP 100 mg; URIHEAL 100; 10x10 Capsules",
+  "note": "Brand, 100 mg match. Row name has no form; pack is capsules.",
+  "extra_reasons": [
+   "List generic misspelt NITROFURANTION (pack: Nitrofurantoin)"
+  ]
+ },
+ {
+  "sku": "IMP-3051",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Valacyclovir Tablets USP 500mg; Valclovir-500; 10 Tablets",
+  "note": "Brand, 500mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-3065",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Vardenafil Tablets 40 mg; Varditra 40; 10 x 10 Tablets",
+  "note": "Brand, 40 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-3280",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Acyclovir Tablets IP 400mg; ZOVICLOVIR 400; 3 X 10 Tablets",
+  "note": "Brand, 400mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-3300",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Linezolid Tablets I.P. 600mg; Zyzolide 600; 1 x 10 Tablets",
+  "note": "Brand, 600mg, tablet match.",
+  "extra_reasons": []
+ }
+]

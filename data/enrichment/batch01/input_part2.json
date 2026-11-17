@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 51,
+  "name": "AGEFINE CREAM",
+  "generic": "L-GLUTATHIONE",
+  "price": "175",
+  "sku": "IMP-0051"
+ },
+ {
+  "sr": 52,
+  "name": "AGEFINE FORTE TAB",
+  "generic": "ALPHA LIPOIC ACID + L GLUTATHIONE + VITAMIN",
+  "price": "26",
+  "sku": "IMP-0052"
+ },
+ {
+  "sr": 53,
+  "name": "AGOPREX TAB",
+  "generic": "AGOMELATINE",
+  "price": "13.5",
+  "sku": "IMP-0053"
+ },
+ {
+  "sr": 54,
+  "name": "AGROLID 600MG",
+  "generic": "LINEZOLID",
+  "price": "14",
+  "sku": "IMP-0054"
+ },
+ {
+  "sr": 55,
+  "name": "ALAFEVIR EM TAB",
+  "generic": "EMTRICITABINE + TENOFOVIR ALAFENAMIDE",
+  "price": "26",
+  "sku": "IMP-0055"
+ },
+ {
+  "sr": 56,
+  "name": "ALBA THROW 400MG",
+  "generic": "ALBENDAZOLE",
+  "price": "3",
+  "sku": "IMP-0056"
+ },
+ {
+  "sr": 57,
+  "name": "ALBA THROW PLUS",
+  "generic": "ALBENDAZOLE+ IVERMECTIN",
+  "price": "3.5",
+  "sku": "IMP-0057"
+ },
+ {
+  "sr": 58,
+  "name": "ALBUREL OS 20% 100ML",
+  "generic": "HUMAN ALBUMIN",
+  "price": "5910",
+  "sku": "IMP-0058"
+ },
+ {
+  "sr": 59,
+  "name": "ALCAREX EYE DROP 5ML",
+  "generic": "ALCAFTADINE",
+  "price": "230",
+  "sku": "IMP-0059"
+ },
+ {
+  "sr": 60,
+  "name": "ALCINAC SR TAB",
+  "generic": "ACECLOFENAC SUSTAINED RELEASE",
+  "price": "1.5",
+  "sku": "IMP-0060"
+ },
+ {
+  "sr": 61,
+  "name": "ALDACTONE 25MG",
+  "generic": "SPIRONOLACTONE",
+  "price": "2.5",
+  "sku": "IMP-0061"
+ },
+ {
+  "sr": 62,
+  "name": "ALDIGESIC TH TAB",
+  "generic": "ACECLOFENAC + PARACETAMOL  + THIOCOLCHICOSIDE",
+  "price": "7.5",
+  "sku": "IMP-0062"
+ },
+ {
+  "sr": 63,
+  "name": "ALDOL 400MG",
+  "generic": "ALBENDAZOLE",
+  "price": "3",
+  "sku": "IMP-0063"
+ },
+ {
+  "sr": 64,
+  "name": "ALENDEOS 70MG",
+  "generic": "ALENDRONATE SODIUM",
+  "price": "11.5",
+  "sku": "IMP-0064"
+ },
+ {
+  "sr": 65,
+  "name": "ALFUZZ 10MG",
+  "generic": "ALFUZOSIN HCL",
+  "price": "3.75",
+  "sku": "IMP-0065"
+ },
+ {
+  "sr": 66,
+  "name": "ALGREAT 180MG TAB",
+  "generic": "FEXOFENADINE HYDROCHLORIDE",
+  "price": "4",
+  "sku": "IMP-0066"
+ },
+ {
+  "sr": 67,
+  "name": "ALLEGRA 120MG",
+  "generic": "FEXOFENADINE",
+  "price": "22",
+  "sku": "IMP-0067"
+ },
+ {
+  "sr": 68,
+  "name": "ALLOFINE 100MG",
+  "generic": "ALLOPURINOL",
+  "price": "1.5",
+  "sku": "IMP-0068"
+ },
+ {
+  "sr": 69,
+  "name": "ALLOFINE 300MG",
+  "generic": "ALLOPURINOL",
+  "price": "3.5",
+  "sku": "IMP-0069"
+ },
+ {
+  "sr": 70,
+  "name": "ALMOX 250MG",
+  "generic": "AMOXYCILLIN",
+  "price": "2",
+  "sku": "IMP-0070"
+ },
+ {
+  "sr": 71,
+  "name": "ALMOX 500MG",
+  "generic": "AMOXYCILLIN",
+  "price": "3.5",
+  "sku": "IMP-0071"
+ },
+ {
+  "sr": 72,
+  "name": "ALMOX CV 625MG",
+  "generic": "AMOXYCILLIN",
+  "price": "7.5",
+  "sku": "IMP-0072"
+ },
+ {
+  "sr": 73,
+  "name": "ALMOX DRY 30ML SYP",
+  "generic": "AMOXYCILLIN",
+  "price": "20",
+  "sku": "IMP-0073"
+ },
+ {
+  "sr": 74,
+  "name": "ALMOX DT 125MG",
+  "generic": "AMOXYCILLIN",
+  "price": "2",
+  "sku": "IMP-0074"
+ },
+ {
+  "sr": 75,
+  "name": "ALOJA 25MG",
+  "generic": "ALOGLIPTIN",
+  "price": "12",
+  "sku": "IMP-0075"
+ },
+ {
+  "sr": 76,
+  "name": "AMANTEX 100MG",
+  "generic": "AMANTADINE",
+  "price": "13",
+  "sku": "IMP-0076"
+ },
+ {
+  "sr": 77,
+  "name": "AMANTREL",
+  "generic": "AMANTADINE",
+  "price": "13.5",
+  "sku": "IMP-0077"
+ },
+ {
+  "sr": 78,
+  "name": "AMDATIME 100MG",
+  "generic": "AMANTADINE",
+  "price": "7.5",
+  "sku": "IMP-0078"
+ },
+ {
+  "sr": 79,
+  "name": "AMDRON 200 TAB",
+  "generic": "AMIODARONE",
+  "price": "6",
+  "sku": "IMP-0079"
+ },
+ {
+  "sr": 80,
+  "name": "AMEE 500MG INJ 2ML",
+  "generic": "AMIKACIN",
+  "price": "30",
+  "sku": "IMP-0080"
+ },
+ {
+  "sr": 81,
+  "name": "AMERICAN STERILE WATER FOR INJ 10ML",
+  "generic": "STERILE WATER",
+  "price": "4",
+  "sku": "IMP-0081"
+ },
+ {
+  "sr": 82,
+  "name": "AMERICANO MLV INJ",
+  "generic": "MULTIVITAMIN",
+  "price": "15",
+  "sku": "IMP-0082"
+ },
+ {
+  "sr": 83,
+  "name": "AMERICANO SR WATER FOR 15ML",
+  "generic": "STERILE WATER",
+  "price": "4",
+  "sku": "IMP-0083"
+ },
+ {
+  "sr": 84,
+  "name": "AMITONE 75MG",
+  "generic": "AMITRIPTYLINE HCL",
+  "price": "4",
+  "sku": "IMP-0084"
+ },
+ {
+  "sr": 85,
+  "name": "AMLIP 10MG",
+  "generic": "AMLODIPINE BESILATE",
+  "price": "1.5",
+  "sku": "IMP-0085"
+ },
+ {
+  "sr": 86,
+  "name": "AMLIP 2.5MG",
+  "generic": "AMLODIPINE BESILATE",
+  "price": "1",
+  "sku": "IMP-0086"
+ },
+ {
+  "sr": 87,
+  "name": "AMLIP 5MG",
+  "generic": "AMLODIPINE BESILATE",
+  "price": "1",
+  "sku": "IMP-0087"
+ },
+ {
+  "sr": 88,
+  "name": "AMLOHEAL 10MG",
+  "generic": "AMLODIPINE",
+  "price": "1",
+  "sku": "IMP-0088"
+ },
+ {
+  "sr": 89,
+  "name": "AMLOHEAL 5MG",
+  "generic": "AMLODIPINE",
+  "price": "0.5",
+  "sku": "IMP-0089"
+ },
+ {
+  "sr": 90,
+  "name": "AMLOHEAL AT",
+  "generic": "AMLODIPINE+ ATENOLOL",
+  "price": "1",
+  "sku": "IMP-0090"
+ },
+ {
+  "sr": 91,
+  "name": "AMLPI 10MG",
+  "generic": "AMLODIPINE",
+  "price": "1.5",
+  "sku": "IMP-0091"
+ },
+ {
+  "sr": 92,
+  "name": "AMOTIC MD 4MG",
+  "generic": "ONDANSETRON",
+  "price": "1",
+  "sku": "IMP-0092"
+ },
+ {
+  "sr": 93,
+  "name": "AMOXIPAN 250MG",
+  "generic": "AMOXYCILLIN TRIHYDRATE",
+  "price": "2",
+  "sku": "IMP-0093"
+ },
+ {
+  "sr": 94,
+  "name": "AMOXYCLAV 1GM",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "13.5",
+  "sku": "IMP-0094"
+ },
+ {
+  "sr": 95,
+  "name": "AMOXYCLAV 375MG",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "8",
+  "sku": "IMP-0095"
+ },
+ {
+  "sr": 96,
+  "name": "AMOXYCLAV 625MG",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "10",
+  "sku": "IMP-0096"
+ },
+ {
+  "sr": 97,
+  "name": "AMOXYCLAV DRY SYP 30ML",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "40",
+  "sku": "IMP-0097"
+ },
+ {
+  "sr": 98,
+  "name": "AMOXYCLAV DRY SYRP 30ML",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "40",
+  "sku": "IMP-0098"
+ },
+ {
+  "sr": 99,
+  "name": "AMOXYHEAL CV 1000MG",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "12",
+  "sku": "IMP-0099"
+ },
+ {
+  "sr": 100,
+  "name": "AMOXYHEAL CV 375MG",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "8",
+  "sku": "IMP-0100"
+ }
+]

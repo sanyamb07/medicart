@@ -1,0 +1,796 @@
+{
+ "_note": "Judgement-based findings by the Medicine Data Auditor (T1). Merged by data/tools/audit_source.py. 'confirmed' = official manufacturer/marketer source checked; 'suspected' = inference from name/strength/form/siblings, no official source found. Retail pharmacy sites were NOT used as evidence.",
+ "flags": {
+  "167": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: brand stem SILDA- (cf. SILDAMAX 100MG sr 2494 = SILDENAFIL) but generic says ARTEMISININ; true composition probably sildenafil — needs pharmacist check",
+    "evidence_url": null
+   }
+  ],
+  "2496": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: generic column holds another product's name ('SIGNACAFE CLASSIC ORAL POWDER', = sr 2480). Sibling rows SILDIGRA 50/250MG are SILDENAFIL; probably sildenafil 100mg",
+    "evidence_url": null
+   }
+  ],
+  "300": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "confirmed: Healing Pharma lists Betablock XL 50mg (SKU HP0074) as 'Metoprolol succinate (ER)'; source generic MONOBENZONE CREAM is wrong (sibling sr 298/299 correct)",
+    "evidence_url": "https://www.healingpharma.in/product/betablock-xl-50/"
+   }
+  ],
+  "1276": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "confirmed: Humalog is insulin lispro (Eli Lilly label); the name itself says LISPRO. Listed generic CHORIONIC GONADOTROPHIN is wrong",
+    "evidence_url": "https://uspl.lilly.com/humalog/humalog.html"
+   }
+  ],
+  "1092": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "confirmed wrong: Healing Pharma lists Flutiheal AZ Nasal Spray (SKU HP0239) in category 'Anti Allergic' — not fluoxetine (an oral SSRI, no nasal form). Official page does not state the composition; probably azelastine + fluticasone (cf. FLOSOOTH AZ sr 1068) = suspected",
+    "evidence_url": "https://www.healingpharma.in/product/flutiheal-az-nasal-spray/"
+   }
+  ],
+  "2047": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: OLMO stem = olmesartan (sibling OLMO H TAB sr 2048 = olmesartan + HCTZ; 40MG is an olmesartan strength); listed OFLOXACIN",
+    "evidence_url": null
+   }
+  ],
+  "728": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: DECMAX 8MG (sr 729) is DEXAMETHASONE and 4MG is a dexamethasone strength; nandrolone is never a 4mg tablet. Listed NANDROLONE",
+    "evidence_url": null
+   }
+  ],
+  "1832": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: Momate (Glenmark) is mometasone furoate 0.1% cream; listed MEMANTINE (oral only). No official Glenmark page found in 3 searches",
+    "evidence_url": null
+   }
+  ],
+  "1833": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "confirmed wrong: Healing Pharma lists Momenta 10 (SKU HP0482) under 'Psychotropic' — not mometasone (a topical/nasal steroid; no 10mg tablet). Composition not stated on the page; memantine is suspected",
+    "evidence_url": "https://www.healingpharma.in/product/momenta-10/"
+   }
+  ],
+  "3040": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: lubricant eye drop (probably carboxymethylcellulose) listed as CHLOROQUINE, which has no ophthalmic form; no manufacturer page found",
+    "evidence_url": null
+   }
+  ],
+  "174": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: a 100MCG metered inhaler cannot be ascorbic acid; true composition unknown",
+    "evidence_url": null
+   }
+  ],
+  "2561": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: Sorbitrate (Abbott) is isosorbide dinitrate 5mg; listed SOTALOL. Only retail listings found, no official Abbott page",
+    "evidence_url": null
+   }
+  ],
+  "204": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: 1ML injection at Rs 3 named ATRO- (atropine?) listed as oral amoxicillin-clavulanate",
+    "evidence_url": null
+   }
+  ],
+  "401": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: CADCORT 100MG INJ — -CORT stem and 100mg strength fit hydrocortisone injection; listed LIDOCAINE",
+    "evidence_url": null
+   }
+  ],
+  "1536": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: 750MG is a levetiracetam strength (levocetirizine is 5mg); listed LEVOCETIRIZINE",
+    "evidence_url": null
+   }
+  ],
+  "3064": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: VARDE- stem and 20MG fit vardenafil (varenicline is 0.5/1mg); listed VARENICLINE",
+    "evidence_url": null
+   }
+  ],
+  "3063": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: varenicline is never 250MG; true composition unknown (price Rs 140)",
+    "evidence_url": null
+   }
+  ],
+  "1736": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: METOTRIP 3MG/5MG (sr 1737/1738) are MELATONIN; 20MG is a melatonin strength (cf. SLEEPOSE 20MG) but not a standard metoprolol strength; listed METOPROLOL",
+    "evidence_url": null
+   }
+  ],
+  "2842": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: TESTOBOON PP 100MG 1ML/10ML (sr 2839-2841) are TESTOSTERONE PROPIONATE; this 20ML pack is listed as UNDECANOATE",
+    "evidence_url": null
+   }
+  ],
+  "759": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: injection listed as 'DICLOFENAC GEL' — form contradiction; probably diclofenac sodium injection",
+    "evidence_url": null
+   }
+  ],
+  "760": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: tablet listed as 'DICLOFENAC GEL'; PLUS usually = diclofenac + paracetamol; true composition unknown",
+    "evidence_url": null
+   }
+  ],
+  "1301": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: generic-named product IBUPROFEN 400MG listed as IBUPROFEN AND PARACETAMOL",
+    "evidence_url": null
+   }
+  ],
+  "137": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: brand 'APPLE ASH 450MG' gives no link to chloramphenicol and 450mg is not a usual chloramphenicol strength (250/500mg); true composition unknown",
+    "evidence_url": null
+   }
+  ],
+  "1639": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: MACPLATIN name suggests a platinum drug (carboplatin brand name); listed CYPROHEPTADINE; true composition unknown",
+    "evidence_url": null
+   }
+  ],
+  "109": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: 'Anabol' is a historic methandienone (anabolic steroid) brand; listed ANASTROZOLE with no strength. If methandienone, regulatory group is anabolic_steroid_or_ped",
+    "evidence_url": null
+   }
+  ],
+  "2333": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "low",
+    "detail": "suspected: generic is a misspelling of PROPRANOLOL; 20MG fits propranolol, but the RANOL stem could suggest ranolazine (500mg+) — probably propranolol",
+    "evidence_url": null
+   }
+  ],
+  "1727": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "low",
+    "detail": "suspected (lead's list): METODER 50MG listed METOPROLOL is plausible (METODER XL 50MG sr 1729 = metoprolol succinate); no contrary evidence found — needs a pack check only",
+    "evidence_url": null
+   }
+  ],
+  "1728": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "low",
+    "detail": "suspected (lead's list): see sr 1727; same product with a different price (1.5 vs 1)",
+    "evidence_url": null
+   }
+  ],
+  "350": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: 2.5MG product (no form) listed as BIMATOPROST (ophthalmic 0.01-0.03% only); BROMO- stem and 2.5mg fit bromocriptine",
+    "evidence_url": null
+   }
+  ],
+  "519": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: CETCIP 10MG listed CETILISTAT (60/120mg only); 10mg and CET- fit cetirizine",
+    "evidence_url": null
+   }
+  ],
+  "520": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: CETIGAL 120MG listed CITALOPRAM (max 40mg); 120MG fits cetilistat (cf. ORLIGAL/SLIMGAL 120MG orlistat)",
+    "evidence_url": null
+   }
+  ],
+  "768": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: DINOGEST = dienogest (cf. TELAGEST 2MG sr 2765); listed DIENOESTROL is a different molecule",
+    "evidence_url": null
+   }
+  ],
+  "1534": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: LEUCORIN 15MG at Rs 17 listed LEUPROLIDE ACETATE (depot injection only); 15mg tablet fits leucovorin (folinic acid)",
+    "evidence_url": null
+   }
+  ],
+  "1753": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: MICOGEL name suggests miconazole; listed METRONIDAZOLE",
+    "evidence_url": null
+   }
+  ],
+  "1767": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: oral minoxidil is 2.5-10mg; MINOSIGN 100MG fits minocycline",
+    "evidence_url": null
+   }
+  ],
+  "1768": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: oral minoxidil is 2.5-10mg; MINOSIGN 50MG fits minocycline",
+    "evidence_url": null
+   }
+  ],
+  "1877": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: Mucolite (Dr Reddy's) is ambroxol (sibling MUCOLITE SR sr 1876 = AMBROXOL); listed ACETYLCYSTEINE. No official page found",
+    "evidence_url": null
+   }
+  ],
+  "1991": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: 100MG nitroglycerin does not exist (oral GTN 2.6/6.4mg); 100MG fits nitrofurantoin",
+    "evidence_url": null
+   }
+  ],
+  "2003": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: no topical tapentadol product is known; gel listed as TAPENTADOL",
+    "evidence_url": null
+   }
+  ],
+  "2743": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: nasal spray listed as TAPENTADOL (oral-only opioid); composition unverified",
+    "evidence_url": null
+   }
+  ],
+  "2744": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: nasal spray (NS) listed as TAPENTADOL (oral-only opioid); composition unverified",
+    "evidence_url": null
+   }
+  ],
+  "2750": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: nasal spray listed as TAPENTADOL (oral-only opioid); composition unverified",
+    "evidence_url": null
+   }
+  ],
+  "2053": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "low",
+    "detail": "suspected: OLZ- stem suggests olanzapine (20MG is an olanzapine strength); listed OMEPRAZOLE",
+    "evidence_url": null
+   }
+  ],
+  "2092": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: alendronate is 35/70mg; OSTALMIV 75MG fits oseltamivir 75mg",
+    "evidence_url": null
+   }
+  ],
+  "2350": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "low",
+    "detail": "suspected: REFAAGUT 550MG (sr 2351) is plain RIFAXIMIN; 400MG listed as RIFAXIMIN + METRONIDAZOLE",
+    "evidence_url": null
+   }
+  ],
+  "2482": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: name says TRANEXAMIC ACID 30ML, generic says VITAMIN C",
+    "evidence_url": null
+   }
+  ],
+  "2591": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: anastrozole is only 1mg; STROSUN 500MG cannot be anastrozole; true composition unknown",
+    "evidence_url": null
+   }
+  ],
+  "2632": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: VARDITRA 40/60MG (sr 3065/3066) is VARDENAFIL; SUPER VARDITRA listed TADALAFIL & DAPOXETINE (expected vardenafil + dapoxetine)",
+    "evidence_url": null
+   }
+  ],
+  "3154": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "high",
+    "detail": "suspected: voriconazole has no 20mg tablet; VONO- stem and 20MG fit vonoprazan (cf. MONOVONO 20MG, LUPIVON 20MG)",
+    "evidence_url": null
+   }
+  ],
+  "2823": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "medium",
+    "detail": "suspected: 'MIX' blend listed as single ester TESTOSTERONE PROPIONATE",
+    "evidence_url": null
+   }
+  ],
+  "2011": [
+   {
+    "code": "suspected_wrong_generic",
+    "severity": "low",
+    "detail": "suspected: NOR- stem suggests nortriptyline; listed AMITRIPTYLINE (both 25mg)",
+    "evidence_url": null
+   }
+  ],
+  "1788": [
+   {
+    "code": "incomplete_generic",
+    "severity": "medium",
+    "detail": "confirmed: Healing Pharma lists Minoxytop F 5% as 'Minoxidil 5% & Finasteride 0.1% Topical Solution'; source lists MINOXIDIL only (cf. sr 1787)",
+    "evidence_url": "https://www.healingpharma.in/product/minoxytop-f-5-2/"
+   }
+  ],
+  "72": [
+   {
+    "code": "incomplete_generic",
+    "severity": "medium",
+    "detail": "CV 625MG = amoxicillin + clavulanate; generic lists AMOXYCILLIN only",
+    "evidence_url": null
+   }
+  ],
+  "1404": [
+   {
+    "code": "incomplete_generic",
+    "severity": "medium",
+    "detail": "CLAV 1000MG DUO = amoxicillin + clavulanate; generic lists AMOXYCILLIN only",
+    "evidence_url": null
+   }
+  ],
+  "365": [
+   {
+    "code": "incomplete_generic",
+    "severity": "medium",
+    "detail": "BUDENOL F inhaler: 'F' normally = formoterol; generic lists BUDESONIDE only",
+    "evidence_url": null
+   }
+  ],
+  "628": [
+   {
+    "code": "incomplete_generic",
+    "severity": "medium",
+    "detail": "'H' variant normally = + hydrochlorothiazide; generic lists LOSARTAN only",
+    "evidence_url": null
+   }
+  ],
+  "644": [
+   {
+    "code": "incomplete_generic",
+    "severity": "medium",
+    "detail": "'H' variant; generic 'LOSARTAN POTASSIUM hcl' — HCTZ probably intended",
+    "evidence_url": null
+   }
+  ],
+  "771": [
+   {
+    "code": "incomplete_generic",
+    "severity": "medium",
+    "detail": "'H' variant normally = + hydrochlorothiazide; generic lists VALSARTAN only",
+    "evidence_url": null
+   }
+  ],
+  "3062": [
+   {
+    "code": "incomplete_generic",
+    "severity": "medium",
+    "detail": "'H' variant normally = + hydrochlorothiazide; generic lists VALSARTAN only",
+    "evidence_url": null
+   }
+  ],
+  "2910": [
+   {
+    "code": "incomplete_generic",
+    "severity": "medium",
+    "detail": "generic 'TELMISARTAN+HCL' — 'HCL' probably means hydrochlorothiazide (TLS H)",
+    "evidence_url": null
+   }
+  ],
+  "1335": [
+   {
+    "code": "incomplete_generic",
+    "severity": "medium",
+    "detail": "50/1000MG = sitagliptin + metformin; generic lists SITAGLIPTIN only",
+    "evidence_url": null
+   }
+  ],
+  "1391": [
+   {
+    "code": "strength_mismatch",
+    "severity": "medium",
+    "detail": "name says 50/1000MG but generic text says '50/500 MG'",
+    "evidence_url": null
+   }
+  ],
+  "2202": [
+   {
+    "code": "name_typo",
+    "severity": "low",
+    "detail": "'O.375MG' uses letter O; strength is 0.375MG",
+    "evidence_url": null
+   }
+  ],
+  "2074": [
+   {
+    "code": "name_typo",
+    "severity": "low",
+    "detail": "'8MD' — probably 8MG MD (mouth dissolving)",
+    "evidence_url": null
+   }
+  ],
+  "205": [
+   {
+    "code": "name_typo",
+    "severity": "low",
+    "detail": "'AUGEMENTIN' — Augmentin misspelt",
+    "evidence_url": null
+   }
+  ],
+  "1004": [
+   {
+    "code": "strength_unit_suspect",
+    "severity": "medium",
+    "detail": "'100000' IU hCG — probably 10000 IU (cf. sr 1005/1006)",
+    "evidence_url": null
+   }
+  ],
+  "2153": [
+   {
+    "code": "strength_unit_suspect",
+    "severity": "low",
+    "detail": "'15MG' gel pack — probably 15GM",
+    "evidence_url": null
+   }
+  ],
+  "2194": [
+   {
+    "code": "strength_unit_suspect",
+    "severity": "medium",
+    "detail": "'30GM' dapoxetine — probably 30MG",
+    "evidence_url": null
+   }
+  ],
+  "2282": [
+   {
+    "code": "strength_unit_suspect",
+    "severity": "medium",
+    "detail": "alprostadil 500MG injection — probably 500MCG",
+    "evidence_url": null
+   }
+  ],
+  "2477": [
+   {
+    "code": "strength_unit_suspect",
+    "severity": "medium",
+    "detail": "levothyroxine+liothyronine '47MG' — microgram product",
+    "evidence_url": null
+   }
+  ],
+  "2478": [
+   {
+    "code": "strength_unit_suspect",
+    "severity": "medium",
+    "detail": "levothyroxine+liothyronine '70MG' — microgram product",
+    "evidence_url": null
+   }
+  ],
+  "649": [
+   {
+    "code": "strength_unit_suspect",
+    "severity": "low",
+    "detail": "pancreatin '10000MG' — lipase units, not mg",
+    "evidence_url": null
+   }
+  ],
+  "1227": [
+   {
+    "code": "strength_unit_suspect",
+    "severity": "medium",
+    "detail": "confirmed: Healing Pharma lists Healtroxin in mcg (12.5-150mcg); source says MG",
+    "evidence_url": "https://www.healingpharma.in/"
+   }
+  ],
+  "1841": [
+   {
+    "code": "strength_unit_suspect",
+    "severity": "low",
+    "detail": "levonorgestrel '150MG' — not a known strength (0.15mg/1.5mg)",
+    "evidence_url": null
+   }
+  ],
+  "2539": [
+   {
+    "code": "needs_pharmacist_check",
+    "severity": "low",
+    "detail": "SLEPICKA (sleep-sounding brand) listed as POTASSIUM IODIDE 30/65MG — plausible (KI tablets) but unusual",
+    "evidence_url": null
+   }
+  ],
+  "2359": [
+   {
+    "code": "price_outlier",
+    "severity": "medium",
+    "detail": "testosterone mix vial at Rs 2 (similar injectables Rs 65-850)",
+    "evidence_url": null
+   }
+  ],
+  "2527": [
+   {
+    "code": "price_outlier",
+    "severity": "low",
+    "detail": "SKIN FINE ISO 10MG Rs 25 vs 20MG Rs 3.5 — one of the two prices is probably wrong",
+    "evidence_url": null
+   }
+  ],
+  "2404": [
+   {
+    "code": "price_outlier",
+    "severity": "low",
+    "detail": "ROCKBON PTH '750MCG NEEDL' Rs 7 vs PEN Rs 5050 — this row is probably pen needles, not teriparatide",
+    "evidence_url": null
+   }
+  ],
+  "2481": [
+   {
+    "code": "missing_generic",
+    "severity": "medium",
+    "detail": "generic column says 'FACE SERUM' (not an ingredient)",
+    "evidence_url": null
+   }
+  ],
+  "2790": [
+   {
+    "code": "missing_generic",
+    "severity": "medium",
+    "detail": "generic column holds manufacturer 'HIMALAYA', not ingredients",
+    "evidence_url": null
+   }
+  ],
+  "1251": [
+   {
+    "code": "missing_generic",
+    "severity": "medium",
+    "detail": "generic column holds manufacturer 'HIMALAYA', not ingredients",
+    "evidence_url": null
+   }
+  ],
+  "1576": [
+   {
+    "code": "missing_generic",
+    "severity": "medium",
+    "detail": "generic column holds manufacturer 'HIMALAYA', not ingredients",
+    "evidence_url": null
+   }
+  ],
+  "1577": [
+   {
+    "code": "missing_generic",
+    "severity": "medium",
+    "detail": "generic column holds manufacturer 'HIMALAYA', not ingredients",
+    "evidence_url": null
+   }
+  ],
+  "956": [
+   {
+    "code": "missing_generic",
+    "severity": "medium",
+    "detail": "generic column repeats the brand name 'FABISPRAY'",
+    "evidence_url": null
+   }
+  ],
+  "2025": [
+   {
+    "code": "generic_truncated",
+    "severity": "low",
+    "detail": "generic text ends with a comma — list truncated",
+    "evidence_url": null
+   }
+  ],
+  "3136": [
+   {
+    "code": "generic_truncated",
+    "severity": "low",
+    "detail": "generic 'TENOFOVIR DISOP' truncated",
+    "evidence_url": null
+   }
+  ],
+  "1151": [
+   {
+    "code": "price_outlier",
+    "severity": "high",
+    "detail": "GENTALAB 2 ML at Rs 46935 vs other gentamicin injections/drops Rs 8-35 (cf. GENTALAB INJ 30ML sr 1152 = Rs 35) — almost certainly a data-entry error",
+    "evidence_url": null
+   }
+  ],
+  "2370": [
+   {
+    "code": "strength_unit_suspect",
+    "severity": "medium",
+    "detail": "RESTASIS is a 0.05% ciclosporin eye emulsion, not 0.05MG; form set to DROPS",
+    "evidence_url": null
+   }
+  ]
+ },
+ "regulatory_overrides": {
+  "728": {
+   "group": "approved_rx",
+   "reason": "listed nandrolone is suspected wrong; strength fits dexamethasone"
+  },
+  "109": {
+   "group": "unknown",
+   "reason": "anastrozole vs methandienone (Anabol) unresolved"
+  },
+  "2496": {
+   "group": "approved_rx",
+   "reason": "probably sildenafil"
+  },
+  "1276": {
+   "group": "approved_rx",
+   "reason": "insulin lispro"
+  },
+  "2404": {
+   "group": "otc_or_device",
+   "reason": "probably pen needles"
+  },
+  "1806": {
+   "group": "anabolic_steroid_or_ped",
+   "reason": "MK-677 (ibutamoren) per guidance"
+  },
+  "2359": {
+   "group": "anabolic_steroid_or_ped",
+   "reason": "testosterone mix compound"
+  },
+  "653": {
+   "group": "anabolic_steroid_or_ped",
+   "reason": "'CUT MIX COMPOUND' steroid blend"
+  },
+  "2096": {
+   "group": "otc_or_device",
+   "reason": "DHEA supplement"
+  },
+  "1626": {
+   "group": "unknown",
+   "reason": "no generic"
+  },
+  "1614": {
+   "group": "unknown",
+   "reason": "no generic"
+  },
+  "145": {
+   "group": "anabolic_steroid_or_ped",
+   "reason": "bodybuilding-lab testosterone brand family (same labs sell 10ML/MIX/MAXX packs: -RIX, -BOL)"
+  },
+  "2828": {
+   "group": "anabolic_steroid_or_ped",
+   "reason": "bodybuilding-lab testosterone brand family (same labs sell 10ML/MIX/MAXX packs: -RIX, -BOL)"
+  },
+  "2852": {
+   "group": "anabolic_steroid_or_ped",
+   "reason": "bodybuilding-lab testosterone brand family (same labs sell 10ML/MIX/MAXX packs: -RIX, -BOL)"
+  },
+  "2853": {
+   "group": "anabolic_steroid_or_ped",
+   "reason": "bodybuilding-lab testosterone brand family (same labs sell 10ML/MIX/MAXX packs: -RIX, -BOL)"
+  },
+  "2854": {
+   "group": "anabolic_steroid_or_ped",
+   "reason": "bodybuilding-lab testosterone brand family (same labs sell 10ML/MIX/MAXX packs: -RIX, -BOL)"
+  }
+ },
+ "parsed_overrides": {
+  "2370": {
+   "strength": "0.05%",
+   "dosage_form": "DROPS",
+   "reason": "Restasis ophthalmic emulsion"
+  },
+  "3012": {
+   "strength": "0.75MG",
+   "dosage_form": "INJECTION",
+   "pack": "0.5ML",
+   "reason": "Trulicity pen; name '0.75/0.05ML' = 0.75mg/0.5ml"
+  },
+  "2668": {
+   "dosage_form": "INJECTION",
+   "reason": "glutathione 600mg/4ml vial"
+  },
+  "1151": {
+   "dosage_form": "INJECTION",
+   "reason": "gentamicin 2ml ampoule (sibling GENTALAB INJ 30ML)"
+  }
+ }
+}

@@ -1,0 +1,1915 @@
+[
+ {
+  "sr": 51,
+  "sku": "IMP-0051",
+  "name": "AGEFINE CREAM",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/agefine-cream/",
+  "official_product_page_url": "https://www.healingpharma.in/product/agefine-cream/",
+  "composition_on_source": "Pack: 'Enriched with L-Glutathione, Kojic Acid, Niacinamide and Glycolic Acid'; page 'Key Ingredients: L-Glutathione'",
+  "strength": null,
+  "dosage_form": "CREAM",
+  "pack_size": "20 g tube",
+  "composition_matches_list": false,
+  "composition_note": "List says only L-GLUTATHIONE; official pack shows a multi-ingredient cosmetic cream (L-Glutathione, Kojic Acid, Niacinamide, Glycolic Acid). No quantitative strengths stated. Site lists it as an OTC/personal-care skin-whitening cream, not a drug.",
+  "official_description": "Agefine Skin Whitening Cream by Healing Pharma, a topical cream with L-Glutathione as the key ingredient, supplied in a 20 g tube.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Agefine-Skin-Whitening-Cream.jpg",
+   "page_url": "https://www.healingpharma.in/product/agefine-cream/",
+   "local_file": "data/enrichment/images_raw/IMP-0051.jpg",
+   "visible_pack_text": "Agefine® cream; 20 g; Enriched with L-Glutathione, Kojic Acid, Niacinamide and Glycolic Acid; Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": null,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Carton + tube render from official site. Product has no strength; brand/form/20 g readable. Images include stock-style model faces on the artwork (part of pack design)."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "List generic incomplete vs pack (cosmetic multi-ingredient)",
+   "No quantitative composition on official source",
+   "Page text contains marketing claims - not reused"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/",
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=agefine",
+   "https://www.healingpharma.in/product/agefine-cream/"
+  ]
+ },
+ {
+  "sr": 52,
+  "sku": "IMP-0052",
+  "name": "AGEFINE FORTE TAB",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/agefine-forte/",
+  "official_product_page_url": "https://www.healingpharma.in/product/agefine-forte/",
+  "composition_on_source": "Glutathione, Vitamin C & Alpha Lipoic Acid (no quantities stated on official page/pack front)",
+  "strength": null,
+  "dosage_form": "TABLET",
+  "pack_size": "10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Ingredients match list (list generic truncated: 'VITAMIN' = Vitamin C per pack). Quantities not on official source (an IndiaMART listing claims 500/250/50 mg - not used, not official).",
+  "official_description": "Agefine Forte tablets by Healing Pharma contain Glutathione, Vitamin C and Alpha Lipoic Acid; supplied as a strip of 10 tablets.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Agefine-Forte_Front.jpg",
+   "page_url": "https://www.healingpharma.in/product/agefine-forte/",
+   "local_file": "data/enrichment/images_raw/IMP-0052.jpg",
+   "visible_pack_text": "Healing Pharma; Agefine® Forte Tablets; Glutathione, Vitamin C & Alpha Lipoic Acid; Advanced Skin Whitening Treatment; 10 Tablets; green veg dot",
+   "checks": {
+    "brand": true,
+    "strength": null,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Carton front + blister. No strength on row or pack front."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Ingredient quantities not stated on official source",
+   "Nutraceutical/whitening product - check regulatory category"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/agefine-forte/",
+   "https://www.indiamart.com/proddetail/agefine-forte-tablets-for-skin-whitening-2856800747962.html (not used as evidence)"
+  ]
+ },
+ {
+  "sr": 53,
+  "sku": "IMP-0053",
+  "name": "AGOPREX TAB",
+  "manufacturer": "Sun Pharmaceutical Industries Ltd",
+  "manufacturer_source_url": "https://sunpharma.com/wp-content/uploads/2021/04/INDIA-BUSINESS-product-List.pdf",
+  "official_product_page_url": "https://sunpharma.com/wp-content/uploads/2021/04/INDIA-BUSINESS-product-List.pdf",
+  "composition_on_source": "AGOPREX 25 MG TABLET 5 | Generic: AGOMELATINE | 25 MG | TABLET | pack 5",
+  "strength": "25 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "5 tablets (per official list)",
+  "composition_matches_list": true,
+  "composition_note": "Matches list generic. List name has no strength; Sun's official India list shows only the 25 mg tablet.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official source is a tabular PDF product list - no pack image. sunpharma.com/india-products/ also a table."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Strength absent from list name (official: 25 mg only)",
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://sunpharma.com/wp-content/uploads/2021/04/INDIA-BUSINESS-product-List.pdf",
+   "https://sunpharma.com/india-products/"
+  ]
+ },
+ {
+  "sr": 54,
+  "sku": "IMP-0054",
+  "name": "AGROLID 600MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No hit for brand 'AGROLID' anywhere (searched 2x). Similar names: Arolid (linezolid 600). Possible misspelling.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; possible misspelling"
+  ],
+  "sources_consulted": [
+   "web search: \"AGROLID 600\" linezolid; \"Agrolid\" linezolid tablets India (no brand hits)"
+  ]
+ },
+ {
+  "sr": 55,
+  "sku": "IMP-0055",
+  "name": "ALAFEVIR EM TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Only hits are elife.clinic (unverified clinic/shop site) describing 'Alafevir EM' as a generic Descovy; no manufacturer named. Composition (emtricitabine + TAF) and strength unconfirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "No manufacturer identified",
+   "HIV product - pharmacist must confirm composition/strength"
+  ],
+  "sources_consulted": [
+   "https://elife.clinic/en/product/alafevirem (not official, not used)"
+  ]
+ },
+ {
+  "sr": 56,
+  "sku": "IMP-0056",
+  "name": "ALBA THROW 400MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No source names 'ALBA THROW'.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found"
+  ],
+  "sources_consulted": [
+   "web search: \"ALBA THROW\" albendazole; \"Albathrow\" OR \"Alba-Throw\""
+  ]
+ },
+ {
+  "sr": 57,
+  "sku": "IMP-0057",
+  "name": "ALBA THROW PLUS",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No source names 'ALBA THROW PLUS'; strength and form also missing from list.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found",
+   "Strength/form missing"
+  ],
+  "sources_consulted": [
+   "web search: \"Albathrow\" OR \"Alba-Throw\" albendazole ivermectin"
+  ]
+ },
+ {
+  "sr": 58,
+  "sku": "IMP-0058",
+  "name": "ALBUREL OS 20% 100ML",
+  "manufacturer": "Reliance Life Sciences",
+  "manufacturer_source_url": "https://www.rellife.com/web/lifesciences/albureltm",
+  "official_product_page_url": "https://www.rellife.com/web/lifesciences/albureltm",
+  "composition_on_source": "'AlbuRel - OS (Optimum Sodium) is available as 20% concentration in 100 ml' (Human Normal Albumin)",
+  "strength": "20%",
+  "dosage_form": "SOLUTION FOR INFUSION",
+  "pack_size": "100 ml",
+  "composition_matches_list": true,
+  "composition_note": "Human albumin 20% 100 ml matches. 'OS' = Optimum Sodium variant per official page.",
+  "official_description": "AlbuRel-OS (Optimum Sodium) is a human normal albumin solution from Reliance Life Sciences, available as 20% concentration in 100 ml.",
+  "image": {
+   "status": "rejected",
+   "image_url": "https://www.rellife.com/image/journal/article?img_id=360389&t=1793707715541",
+   "page_url": "https://www.rellife.com/web/lifesciences/albureltm",
+   "local_file": null,
+   "visible_pack_text": "HUMAN NORMAL ALBUMIN I.P. 20% SOLUTION; AlbuRel (For I.V. use) 20 g; 100 ml; Reliance Life Sciences",
+   "checks": {
+    "brand": false,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "292x374",
+   "notes": "Official image shows plain AlbuRel 20% 100 ml, NOT the AlbuRel-OS variant (no 'OS'/'Optimum Sodium' visible); also below 300 px short side. File deleted."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Only image on official page is a different variant (plain AlbuRel) and too small",
+   "Cold-chain biologic - check handling"
+  ],
+  "sources_consulted": [
+   "https://www.rellife.com/web/lifesciences/albureltm"
+  ]
+ },
+ {
+  "sr": 59,
+  "sku": "IMP-0059",
+  "name": "ALCAREX EYE DROP 5ML",
+  "manufacturer": "Ajanta Pharma Ltd",
+  "manufacturer_source_url": "https://www.ajantapharma.com/ajanta/Business/india_branded_generics",
+  "official_product_page_url": null,
+  "composition_on_source": "'Alcarex (Alcaftadine)' - Ajanta R&D page; listed as anti-allergic ophthalmic on India Branded Generics page. Concentration/pack not stated.",
+  "strength": null,
+  "dosage_form": "EYE DROPS",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Alcaftadine matches list. 0.25% w/v and 5 ml come only from retailer listings - not confirmed on official site.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No product page or pack image on ajantapharma.com (only category images)."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Concentration and pack size not on official source",
+   "No official product page/image"
+  ],
+  "sources_consulted": [
+   "https://www.ajantapharma.com/ajanta/Business/india_branded_generics",
+   "https://www.ajantapharma.com/ajanta/r_and_d"
+  ]
+ },
+ {
+  "sr": 60,
+  "sku": "IMP-0060",
+  "name": "ALCINAC SR TAB",
+  "manufacturer": "Leeford Healthcare Ltd (official page seen via search index only; site refused connection)",
+  "manufacturer_source_url": "https://www.leeford.in/product/3414/alcinac-sr",
+  "official_product_page_url": "https://www.leeford.in/product/3414/alcinac-sr",
+  "composition_on_source": "Search-index summary of official page: Alcinac-SR, aceclofenac 200 mg sustained-release film-coated tablet, Rx",
+  "strength": "200 mg",
+  "dosage_form": "TABLET (SR)",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Matches list (aceclofenac SR). Not opened directly - leeford.in refused connections (ECONNREFUSED) during research.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official site unreachable; could not check for image. Worth retrying - Leeford pages may carry pack images."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official site unreachable at research time - retry",
+   "Image not checked"
+  ],
+  "sources_consulted": [
+   "https://www.leeford.in/product/3414/alcinac-sr",
+   "https://pharmeasy.in/online-medicine-order/alcinac-sr-4140722 (retailer, attribution only)"
+  ]
+ },
+ {
+  "sr": 61,
+  "sku": "IMP-0061",
+  "name": "ALDACTONE 25MG",
+  "manufacturer": "RPG Life Sciences Ltd",
+  "manufacturer_source_url": "https://www.rpglifesciences.com/brands",
+  "official_product_page_url": "https://www.rpglifesciences.com/products-and-science/product-details/aldactone-25-mg",
+  "composition_on_source": "ALDACTONE 25 MG - Each uncoated tablet contains Spironolactone IP 25mg",
+  "strength": "25 mg",
+  "dosage_form": "TABLET (uncoated)",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Matches list (spironolactone 25 mg). RPG also lists Aldactone 50, 100, F and T variants.",
+  "official_description": null,
+  "image": {
+   "status": "rejected",
+   "image_url": "https://cms.rpglifesciences.com/sites/default/files/products/Aldactone%20-%20Packshot.webp",
+   "page_url": "https://www.rpglifesciences.com/brands",
+   "local_file": null,
+   "visible_pack_text": "Rx Spironolactone Tablets IP; Aldactone(R); (Hindi) अल्डाक्टोन; 10 x 5 x 15 Tablets",
+   "checks": {
+    "brand": true,
+    "strength": false,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1331x518",
+   "notes": "No strength visible anywhere on the carton. RPG reuses this same packshot for Aldactone 25 mg AND Aldactone T 5 / T 10 (different products), so it cannot prove 25 mg. File deleted."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Official packshot is generic (no strength) and shared across variants - rejected"
+  ],
+  "sources_consulted": [
+   "https://www.rpglifesciences.com/",
+   "https://www.rpglifesciences.com/brands"
+  ]
+ },
+ {
+  "sr": 62,
+  "sku": "IMP-0062",
+  "name": "ALDIGESIC TH TAB",
+  "manufacturer": "Alkem Laboratories Ltd",
+  "manufacturer_source_url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "official_product_page_url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "composition_on_source": "ALDIGESIC -TH TABLET (10'S): Aceclofenac 100 Mg + Thiocolchicoside 4 Mg",
+  "strength": "100 mg + 4 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 tablets",
+  "composition_matches_list": false,
+  "composition_note": "List generic says ACECLOFENAC + PARACETAMOL + THIOCOLCHICOSIDE, but Alkem's ALDIGESIC-TH has NO paracetamol. The paracetamol-containing variant is 'ALDIGESIC TH PLUS' (Aceclofenac 100 + Paracetamol 325 + Thiocolchicoside 4). Either the list generic or the list name is wrong - human must decide which product the supplier sells.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Alkem official site shows no pack image for this brand (images only for a few featured OTC products). Retailer images exist but are prohibited."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Generic in list does not match official composition of ALDIGESIC-TH (possible confusion with ALDIGESIC TH PLUS)",
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.alkemlabs.com/our-offerings/alkem-generics",
+   "https://admin.alkemlabs.com/uploads/Revised_Price_list_effective_September_22_2025_cda9c781d4.pdf",
+   "https://www.truemeds.in/medicine/aldigesic-th-tablet-10-tm-tacr1-001239 (retailer, attribution only)"
+  ]
+ },
+ {
+  "sr": 63,
+  "sku": "IMP-0063",
+  "name": "ALDOL 400MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Only B2B marketplace (GlobalLinker) listings name 'Dr Precision' as seller of ALDOL 400 (albendazole 400 mg). No official site found (drprecision.com is a parked domain).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed (marketplace only)"
+  ],
+  "sources_consulted": [
+   "https://www.globallinker.com/products/aldol-400-dr-precision-8512621 (marketplace, not used)"
+  ]
+ },
+ {
+  "sr": 64,
+  "sku": "IMP-0064",
+  "name": "ALENDEOS 70MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No hit for 'ALENDEOS' anywhere; nearest Indian brands Alendros (Steris), Osteofos (Cipla), Alendate. Possible misspelling.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; possible misspelling"
+  ],
+  "sources_consulted": [
+   "web search: \"ALENDEOS 70\"; \"Alendeos\" alendronate 70 mg India"
+  ]
+ },
+ {
+  "sr": 65,
+  "sku": "IMP-0065",
+  "name": "ALFUZZ 10MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No hit for 'ALFUZZ'. Web-search budget for the session ran out before further lookups; no official site identified.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found"
+  ],
+  "sources_consulted": [
+   "web search: \"ALFUZZ 10\" alfuzosin manufacturer"
+  ]
+ },
+ {
+  "sr": 66,
+  "sku": "IMP-0066",
+  "name": "ALGREAT 180MG TAB",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/algreat-180/",
+  "official_product_page_url": "https://www.healingpharma.in/product/algreat-180/",
+  "composition_on_source": "Fexofenadine Hydrochloride Tablets I.P. 180 mg (from pack image; page has no text description)",
+  "strength": "180 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Matches list (fexofenadine HCl 180 mg).",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Algreat-180.jpg",
+   "page_url": "https://www.healingpharma.in/product/algreat-180/",
+   "local_file": "data/enrichment/images_raw/IMP-0066.jpg",
+   "visible_pack_text": "Rx; Fexofenadine Hydrochloride Tablets I.P.; Algreat 180mg; (Hindi) एलग्रेट १८०; NON-SLEEPY; AM PM; 10 Tablets; Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1537",
+   "notes": "Carton + blister of orange tablets."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Composition taken from pack artwork only (page has no text)"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=algreat",
+   "https://www.healingpharma.in/product/algreat-180/"
+  ]
+ },
+ {
+  "sr": 67,
+  "sku": "IMP-0067",
+  "name": "ALLEGRA 120MG",
+  "manufacturer": "Sanofi India Limited (PI: 'Manufactured by: Allegra 120 and 180 Tablets: Sanofi India Limited, Verna, Goa')",
+  "manufacturer_source_url": "https://www.sanofi.com/assets/countries/india/docs/consumer-healthcare/for-healthcare-professionals/products-information/allegra-pi.pdf",
+  "official_product_page_url": "https://www.sanofi.com/assets/countries/india/docs/consumer-healthcare/for-healthcare-professionals/products-information/allegra-pi.pdf",
+  "composition_on_source": "Fexofenadine Hydrochloride Tablets IP 120mg - each film-coated tablet contains Fexofenadine Hydrochloride I.P. 120 mg",
+  "strength": "120 mg",
+  "dosage_form": "TABLET (film-coated)",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Matches list (fexofenadine 120 mg). Pack size not in PI. Allegra consumer business may now be under Opella - check current marketer on pack.",
+  "official_description": "Allegra (fexofenadine hydrochloride) is a non-sedating antihistamine (histamine H1-receptor antagonist). Allegra 120 mg is a film-coated tablet indicated for relief of symptoms associated with allergic rhinitis and chronic idiopathic urticaria.",
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official PI PDF has no pack image; no official product page with image found."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Pack size not on official source",
+   "No official image",
+   "Marketer may have changed (Sanofi consumer health -> Opella)"
+  ],
+  "sources_consulted": [
+   "https://www.sanofi.com/assets/countries/india/docs/consumer-healthcare/for-healthcare-professionals/products-information/allegra-pi.pdf"
+  ]
+ },
+ {
+  "sr": 68,
+  "sku": "IMP-0068",
+  "name": "ALLOFINE 100MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retailer (Truemeds) names Morepen Laboratories for Allofine 100; morepen.com has no product list (checked /formulations, /drug-product). Not confirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed"
+  ],
+  "sources_consulted": [
+   "https://www.truemeds.in/medicine/allofine-100-mg-tablet-10-tm-tacr1-059340 (retailer, attribution only)",
+   "https://www.morepen.com/formulations"
+  ]
+ },
+ {
+  "sr": 69,
+  "sku": "IMP-0069",
+  "name": "ALLOFINE 300MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Only an exporter page (rizochem.com, a trader that also lists other companies' brands such as Amlip) shows ALLOFINE 300 = allopurinol IP 300 mg; not the manufacturer. Morepen attribution (100 mg) unconfirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed"
+  ],
+  "sources_consulted": [
+   "https://rizochem.com/?p=8061 (exporter, not official)",
+   "https://www.morepen.com/formulations"
+  ]
+ },
+ {
+  "sr": 70,
+  "sku": "IMP-0070",
+  "name": "ALMOX 250MG",
+  "manufacturer": "Alkem Laboratories Ltd",
+  "manufacturer_source_url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "official_product_page_url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "composition_on_source": "ALMOX 250MG CAPSULES (15'S): Amoxicillin 250 mg",
+  "strength": "250 mg",
+  "dosage_form": "CAPSULE",
+  "pack_size": "15 capsules (10's also listed in 2016 notice)",
+  "composition_matches_list": true,
+  "composition_note": "Matches list generic. Dosage form is CAPSULE (list name does not state form).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Alkem official site shows no pack image for this brand (images only for a few featured OTC products). Retailer images exist but are prohibited."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Dosage form not in list name (official: capsule)",
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.alkemlabs.com/our-offerings/alkem-generics",
+   "https://admin.alkemlabs.com/uploads/Revised_Price_list_effective_September_22_2025_cda9c781d4.pdf"
+  ]
+ },
+ {
+  "sr": 71,
+  "sku": "IMP-0071",
+  "name": "ALMOX 500MG",
+  "manufacturer": "Alkem Laboratories Ltd",
+  "manufacturer_source_url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "official_product_page_url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "composition_on_source": "ALMOX 500MG CAPSULES (15'S): Amoxicillin 500 mg",
+  "strength": "500 mg",
+  "dosage_form": "CAPSULE",
+  "pack_size": "15 capsules (10's also on price notices)",
+  "composition_matches_list": true,
+  "composition_note": "Matches list generic. Dosage form is CAPSULE.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Alkem official site shows no pack image for this brand (images only for a few featured OTC products). Retailer images exist but are prohibited."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Dosage form not in list name (official: capsule)",
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.alkemlabs.com/our-offerings/alkem-generics",
+   "https://admin.alkemlabs.com/uploads/Revised_Price_list_effective_September_22_2025_cda9c781d4.pdf"
+  ]
+ },
+ {
+  "sr": 72,
+  "sku": "IMP-0072",
+  "name": "ALMOX CV 625MG",
+  "manufacturer": "Alkem Laboratories Ltd",
+  "manufacturer_source_url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "official_product_page_url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "composition_on_source": "ALMOX-CV 625MG TABLETS (10'S / 6'S): Amoxicillin 500 mg + Clavulanic Acid 125 MG",
+  "strength": "500 mg + 125 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 or 6 tablets",
+  "composition_matches_list": false,
+  "composition_note": "List generic says only AMOXYCILLIN; official product is amoxicillin + clavulanic acid (co-amoxiclav). Generic in list is incomplete.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Alkem official site shows no pack image for this brand (images only for a few featured OTC products). Retailer images exist but are prohibited."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "List generic omits clavulanic acid",
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.alkemlabs.com/our-offerings/alkem-generics",
+   "https://admin.alkemlabs.com/uploads/Revised_Price_list_effective_September_22_2025_cda9c781d4.pdf"
+  ]
+ },
+ {
+  "sr": 73,
+  "sku": "IMP-0073",
+  "name": "ALMOX DRY 30ML SYP",
+  "manufacturer": "Alkem Laboratories Ltd",
+  "manufacturer_source_url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "official_product_page_url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "composition_on_source": "ALMOX DRY SYRUP 125MG/5ML (30ML): Amoxicillin 125 mg / 5 ml",
+  "strength": "125 mg/5 ml",
+  "dosage_form": "DRY SYRUP (powder for oral suspension)",
+  "pack_size": "30 ml",
+  "composition_matches_list": true,
+  "composition_note": "Matches list (amoxicillin dry syrup 30 ml). Strength 125 mg/5 ml not in list name; Alkem also has ALMOX DS 250 mg/5 ml (60 ml only).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Alkem official site shows no pack image for this brand (images only for a few featured OTC products). Retailer images exist but are prohibited."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Strength not in list name",
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.alkemlabs.com/our-offerings/alkem-generics",
+   "https://admin.alkemlabs.com/uploads/Revised_Price_list_effective_September_22_2025_cda9c781d4.pdf"
+  ]
+ },
+ {
+  "sr": 74,
+  "sku": "IMP-0074",
+  "name": "ALMOX DT 125MG",
+  "manufacturer": "Alkem Laboratories Ltd",
+  "manufacturer_source_url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "official_product_page_url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "composition_on_source": "ALMOX DT 125MG TABLETS (15'S): Amoxicillin 125 mg Dispersible Tablets",
+  "strength": "125 mg",
+  "dosage_form": "DISPERSIBLE TABLET",
+  "pack_size": "15 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Matches list.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Alkem official site shows no pack image for this brand (images only for a few featured OTC products). Retailer images exist but are prohibited."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.alkemlabs.com/our-offerings/alkem-generics",
+   "https://admin.alkemlabs.com/uploads/Revised_Price_list_effective_September_22_2025_cda9c781d4.pdf"
+  ]
+ },
+ {
+  "sr": 75,
+  "sku": "IMP-0075",
+  "name": "ALOJA 25MG",
+  "manufacturer": "Indoco Remedies Ltd",
+  "manufacturer_source_url": "https://www.indoco.com/document/Revised-MRP-w.e.f-22nd-Sept25-IRL-Stockist.pdf",
+  "official_product_page_url": "https://www.indoco.com/document/Revised-MRP-w.e.f-22nd-Sept25-IRL-Stockist.pdf",
+  "composition_on_source": "ALOJA (ALOGLIPTIN) TAB 25MG 10X10S",
+  "strength": "25 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 tablets (10x10 trade pack)",
+  "composition_matches_list": true,
+  "composition_note": "Matches list. Salt form (benzoate) not stated on official source.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official source is a price-list PDF; no pack image found on indoco.com."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.indoco.com/document/Revised-MRP-w.e.f-22nd-Sept25-IRL-Stockist.pdf",
+   "https://www.indoco.com/con-call-transcript/Concall-Transcript-Q1FY2021.pdf"
+  ]
+ },
+ {
+  "sr": 76,
+  "sku": "IMP-0076",
+  "name": "AMANTEX 100MG",
+  "manufacturer": "Intas Pharmaceuticals Ltd (official page seen via search index only; direct fetch failed)",
+  "manufacturer_source_url": "https://www.intaspharma.com/product/amantex/",
+  "official_product_page_url": "https://www.intaspharma.com/product/amantex/",
+  "composition_on_source": "Search-index text of official page: 'AMANTEX | AMANTADINE HYDROCHLORIDE (100 MG) | NEURO / CNS | 15's' (also 193 mg and 129 mg variants)",
+  "strength": "100 mg",
+  "dosage_form": null,
+  "pack_size": "15's",
+  "composition_matches_list": true,
+  "composition_note": "Matches list per indexed text. IndiaMART listing also names Steris - conflicting, not official.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Could not load official page."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official page not directly fetchable - re-check manually",
+   "No image"
+  ],
+  "sources_consulted": [
+   "https://www.intaspharma.com/product/amantex/"
+  ]
+ },
+ {
+  "sr": 77,
+  "sku": "IMP-0077",
+  "name": "AMANTREL",
+  "manufacturer": "Cipla Ltd",
+  "manufacturer_source_url": "https://www.ciplamed.com/product-index/amantrel-tablets",
+  "official_product_page_url": "https://www.ciplamed.com/product-index/amantrel-tablets",
+  "composition_on_source": "'AMANTREL Tablets - Amantadine hydrochloride - Written and reviewed by Cipla Limited'; embedded patient leaflet text refers to 'Amantadine hydrochloride 100mg tablets'. Ciplamed also has an 'amantrel-capsules' page.",
+  "strength": "100 mg (per leaflet text)",
+  "dosage_form": "TABLET or CAPSULE (both pages exist)",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Amantadine matches list. List row has no strength/form; Cipla has Amantrel capsules, tablets and (per retailers) Amantrel ER 193 mg - ambiguous which one.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Ciplamed page shows only a placeholder image."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Strength and dosage form missing from list name; several Amantrel variants exist"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/amantrel-tablets",
+   "https://www.ciplamed.com/product-index/amantrel-capsules"
+  ]
+ },
+ {
+  "sr": 78,
+  "sku": "IMP-0078",
+  "name": "AMDATIME 100MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "1mg lists Amdatime 100 mg as a CAPSULE (not tablet); an IndiaMART listing hints Steris Healthcare. No official site found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed",
+   "Dosage form likely capsule (list/audit inferred tablet)"
+  ],
+  "sources_consulted": [
+   "web search: \"AMDATIME\" amantadine 100mg; Amdatime Steris Healthcare"
+  ]
+ },
+ {
+  "sr": 79,
+  "sku": "IMP-0079",
+  "name": "AMDRON 200 TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "1mg lists Amdron 200mg Tablet (amiodarone) but manufacturer unclear; Cipla's amiodarone brand is Tachyra, not Amdron. Web-search budget for the session ran out before further lookups; no official site identified.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed"
+  ],
+  "sources_consulted": [
+   "web search: \"AMDRON 200\" amiodarone; Amdron amiodarone site:ciplamed.com/cipla.com (no hit)"
+  ]
+ },
+ {
+  "sr": 80,
+  "sku": "IMP-0080",
+  "name": "AMEE 500MG INJ 2ML",
+  "manufacturer": "Zydus Lifesciences (official products page seen via search index only; TLS error on fetch)",
+  "manufacturer_source_url": "https://zyduslife.com/products.html",
+  "official_product_page_url": "https://zyduslife.com/products.html",
+  "composition_on_source": "Search-index text: 'Amee Inj.' 100 mg, 250 mg, 500 mg under Zydus Generics - molecule not named",
+  "strength": "500 mg",
+  "dosage_form": "INJECTION",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Amikacin attribution from retailer pages (MyUpchar, Lybrate); official page does not name the molecule. 2 ml volume not confirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official page not fetchable."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Composition not on official source",
+   "Official page not directly fetchable"
+  ],
+  "sources_consulted": [
+   "https://zyduslife.com/products.html",
+   "https://myupchar.com/en/medicine/amee-p37087214"
+  ]
+ },
+ {
+  "sr": 81,
+  "sku": "IMP-0081",
+  "name": "AMERICAN STERILE WATER FOR INJ 10ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "IndiaMART shows 'Americano WFI' 10 ml / 15 ml without manufacturer. No official site found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "web search: \"AMERICANO\" sterile water multivitamin injection India"
+  ]
+ },
+ {
+  "sr": 82,
+  "sku": "IMP-0082",
+  "name": "AMERICANO MLV INJ",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No source links 'Americano' to a multivitamin injection.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand/product not found"
+  ],
+  "sources_consulted": [
+   "web search: \"AMERICANO\" sterile water multivitamin injection India"
+  ]
+ },
+ {
+  "sr": 83,
+  "sku": "IMP-0083",
+  "name": "AMERICANO SR WATER FOR 15ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Name 'AMERICANO SR WATER FOR 15ML' appears truncated ('STERILE WATER FOR INJECTION'?). IndiaMART lists 'Americano WFI 15ml' without manufacturer.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown",
+   "List name looks truncated/garbled"
+  ],
+  "sources_consulted": [
+   "web search: \"AMERICANO\" sterile water multivitamin injection India"
+  ]
+ },
+ {
+  "sr": 84,
+  "sku": "IMP-0084",
+  "name": "AMITONE 75MG",
+  "manufacturer": "Intas Pharmaceuticals Ltd (official page seen via search index only; direct fetch failed HTTP 500/TLS chain)",
+  "manufacturer_source_url": "https://www.intaspharma.com/product/amitone/",
+  "official_product_page_url": "https://www.intaspharma.com/product/amitone/",
+  "composition_on_source": "Search-index text of official page: 'AMITONE | AMITRIPTYLINE HYDROCHLORIDE (75 MG) | NEURO / CNS | 10's'",
+  "strength": "75 mg",
+  "dosage_form": null,
+  "pack_size": "10's",
+  "composition_matches_list": true,
+  "composition_note": "Matches list per indexed text; could not open page to confirm.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Could not load official page (HTTP 500 via fetch; curl TLS chain error). No image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official page not directly fetchable - re-check manually",
+   "No image"
+  ],
+  "sources_consulted": [
+   "https://www.intaspharma.com/product/amitone/",
+   "https://www.intaspharma.com/products/"
+  ]
+ },
+ {
+  "sr": 85,
+  "sku": "IMP-0085",
+  "name": "AMLIP 10MG",
+  "manufacturer": "Cipla Ltd (official generic product list seen via search index only; page bot-protected, not fetchable)",
+  "manufacturer_source_url": "https://www.cipla.com/generic-product-list",
+  "official_product_page_url": "https://www.cipla.com/generic-product-list",
+  "composition_on_source": "Search-index text: 'AMLIP 10 ; AMLODIPINE BESILATE IP 10MG ; TABLETS'",
+  "strength": "10 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Matches list (amlodipine besilate 10 mg).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official Amlip page with image; not on ciplamed.com product index."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official list not directly fetchable - re-check manually"
+  ],
+  "sources_consulted": [
+   "https://www.cipla.com/generic-product-list",
+   "https://www.ciplamed.com/product-index"
+  ]
+ },
+ {
+  "sr": 86,
+  "sku": "IMP-0086",
+  "name": "AMLIP 2.5MG",
+  "manufacturer": "Cipla Ltd (official generic product list seen via search index only; page bot-protected, not fetchable)",
+  "manufacturer_source_url": "https://www.cipla.com/generic-product-list",
+  "official_product_page_url": "https://www.cipla.com/generic-product-list",
+  "composition_on_source": "Search-index text: 'AMLIP 2.5 ; AMLODIPINE BESILATE IP 2.5MG ; TABLETS'",
+  "strength": "2.5 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Matches list (amlodipine besilate 2.5 mg).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official Amlip page with image; not on ciplamed.com product index."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official list not directly fetchable - re-check manually"
+  ],
+  "sources_consulted": [
+   "https://www.cipla.com/generic-product-list",
+   "https://www.ciplamed.com/product-index"
+  ]
+ },
+ {
+  "sr": 87,
+  "sku": "IMP-0087",
+  "name": "AMLIP 5MG",
+  "manufacturer": "Cipla Ltd (official generic product list seen via search index only; page bot-protected, not fetchable)",
+  "manufacturer_source_url": "https://www.cipla.com/generic-product-list",
+  "official_product_page_url": "https://www.cipla.com/generic-product-list",
+  "composition_on_source": "Search-index text: 'AMLIP 5 ; AMLODIPINE BESILATE IP 5MG ; TABLETS'",
+  "strength": "5 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Matches list (amlodipine besilate 5 mg).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official Amlip page with image; not on ciplamed.com product index."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Official list not directly fetchable - re-check manually"
+  ],
+  "sources_consulted": [
+   "https://www.cipla.com/generic-product-list",
+   "https://www.ciplamed.com/product-index"
+  ]
+ },
+ {
+  "sr": 88,
+  "sku": "IMP-0088",
+  "name": "AMLOHEAL 10MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (brand family owner; 10 mg not listed)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amloheal-5/",
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Healing Pharma's site lists only Amloheal 5 and Amloheal 2.5; no Amloheal 10 page found (WP product search 'amloheal'). A third-party IndiaMART listing mentions 'Amloheal 10' - not official.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official 10 mg page/image. Amloheal 5 image NOT valid for 10 mg."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Exact strength (10 mg) not on official manufacturer site",
+   "Brand family attribution only"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=amloheal",
+   "https://www.healingpharma.in/product/amloheal-5/"
+  ]
+ },
+ {
+  "sr": 89,
+  "sku": "IMP-0089",
+  "name": "AMLOHEAL 5MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amloheal-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/amloheal-5/",
+  "composition_on_source": "Amlodipine Tablets I.P. 5 mg",
+  "strength": "5 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 x 30 tablets (box of 10 strips x 30)",
+  "composition_matches_list": true,
+  "composition_note": "Matches list (amlodipine 5 mg). Salt form (besilate) not stated.",
+  "official_description": "Amloheal 5 contains amlodipine 5 mg. Amlodipine is a medicine used to treat high blood pressure (hypertension) and to prevent chest pain caused by heart disease (angina).",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/11/Amloheal-5mg_3D-Copy-Copy.jpg",
+   "page_url": "https://www.healingpharma.in/product/amloheal-5/",
+   "local_file": "data/enrichment/images_raw/IMP-0089.jpg",
+   "visible_pack_text": "Rx; Amlodipine Tablets I.P. 5mg; Amloheal 5 mg; 10 x 30 Tablets; Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Carton + 30-tablet blister."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Pack size on site (10x30) may differ from supplier's unit"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/amloheal-5/"
+  ]
+ },
+ {
+  "sr": 90,
+  "sku": "IMP-0090",
+  "name": "AMLOHEAL AT",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (brand family owner; AT variant not listed)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amloheal-5/",
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No Amloheal AT (amlodipine + atenolol) on Healing Pharma site; strengths unknown (row has no strength). Healing lists 'Atenheal 100' separately.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official page/image for AT variant."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Variant not on official site",
+   "Strength missing in source row"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=amloheal%20at"
+  ]
+ },
+ {
+  "sr": 91,
+  "sku": "IMP-0091",
+  "name": "AMLPI 10MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No brand 'AMLPI' found anywhere. Almost certainly a typo of 'AMLIP 10MG' (Cipla) - same generic and same price (1.5) as SR 85.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Not searched further - brand does not exist as spelled."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Probable misspelling/duplicate of SR 85 AMLIP 10MG - do not merge without human decision"
+  ],
+  "sources_consulted": [
+   "web search: \"AMLPI 10\" (no hits)"
+  ]
+ },
+ {
+  "sr": 92,
+  "sku": "IMP-0092",
+  "name": "AMOTIC MD 4MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "1mg lists Amotic-MD 4mg (ondansetron mouth-dissolving, strip of 10) but marketer not retrievable. Web-search budget for the session ran out before further lookups; no official site identified.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed"
+  ],
+  "sources_consulted": [
+   "web search: \"AMOTIC MD 4\" ondansetron manufacturer"
+  ]
+ },
+ {
+  "sr": 93,
+  "sku": "IMP-0093",
+  "name": "AMOXIPAN 250MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No hit for 'AMOXIPAN'; similar: Amoxivan 250 capsule. Possible misspelling.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer source found, so no image evaluated."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; possible misspelling"
+  ],
+  "sources_consulted": [
+   "web search: \"Amoxipan 250\" amoxycillin"
+  ]
+ },
+ {
+  "sr": 94,
+  "sku": "IMP-0094",
+  "name": "AMOXYCLAV 1GM",
+  "manufacturer": "Abbott Healthcare Pvt. Ltd. (per official Abbott India price list; composition not stated there)",
+  "manufacturer_source_url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "official_product_page_url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "composition_on_source": "AMOXYCLAV 1GM TABLET (price list row; no composition given)",
+  "strength": "1 g (split not stated)",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Brand/strength row exists on Abbott list; amoxicillin/clavulanate split (e.g. 875+125) not stated on official source.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No Amoxyclav product page/image on abbott.in (brand absent from anti-infectives page)."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Composition not confirmed on an official page (price list only)",
+   "'Amoxyclav' is a generic-sounding name also used by other firms on B2B sites - confirm supplier's maker"
+  ],
+  "sources_consulted": [
+   "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+   "https://www.abbott.in/products/therapy-areas/anti-infectives.html"
+  ]
+ },
+ {
+  "sr": 95,
+  "sku": "IMP-0095",
+  "name": "AMOXYCLAV 375MG",
+  "manufacturer": "Abbott Healthcare Pvt. Ltd. (per official Abbott India price list; composition not stated there)",
+  "manufacturer_source_url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "official_product_page_url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "composition_on_source": "AMOXYCLAV 375 MG TABLETS (price list row; no composition given)",
+  "strength": "375 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Row exists on Abbott list; split (250+125) not stated on official source.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No Amoxyclav product page/image on abbott.in (brand absent from anti-infectives page)."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Composition not confirmed on an official page (price list only)",
+   "'Amoxyclav' is a generic-sounding name also used by other firms on B2B sites - confirm supplier's maker"
+  ],
+  "sources_consulted": [
+   "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+   "https://www.abbott.in/products/therapy-areas/anti-infectives.html"
+  ]
+ },
+ {
+  "sr": 96,
+  "sku": "IMP-0096",
+  "name": "AMOXYCLAV 625MG",
+  "manufacturer": "Abbott Healthcare Pvt. Ltd. (per official Abbott India price list; composition not stated there)",
+  "manufacturer_source_url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "official_product_page_url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "composition_on_source": "AMOXYCLAV 625 TABS 10s / 6's (price list row; no composition given)",
+  "strength": "625 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Row exists on Abbott list; split (500+125) not stated on official source. Pack 10s and 6s both listed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No Amoxyclav product page/image on abbott.in (brand absent from anti-infectives page)."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Composition not confirmed on an official page (price list only)",
+   "'Amoxyclav' is a generic-sounding name also used by other firms on B2B sites - confirm supplier's maker"
+  ],
+  "sources_consulted": [
+   "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+   "https://www.abbott.in/products/therapy-areas/anti-infectives.html"
+  ]
+ },
+ {
+  "sr": 97,
+  "sku": "IMP-0097",
+  "name": "AMOXYCLAV DRY SYP 30ML",
+  "manufacturer": "Abbott Healthcare Pvt. Ltd. (per official Abbott India price list; composition not stated there)",
+  "manufacturer_source_url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "official_product_page_url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "composition_on_source": "Amoxyclav Dry Syrup 30ml HDPE bottle (also 'AMOXYCLAV SAFE DRY SYRUP 30ml' and 'Amoxyclav Duo Dry Syrup 30 ml') (price list row; no composition given)",
+  "strength": null,
+  "dosage_form": "DRY SYRUP",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Three different 30 ml Amoxyclav dry syrups on Abbott list - cannot tell which one the supplier means; strengths not stated.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No Amoxyclav product page/image on abbott.in (brand absent from anti-infectives page)."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Composition not confirmed on an official page (price list only)",
+   "'Amoxyclav' is a generic-sounding name also used by other firms on B2B sites - confirm supplier's maker",
+   "Ambiguous variant (plain / Safe / Duo)",
+   "Probable duplicate of SR 98 (same name variant, same price 40)"
+  ],
+  "sources_consulted": [
+   "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+   "https://www.abbott.in/products/therapy-areas/anti-infectives.html"
+  ]
+ },
+ {
+  "sr": 98,
+  "sku": "IMP-0098",
+  "name": "AMOXYCLAV DRY SYRP 30ML",
+  "manufacturer": "Abbott Healthcare Pvt. Ltd. (per official Abbott India price list; composition not stated there)",
+  "manufacturer_source_url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "official_product_page_url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "composition_on_source": "Amoxyclav Dry Syrup 30ml HDPE bottle (also 'AMOXYCLAV SAFE DRY SYRUP 30ml' and 'Amoxyclav Duo Dry Syrup 30 ml') (price list row; no composition given)",
+  "strength": null,
+  "dosage_form": "DRY SYRUP",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Same as SR 97.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No Amoxyclav product page/image on abbott.in (brand absent from anti-infectives page)."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Composition not confirmed on an official page (price list only)",
+   "'Amoxyclav' is a generic-sounding name also used by other firms on B2B sites - confirm supplier's maker",
+   "Ambiguous variant (plain / Safe / Duo)",
+   "Probable duplicate of SR 97 ('DRY SYRP' vs 'DRY SYP', same price 40)"
+  ],
+  "sources_consulted": [
+   "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+   "https://www.abbott.in/products/therapy-areas/anti-infectives.html"
+  ]
+ },
+ {
+  "sr": 99,
+  "sku": "IMP-0099",
+  "name": "AMOXYHEAL CV 1000MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer); pack states 'Manufactured by: Malik Lifesciences Pvt. Ltd. (A subsidiary of Akums Drugs & Pharmaceuticals Ltd.), Haridwar'",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amoxyheal-cv-1000/",
+  "official_product_page_url": "https://www.healingpharma.in/product/amoxyheal-cv-1000/",
+  "composition_on_source": "Each film coated tablet: Amoxycillin Trihydrate IP eq. to Amoxycillin 875 mg; Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 125 mg",
+  "strength": "875 mg + 125 mg (1000 mg)",
+  "dosage_form": "TABLET",
+  "pack_size": "1 x 6 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Matches list (amoxicillin + potassium clavulanate 1000 mg). Note: page body text refers to 'Augmine 1000 Tablet' (copied text naming a different brand) - not used.",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Amoxyheal-CV-1000-new.jpg",
+   "page_url": "https://www.healingpharma.in/product/amoxyheal-cv-1000/",
+   "local_file": "data/enrichment/images_raw/IMP-0099.jpg",
+   "visible_pack_text": "Rx Amoxycillin and Potassium Clavulanate Tablets IP 1000 mg; Amoxyheal-CV 1000 Tablets; 1x6 Tablets; Healing Pharma; blister: Each film coated tablet contains Amoxycillin Trihydrate IP eq. to Amoxycillin 875 mg, Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 125 mg; Mfg. Lic. No. 48/UA/SC/P-2013; Manufactured by Malik Lifesciences Pvt. Ltd.",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Carton + blister; list name says 1000MG, pack 1000 mg."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Official page text mentions another brand ('Augmine') - copied content, description not reused"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=amoxy",
+   "https://www.healingpharma.in/product/amoxyheal-cv-1000/"
+  ]
+ },
+ {
+  "sr": 100,
+  "sku": "IMP-0100",
+  "name": "AMOXYHEAL CV 375MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer); blister names Malik Lifesciences (Akums subsidiary) as manufacturer (partly legible)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amoxyheal-cv-375/",
+  "official_product_page_url": "https://www.healingpharma.in/product/amoxyheal-cv-375/",
+  "composition_on_source": "Amoxycillin and Potassium Clavulanate Tablets IP 375 mg (blister: amoxycillin 250 mg + clavulanic acid 125 mg)",
+  "strength": "250 mg + 125 mg (375 mg)",
+  "dosage_form": "TABLET",
+  "pack_size": "1 x 10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Matches list. Page body text refers to 'Augmine 375' (another brand) - not used.",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Amoxyheal-CV-375.jpeg",
+   "page_url": "https://www.healingpharma.in/product/amoxyheal-cv-375/",
+   "local_file": "data/enrichment/images_raw/IMP-0100.jpeg",
+   "visible_pack_text": "Rx Amoxycillin and Potassium Clavulanate Tablets IP 375 mg; Amoxyheal-CV 375 Tablets; 1 x 10 Tablets; Healing Pharma; blister (blurry): ...250 mg ... 125 mg",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Carton text sharp; blister text partly blurry."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Official page text mentions another brand ('Augmine')"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/amoxyheal-cv-375/"
+  ]
+ }
+]

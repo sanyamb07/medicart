@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1434,
+  "name": "KAYMEDROL 4MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "1.5",
+  "sku": "IMP-1434"
+ },
+ {
+  "sr": 1435,
+  "name": "KAYMEDROL 8MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "2.5",
+  "sku": "IMP-1435"
+ },
+ {
+  "sr": 1436,
+  "name": "K-DOC 200MG",
+  "generic": "",
+  "price": "3",
+  "sku": "IMP-1436"
+ },
+ {
+  "sr": 1437,
+  "name": "KEMNICOL 500MG",
+  "generic": "CHLORAMPHENICOL",
+  "price": "7",
+  "sku": "IMP-1437"
+ },
+ {
+  "sr": 1438,
+  "name": "KENACORT 0.1% ORAL PASTE",
+  "generic": "TRIAMCINOLONE",
+  "price": "140",
+  "sku": "IMP-1438"
+ },
+ {
+  "sr": 1439,
+  "name": "KENACORT 10MG INJ 1ML",
+  "generic": "TRIAMCINOLONE",
+  "price": "70",
+  "sku": "IMP-1439"
+ },
+ {
+  "sr": 1440,
+  "name": "KENACORT 40INJ/ML PFS INJ 1ML",
+  "generic": "TRIAMCINOLONE",
+  "price": "150",
+  "sku": "IMP-1440"
+ },
+ {
+  "sr": 1441,
+  "name": "KENACORT 40MG INJ 1ML",
+  "generic": "TRIAMCINOLONE",
+  "price": "165",
+  "sku": "IMP-1441"
+ },
+ {
+  "sr": 1442,
+  "name": "KENACORT 4MG",
+  "generic": "TRIAMCINOLONE",
+  "price": "13",
+  "sku": "IMP-1442"
+ },
+ {
+  "sr": 1443,
+  "name": "KERENDIA 10MG",
+  "generic": "FINERENONE",
+  "price": "78.5",
+  "sku": "IMP-1443"
+ },
+ {
+  "sr": 1444,
+  "name": "KETANOV INJ 1ML",
+  "generic": "KETOROLAC TROMETHAMINE",
+  "price": "31",
+  "sku": "IMP-1444"
+ },
+ {
+  "sr": 1445,
+  "name": "KETASMA TAB",
+  "generic": "KETOTIFEN  FUMARATE",
+  "price": "8",
+  "sku": "IMP-1445"
+ },
+ {
+  "sr": 1446,
+  "name": "KETOCHLOR SHAMPOO VET 200ML",
+  "generic": "KETOCONAZOLE & CHLORHEXIDINE",
+  "price": "320",
+  "sku": "IMP-1446"
+ },
+ {
+  "sr": 1447,
+  "name": "KETOCIP SHAMPOO 1%",
+  "generic": "KETOCONAZOLE",
+  "price": "95",
+  "sku": "IMP-1447"
+ },
+ {
+  "sr": 1448,
+  "name": "KETOCIP SHAMPOO 2% 100ML",
+  "generic": "KETOCONAZOLE",
+  "price": "90",
+  "sku": "IMP-1448"
+ },
+ {
+  "sr": 1449,
+  "name": "KETOCONOL 200MG",
+  "generic": "KETOCONAZOLE",
+  "price": "3.5",
+  "sku": "IMP-1449"
+ },
+ {
+  "sr": 1450,
+  "name": "KETOFLY TAB",
+  "generic": "KETOCONAZOLE",
+  "price": "3.5",
+  "sku": "IMP-1450"
+ },
+ {
+  "sr": 1451,
+  "name": "KETOFORCE 200MG",
+  "generic": "KETOCONAZOLE",
+  "price": "2.5",
+  "sku": "IMP-1451"
+ },
+ {
+  "sr": 1452,
+  "name": "KETOFORCE CREAM 15GM",
+  "generic": "KETOCONAZOLE",
+  "price": "25",
+  "sku": "IMP-1452"
+ },
+ {
+  "sr": 1453,
+  "name": "KETOFORD OINT 15GM",
+  "generic": "KETOCONAZOLE",
+  "price": "25",
+  "sku": "IMP-1453"
+ },
+ {
+  "sr": 1454,
+  "name": "KETOFORD TAB",
+  "generic": "KETOCONAZOLE",
+  "price": "2",
+  "sku": "IMP-1454"
+ },
+ {
+  "sr": 1455,
+  "name": "KETOMAC CREAM 15GM",
+  "generic": "KETOCONAZOLE",
+  "price": "25",
+  "sku": "IMP-1455"
+ },
+ {
+  "sr": 1456,
+  "name": "KETOROKEM INJ 1ML",
+  "generic": "KETOROLAC TROMETHAMINE",
+  "price": "8",
+  "sku": "IMP-1456"
+ },
+ {
+  "sr": 1457,
+  "name": "KETROCAN 30MG INJ",
+  "generic": "KETOROLAC TROMETHAMINE",
+  "price": "7.5",
+  "sku": "IMP-1457"
+ },
+ {
+  "sr": 1458,
+  "name": "KETROHEAL DT 10MG",
+  "generic": "KETOROLAC TROMETHAMINE",
+  "price": "2",
+  "sku": "IMP-1458"
+ },
+ {
+  "sr": 1459,
+  "name": "KILLPREG KIT",
+  "generic": "MIFEPRISTONE & MISOPROSTOL",
+  "price": "55",
+  "sku": "IMP-1459"
+ },
+ {
+  "sr": 1462,
+  "name": "KOJIC CREAM 25GM",
+  "generic": "SKIN LIGHTENING CREAM",
+  "price": "380",
+  "sku": "IMP-1462"
+ },
+ {
+  "sr": 1463,
+  "name": "KOLCHISMART 0.5MG",
+  "generic": "COLCHICINE",
+  "price": "1.5",
+  "sku": "IMP-1463"
+ },
+ {
+  "sr": 1464,
+  "name": "KOLCHISMART 0.6MG",
+  "generic": "COLCHICINE",
+  "price": "2.5",
+  "sku": "IMP-1464"
+ },
+ {
+  "sr": 1465,
+  "name": "KOMEC ORAL PASTE",
+  "generic": "IVERMECTIN",
+  "price": "300",
+  "sku": "IMP-1465"
+ },
+ {
+  "sr": 1466,
+  "name": "KONAQUEEN 100MG",
+  "generic": "FLUCONAZOLE",
+  "price": "3.5",
+  "sku": "IMP-1466"
+ },
+ {
+  "sr": 1467,
+  "name": "KONAQUEEN 150MG",
+  "generic": "FLUCONAZOLE",
+  "price": "4",
+  "sku": "IMP-1467"
+ },
+ {
+  "sr": 1468,
+  "name": "KONAQUEEN 200MG",
+  "generic": "FLUCONAZOLE",
+  "price": "4.5",
+  "sku": "IMP-1468"
+ },
+ {
+  "sr": 1469,
+  "name": "KONAQUEEN 50MG",
+  "generic": "FLUCONAZOLE",
+  "price": "2.5",
+  "sku": "IMP-1469"
+ },
+ {
+  "sr": 1470,
+  "name": "KRRISTA BLUE P TAB",
+  "generic": "DAPOXETINE+SILDENAFIL",
+  "price": "17",
+  "sku": "IMP-1470"
+ },
+ {
+  "sr": 1471,
+  "name": "KRRISTA POWER",
+  "generic": "VARDENAFIL  & DAPXETINE",
+  "price": "25",
+  "sku": "IMP-1471"
+ },
+ {
+  "sr": 1472,
+  "name": "KRYXANA 200MG",
+  "generic": "RIBOCICLIB",
+  "price": "1070",
+  "sku": "IMP-1472"
+ },
+ {
+  "sr": 1473,
+  "name": "KUFFDRYL D CAP",
+  "generic": "DIPHENHYDRAMINE",
+  "price": "1.5",
+  "sku": "IMP-1473"
+ },
+ {
+  "sr": 1474,
+  "name": "KYROGESIC SR 75MG",
+  "generic": "Diclofenac Potassium",
+  "price": "3",
+  "sku": "IMP-1474"
+ },
+ {
+  "sr": 1475,
+  "name": "L CARNIBOL INJ 5ML",
+  "generic": "L-CARNITINE",
+  "price": "115",
+  "sku": "IMP-1475"
+ },
+ {
+  "sr": 1476,
+  "name": "L PRED DROP 5ML",
+  "generic": "LOTEPREDNOL ETABONATE",
+  "price": "205",
+  "sku": "IMP-1476"
+ },
+ {
+  "sr": 1477,
+  "name": "L VIT 12MG INJ 30ML",
+  "generic": "CYANOCOBALAMIN",
+  "price": "25",
+  "sku": "IMP-1477"
+ },
+ {
+  "sr": 1478,
+  "name": "LABETA 100MG",
+  "generic": "LABETALOL",
+  "price": "5",
+  "sku": "IMP-1478"
+ },
+ {
+  "sr": 1479,
+  "name": "LABMOX 250MG",
+  "generic": "AMOXYCILLIN",
+  "price": "2",
+  "sku": "IMP-1479"
+ },
+ {
+  "sr": 1480,
+  "name": "LABMOX 500MG",
+  "generic": "AMOXYCILLIN",
+  "price": "3",
+  "sku": "IMP-1480"
+ },
+ {
+  "sr": 1481,
+  "name": "LACOMA PF EYE DROPS",
+  "generic": "LATANOPROST",
+  "price": "415",
+  "sku": "IMP-1481"
+ },
+ {
+  "sr": 1482,
+  "name": "LACOSAM 50MG",
+  "generic": "LACOSAMIDE",
+  "price": "8",
+  "sku": "IMP-1482"
+ },
+ {
+  "sr": 1483,
+  "name": "LADY EVA TAB",
+  "generic": "TADALAFIL",
+  "price": "11.5",
+  "sku": "IMP-1483"
+ },
+ {
+  "sr": 1484,
+  "name": "LADYGRA 100MG",
+  "generic": "SILDENAFIL CITRATE",
+  "price": "3",
+  "sku": "IMP-1484"
+ },
+ {
+  "sr": 1485,
+  "name": "LAMEZ 50MG",
+  "generic": "LAMOTRIGINE",
+  "price": "9.5",
+  "sku": "IMP-1485"
+ }
+]

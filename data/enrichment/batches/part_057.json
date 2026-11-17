@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2972,
+  "name": "TRETIHEAL 0.025% CREAM 20GM",
+  "generic": "TRETINOIN",
+  "price": "25",
+  "sku": "IMP-2972"
+ },
+ {
+  "sr": 2973,
+  "name": "TRETIHEAL 0.05% CREAM 20GM",
+  "generic": "TRETINOIN",
+  "price": "25",
+  "sku": "IMP-2973"
+ },
+ {
+  "sr": 2974,
+  "name": "TRETIJON 0.025%",
+  "generic": "TRETINOIN",
+  "price": "25",
+  "sku": "IMP-2974"
+ },
+ {
+  "sr": 2975,
+  "name": "TRETIJON 0.05% CREAM 30GM",
+  "generic": "TRETINOIN",
+  "price": "25",
+  "sku": "IMP-2975"
+ },
+ {
+  "sr": 2976,
+  "name": "TRETIJON 0.1% 30GM",
+  "generic": "TRETINOIN",
+  "price": "36",
+  "sku": "IMP-2976"
+ },
+ {
+  "sr": 2977,
+  "name": "TRETIN 0.025% CREAM 30GM",
+  "generic": "TRETINOIN",
+  "price": "165",
+  "sku": "IMP-2977"
+ },
+ {
+  "sr": 2978,
+  "name": "TRETIN 0.05% CREAM 30GM",
+  "generic": "TRETINOIN",
+  "price": "170",
+  "sku": "IMP-2978"
+ },
+ {
+  "sr": 2979,
+  "name": "TRETIN 0.05% OINT 30GM",
+  "generic": "TRETINOIN",
+  "price": "180",
+  "sku": "IMP-2979"
+ },
+ {
+  "sr": 2980,
+  "name": "TRETIVA 20MG TAB",
+  "generic": "ISOTRETINOIN",
+  "price": "21",
+  "sku": "IMP-2980"
+ },
+ {
+  "sr": 2981,
+  "name": "TRETIVA 30MG",
+  "generic": "ISOTRETINOIN",
+  "price": "27",
+  "sku": "IMP-2981"
+ },
+ {
+  "sr": 2982,
+  "name": "TRETIVA 40MG",
+  "generic": "ISOTRETINOIN",
+  "price": "33",
+  "sku": "IMP-2982"
+ },
+ {
+  "sr": 2983,
+  "name": "TRETIVA 5MG",
+  "generic": "ISOTRETINOIN",
+  "price": "8.5",
+  "sku": "IMP-2983"
+ },
+ {
+  "sr": 2984,
+  "name": "TRETOIN 0.1% GEL",
+  "generic": "TRETINOIN",
+  "price": "35",
+  "sku": "IMP-2984"
+ },
+ {
+  "sr": 2985,
+  "name": "TRIAMACIN CREAM 15GM",
+  "generic": "TRIAMCINOLONE ACETONIDE",
+  "price": "55",
+  "sku": "IMP-2985"
+ },
+ {
+  "sr": 2986,
+  "name": "TRICANORT 40MG INJ 1ML",
+  "generic": "TRIAMCINOLONE ACETONIDE",
+  "price": "30",
+  "sku": "IMP-2986"
+ },
+ {
+  "sr": 2987,
+  "name": "TRICLABEND 250MG",
+  "generic": "TRICLABENDAZOLE",
+  "price": "27",
+  "sku": "IMP-2987"
+ },
+ {
+  "sr": 2988,
+  "name": "TRICLABEND 250MG",
+  "generic": "Triclabendazole",
+  "price": "18",
+  "sku": "IMP-2988"
+ },
+ {
+  "sr": 2989,
+  "name": "TRICLABEND 500MG",
+  "generic": "Triclabendazole",
+  "price": "25",
+  "sku": "IMP-2989"
+ },
+ {
+  "sr": 2990,
+  "name": "TRIDON 25MG",
+  "generic": "TRAZODONE HCL",
+  "price": "2",
+  "sku": "IMP-2990"
+ },
+ {
+  "sr": 2991,
+  "name": "TRIF 5MG",
+  "generic": "TRIFLUOPERAZINE",
+  "price": "1",
+  "sku": "IMP-2991"
+ },
+ {
+  "sr": 2992,
+  "name": "TRIGLOW CREAM 20GM",
+  "generic": "TRETINOIN+ HYDROQUINONE + FLUOCINOLONE",
+  "price": "430",
+  "sku": "IMP-2992"
+ },
+ {
+  "sr": 2993,
+  "name": "TRILINE 75MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "3.5",
+  "sku": "IMP-2993"
+ },
+ {
+  "sr": 2994,
+  "name": "TRILLINE 75MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "3.5",
+  "sku": "IMP-2994"
+ },
+ {
+  "sr": 2995,
+  "name": "TRILUMA CREAM 15GM",
+  "generic": "FLUOCINOLONE ACETONIDE-+ HYDROQUINONE + TRETINOIN",
+  "price": "620",
+  "sku": "IMP-2995"
+ },
+ {
+  "sr": 2996,
+  "name": "TRIMECORT GEL 0.1% 5GM",
+  "generic": "TRIAMCINOLONE ACETONIDE",
+  "price": "50",
+  "sku": "IMP-2996"
+ },
+ {
+  "sr": 2997,
+  "name": "TRIMEZEN MR TAB",
+  "generic": "TRIMETAZIDINE",
+  "price": "3",
+  "sku": "IMP-2997"
+ },
+ {
+  "sr": 2998,
+  "name": "TRIMINE 75MG",
+  "generic": "IMIPRAMINE",
+  "price": "2",
+  "sku": "IMP-2998"
+ },
+ {
+  "sr": 2999,
+  "name": "TRIMZOLE DS TAB",
+  "generic": "SULPHAMETHOXAZOLE- + CO-TRIMETHOPRIM",
+  "price": "2.5",
+  "sku": "IMP-2999"
+ },
+ {
+  "sr": 3000,
+  "name": "TRINEX TAB",
+  "generic": "TIZANIDINE",
+  "price": "1",
+  "sku": "IMP-3000"
+ },
+ {
+  "sr": 3001,
+  "name": "TRIPSOOTH 25MG TAB.",
+  "generic": "AMITRIPTYLINE",
+  "price": "1.5",
+  "sku": "IMP-3001"
+ },
+ {
+  "sr": 3002,
+  "name": "TRIPSOOTH 25MG TAB.",
+  "generic": "Amitriptyline",
+  "price": "1.5",
+  "sku": "IMP-3002"
+ },
+ {
+  "sr": 3003,
+  "name": "TRIPTYDER 10MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "1",
+  "sku": "IMP-3003"
+ },
+ {
+  "sr": 3004,
+  "name": "TRIQUILAR TAB",
+  "generic": "ETHINYLESTRADIOL + LEVONORGESTREL",
+  "price": "8.5",
+  "sku": "IMP-3004"
+ },
+ {
+  "sr": 3005,
+  "name": "TRISOLON 40MG INJ 1ML",
+  "generic": "TRIAMCINOLONE ACETONIDE",
+  "price": "25",
+  "sku": "IMP-3005"
+ },
+ {
+  "sr": 3006,
+  "name": "TRITIN 10MG",
+  "generic": "FLUOXETINE",
+  "price": "1.75",
+  "sku": "IMP-3006"
+ },
+ {
+  "sr": 3007,
+  "name": "TRIVON 10MG",
+  "generic": "TRANYLCYPROMINE",
+  "price": "17.5",
+  "sku": "IMP-3007"
+ },
+ {
+  "sr": 3008,
+  "name": "TRN 500MG",
+  "generic": "TRANEXAMIC",
+  "price": "7",
+  "sku": "IMP-3008"
+ },
+ {
+  "sr": 3009,
+  "name": "TROXONE 1GM INJ",
+  "generic": "CEFTRIAXONE",
+  "price": "28",
+  "sku": "IMP-3009"
+ },
+ {
+  "sr": 3010,
+  "name": "TROYCON 100MG",
+  "generic": "ITRACONAZOLE",
+  "price": "3.75",
+  "sku": "IMP-3010"
+ },
+ {
+  "sr": 3011,
+  "name": "TROYCON 200MG",
+  "generic": "ITRACONAZOLE",
+  "price": "6",
+  "sku": "IMP-3011"
+ },
+ {
+  "sr": 3012,
+  "name": "TRULICITY 0.75/0.05ML",
+  "generic": "DULAGLUTIDE",
+  "price": "4650",
+  "sku": "IMP-3012"
+ },
+ {
+  "sr": 3013,
+  "name": "TRULIMAX 500 TAB",
+  "generic": "AZITHROMYCIN",
+  "price": "23.5",
+  "sku": "IMP-3013"
+ },
+ {
+  "sr": 3014,
+  "name": "TRUSTIVA TAB",
+  "generic": "TENOFOVIR+EFAVIRENZ AND EMTRICITABINE",
+  "price": "36",
+  "sku": "IMP-3014"
+ },
+ {
+  "sr": 3015,
+  "name": "TRYPTICAN 10MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "1",
+  "sku": "IMP-3015"
+ },
+ {
+  "sr": 3016,
+  "name": "TRYPTICAN 25MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "1",
+  "sku": "IMP-3016"
+ },
+ {
+  "sr": 3017,
+  "name": "TRYPTICANN 25MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "1",
+  "sku": "IMP-3017"
+ },
+ {
+  "sr": 3018,
+  "name": "TRYPTINOL 10MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "1",
+  "sku": "IMP-3018"
+ },
+ {
+  "sr": 3019,
+  "name": "TRYPTINOL 25MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "1.5",
+  "sku": "IMP-3019"
+ },
+ {
+  "sr": 3021,
+  "name": "TYDOL 100MG",
+  "generic": "TAPENTADOL",
+  "price": "31",
+  "sku": "IMP-3021"
+ },
+ {
+  "sr": 3022,
+  "name": "TYDOL 50MG",
+  "generic": "TAPENTADOL",
+  "price": "13",
+  "sku": "IMP-3022"
+ }
+]

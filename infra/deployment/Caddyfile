@@ -1,0 +1,25 @@
+# Caddy automatically obtains and renews a Let's Encrypt certificate for this
+# domain — no manual cert management. This gives the VPS a real origin
+# certificate, so Cloudflare can run in "Full (strict)" SSL mode (the
+# public-facing hop AND the Cloudflare-to-origin hop are both genuinely
+# encrypted), rather than "Flexible" mode (which leaves that second hop
+# plaintext — don't use Flexible for anything handling prescriptions).
+#
+# Prerequisite: DNS A/AAAA record for api.onetruedose.com pointing at this
+# VPS, proxied through Cloudflare (orange-clouded) so Caddy's ACME HTTP
+# challenge is reachable on port 80.
+
+api.onetruedose.com {
+	reverse_proxy api:8080
+
+	encode gzip
+
+	# Caddy passes CF-Connecting-IP through unchanged — it doesn't need to set
+	# or rewrite anything here. The API reads that header directly
+	# (gin.PlatformCloudflare in cmd/api/main.go) for the real client IP.
+
+	log {
+		output stdout
+		format json
+	}
+}

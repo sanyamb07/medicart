@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1486,
+  "name": "LAMEZ OD 150",
+  "generic": "LAMOTRIGINE",
+  "price": "25",
+  "sku": "IMP-1486"
+ },
+ {
+  "sr": 1487,
+  "name": "LAMIFIL TAB",
+  "generic": "TERBINAFINE",
+  "price": "6",
+  "sku": "IMP-1487"
+ },
+ {
+  "sr": 1488,
+  "name": "LAMIGHT SR 200MG",
+  "generic": "LAMOTRIGINE",
+  "price": "9",
+  "sku": "IMP-1488"
+ },
+ {
+  "sr": 1489,
+  "name": "LAMIGINE 50MG",
+  "generic": "LAMOTRIGINE",
+  "price": "2.5",
+  "sku": "IMP-1489"
+ },
+ {
+  "sr": 1490,
+  "name": "LAMITOR DT 50 TABLET",
+  "generic": "LAMOTRIGINE",
+  "price": "16",
+  "sku": "IMP-1490"
+ },
+ {
+  "sr": 1491,
+  "name": "LAMIVIR 150MG",
+  "generic": "LAMIVUDINE",
+  "price": "10",
+  "sku": "IMP-1491"
+ },
+ {
+  "sr": 1492,
+  "name": "LAMIVIR HBV 100MG",
+  "generic": "LAMIVUDINE",
+  "price": "10",
+  "sku": "IMP-1492"
+ },
+ {
+  "sr": 1493,
+  "name": "LAMOTRIG 100MG",
+  "generic": "LAMOTRIGINE",
+  "price": "3.5",
+  "sku": "IMP-1493"
+ },
+ {
+  "sr": 1494,
+  "name": "LAMOTRIG 100MG DT",
+  "generic": "LAMOTRIGINE",
+  "price": "3",
+  "sku": "IMP-1494"
+ },
+ {
+  "sr": 1495,
+  "name": "LAMOX D/S",
+  "generic": "AMOXYCILLIN SUSP",
+  "price": "12",
+  "sku": "IMP-1495"
+ },
+ {
+  "sr": 1496,
+  "name": "LANOXIN TAB",
+  "generic": "DIGOXIN",
+  "price": "1.5",
+  "sku": "IMP-1496"
+ },
+ {
+  "sr": 1497,
+  "name": "LANSOSTRUM 30MG",
+  "generic": "DEXLANSOPRAZOLE",
+  "price": "5.5",
+  "sku": "IMP-1497"
+ },
+ {
+  "sr": 1498,
+  "name": "LANSOSTRUM 60MG",
+  "generic": "DEXLANSOPRAZOLE",
+  "price": "7.5",
+  "sku": "IMP-1498"
+ },
+ {
+  "sr": 1499,
+  "name": "LANTUS SOLOSTAR INJ 3ML",
+  "generic": "INSULIN GLARGIN",
+  "price": "650",
+  "sku": "IMP-1499"
+ },
+ {
+  "sr": 1500,
+  "name": "LANZOL 30MG",
+  "generic": "LANSOPRAZOLE",
+  "price": "2.5",
+  "sku": "IMP-1500"
+ },
+ {
+  "sr": 1501,
+  "name": "LARIAGO DS TAB",
+  "generic": "CHLOROQUINE",
+  "price": "3",
+  "sku": "IMP-1501"
+ },
+ {
+  "sr": 1502,
+  "name": "LARIAGO TAB",
+  "generic": "CHLOROQUINE",
+  "price": "1.5",
+  "sku": "IMP-1502"
+ },
+ {
+  "sr": 1503,
+  "name": "LASHISMA EYE DROP",
+  "generic": "BIMATOPROST OPHTHALMIC SOLUTION",
+  "price": "1145",
+  "sku": "IMP-1503"
+ },
+ {
+  "sr": 1504,
+  "name": "LASILACTONE 50MG",
+  "generic": "FUROSEMIDE + SPIRONOLACTONE",
+  "price": "5.5",
+  "sku": "IMP-1504"
+ },
+ {
+  "sr": 1505,
+  "name": "LASIX 40MG",
+  "generic": "FUROSEMIDE",
+  "price": "1.5",
+  "sku": "IMP-1505"
+ },
+ {
+  "sr": 1506,
+  "name": "LATOPROST EYE DROP",
+  "generic": "LATANOPROST",
+  "price": "480",
+  "sku": "IMP-1506"
+ },
+ {
+  "sr": 1507,
+  "name": "LAXIDYL TAB",
+  "generic": "BISACODYL",
+  "price": "1",
+  "sku": "IMP-1507"
+ },
+ {
+  "sr": 1508,
+  "name": "L-CARNIBOL TAB",
+  "generic": "L CARNITINE",
+  "price": "32",
+  "sku": "IMP-1508"
+ },
+ {
+  "sr": 1509,
+  "name": "LDN 1.5MG",
+  "generic": "NALTREXONE",
+  "price": "4.5",
+  "sku": "IMP-1509"
+ },
+ {
+  "sr": 1510,
+  "name": "LDN 3MG",
+  "generic": "NALTREXONE",
+  "price": "7",
+  "sku": "IMP-1510"
+ },
+ {
+  "sr": 1511,
+  "name": "LDN 4.5MG",
+  "generic": "NALTREXONE",
+  "price": "10",
+  "sku": "IMP-1511"
+ },
+ {
+  "sr": 1512,
+  "name": "LEECORT 10MG",
+  "generic": "HYDROCORTISONE",
+  "price": "3.5",
+  "sku": "IMP-1512"
+ },
+ {
+  "sr": 1513,
+  "name": "LEEMEDRO TAB",
+  "generic": "MEDROXYPROGESTERONE",
+  "price": "3.5",
+  "sku": "IMP-1513"
+ },
+ {
+  "sr": 1514,
+  "name": "LEEMIGRAN 100MG",
+  "generic": "SUMATRIPTAN",
+  "price": "11",
+  "sku": "IMP-1514"
+ },
+ {
+  "sr": 1515,
+  "name": "LEETREXATE 2.5MG",
+  "generic": "METHOTREXATE",
+  "price": "3",
+  "sku": "IMP-1515"
+ },
+ {
+  "sr": 1516,
+  "name": "LEFUHEAL 20MG",
+  "generic": "LEFLUNOMIDE",
+  "price": "3.5",
+  "sku": "IMP-1516"
+ },
+ {
+  "sr": 1517,
+  "name": "LENALID 5MG",
+  "generic": "LENALIDOMIDE",
+  "price": "49",
+  "sku": "IMP-1517"
+ },
+ {
+  "sr": 1518,
+  "name": "LENANGIO 10MG",
+  "generic": "LENALIDOMIDE",
+  "price": "82",
+  "sku": "IMP-1518"
+ },
+ {
+  "sr": 1519,
+  "name": "LENEL 10MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "1",
+  "sku": "IMP-1519"
+ },
+ {
+  "sr": 1520,
+  "name": "LENEL 25MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "1",
+  "sku": "IMP-1520"
+ },
+ {
+  "sr": 1521,
+  "name": "LENEL 75MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "2",
+  "sku": "IMP-1521"
+ },
+ {
+  "sr": 1522,
+  "name": "LENVAT 10MG",
+  "generic": "LENVATINIB",
+  "price": "146",
+  "sku": "IMP-1522"
+ },
+ {
+  "sr": 1523,
+  "name": "LETHYROX 100MG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.5",
+  "sku": "IMP-1523"
+ },
+ {
+  "sr": 1524,
+  "name": "LETHYROX 125MG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.6",
+  "sku": "IMP-1524"
+ },
+ {
+  "sr": 1525,
+  "name": "LETHYROX 150MG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.75",
+  "sku": "IMP-1525"
+ },
+ {
+  "sr": 1526,
+  "name": "LETHYROX 25MG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.5",
+  "sku": "IMP-1526"
+ },
+ {
+  "sr": 1527,
+  "name": "LETHYROX 25MG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.5",
+  "sku": "IMP-1527"
+ },
+ {
+  "sr": 1528,
+  "name": "LETHYROX 50MG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.5",
+  "sku": "IMP-1528"
+ },
+ {
+  "sr": 1529,
+  "name": "LETHYROX 75MG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.25",
+  "sku": "IMP-1529"
+ },
+ {
+  "sr": 1530,
+  "name": "LETHYROX 88MG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.5",
+  "sku": "IMP-1530"
+ },
+ {
+  "sr": 1531,
+  "name": "LETHYROX-125MG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.6",
+  "sku": "IMP-1531"
+ },
+ {
+  "sr": 1532,
+  "name": "LETROHEAL 2.5MG",
+  "generic": "LETROZOLE",
+  "price": "3.5",
+  "sku": "IMP-1532"
+ },
+ {
+  "sr": 1533,
+  "name": "LETRONOL 2.5MG",
+  "generic": "LETROZOLE",
+  "price": "9",
+  "sku": "IMP-1533"
+ },
+ {
+  "sr": 1534,
+  "name": "LEUCORIN 15MG",
+  "generic": "LEUPROLIDE ACETATE",
+  "price": "17",
+  "sku": "IMP-1534"
+ },
+ {
+  "sr": 1535,
+  "name": "LEUPRO Q 11.25MG",
+  "generic": "LEUPROLIDE ACETATE",
+  "price": "4710",
+  "sku": "IMP-1535"
+ }
+]

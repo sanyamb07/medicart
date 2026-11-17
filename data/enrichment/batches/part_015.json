@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 834,
+  "name": "DUTASMART 0.5 MG",
+  "generic": "Dutasteride",
+  "price": "2",
+  "sku": "IMP-0834"
+ },
+ {
+  "sr": 835,
+  "name": "DUTASPOR 0.5 CAPS",
+  "generic": "DUTASTERIDE",
+  "price": "5.5",
+  "sku": "IMP-0835"
+ },
+ {
+  "sr": 836,
+  "name": "DUVANTA 60MG",
+  "generic": "DULOXETINE",
+  "price": "25",
+  "sku": "IMP-0836"
+ },
+ {
+  "sr": 837,
+  "name": "D-VALNEB 250MG TAB.",
+  "generic": "Divalproex sodium ER",
+  "price": "4",
+  "sku": "IMP-0837"
+ },
+ {
+  "sr": 838,
+  "name": "DYRONIB 50MG",
+  "generic": "DASATINIB",
+  "price": "27",
+  "sku": "IMP-0838"
+ },
+ {
+  "sr": 839,
+  "name": "E VITAMIN 400MG",
+  "generic": "VITAMIN E",
+  "price": "2",
+  "sku": "IMP-0839"
+ },
+ {
+  "sr": 840,
+  "name": "EAZYPET MELTAB TAB",
+  "generic": "PRAZIQUANTEL+ PYRANTEL + FENBENDAZOLE",
+  "price": "71",
+  "sku": "IMP-0840"
+ },
+ {
+  "sr": 841,
+  "name": "ECONORM CAP",
+  "generic": "Saccharomyces Boulardii",
+  "price": "39",
+  "sku": "IMP-0841"
+ },
+ {
+  "sr": 842,
+  "name": "ECOSPRIN 150MG TAB",
+  "generic": "ASPIRIN",
+  "price": "1",
+  "sku": "IMP-0842"
+ },
+ {
+  "sr": 843,
+  "name": "ECOSPRIN 325MG",
+  "generic": "ASPIRIN",
+  "price": "1",
+  "sku": "IMP-0843"
+ },
+ {
+  "sr": 844,
+  "name": "ECOSPRIN 325MG",
+  "generic": "ASPIRIN GASTRO RESISTANT",
+  "price": "1",
+  "sku": "IMP-0844"
+ },
+ {
+  "sr": 845,
+  "name": "ECOSPRIN 75MG",
+  "generic": "ASPIRIN",
+  "price": "1",
+  "sku": "IMP-0845"
+ },
+ {
+  "sr": 846,
+  "name": "ECOSPRIN AV 75MG CAP",
+  "generic": "ASPIRIN + ATORVASTATIN",
+  "price": "5.5",
+  "sku": "IMP-0846"
+ },
+ {
+  "sr": 847,
+  "name": "ED TRIAL PACK",
+  "generic": "",
+  "price": "150",
+  "sku": "IMP-0847"
+ },
+ {
+  "sr": 848,
+  "name": "EFLORA CREAM 15GM",
+  "generic": "EFLORNITHINE",
+  "price": "800",
+  "sku": "IMP-0848"
+ },
+ {
+  "sr": 849,
+  "name": "EFON 40MG",
+  "generic": "FLUOXETINE",
+  "price": "2",
+  "sku": "IMP-0849"
+ },
+ {
+  "sr": 850,
+  "name": "EFON 60MG",
+  "generic": "FLUOXETINE",
+  "price": "2.5",
+  "sku": "IMP-0850"
+ },
+ {
+  "sr": 851,
+  "name": "ELBION INJ",
+  "generic": "METHYLCOBALAMIN VITAMIN B12",
+  "price": "7",
+  "sku": "IMP-0851"
+ },
+ {
+  "sr": 852,
+  "name": "ELDERVIT 12INJ 2ML",
+  "generic": "METHYLCOBALAMIN",
+  "price": "10",
+  "sku": "IMP-0852"
+ },
+ {
+  "sr": 853,
+  "name": "ELDOBEN 400MG",
+  "generic": "ALBENDAZOLE",
+  "price": "2.5",
+  "sku": "IMP-0853"
+ },
+ {
+  "sr": 854,
+  "name": "ELEFTHA 150MG INJ",
+  "generic": "TRASTUZUMAB  LYOPHILIZED",
+  "price": "3310",
+  "sku": "IMP-0854"
+ },
+ {
+  "sr": 855,
+  "name": "ELEVAT 20MG",
+  "generic": "FLUOXETINE",
+  "price": "1",
+  "sku": "IMP-0855"
+ },
+ {
+  "sr": 856,
+  "name": "ELIDEL CREAM 10ml",
+  "generic": "PIMECROLIMUS",
+  "price": "510",
+  "sku": "IMP-0856"
+ },
+ {
+  "sr": 857,
+  "name": "ELIMENTA 10MG TAB.",
+  "generic": "Memantine",
+  "price": "1",
+  "sku": "IMP-0857"
+ },
+ {
+  "sr": 858,
+  "name": "ELINIDE 500MG",
+  "generic": "NITAZOXANIDE",
+  "price": "8",
+  "sku": "IMP-0858"
+ },
+ {
+  "sr": 859,
+  "name": "ELIQUIS 2.5MG",
+  "generic": "APIXABAN",
+  "price": "35",
+  "sku": "IMP-0859"
+ },
+ {
+  "sr": 860,
+  "name": "ELIQUIS 5MG",
+  "generic": "APIXABAN",
+  "price": "46",
+  "sku": "IMP-0860"
+ },
+ {
+  "sr": 861,
+  "name": "ELITH 300MG",
+  "generic": "LITHIUM CARBONATE",
+  "price": "2",
+  "sku": "IMP-0861"
+ },
+ {
+  "sr": 862,
+  "name": "ELITH-SR 400 TAB",
+  "generic": "LITHIUM CARBONATE EXTENDED RELEASE",
+  "price": "7",
+  "sku": "IMP-0862"
+ },
+ {
+  "sr": 863,
+  "name": "ELMECTIN 12MG",
+  "generic": "IVERMECTIN",
+  "price": "2",
+  "sku": "IMP-0863"
+ },
+ {
+  "sr": 864,
+  "name": "ELMOGIN OD 100MG",
+  "generic": "LAMOTRIGINE",
+  "price": "3.5",
+  "sku": "IMP-0864"
+ },
+ {
+  "sr": 865,
+  "name": "ELMOX CV 1000MG",
+  "generic": "AMOXYCILLIN & POTASSIUM CLAVULANATE",
+  "price": "12",
+  "sku": "IMP-0865"
+ },
+ {
+  "sr": 866,
+  "name": "ELOCON CREAM 10GM",
+  "generic": "MOMETASONE FURATE",
+  "price": "235",
+  "sku": "IMP-0866"
+ },
+ {
+  "sr": 867,
+  "name": "ELOCON CREAM 30GM",
+  "generic": "MOMETASONE FURATE",
+  "price": "500",
+  "sku": "IMP-0867"
+ },
+ {
+  "sr": 868,
+  "name": "ELOCON CREAM 5GM",
+  "generic": "MOMETASONE FURATE",
+  "price": "95",
+  "sku": "IMP-0868"
+ },
+ {
+  "sr": 869,
+  "name": "ELOCON OINT 30GM",
+  "generic": "MOMETASONE FURATE",
+  "price": "490",
+  "sku": "IMP-0869"
+ },
+ {
+  "sr": 870,
+  "name": "ELOSONE HT CREAM 15GM",
+  "generic": "HYROQUINONE + MOMETASONE + TRETINOIN",
+  "price": "45",
+  "sku": "IMP-0870"
+ },
+ {
+  "sr": 871,
+  "name": "ELOSONE HT CREAM 25GM",
+  "generic": "HYROQUINONE + MOMETASONE + TRETINOIN",
+  "price": "50",
+  "sku": "IMP-0871"
+ },
+ {
+  "sr": 872,
+  "name": "ELTROXIN 100MG",
+  "generic": "THYROXINE",
+  "price": "1.25",
+  "sku": "IMP-0872"
+ },
+ {
+  "sr": 873,
+  "name": "ELTROXIN 75MCG",
+  "generic": "THYROXINE",
+  "price": "1.5",
+  "sku": "IMP-0873"
+ },
+ {
+  "sr": 874,
+  "name": "ELTROXIN 88",
+  "generic": "THYROXINE",
+  "price": "1.5",
+  "sku": "IMP-0874"
+ },
+ {
+  "sr": 875,
+  "name": "ELVIMOX 500MG",
+  "generic": "AMOXYCILLIN TRIHYDRATE",
+  "price": "3",
+  "sku": "IMP-0875"
+ },
+ {
+  "sr": 876,
+  "name": "ELWIMOX 250MG",
+  "generic": "AMOXYCILLIN TRIHYDRATE",
+  "price": "2",
+  "sku": "IMP-0876"
+ },
+ {
+  "sr": 877,
+  "name": "ELYN CREAM",
+  "generic": "EFLORNITHINE HCL",
+  "price": "820",
+  "sku": "IMP-0877"
+ },
+ {
+  "sr": 878,
+  "name": "EMENORM TAB",
+  "generic": "METOCLOPRAMIDE",
+  "price": "1",
+  "sku": "IMP-0878"
+ },
+ {
+  "sr": 879,
+  "name": "EMESET-4 TABS.",
+  "generic": "ONDANSETRON",
+  "price": "5",
+  "sku": "IMP-0879"
+ },
+ {
+  "sr": 880,
+  "name": "EMIGAN SYP",
+  "generic": "PROMETHAZINE HCL",
+  "price": "12.5",
+  "sku": "IMP-0880"
+ },
+ {
+  "sr": 881,
+  "name": "EMPACON 25 TAB",
+  "generic": "EMPAGLIFLOZIN",
+  "price": "31",
+  "sku": "IMP-0881"
+ },
+ {
+  "sr": 882,
+  "name": "EN CLOFERT 50MG",
+  "generic": "ENCLOMIPHENE",
+  "price": "33",
+  "sku": "IMP-0882"
+ },
+ {
+  "sr": 883,
+  "name": "ENALATAB 10MG",
+  "generic": "ENALAPRIL",
+  "price": "1.5",
+  "sku": "IMP-0883"
+ }
+]

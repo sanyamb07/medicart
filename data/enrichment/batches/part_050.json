@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2611,
+  "name": "SUMITOP 50MG",
+  "generic": "SUMATRIPTAN",
+  "price": "8.5",
+  "sku": "IMP-2611"
+ },
+ {
+  "sr": 2612,
+  "name": "SUNFORCE D3 60K CAP",
+  "generic": "CHOLECALCIFEROL",
+  "price": "6",
+  "sku": "IMP-2612"
+ },
+ {
+  "sr": 2613,
+  "name": "SUPATRET 0.04 GEL",
+  "generic": "TRETINOIN",
+  "price": "270",
+  "sku": "IMP-2613"
+ },
+ {
+  "sr": 2614,
+  "name": "SUPATRET C",
+  "generic": "CLINDAMYCIN+ TRETINOIN",
+  "price": "320",
+  "sku": "IMP-2614"
+ },
+ {
+  "sr": 2615,
+  "name": "SUPER AVANA TAB",
+  "generic": "AVANAFIL & DAPOXETINE",
+  "price": "58",
+  "sku": "IMP-2615"
+ },
+ {
+  "sr": 2616,
+  "name": "SUPER FILANA TAB",
+  "generic": "AVANAFIL & DAPOXETINE",
+  "price": "62",
+  "sku": "IMP-2616"
+ },
+ {
+  "sr": 2617,
+  "name": "SUPER FILDENA TAB",
+  "generic": "SILDENAFIL & DAPOXETINE",
+  "price": "14",
+  "sku": "IMP-2617"
+ },
+ {
+  "sr": 2618,
+  "name": "SUPER HIFORCE TAB",
+  "generic": "Sildenafil  & Dapoxetine",
+  "price": "8",
+  "sku": "IMP-2618"
+ },
+ {
+  "sr": 2619,
+  "name": "SUPER KAMAGRA ORAL JELLY",
+  "generic": "SILDENAFIL & DAPOXETINE",
+  "price": "210",
+  "sku": "IMP-2619"
+ },
+ {
+  "sr": 2620,
+  "name": "SUPER KAMAGRA TAB",
+  "generic": "SILDENAFIL & DAPOXETINE",
+  "price": "20.5",
+  "sku": "IMP-2620"
+ },
+ {
+  "sr": 2621,
+  "name": "SUPER KRRISTA",
+  "generic": "TADALAFIL & DAPOXETINE",
+  "price": "15.5",
+  "sku": "IMP-2621"
+ },
+ {
+  "sr": 2622,
+  "name": "SUPER LASH DROPS",
+  "generic": "BIMATOPROST OPHTHALMIC SOLUTION",
+  "price": "135",
+  "sku": "IMP-2622"
+ },
+ {
+  "sr": 2623,
+  "name": "SUPER P FORCE JELLY",
+  "generic": "SILDENAFIL & DAPOXETINE",
+  "price": "120",
+  "sku": "IMP-2623"
+ },
+ {
+  "sr": 2624,
+  "name": "SUPER P FORCE TAB",
+  "generic": "SILDENAFIL & DAPOXETINE",
+  "price": "15",
+  "sku": "IMP-2624"
+ },
+ {
+  "sr": 2625,
+  "name": "SUPER SILDAMAX TAB",
+  "generic": "Sildenafil  & Dapoxetine",
+  "price": "11",
+  "sku": "IMP-2625"
+ },
+ {
+  "sr": 2626,
+  "name": "SUPER SOMA 350MG",
+  "generic": "CARISOPRODOL",
+  "price": "1.5",
+  "sku": "IMP-2626"
+ },
+ {
+  "sr": 2627,
+  "name": "SUPER SOMA 500MG",
+  "generic": "CARISOPRODOL",
+  "price": "2",
+  "sku": "IMP-2627"
+ },
+ {
+  "sr": 2628,
+  "name": "SUPER TADALIS SX 20 TAB",
+  "generic": "TADALAFIL & DAPOXETINE",
+  "price": "25",
+  "sku": "IMP-2628"
+ },
+ {
+  "sr": 2629,
+  "name": "SUPER TADAPOX TAB",
+  "generic": "TADALAFIL & DAPOXETINE",
+  "price": "13",
+  "sku": "IMP-2629"
+ },
+ {
+  "sr": 2630,
+  "name": "SUPER TADARISE TAB",
+  "generic": "TADALAFIL & DAPOXETINE",
+  "price": "11",
+  "sku": "IMP-2630"
+ },
+ {
+  "sr": 2631,
+  "name": "SUPER TADASH",
+  "generic": "TADALAFIL & DAPOXETINE",
+  "price": "8.5",
+  "sku": "IMP-2631"
+ },
+ {
+  "sr": 2632,
+  "name": "SUPER VARDITRA TAB",
+  "generic": "TADALAFIL & DAPOXETINE",
+  "price": "13.5",
+  "sku": "IMP-2632"
+ },
+ {
+  "sr": 2633,
+  "name": "SUPER VIDALISTA TAB",
+  "generic": "TADALAFIL & DAPOXETINE",
+  "price": "11",
+  "sku": "IMP-2633"
+ },
+ {
+  "sr": 2634,
+  "name": "SUPER VILITRA TAB",
+  "generic": "VARDENAFIL + DAPOXETINE",
+  "price": "16",
+  "sku": "IMP-2634"
+ },
+ {
+  "sr": 2635,
+  "name": "SUPER ZHEWITRA TAB",
+  "generic": "VARDENAFIL + DAPOXETINE",
+  "price": "24",
+  "sku": "IMP-2635"
+ },
+ {
+  "sr": 2636,
+  "name": "SUPER ZINC 50MG",
+  "generic": "ZINC ACETATE",
+  "price": "1.75",
+  "sku": "IMP-2636"
+ },
+ {
+  "sr": 2637,
+  "name": "SUPER ZUDENA",
+  "generic": "UDENAFIL & DAPOXETINE",
+  "price": "78",
+  "sku": "IMP-2637"
+ },
+ {
+  "sr": 2638,
+  "name": "SUSTAMIX 250MG INJ 10ML",
+  "generic": "TESTOSTERONE",
+  "price": "800",
+  "sku": "IMP-2638"
+ },
+ {
+  "sr": 2639,
+  "name": "SUSTAMIX INJ 1ML",
+  "generic": "TESTOSTERONE MIC COMPOUND",
+  "price": "85",
+  "sku": "IMP-2639"
+ },
+ {
+  "sr": 2640,
+  "name": "SUSTAMIX PRO INJ",
+  "generic": "TESTOSTERONE MIC COMPOUND",
+  "price": "75",
+  "sku": "IMP-2640"
+ },
+ {
+  "sr": 2641,
+  "name": "SUSTANON 250MG INJ 1ML",
+  "generic": "TESTOSTERONE",
+  "price": "310",
+  "sku": "IMP-2641"
+ },
+ {
+  "sr": 2642,
+  "name": "SUSTAVIRON 250MG INJ 1ML",
+  "generic": "TESTOSTERONE",
+  "price": "65",
+  "sku": "IMP-2642"
+ },
+ {
+  "sr": 2643,
+  "name": "SUSTEN 100 CAP",
+  "generic": "PROGESTERONE",
+  "price": "17",
+  "sku": "IMP-2643"
+ },
+ {
+  "sr": 2644,
+  "name": "SUSTEN 100MG INJ",
+  "generic": "PROGESTERONE",
+  "price": "135",
+  "sku": "IMP-2644"
+ },
+ {
+  "sr": 2645,
+  "name": "SUSTEN 200MG CAP",
+  "generic": "PROGESTERONE",
+  "price": "30",
+  "sku": "IMP-2645"
+ },
+ {
+  "sr": 2646,
+  "name": "SUSTEN 200MG INJ",
+  "generic": "PROGESTERONE",
+  "price": "215",
+  "sku": "IMP-2646"
+ },
+ {
+  "sr": 2647,
+  "name": "SUZEN NC CREAM",
+  "generic": "BECLOMETASONE + CLOTRIMAZOLE + NEOMYCIN",
+  "price": "15",
+  "sku": "IMP-2647"
+ },
+ {
+  "sr": 2648,
+  "name": "SYCOTIL-100MG.",
+  "generic": "CHLORPROMAZINE",
+  "price": "2",
+  "sku": "IMP-2648"
+ },
+ {
+  "sr": 2649,
+  "name": "SYLIS ORAL POWER 20MG",
+  "generic": "TADALAFIL",
+  "price": "115",
+  "sku": "IMP-2649"
+ },
+ {
+  "sr": 2650,
+  "name": "SYMBICORT TURBUHALER 160MG",
+  "generic": "BUDESONIDE+ FORMOTEROL",
+  "price": "550",
+  "sku": "IMP-2650"
+ },
+ {
+  "sr": 2651,
+  "name": "SYMBICORT TURBUHALER 320MG",
+  "generic": "BUDESONIDE+ FORMOTEROL",
+  "price": "640",
+  "sku": "IMP-2651"
+ },
+ {
+  "sr": 2652,
+  "name": "SYNDOPA 110MG",
+  "generic": "CARBIDOPA + LEVODOPA",
+  "price": "2",
+  "sku": "IMP-2652"
+ },
+ {
+  "sr": 2653,
+  "name": "SYNDOPA 275 TAB",
+  "generic": "CARBIDOPA + LEVODOPA",
+  "price": "4",
+  "sku": "IMP-2653"
+ },
+ {
+  "sr": 2654,
+  "name": "SYNDOPA PLUS TAB",
+  "generic": "CARBIDOPA + LEVODOPA",
+  "price": "2.5",
+  "sku": "IMP-2654"
+ },
+ {
+  "sr": 2655,
+  "name": "SYRING 3ML",
+  "generic": "SYRING",
+  "price": "6",
+  "sku": "IMP-2655"
+ },
+ {
+  "sr": 2656,
+  "name": "T LIMUS CR 300MG",
+  "generic": "TACROLIMUS",
+  "price": "6.5",
+  "sku": "IMP-2656"
+ },
+ {
+  "sr": 2657,
+  "name": "T LITH CR 300MG",
+  "generic": "LITHIUM CARBONATE",
+  "price": "6.5",
+  "sku": "IMP-2657"
+ },
+ {
+  "sr": 2658,
+  "name": "T MUCE OINT 5GM",
+  "generic": "MUPIROCIN",
+  "price": "35",
+  "sku": "IMP-2658"
+ },
+ {
+  "sr": 2659,
+  "name": "T3 CYTOMEL TAB",
+  "generic": "LIOTHYRONINE SODIUM",
+  "price": "4",
+  "sku": "IMP-2659"
+ },
+ {
+  "sr": 2660,
+  "name": "T3 TAB",
+  "generic": "LIOTHYRONINE SODIUM",
+  "price": "4",
+  "sku": "IMP-2660"
+ }
+]

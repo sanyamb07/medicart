@@ -1,0 +1,106 @@
+[
+ {
+  "sku": "IMP-1246",
+  "name": "HIFORCE 100MG ODS",
+  "status": "ambiguous",
+  "candidates": [
+   "Hiforce 100 ODS",
+   "Hiforce 100 ODS"
+  ]
+ },
+ {
+  "sku": "IMP-1884",
+  "name": "MUPIHEAL CREAM 5GM",
+  "status": "form_conflict",
+  "candidates": [
+   "Mupiheal Ointment 5gm"
+  ]
+ },
+ {
+  "sku": "IMP-1954",
+  "name": "NERVISMART 450MG",
+  "status": "ambiguous",
+  "candidates": [
+   "Nervismart 450",
+   "Nervismart 450"
+  ]
+ },
+ {
+  "sku": "IMP-2933",
+  "name": "TOPAHEAL 25MG",
+  "status": "ambiguous",
+  "candidates": [
+   "Topaheal 25",
+   "Topaheal 25mg"
+  ]
+ },
+ {
+  "sku": "IMP-2934",
+  "name": "TOPAHEAL 50MG",
+  "status": "ambiguous",
+  "candidates": [
+   "Topaheal 50",
+   "Topaheal 50mg"
+  ]
+ },
+ {
+  "sku": "IMP-3059",
+  "name": "VALPODIUM 500 CR",
+  "status": "ambiguous",
+  "candidates": [
+   "Valpodium 500 CR",
+   "Valpodium 500 CR"
+  ]
+ },
+ {
+  "sku": "IMP-3219",
+  "name": "ZBD PLUS TAB",
+  "status": "form_conflict",
+  "candidates": [
+   "Zbd Plus Suspension"
+  ]
+ },
+ {
+  "sku": "IMP-3234",
+  "name": "ZINCOHEAL TAB",
+  "status": "ambiguous",
+  "candidates": [
+   "Zincoheal Tab",
+   "Zincoheal Tablet"
+  ]
+ },
+ {
+  "sku": "IMP-1866",
+  "name": "MOXINCLAV CV 625MG",
+  "status": "ambiguous",
+  "candidates": [
+   "MOXINCLAV-CV 625 TAB (ALU) 20*1*6",
+   "MOXINCLAV-CV 625 TAB (ALU) 20*1*10"
+  ]
+ },
+ {
+  "sku": "IMP-2073",
+  "name": "ONDION 4MG",
+  "status": "form_conflict",
+  "candidates": [
+   "ONDION INJ (BL) 10*5*4ML"
+  ]
+ },
+ {
+  "sku": "IMP-1114",
+  "name": "FRASIX 40MG",
+  "status": "form_conflict",
+  "candidates": [
+   "Frasix 40 Injection"
+  ]
+ },
+ {
+  "sku": "IMP-0180",
+  "name": "ASPADOL 50MG",
+  "status": "ambiguous",
+  "candidates": [
+   "ASPADOL 50 TABLET",
+   "ASPADOL 50"
+  ]
+ }
+]

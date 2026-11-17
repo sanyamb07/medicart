@@ -1,0 +1,1955 @@
+[
+ {
+  "sr": 1,
+  "sku": "IMP-0001",
+  "name": "A RET 0.5% GEL 20GM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "0.05% (list says 0.5%)",
+  "dosage_form": "GEL",
+  "pack_size": "20 g",
+  "composition_matches_list": null,
+  "composition_note": "Retail listings (Apollo, PharmEasy, 1mg, Truemeds) attribute A-Ret tretinoin gel (0.025%/0.05%/0.1%, 20 g) to A. Menarini India Pvt Ltd, with Akums Drugs as contract manufacturer on some strengths. No official Menarini India product page could be found to confirm.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official Menarini India product page or catalogue found; retail images not allowed."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (likely A. Menarini India) not confirmed on an official page",
+   "SUSPICIOUS: list says 'A RET 0.5% GEL' — A-Ret strengths are 0.025%, 0.05%, 0.1%; 0.5% tretinoin gel is not a known strength (likely typo for 0.05%). Do not fix silently."
+  ],
+  "sources_consulted": [
+   "https://apollopharmacy.in/otc/a-ret-0-05-w-w-gel-20g (hint only)",
+   "https://pharmeasy.in/online-medicine-order/a-ret-0-025-gel-20gm-35264 (hint only)",
+   "https://www.menarini.com (no India product pages found)"
+  ]
+ },
+ {
+  "sr": 2,
+  "sku": "IMP-0002",
+  "name": "A RET GEL 0.025% 20GM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "0.025%",
+  "dosage_form": "GEL",
+  "pack_size": "20 g",
+  "composition_matches_list": null,
+  "composition_note": "Retail listings (Apollo, PharmEasy, 1mg, Truemeds) attribute A-Ret tretinoin gel (0.025%/0.05%/0.1%, 20 g) to A. Menarini India Pvt Ltd, with Akums Drugs as contract manufacturer on some strengths. No official Menarini India product page could be found to confirm.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official Menarini India product page or catalogue found; retail images not allowed."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (likely A. Menarini India) not confirmed on an official page"
+  ],
+  "sources_consulted": [
+   "https://apollopharmacy.in/otc/a-ret-0-05-w-w-gel-20g (hint only)",
+   "https://pharmeasy.in/online-medicine-order/a-ret-0-025-gel-20gm-35264 (hint only)",
+   "https://www.menarini.com (no India product pages found)"
+  ]
+ },
+ {
+  "sr": 3,
+  "sku": "IMP-0003",
+  "name": "A RET GEL 0.1%",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "0.1%",
+  "dosage_form": "GEL",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings (Apollo, PharmEasy, 1mg, Truemeds) attribute A-Ret tretinoin gel (0.025%/0.05%/0.1%, 20 g) to A. Menarini India Pvt Ltd, with Akums Drugs as contract manufacturer on some strengths. No official Menarini India product page could be found to confirm.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official Menarini India product page or catalogue found; retail images not allowed."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (likely A. Menarini India) not confirmed on an official page"
+  ],
+  "sources_consulted": [
+   "https://apollopharmacy.in/otc/a-ret-0-05-w-w-gel-20g (hint only)",
+   "https://pharmeasy.in/online-medicine-order/a-ret-0-025-gel-20gm-35264 (hint only)",
+   "https://www.menarini.com (no India product pages found)"
+  ]
+ },
+ {
+  "sr": 4,
+  "sku": "IMP-0004",
+  "name": "A RET-HC CREAM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not found: no A-Ret-HC cream (hydroquinone+tretinoin+hydrocortisone) identified on any official site; A-Ret family retail listings point to Menarini but HC variant not confirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer not confirmed; product existence not confirmed on official site",
+   "Strengths of the triple combination not stated in list"
+  ],
+  "sources_consulted": [
+   "WebSearch: A-Ret family searches (Menarini) — no HC variant on official site"
+  ]
+ },
+ {
+  "sr": 5,
+  "sku": "IMP-0005",
+  "name": "ABD 400MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "400 mg",
+  "dosage_form": "TABLET (inferred)",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings (PharmEasy, Apollo) attribute ABD to Intas Pharmaceuticals; one IndiaMART listing says Cadila. intaspharma.com has no individual brand pages, so not confirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (likely Intas) not confirmed on an official page"
+  ],
+  "sources_consulted": [
+   "https://www.intaspharma.com/ (no brand pages)",
+   "https://pharmeasy.in/online-medicine-order/abd-400mg-tablet-10946 (hint only)"
+  ]
+ },
+ {
+  "sr": 6,
+  "sku": "IMP-0006",
+  "name": "ABD PLUS TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings (PharmEasy, Apollo) attribute ABD to Intas Pharmaceuticals; one IndiaMART listing says Cadila. intaspharma.com has no individual brand pages, so not confirmed. ABD Plus (albendazole + ivermectin) strengths not found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer not confirmed",
+   "Strengths of albendazole/ivermectin not stated in list"
+  ],
+  "sources_consulted": [
+   "https://www.intaspharma.com/ (no brand pages)"
+  ]
+ },
+ {
+  "sr": 7,
+  "sku": "IMP-0007",
+  "name": "ABD SUSPENSION",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": "SUSPENSION",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings (PharmEasy, Apollo) attribute ABD to Intas Pharmaceuticals; one IndiaMART listing says Cadila. intaspharma.com has no individual brand pages, so not confirmed. Suspension strength/volume not found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer not confirmed",
+   "Strength and bottle volume not stated in list"
+  ],
+  "sources_consulted": [
+   "https://www.intaspharma.com/ (no brand pages)"
+  ]
+ },
+ {
+  "sr": 8,
+  "sku": "IMP-0008",
+  "name": "ABORTAB 200MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "200 mg",
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings (PharmEasy, Medibuddy) attribute Abortab 200 (mifepristone 200 mg) to Bharat Serums & Vaccines; BSV's site (bsvgroup.com) women's-health page does not list it in static HTML and WP search finds nothing.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (likely Bharat Serums & Vaccines) not confirmed",
+   "Abortion-pill product: check sale/regulatory restrictions (MTP Act, Rx only)"
+  ],
+  "sources_consulted": [
+   "https://bsvgroup.com/products/women-health/",
+   "https://bsvgroup.com/wp-json/wp/v2/search?search=abortab",
+   "https://pharmeasy.in/online-medicine-order/abortab-200mg-tab-116628 (hint only)"
+  ]
+ },
+ {
+  "sr": 9,
+  "sku": "IMP-0009",
+  "name": "ACAMPOL TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No product called 'Acampol' found anywhere (may be a typo for Acamprol).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; possible duplicate/typo of SR 10 ACAMPROL"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Acampol\" acamprosate tablet",
+   "WebSearch: \"Acampol\" OR \"Acamprost\" OR \"Acampure\" acamprosate",
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=acamp (no result)"
+  ]
+ },
+ {
+  "sr": 10,
+  "sku": "IMP-0010",
+  "name": "ACAMPROL TAB",
+  "manufacturer": "Sun Pharmaceutical Industries Ltd",
+  "manufacturer_source_url": "https://sunpharma.com/india-products/",
+  "official_product_page_url": "https://sunpharma.com/india-products/",
+  "composition_on_source": "ACAMPROL 333 MG TABLET 6 | ACAMPROSATE | 333 MG | TABLET (Neuro/CNS)",
+  "strength": "333 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "6 tablets (per official list entry 'TABLET 6')",
+  "composition_matches_list": true,
+  "composition_note": "Sun Pharma's official India product list includes ACAMPROL 333 mg tablet, acamprosate. Matches list generic ACAMPROSATE CALCIUM.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official list is a text table; no pack image."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "List name lacks strength (333 mg per Sun list)",
+   "No official pack image"
+  ],
+  "sources_consulted": [
+   "https://sunpharma.com/india-products/"
+  ]
+ },
+ {
+  "sr": 11,
+  "sku": "IMP-0011",
+  "name": "ACAMPROST 333MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "333 mg",
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Only IndiaMART listings for 'Acamprost' 333 mg; manufacturer not identified.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer not identified"
+  ],
+  "sources_consulted": [
+   "https://dir.indiamart.com/nagpur/acamprosate-calcium-tablet.html (hint only)"
+  ]
+ },
+ {
+  "sr": 12,
+  "sku": "IMP-0012",
+  "name": "ACAMPURE 333MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "333 mg",
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Truemeds lists Acampure 333 by Steris Healthcare; Steris's site (sterispharma.com / sterisonline.com) search found no Acampure page.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (likely Steris Healthcare, Jaipur) not confirmed"
+  ],
+  "sources_consulted": [
+   "https://www.sterispharma.com/",
+   "https://www.sterisonline.com/search?q=acampure",
+   "https://www.truemeds.in/drug-salts/acamprosate-10094 (hint only)"
+  ]
+ },
+ {
+  "sr": 13,
+  "sku": "IMP-0013",
+  "name": "ACARBOZ 25 TAB",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/",
+  "official_product_page_url": "https://knollhealthcare.com/product/acarboz-25-tab-alu2010/",
+  "composition_on_source": "Acarbose Tablets IP (Acarboz-25 = acarbose 25 mg per product page text)",
+  "strength": "25 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "20 x 10 tablets (ALU) per official title and carton",
+  "composition_matches_list": true,
+  "composition_note": "Official Knoll page 'ACARBOZ®-25 TAB (ALU)20*10' describes Acarboz 25mg Tablet (acarbose, alpha-glucosidase inhibitor). Matches list generic ACARBOSE.",
+  "official_description": "Acarboz Tablet is used to treat type 2 diabetes mellitus, lowering blood sugar levels after meals. It belongs to the alpha-glucosidase inhibitors group. Acarboz 25mg Tablet is part of a treatment program that includes a healthy diet, regular exercise, and weight reduction.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://knollhealthcare.com/wp-content/uploads/2024/02/acarboz-25.jpg",
+   "page_url": "https://knollhealthcare.com/product/acarboz-25-tab-alu2010/",
+   "local_file": "data/enrichment/images_raw/IMP-0013.jpg",
+   "visible_pack_text": "Rx Acarbose Tablets IP | ACARBOZ-25 | 20 x 10 Tablets | Knoll | (Hindi brand name) | strip of 10 tablets beside carton",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "426x426",
+   "notes": "Featured image of the official Knoll product page. Strength is readable only as '-25' in the brand name; no explicit '25 mg' visible on the carton face. Rendered/composited pack shot, no third-party watermark. Modest resolution (426 px)."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image PENDING human approval",
+   "Carton face shows 'ACARBOZ-25' but no explicit '25 mg' text — pharmacist to confirm"
+  ],
+  "sources_consulted": [
+   "https://knollhealthcare.com/product/acarboz-25-tab-alu2010/",
+   "https://knollhealthcare.com/wp-json/wp/v2/product/3264",
+   "https://knollhealthcare.com/wp-json/wp/v2/media/4180",
+   "https://medkart.in/order-medicine/acarboz-25mg-tablet-10s (hint only)"
+  ]
+ },
+ {
+  "sr": 14,
+  "sku": "IMP-0014",
+  "name": "ACARJOHN-50 TAB",
+  "manufacturer": "Johnlee Pharmaceuticals Pvt Ltd",
+  "manufacturer_source_url": "https://www.johnleepharmaceuticals.com/",
+  "official_product_page_url": "https://www.johnleepharmaceuticals.com/acarbose-tablets-7050817.html",
+  "composition_on_source": "Acarbose; page lists 'Strength 50 mg and 100 mg (as available)'; product photo shows Acarjohn-25",
+  "strength": "50 mg (per list name; page lists 50 mg and 100 mg)",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Johnlee's catalogue page for Acarbose Tablets shows an 'Acarjohn-25' carton (Johnlee logo) and states strengths 50 mg and 100 mg; generic acarbose matches. No page explicitly titled Acarjohn-50 found.",
+  "official_description": null,
+  "image": {
+   "status": "rejected",
+   "image_url": "https://cpimg.tistatic.com/07050817/b/5/Acarbose-Tablets.jpg",
+   "page_url": "https://www.johnleepharmaceuticals.com/acarbose-tablets-7050817.html",
+   "local_file": null,
+   "visible_pack_text": "Acarbose Tablets IP 25 mg | Acarjohn-25 | 10x10 Tablets | JohnLee logo",
+   "checks": {
+    "brand": true,
+    "strength": false,
+    "form": true,
+    "pack": null
+   },
+   "pixel_size": "500x393",
+   "notes": "Rejected: pack shows Acarjohn-25 (25 mg), row is ACARJOHN-50. Also the image is served from tistatic.com (TradeIndia CDN) — the company site is a TradeIndia-built catalogue. Not saved to images_raw."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Official site is a TradeIndia-hosted catalogue (images on tistatic.com CDN) — treat as official but low-detail",
+   "No Acarjohn-50-specific page or pack image found",
+   "Retail listings (medibuddy, truemeds) also attribute Acarjohn to Johnlee"
+  ],
+  "sources_consulted": [
+   "https://www.johnleepharmaceuticals.com/",
+   "https://www.johnleepharmaceuticals.com/acarbose-tablets-7050817.html",
+   "https://www.medibuddy.in/order-medicines/acarjohn-50-tablet-1000399707 (search hint only)"
+  ]
+ },
+ {
+  "sr": 15,
+  "sku": "IMP-0015",
+  "name": "ACCUFINE 10MG",
+  "manufacturer": "Healing Pharma India Pvt Ltd",
+  "manufacturer_source_url": "https://www.healingpharma.in/",
+  "official_product_page_url": "https://www.healingpharma.in/product/accufine-10mg/",
+  "composition_on_source": "Isotretinoin 10 mg (pack: Isotretinoin Capsules IP 10 mg)",
+  "strength": "10 mg",
+  "dosage_form": "CAPSULE (softgel)",
+  "pack_size": "1 x 10 softgel capsules (per pack image)",
+  "composition_matches_list": true,
+  "composition_note": "Official page and pack show isotretinoin, matching the list generic ISOTRETINOIN. List name does not state dosage form; official form is softgel capsule.",
+  "official_description": "Accufine 10mg Capsule (Isotretinoin) is used in the treatment of acne. It works by slowing the production of certain natural substances that can cause skin inflammation (redness and swelling).",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Accufine-10-cap-1.jpg",
+   "page_url": "https://www.healingpharma.in/product/accufine-10mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0015.jpg",
+   "visible_pack_text": "Rx Isotretinoin Capsules IP 10 mg | Accufine TM | 10 mg | 1 x 10 Softgel Capsules | Healing Pharma Your health is our world | AVOID PREGNANCY",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Featured image of the official Healing Pharma product page (WordPress media endpoint). Appears to be a studio/composited pack shot (carton + blister) with clean readable text; no third-party watermark. Pack text matches brand, strength and capsule form."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image is PENDING human approval",
+   "Pack size (1x10) read from image only; confirm against current carton",
+   "Product page text includes dosing/usage copy which was not reproduced"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/accufine-10mg/",
+   "https://www.healingpharma.in/wp-json/wp/v2/product/3988",
+   "https://www.healingpharma.in/wp-content/uploads/2022/03/Accufine-10-cap-1.jpg",
+   "https://www.gnhindia.com/products/accufine-20-capsule (search hint only)",
+   "https://m.indiamart.com/proddetail/accufine-isotretinoin-20mg-softgel-capsule-25640434712.html (search hint only)"
+  ]
+ },
+ {
+  "sr": 16,
+  "sku": "IMP-0016",
+  "name": "ACCUFINE 20MG",
+  "manufacturer": "Healing Pharma India Pvt Ltd",
+  "manufacturer_source_url": "https://www.healingpharma.in/",
+  "official_product_page_url": "https://www.healingpharma.in/product/accufine-20mg/",
+  "composition_on_source": "Isotretinoin 20 mg (pack: Isotretinoin Capsules IP 20 mg)",
+  "strength": "20 mg",
+  "dosage_form": "CAPSULE (softgel)",
+  "pack_size": "1 x 10 softgel capsules (per pack image)",
+  "composition_matches_list": true,
+  "composition_note": "Official page and pack show isotretinoin, matching the list generic ISOTRETINOIN. List name does not state dosage form; official form is softgel capsule.",
+  "official_description": "Accufine 20 mg contains Isotretinoin 20 mg, a retinoid medication prescribed for severe acne that does not respond to conventional therapies such as antibiotics or topical treatments. Dosage form: soft gelatin capsules.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Accufine-20-cap.jpg",
+   "page_url": "https://www.healingpharma.in/product/accufine-20mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0016.jpg",
+   "visible_pack_text": "Rx Isotretinoin Capsules IP 20 mg | Accufine TM | 20 mg | 1 x 10 Softgel Capsules | Healing Pharma Your health is our world | AVOID PREGNANCY",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Featured image of the official Healing Pharma product page (WordPress media endpoint). Appears to be a studio/composited pack shot (carton + blister) with clean readable text; no third-party watermark. Pack text matches brand, strength and capsule form."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image is PENDING human approval",
+   "Pack size (1x10) read from image only; confirm against current carton",
+   "Product page text includes dosing/usage copy which was not reproduced"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/accufine-20mg/",
+   "https://www.healingpharma.in/wp-json/wp/v2/product/3989",
+   "https://www.healingpharma.in/wp-content/uploads/2022/03/Accufine-20-cap.jpg",
+   "https://www.gnhindia.com/products/accufine-20-capsule (search hint only)",
+   "https://m.indiamart.com/proddetail/accufine-isotretinoin-20mg-softgel-capsule-25640434712.html (search hint only)"
+  ]
+ },
+ {
+  "sr": 17,
+  "sku": "IMP-0017",
+  "name": "ACCUFINE 30MG",
+  "manufacturer": "Healing Pharma India Pvt Ltd",
+  "manufacturer_source_url": "https://www.healingpharma.in/",
+  "official_product_page_url": "https://www.healingpharma.in/product/accufine-30mg/",
+  "composition_on_source": "Isotretinoin 30 mg (pack: Isotretinoin Capsules IP 30 mg)",
+  "strength": "30 mg",
+  "dosage_form": "CAPSULE (softgel)",
+  "pack_size": "1 x 10 softgel capsules (per pack image)",
+  "composition_matches_list": true,
+  "composition_note": "Official page and pack show isotretinoin, matching the list generic ISOTRETINOIN. List name does not state dosage form; official form is softgel capsule.",
+  "official_description": "Accufine 30mg (Isotretinoin) Capsule is used in the treatment of acne. It works by slowing the production of certain natural substances that can cause skin inflammation (redness and swelling).",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Accufine-30-cap.jpg",
+   "page_url": "https://www.healingpharma.in/product/accufine-30mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0017.jpg",
+   "visible_pack_text": "Rx Isotretinoin Capsules IP 30 mg | Accufine TM | 30 mg | 1 x 10 Softgel Capsules | Healing Pharma Your health is our world | AVOID PREGNANCY",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Featured image of the official Healing Pharma product page (WordPress media endpoint). Appears to be a studio/composited pack shot (carton + blister) with clean readable text; no third-party watermark. Pack text matches brand, strength and capsule form."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image is PENDING human approval",
+   "Pack size (1x10) read from image only; confirm against current carton",
+   "Product page text includes dosing/usage copy which was not reproduced"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/accufine-30mg/",
+   "https://www.healingpharma.in/wp-json/wp/v2/product/4013",
+   "https://www.healingpharma.in/wp-content/uploads/2022/03/Accufine-30-cap.jpg",
+   "https://www.gnhindia.com/products/accufine-20-capsule (search hint only)",
+   "https://m.indiamart.com/proddetail/accufine-isotretinoin-20mg-softgel-capsule-25640434712.html (search hint only)"
+  ]
+ },
+ {
+  "sr": 18,
+  "sku": "IMP-0018",
+  "name": "ACCUFINE 40MG",
+  "manufacturer": "Healing Pharma India Pvt Ltd",
+  "manufacturer_source_url": "https://www.healingpharma.in/",
+  "official_product_page_url": "https://www.healingpharma.in/product/accufine-40mg/",
+  "composition_on_source": "Isotretinoin 40 mg (pack: Isotretinoin Capsules IP 40 mg)",
+  "strength": "40 mg",
+  "dosage_form": "CAPSULE (softgel)",
+  "pack_size": "1 x 10 softgel capsules (per pack image)",
+  "composition_matches_list": true,
+  "composition_note": "Official page and pack show isotretinoin, matching the list generic ISOTRETINOIN. List name does not state dosage form; official form is softgel capsule.",
+  "official_description": "Accufine 40 by Healing Pharma contains Isotretinoin, a retinoid (related to vitamin A) primarily used as a treatment for severe acne.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Accufine-40-cap.jpg",
+   "page_url": "https://www.healingpharma.in/product/accufine-40mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0018.jpg",
+   "visible_pack_text": "Rx Isotretinoin Capsules IP 40 mg | Accufine TM | 40 mg | 1 x 10 Softgel Capsules | Healing Pharma Your health is our world | AVOID PREGNANCY",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Featured image of the official Healing Pharma product page (WordPress media endpoint). Appears to be a studio/composited pack shot (carton + blister) with clean readable text; no third-party watermark. Pack text matches brand, strength and capsule form."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image is PENDING human approval",
+   "Pack size (1x10) read from image only; confirm against current carton",
+   "Product page text includes dosing/usage copy which was not reproduced"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/accufine-40mg/",
+   "https://www.healingpharma.in/wp-json/wp/v2/product/4014",
+   "https://www.healingpharma.in/wp-content/uploads/2022/03/Accufine-40-cap.jpg",
+   "https://www.gnhindia.com/products/accufine-20-capsule (search hint only)",
+   "https://m.indiamart.com/proddetail/accufine-isotretinoin-20mg-softgel-capsule-25640434712.html (search hint only)"
+  ]
+ },
+ {
+  "sr": 19,
+  "sku": "IMP-0019",
+  "name": "ACCUFINE 5MG",
+  "manufacturer": "Healing Pharma India Pvt Ltd",
+  "manufacturer_source_url": "https://www.healingpharma.in/",
+  "official_product_page_url": "https://www.healingpharma.in/product/accufine-5mg/",
+  "composition_on_source": "Isotretinoin 5 mg (pack: Isotretinoin Capsules IP 5 mg)",
+  "strength": "5 mg",
+  "dosage_form": "CAPSULE (softgel)",
+  "pack_size": "1 x 10 softgel capsules (per pack image)",
+  "composition_matches_list": true,
+  "composition_note": "Official page and pack show isotretinoin, matching the list generic ISOTRETINOIN. List name does not state dosage form; official form is softgel capsule.",
+  "official_description": "Accufine 5 mg Capsule (Isotretinoin) is used in the treatment of acne. It works by slowing the production of certain natural substances that can cause skin inflammation (redness and swelling).",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/ACCUFINE-5.jpg",
+   "page_url": "https://www.healingpharma.in/product/accufine-5mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0019.jpg",
+   "visible_pack_text": "Rx Isotretinoin Capsules IP 5 mg | Accufine | 5 mg | 1 x 10 Softgel Capsules | Healing Pharma Your health is our world | AVOID PREGNANCY",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1938",
+   "notes": "Featured image of the official Healing Pharma product page (WordPress media endpoint). Appears to be a studio/composited pack shot (carton + blister) with clean readable text; no third-party watermark. Pack text matches brand, strength and capsule form."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image is PENDING human approval",
+   "Pack size (1x10) read from image only; confirm against current carton",
+   "Product page text includes dosing/usage copy which was not reproduced"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/accufine-5mg/",
+   "https://www.healingpharma.in/wp-json/wp/v2/product/4221",
+   "https://www.healingpharma.in/wp-content/uploads/2022/03/ACCUFINE-5.jpg",
+   "https://www.gnhindia.com/products/accufine-20-capsule (search hint only)",
+   "https://m.indiamart.com/proddetail/accufine-isotretinoin-20mg-softgel-capsule-25640434712.html (search hint only)"
+  ]
+ },
+ {
+  "sr": 20,
+  "sku": "IMP-0020",
+  "name": "ACCURATE ADVANCED KIT",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": "TEST KIT",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings name Integrace Health and/or Voxtur Bio Ltd for 'Accurate Advanced' midstream hCG pregnancy test; voxturbio.com returned an empty page. Not a drug — a diagnostic device.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer not confirmed (Integrace vs Voxtur)",
+   "Diagnostic kit, not a medicine — check category/regulatory handling"
+  ],
+  "sources_consulted": [
+   "https://www.voxturbio.com/ (empty)",
+   "https://pharmeasy.in/health-care/products/accurate-advanced---one-step-midstream-urine-hcg-pregnancy-test-kit-device-3666303 (hint only)"
+  ]
+ },
+ {
+  "sr": 21,
+  "sku": "IMP-0021",
+  "name": "ACEMIZ 100MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings conflict: most say Lupin Ltd, some Apollo/Blinkit listings say Intas. No official brand page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer conflict (Lupin vs Intas) — not confirmed"
+  ],
+  "sources_consulted": [
+   "https://pharmeasy.in/online-medicine-order/acemiz-100mg-tablet-32741 (hint only)",
+   "https://www.lupin.com/ (no brand pages)"
+  ]
+ },
+ {
+  "sr": 22,
+  "sku": "IMP-0022",
+  "name": "ACEMIZ 200MG SR",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings conflict: most say Lupin Ltd, some Apollo/Blinkit listings say Intas. No official brand page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer conflict (Lupin vs Intas) — not confirmed",
+   "200 mg SR strength not confirmed"
+  ],
+  "sources_consulted": [
+   "https://pharmeasy.in/online-medicine-order/acemiz-100mg-tablet-32741 (hint only)",
+   "https://www.lupin.com/ (no brand pages)"
+  ]
+ },
+ {
+  "sr": 23,
+  "sku": "IMP-0023",
+  "name": "ACEPTOR 10MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No product called 'Aceptor' (benazepril) found. Indian benazepril brands found were Benace and Apriace.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; benazepril is uncommon in India — check name"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Aceptor\" benazepril 10 mg tablet (no match)"
+  ]
+ },
+ {
+  "sr": 24,
+  "sku": "IMP-0024",
+  "name": "ACESTINE 600MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No product called 'Acestine 600' found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; form (tablet vs effervescent) unknown"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Acestine 600\" acetylcysteine (no match)"
+  ]
+ },
+ {
+  "sr": 25,
+  "sku": "IMP-0025",
+  "name": "ACETASMART-250 TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "IndiaMART listings name Healing Pharma as maker of 'Acetasmart' acetazolamide 250 mg, but the brand is NOT found on healingpharma.in (WP product search for acetasmart/acetazolamide returned nothing). Healing Pharma's site does use a '-smart' brand series. Unconfirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official page found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer only from marketplace listing; not on Healing Pharma's official catalogue"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=acetasmart",
+   "https://m.indiamart.com/impcat/acetazolamide.html (hint only)"
+  ]
+ },
+ {
+  "sr": 26,
+  "sku": "IMP-0026",
+  "name": "ACIMOL SR",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "200 mg SR (per retail listings, not confirmed)",
+  "dosage_form": "TABLET (sustained release)",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Search index shows an official Leeford Healthcare page 'acimol sr' (leeford.in/product/535/acimol-sr) and retail listings describe Acimol SR as aceclofenac 200 mg SR by Leeford; the site refused connections (ECONNREFUSED) so contents could not be confirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official site unreachable during research."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Likely Leeford Healthcare but official page unreachable — retry https://www.leeford.in/product/535/acimol-sr",
+   "List name lacks strength"
+  ],
+  "sources_consulted": [
+   "https://www.leeford.in/product/535/acimol-sr (unreachable)",
+   "https://pharmeasy.in/online-medicine-order/acimol-sr-200mg-tablet-16321 (hint only)"
+  ]
+ },
+ {
+  "sr": 27,
+  "sku": "IMP-0027",
+  "name": "ACITRIT 25MG CAP",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "25 mg",
+  "dosage_form": "CAPSULE",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Only an IndiaMART listing names 'Tesla' as maker of Acitrit 25 mg acitretin capsules; no official site found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer not confirmed"
+  ],
+  "sources_consulted": [
+   "https://m.indiamart.com/impcat/acitretin-capsule.html (hint only)"
+  ]
+ },
+ {
+  "sr": 28,
+  "sku": "IMP-0028",
+  "name": "ACIVIR CREAM 10GM",
+  "manufacturer": "Cipla Ltd",
+  "manufacturer_source_url": "https://www.ciplamed.com/",
+  "official_product_page_url": "https://www.ciplamed.com/product-index/acivir-cream",
+  "composition_on_source": "ACIVIR Cream: Aciclovir (strength not shown on public page)",
+  "strength": null,
+  "dosage_form": "CREAM",
+  "pack_size": "10 g (per list name)",
+  "composition_matches_list": true,
+  "composition_note": "Cipla page: ACIVIR Cream, molecule Aciclovir — matches list.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "CiplaMed product-index page shows only the brand heading, molecule and 'Written and reviewed by Cipla Limited'; no pack image on the public page. Full details appear to be behind HCP login."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Strength and pack size not stated on Cipla's public page; taken from list name only",
+   "Image: none on official site"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/acivir-cream"
+  ]
+ },
+ {
+  "sr": 29,
+  "sku": "IMP-0029",
+  "name": "ACIVIR CREAM 5GM",
+  "manufacturer": "Cipla Ltd",
+  "manufacturer_source_url": "https://www.ciplamed.com/",
+  "official_product_page_url": "https://www.ciplamed.com/product-index/acivir-cream",
+  "composition_on_source": "ACIVIR Cream: Aciclovir (strength not shown on public page)",
+  "strength": null,
+  "dosage_form": "CREAM",
+  "pack_size": "5 g (per list name)",
+  "composition_matches_list": true,
+  "composition_note": "Cipla page: ACIVIR Cream, molecule Aciclovir — matches list.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "CiplaMed product-index page shows only the brand heading, molecule and 'Written and reviewed by Cipla Limited'; no pack image on the public page. Full details appear to be behind HCP login."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Strength and pack size not stated on Cipla's public page; taken from list name only",
+   "Image: none on official site"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/acivir-cream"
+  ]
+ },
+ {
+  "sr": 30,
+  "sku": "IMP-0030",
+  "name": "ACIVIR DT 400MG",
+  "manufacturer": "Cipla Ltd",
+  "manufacturer_source_url": "https://www.ciplamed.com/",
+  "official_product_page_url": "https://www.ciplamed.com/product-index/acivir-dt-tablets",
+  "composition_on_source": "ACIVIR DT Tablets: Aciclovir (strength not shown on public page)",
+  "strength": "400 mg (per list name)",
+  "dosage_form": "DISPERSIBLE TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Cipla page: ACIVIR DT Tablets, molecule Aciclovir — matches list (dispersible).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "CiplaMed product-index page shows only the brand heading, molecule and 'Written and reviewed by Cipla Limited'; no pack image on the public page. Full details appear to be behind HCP login."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Strength and pack size not stated on Cipla's public page; taken from list name only",
+   "Image: none on official site"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/acivir-dt-tablets"
+  ]
+ },
+ {
+  "sr": 31,
+  "sku": "IMP-0031",
+  "name": "ACIVIR DT 800MG",
+  "manufacturer": "Cipla Ltd",
+  "manufacturer_source_url": "https://www.ciplamed.com/",
+  "official_product_page_url": "https://www.ciplamed.com/product-index/acivir-dt-tablets",
+  "composition_on_source": "ACIVIR DT Tablets: Aciclovir (strength not shown on public page)",
+  "strength": "800 mg (per list name)",
+  "dosage_form": "DISPERSIBLE TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Cipla page: ACIVIR DT Tablets, molecule Aciclovir — matches list. 800 mg strength not confirmed on public page.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "CiplaMed product-index page shows only the brand heading, molecule and 'Written and reviewed by Cipla Limited'; no pack image on the public page. Full details appear to be behind HCP login."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Strength and pack size not stated on Cipla's public page; taken from list name only",
+   "Image: none on official site"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/acivir-dt-tablets"
+  ]
+ },
+ {
+  "sr": 32,
+  "sku": "IMP-0032",
+  "name": "ACIVIR IV 250MG INJ",
+  "manufacturer": "Cipla Ltd",
+  "manufacturer_source_url": "https://www.ciplamed.com/",
+  "official_product_page_url": "https://www.ciplamed.com/product-index/acivir-iv-injection",
+  "composition_on_source": "ACIVIR I.V. Injection: Aciclovir (strength not shown on public page)",
+  "strength": "250 mg (per list name)",
+  "dosage_form": "INJECTION",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Cipla page: ACIVIR I.V. Injection, molecule Aciclovir — matches list.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "CiplaMed product-index page shows only the brand heading, molecule and 'Written and reviewed by Cipla Limited'; no pack image on the public page. Full details appear to be behind HCP login."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Strength and pack size not stated on Cipla's public page; taken from list name only",
+   "Image: none on official site"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/acivir-iv-injection"
+  ]
+ },
+ {
+  "sr": 33,
+  "sku": "IMP-0033",
+  "name": "ACLOVEER 400MG TAB.",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/",
+  "official_product_page_url": "https://knollhealthcare.com/product/acloveer-400-tab-bl-1010/",
+  "composition_on_source": "Aciclovir Tablets IP 400 mg",
+  "strength": "400 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 x 10 tablets (blister) per official title and carton",
+  "composition_matches_list": true,
+  "composition_note": "Official Knoll page 'ACLOVEER-400 TAB (BL) 10*10' (aciclovir). Matches list. Knoll also lists Acloveer-200 and Acloveer-800.",
+  "official_description": "Acloveer 400mg Tablet is an antiviral medication used to treat viral infections like herpes labialis, herpes simplex, shingles, genital herpes infection, and chickenpox. It prevents virus multiplication in human cells.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://knollhealthcare.com/wp-content/uploads/2024/02/ACLOVEER-400.jpg",
+   "page_url": "https://knollhealthcare.com/product/acloveer-400-tab-bl-1010/",
+   "local_file": "data/enrichment/images_raw/IMP-0033.jpg",
+   "visible_pack_text": "Rx Aciclovir Tablets IP 400 mg. | Acloveer-400 TABLETS | 10 x 10 Tablets | Knoll | blister of 10 tablets",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "426x426",
+   "notes": "Featured image of official Knoll product page; composited pack shot, no third-party watermark. Modest resolution (426 px)."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image PENDING human approval"
+  ],
+  "sources_consulted": [
+   "https://knollhealthcare.com/product/acloveer-400-tab-bl-1010/",
+   "https://knollhealthcare.com/wp-json/wp/v2/product/3459",
+   "https://knollhealthcare.com/wp-json/wp/v2/media/4039"
+  ]
+ },
+ {
+  "sr": 34,
+  "sku": "IMP-0034",
+  "name": "ACNEDAP GEL",
+  "manufacturer": "Cipla Ltd",
+  "manufacturer_source_url": "https://www.ciplamed.com/",
+  "official_product_page_url": "https://www.ciplamed.com/product-index/acnedap-gel",
+  "composition_on_source": "ACNEDAP Gel: Dapsone (strength not shown on public page)",
+  "strength": null,
+  "dosage_form": "GEL",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Cipla page: ACNEDAP Gel, molecule Dapsone — matches list DAPSONE GEL. Cipla also lists ACNEDAP Plus Gel (different product).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "CiplaMed product-index page shows only the brand heading, molecule and 'Written and reviewed by Cipla Limited'; no pack image on the public page. Full details appear to be behind HCP login."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Strength and pack size not stated on Cipla's public page; taken from list name only",
+   "Gel strength (commonly 5%) and tube size not confirmed on official page",
+   "Image: none on official site"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/acnedap-gel"
+  ]
+ },
+ {
+  "sr": 35,
+  "sku": "IMP-0035",
+  "name": "ACNETOIN 20MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "20 mg",
+  "dosage_form": "CAPSULE (per retail listings)",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Leeford Healthcare's site is indexed with 'acnetoin i20' (leeford.in/product/513/acnetoin-i20) and retail lists Acnetoin 20 mg isotretinoin softgel by Leeford; leeford.in refused connections. Note brand variants 'Acnetoin' vs 'Acnetoin I20'.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Likely Leeford but official site unreachable — retry",
+   "Confirm whether list item is 'Acnetoin 20' or 'Acnetoin-I 20'",
+   "Form is softgel capsule per listings (audit inferred TABLET)"
+  ],
+  "sources_consulted": [
+   "https://www.leeford.in/product/513/acnetoin-i20 (unreachable)",
+   "https://pharmeasy.in/online-medicine-order/acnetoin-20mg-capsule-84502 (hint only)"
+  ]
+ },
+ {
+  "sr": 36,
+  "sku": "IMP-0036",
+  "name": "ACNETOP CREAM 20GM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": "Healing Pharma 'Acnetop' = Clindamycin & Nicotinamide Gel 20 g (NOT adapalene)",
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": false,
+  "composition_note": "Healing Pharma (healingpharma.in/product/acnetop-gel/, titled 'Acnetop Cream') sells Acnetop as Clindamycin + Nicotinamide GEL 20 g. The list says ACNETOP CREAM 20GM = ADAPALENE + NICOTINAMIDE. Either the list generic is wrong or this is a different company's Acnetop. Not assigned to Healing Pharma.",
+  "official_description": null,
+  "image": {
+   "status": "rejected",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Acnetop-Cream-Carton-Tube-New-1.jpg",
+   "page_url": "https://www.healingpharma.in/product/acnetop-gel/",
+   "local_file": null,
+   "visible_pack_text": "Rx Clindamycin & Nicotinamide Gel | Acnetop | 20g | For topical treatment of acne, pimples & bacterial skin infections | Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": null,
+    "form": false,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Rejected: pack reads 'Clindamycin & Nicotinamide Gel' — composition (no adapalene) and form (gel vs cream) do not match the row. File deleted."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Composition conflict: official Acnetop is clindamycin+nicotinamide gel; list says adapalene+nicotinamide cream",
+   "Manufacturer of the listed adapalene product not identified"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/acnetop-gel/",
+   "https://www.healingpharma.in/wp-json/wp/v2/product/3848"
+  ]
+ },
+ {
+  "sr": 37,
+  "sku": "IMP-0037",
+  "name": "ACNETOR AD CREAM 15GM",
+  "manufacturer": "Torrent Pharmaceuticals Ltd",
+  "manufacturer_source_url": "https://www.torrentpharma.com/",
+  "official_product_page_url": "https://www.torrentpharma.com/docs/ACNETOR_AD_ABPI_e95e9739a2.pdf",
+  "composition_on_source": "ACNETOR AD [Clindamycin & Adapalene Gel] (abbreviated prescribing information; strengths not stated in the extract)",
+  "strength": null,
+  "dosage_form": "GEL",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Torrent's official abbreviated PI: ACNETOR AD = Clindamycin & Adapalene GEL. Actives match the list, but the list says CREAM 15GM — form mismatch (official form is gel). Retail listings give adapalene 0.1% + clindamycin 1%, 15 g.",
+  "official_description": "ACNETOR AD (Clindamycin & Adapalene Gel) is indicated for treatment of acne vulgaris.",
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official source is a text PDF; no pack image found on torrentpharma.com."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Dosage form conflict: list says CREAM, official is GEL — do not fix silently",
+   "Strengths and 15 g pack size not confirmed on official source"
+  ],
+  "sources_consulted": [
+   "https://www.torrentpharma.com/docs/ACNETOR_AD_ABPI_e95e9739a2.pdf"
+  ]
+ },
+ {
+  "sr": 38,
+  "sku": "IMP-0038",
+  "name": "ACTOID 10MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "10 mg",
+  "dosage_form": "CAPSULE (per retail listings)",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings attribute Actoid 10 (acitretin 10 mg capsule) to Intas Pharmaceuticals; not on an official page. NOTE: Actoid is a CAPSULE (audit inferred TABLET).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (likely Intas) not confirmed",
+   "Dosage form is capsule per all listings — audit's inferred TABLET is wrong"
+  ],
+  "sources_consulted": [
+   "https://www.intaspharma.com/ (no brand pages)",
+   "https://www.apollopharmacy.in/medicine/actoid-10mg-capsule-10-s (hint only)"
+  ]
+ },
+ {
+  "sr": 39,
+  "sku": "IMP-0039",
+  "name": "ACUTRET 20MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": "20 mg",
+  "dosage_form": "CAPSULE (per retail listings)",
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings conflict: Ipca Laboratories vs Cipla for Acutret 20 (isotretinoin 20 mg softgel). No official page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer conflict (Ipca vs Cipla)",
+   "Form is capsule (audit inferred TABLET)"
+  ],
+  "sources_consulted": [
+   "https://www.apollopharmacy.in/medicine/acutret-20mg-capsule (hint only)",
+   "https://www.ipca.com/ (no brand pages)"
+  ]
+ },
+ {
+  "sr": 40,
+  "sku": "IMP-0040",
+  "name": "ACYLOVIR 800MG",
+  "manufacturer": "Prevego Healthcare & Research Pvt Ltd (marketer); pack states Mfd by Vidhyasha Pharmaceuticals",
+  "manufacturer_source_url": "https://www.prevegohealthcare.com/",
+  "official_product_page_url": "https://www.prevegohealthcare.com/product-page/acylovir-800",
+  "composition_on_source": "Each film coated tablet contains Acyclovir IP 800 mg",
+  "strength": "800 mg",
+  "dosage_form": "TABLET (film coated)",
+  "pack_size": "10 x 10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Official Prevego page: 'ACYLOVIR 800 contains Acyclovir 800 mg'. Pack side panel confirms film-coated tablet. Matches list.",
+  "official_description": "ACYLOVIR 800 contains Acyclovir 800 mg, an antiviral medication used to treat infections caused by herpes viruses, including genital herpes, herpes zoster (shingles) and varicella (chickenpox). Prescription-only.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://static.wixstatic.com/media/a67698_43ff339445514071af6a6a8d21a3f733~mv2.jpg",
+   "page_url": "https://www.prevegohealthcare.com/product-page/acylovir-800",
+   "local_file": "data/enrichment/images_raw/IMP-0040.jpg",
+   "visible_pack_text": "Rx Acyclovir Tablets IP | ACYLOVIR 800 Tablets | 10 x 10 Tablets | prevego healthcare & research | side: Composition: Each film coated tablet contains: Acyclovir IP 800 mg, Excipients q.s.; Colour: Iron Oxide Yellow; SCHEDULE H PRESCRIPTION DRUG; Mfd by: Vidhyasha Pharmaceuticals ... Kala Amb, Distt. Sirmour, H.P.",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1800x1800",
+   "notes": "og:image of the official Prevego (Wix) product page, served from static.wixstatic.com (the site's own Wix media host). 3D carton render, no third-party watermark."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image PENDING human approval",
+   "Image host is Wix CDN (site's own media), not the bare domain"
+  ],
+  "sources_consulted": [
+   "https://www.prevegohealthcare.com/product-page/acylovir-800",
+   "https://www.truemeds.in/medicine/acylovir-eye-ointment-5-gm-tm-eyps1-000141 (hint only)"
+  ]
+ },
+ {
+  "sr": 41,
+  "sku": "IMP-0041",
+  "name": "ACYLOVIR EYE OINT 5GM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": "EYE OINTMENT",
+  "pack_size": "5 g (per list)",
+  "composition_matches_list": null,
+  "composition_note": "Truemeds lists 'Acylovir Eye Ointment 5gm' by Prevego Healthcare & Research; Prevego's site has ACYLOVIR 800 but no eye-ointment page was found (product-page/acylovir-eye-ointment -> 404). Aciclovir eye ointments in India are normally 3% w/w.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official page found for the eye ointment."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Likely Prevego (same brand) but eye ointment not on official site",
+   "Strength (likely 3%) not stated in list"
+  ],
+  "sources_consulted": [
+   "https://www.prevegohealthcare.com/product-page/acylovir-eye-ointment (404)",
+   "https://www.truemeds.in/medicine/acylovir-eye-ointment-5-gm-tm-eyps1-000141 (hint only)"
+  ]
+ },
+ {
+  "sr": 42,
+  "sku": "IMP-0042",
+  "name": "ACYPROVE 200MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No product called 'Acyprove' found in any source (search returned only unrelated aciclovir products).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Acyprove\" aciclovir tablet OR cream (no match)",
+   "https://knollhealthcare.com/wp-json/wp/v2/product?search=acyl (no result)"
+  ]
+ },
+ {
+  "sr": 43,
+  "sku": "IMP-0043",
+  "name": "ACYPROVE 400MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No product called 'Acyprove' found in any source (search returned only unrelated aciclovir products).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Acyprove\" aciclovir tablet OR cream (no match)",
+   "https://knollhealthcare.com/wp-json/wp/v2/product?search=acyl (no result)"
+  ]
+ },
+ {
+  "sr": 44,
+  "sku": "IMP-0044",
+  "name": "ACYPROVE 800MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No product called 'Acyprove' found in any source (search returned only unrelated aciclovir products).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Acyprove\" aciclovir tablet OR cream (no match)",
+   "https://knollhealthcare.com/wp-json/wp/v2/product?search=acyl (no result)"
+  ]
+ },
+ {
+  "sr": 45,
+  "sku": "IMP-0045",
+  "name": "ACYPROVE CREAM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No product called 'Acyprove' found in any source (search returned only unrelated aciclovir products).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Acyprove\" aciclovir tablet OR cream (no match)",
+   "https://knollhealthcare.com/wp-json/wp/v2/product?search=acyl (no result)"
+  ]
+ },
+ {
+  "sr": 46,
+  "sku": "IMP-0046",
+  "name": "ADAFERIN 0.01% GEL 15GM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": "GEL",
+  "pack_size": "15 g (per list)",
+  "composition_matches_list": null,
+  "composition_note": "Retail listings: Adaferin is adapalene 0.1% gel 15 g by Galderma India (Adaferin Forte is 0.3%). No Galderma India brand page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (likely Galderma India) not confirmed",
+   "SUSPICIOUS: list says 'ADAFERIN 0.01% GEL' — known strength is 0.1%; likely typo, do not fix silently"
+  ],
+  "sources_consulted": [
+   "https://www.galderma.com/in (no brand pages)",
+   "https://pharmeasy.in/online-medicine-order/adaferin-0-1-gel-15gm-33042 (hint only)"
+  ]
+ },
+ {
+  "sr": 47,
+  "sku": "IMP-0047",
+  "name": "ADAKLEEN GEL 0.1%",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No product called 'Adakleen' found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer page/catalogue with a pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Adakleen\" adapalene gel 0.1% (no match)"
+  ]
+ },
+ {
+  "sr": 48,
+  "sku": "IMP-0048",
+  "name": "ADR INJ 1ML",
+  "manufacturer": "American Remedies Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://www.americanremedies.in/",
+  "official_product_page_url": "https://www.americanremedies.in/product/adr-injection/",
+  "composition_on_source": "Adrenaline Bitartrate Inj. I.P. (page text: 'contains Adrenaline Tartrate'); per-ml strength not legible/stated",
+  "strength": null,
+  "dosage_form": "INJECTION (ampoule)",
+  "pack_size": "10 x 1 ml",
+  "composition_matches_list": true,
+  "composition_note": "Official page and carton: Adrenaline Bitartrate injection — matches list (list misspells BITARTATE). Carton says 'FOR I.V. Infusion After Dilution Only'.",
+  "official_description": "ADR Injection contains Adrenaline (as bitartrate). It is used in severe allergic reactions and cardiac arrest, and is given only under medical supervision.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/ADR-Injection.jpg",
+   "page_url": "https://www.americanremedies.in/product/adr-injection/",
+   "local_file": "data/enrichment/images_raw/IMP-0048.jpg",
+   "visible_pack_text": "Rx AMERICAN REMEDIES Care & Cure with Research | Adrenaline Bitartrate Inj. I.P. | ADR Injection | 10 x 1ml | FOR I.V. Infusion After Dilution Only | ampoule label: Adrenaline ADR Injection, Each ml Contains: Adrenaline Bitartrate I.P. Equivalent to Adrenaline ... I.M./I.V. Use only",
+   "checks": {
+    "brand": true,
+    "strength": null,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Featured image of official product page. 1 ml ampoule matches row; mg/ml figure on ampoule is not legible. Note: official page text also lists 'glaucoma, lower blood pressure' uses — not reproduced."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image PENDING human approval",
+   "Strength per ml (normally 1 mg/ml) not legible on image or stated on page",
+   "Official page copy contains questionable indications (glaucoma, 'lower blood pressure') — do not reuse"
+  ],
+  "sources_consulted": [
+   "https://www.americanremedies.in/product/adr-injection/",
+   "https://www.americanremedies.in/wp-json/wp/v2/product?slug=adr-injection",
+   "https://www.americanremedies.in/wp-json/wp/v2/media/10668"
+  ]
+ },
+ {
+  "sr": 49,
+  "sku": "IMP-0049",
+  "name": "AEROCORT CFC INHALER 200MD",
+  "manufacturer": "Cipla Ltd",
+  "manufacturer_source_url": "https://www.ciplamed.com/",
+  "official_product_page_url": "https://www.ciplamed.com/product-index/aerocort-inhaler",
+  "composition_on_source": "AEROCORT Inhaler: Beclomethasone dipropionate + Levosalbutamol (strength not shown on public page)",
+  "strength": null,
+  "dosage_form": "INHALER (metered dose)",
+  "pack_size": "200 metered doses (per list name)",
+  "composition_matches_list": true,
+  "composition_note": "Cipla page: AEROCORT Inhaler, Beclomethasone dipropionate + Levosalbutamol — matches list generic.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "CiplaMed product-index page shows only the brand heading, molecule and 'Written and reviewed by Cipla Limited'; no pack image on the public page. Full details appear to be behind HCP login."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Strength and pack size not stated on Cipla's public page; taken from list name only",
+   "List name says 'CFC INHALER'; Indian MDIs have moved to CFC-free/HFA propellant — check the current pack and correct the name if needed",
+   "Per-dose strengths not shown on public page",
+   "Image: none on official site"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/aerocort-inhaler"
+  ]
+ },
+ {
+  "sr": 50,
+  "sku": "IMP-0050",
+  "name": "AFMED 40MG",
+  "manufacturer": "Medicamen Biotech Ltd",
+  "manufacturer_source_url": "https://www.medicamen.com/",
+  "official_product_page_url": "https://www.medicamen.com/product/view/10",
+  "composition_on_source": "AFMED Tablets 40mg — Afatinib 40mg (Cancer Care product table; also 20 mg and 30 mg)",
+  "strength": "40 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Official Medicamen 'Cancer Care' product table lists AFMED Tablets 20/30/40 mg, afatinib. Matches list.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official page is a text table only; no pack image."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Pack size not on official page",
+   "Oncology product — Rx/storage handling review"
+  ],
+  "sources_consulted": [
+   "https://www.medicamen.com/product/view/10",
+   "https://www.1mg.com/drugs/afmed-40mg-tablet-763028 (hint only)"
+  ]
+ }
+]

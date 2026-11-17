@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1791,
+  "name": "MINWIN 2.5MG",
+  "generic": "MINOXIDIL",
+  "price": "2.5",
+  "sku": "IMP-1791"
+ },
+ {
+  "sr": 1792,
+  "name": "MINWIN 5MG",
+  "generic": "MINOXIDIL",
+  "price": "4",
+  "sku": "IMP-1792"
+ },
+ {
+  "sr": 1793,
+  "name": "MINWIN D",
+  "generic": "DUTASTERIDE + MINOXIDIL",
+  "price": "6",
+  "sku": "IMP-1793"
+ },
+ {
+  "sr": 1794,
+  "name": "MINWIN F TAB",
+  "generic": "MINOXIDIL AND FINASTERIDE",
+  "price": "11.5",
+  "sku": "IMP-1794"
+ },
+ {
+  "sr": 1795,
+  "name": "MIRA 30MG",
+  "generic": "MIRTAZPINE",
+  "price": "5.5",
+  "sku": "IMP-1795"
+ },
+ {
+  "sr": 1796,
+  "name": "MIRABEST ER 50MG",
+  "generic": "MIRABEGRON",
+  "price": "9.5",
+  "sku": "IMP-1796"
+ },
+ {
+  "sr": 1797,
+  "name": "MIRAGO 50MG",
+  "generic": "MIRABEGRON",
+  "price": "31.5",
+  "sku": "IMP-1797"
+ },
+ {
+  "sr": 1798,
+  "name": "MIRAGRON ER 25MG",
+  "generic": "MIRABEGRON",
+  "price": "10",
+  "sku": "IMP-1798"
+ },
+ {
+  "sr": 1799,
+  "name": "MIRAGRON ER 50MG",
+  "generic": "MIRABEGRON",
+  "price": "13.5",
+  "sku": "IMP-1799"
+ },
+ {
+  "sr": 1800,
+  "name": "MIRGEB 25MG",
+  "generic": "MIRABEGRON",
+  "price": "25",
+  "sku": "IMP-1800"
+ },
+ {
+  "sr": 1801,
+  "name": "MIRTA SWAG 45MG",
+  "generic": "MIRTAZPINE",
+  "price": "7",
+  "sku": "IMP-1801"
+ },
+ {
+  "sr": 1802,
+  "name": "MIRTAZ 15MG",
+  "generic": "MIRTAZPINE",
+  "price": "12",
+  "sku": "IMP-1802"
+ },
+ {
+  "sr": 1803,
+  "name": "MITRA 15MG",
+  "generic": "MIRTAZPINE",
+  "price": "3.5",
+  "sku": "IMP-1803"
+ },
+ {
+  "sr": 1804,
+  "name": "MITRA 30MG",
+  "generic": "MIRTAZPINE",
+  "price": "5",
+  "sku": "IMP-1804"
+ },
+ {
+  "sr": 1805,
+  "name": "MITRA 7.5MG",
+  "generic": "MIRTAZPINE",
+  "price": "1.75",
+  "sku": "IMP-1805"
+ },
+ {
+  "sr": 1807,
+  "name": "MODA PLUS 200MG",
+  "generic": "MODAFINIL",
+  "price": "3",
+  "sku": "IMP-1807"
+ },
+ {
+  "sr": 1808,
+  "name": "MODAFINIL 200MG",
+  "generic": "MODAFINIL",
+  "price": "4",
+  "sku": "IMP-1808"
+ },
+ {
+  "sr": 1809,
+  "name": "MODAFRESH 200MG",
+  "generic": "MODAFINIL",
+  "price": "5",
+  "sku": "IMP-1809"
+ },
+ {
+  "sr": 1810,
+  "name": "MODAHEAL 100MG",
+  "generic": "MODAFINIL",
+  "price": "3",
+  "sku": "IMP-1810"
+ },
+ {
+  "sr": 1811,
+  "name": "MODAHEAL 200MG",
+  "generic": "MODAFINIL",
+  "price": "4.5",
+  "sku": "IMP-1811"
+ },
+ {
+  "sr": 1812,
+  "name": "MODALERT 100MG",
+  "generic": "MODAFINIL",
+  "price": "18.5",
+  "sku": "IMP-1812"
+ },
+ {
+  "sr": 1813,
+  "name": "MODALERT 200MG",
+  "generic": "MODAFINIL",
+  "price": "31.5",
+  "sku": "IMP-1813"
+ },
+ {
+  "sr": 1814,
+  "name": "MODANIL 100MG",
+  "generic": "MODAFINIL",
+  "price": "3",
+  "sku": "IMP-1814"
+ },
+ {
+  "sr": 1815,
+  "name": "MODANIL 200MG",
+  "generic": "MODAFINIL",
+  "price": "5",
+  "sku": "IMP-1815"
+ },
+ {
+  "sr": 1816,
+  "name": "MODAPLUS 200MG",
+  "generic": "MODAFINIL",
+  "price": "3",
+  "sku": "IMP-1816"
+ },
+ {
+  "sr": 1817,
+  "name": "MODAPLUS TAB",
+  "generic": "MODAFINIL",
+  "price": "3",
+  "sku": "IMP-1817"
+ },
+ {
+  "sr": 1818,
+  "name": "MODASAFE 200MG",
+  "generic": "MODAFINIL",
+  "price": "4",
+  "sku": "IMP-1818"
+ },
+ {
+  "sr": 1819,
+  "name": "MODASAFE 300MG",
+  "generic": "MODAFINIL",
+  "price": "6.5",
+  "sku": "IMP-1819"
+ },
+ {
+  "sr": 1820,
+  "name": "MODASAFE A 250MG",
+  "generic": "MODAFINIL",
+  "price": "8",
+  "sku": "IMP-1820"
+ },
+ {
+  "sr": 1821,
+  "name": "MODASMART 200MG",
+  "generic": "MODAFINIL",
+  "price": "3.5",
+  "sku": "IMP-1821"
+ },
+ {
+  "sr": 1822,
+  "name": "MODASMART 400MG",
+  "generic": "MODAFINIL",
+  "price": "10.5",
+  "sku": "IMP-1822"
+ },
+ {
+  "sr": 1823,
+  "name": "MODKEM 200MG",
+  "generic": "MODAFINIL",
+  "price": "3.5",
+  "sku": "IMP-1823"
+ },
+ {
+  "sr": 1824,
+  "name": "MODULA TAB",
+  "generic": "TADALAFIL",
+  "price": "22",
+  "sku": "IMP-1824"
+ },
+ {
+  "sr": 1825,
+  "name": "MODVIGIL 200MG",
+  "generic": "MODAFINIL",
+  "price": "4.5",
+  "sku": "IMP-1825"
+ },
+ {
+  "sr": 1826,
+  "name": "MOFLOREN LP DROPS",
+  "generic": "MOXIFLOXACIN HCL",
+  "price": "155",
+  "sku": "IMP-1826"
+ },
+ {
+  "sr": 1827,
+  "name": "MOFLOREN LP EYE DROP 5ML",
+  "generic": "MOXIFLOXACIN HCL",
+  "price": "170",
+  "sku": "IMP-1827"
+ },
+ {
+  "sr": 1828,
+  "name": "MOLNULEE 200MG CAP.",
+  "generic": "Molnupiravir",
+  "price": "16",
+  "sku": "IMP-1828"
+ },
+ {
+  "sr": 1829,
+  "name": "MOLNUVID 200MG",
+  "generic": "MOLNUPIRAVIR",
+  "price": "19",
+  "sku": "IMP-1829"
+ },
+ {
+  "sr": 1830,
+  "name": "MOLNUVIR 200MG",
+  "generic": "MOLNUPIRAVIR",
+  "price": "17",
+  "sku": "IMP-1830"
+ },
+ {
+  "sr": 1831,
+  "name": "MOLSUN 200MG",
+  "generic": "MOLNUPIRAVIR",
+  "price": "21.5",
+  "sku": "IMP-1831"
+ },
+ {
+  "sr": 1832,
+  "name": "MOMATE CREAM 20GM",
+  "generic": "MEMANTINE HYDROCLORIDE",
+  "price": "245",
+  "sku": "IMP-1832"
+ },
+ {
+  "sr": 1833,
+  "name": "MOMENTA 10MG",
+  "generic": "MOMETASONE",
+  "price": "2.5",
+  "sku": "IMP-1833"
+ },
+ {
+  "sr": 1834,
+  "name": "MOMIN CREAM",
+  "generic": "MOMETASONE",
+  "price": "22",
+  "sku": "IMP-1834"
+ },
+ {
+  "sr": 1835,
+  "name": "MOMIN S OINT 15GM",
+  "generic": "MOMETASONE-+ SALICYLIC ACID",
+  "price": "25",
+  "sku": "IMP-1835"
+ },
+ {
+  "sr": 1836,
+  "name": "MONARGAN SYRUP 5MG 100ML",
+  "generic": "PROMETHAZINE",
+  "price": "28",
+  "sku": "IMP-1836"
+ },
+ {
+  "sr": 1837,
+  "name": "MONCREW 10MG",
+  "generic": "MONTELUKAST SODIUM",
+  "price": "2",
+  "sku": "IMP-1837"
+ },
+ {
+  "sr": 1838,
+  "name": "MONOCEF O 200 TAB",
+  "generic": "CEFPODOXIME",
+  "price": "17",
+  "sku": "IMP-1838"
+ },
+ {
+  "sr": 1839,
+  "name": "MONOGEE INJ 1GM",
+  "generic": "CEFTRIAXONE",
+  "price": "28",
+  "sku": "IMP-1839"
+ },
+ {
+  "sr": 1840,
+  "name": "MONOLITH 300MG",
+  "generic": "LITHIUM CARBONATE",
+  "price": "2",
+  "sku": "IMP-1840"
+ },
+ {
+  "sr": 1841,
+  "name": "MONORIN 150MG",
+  "generic": "LEVONORGESTREL",
+  "price": "1.25",
+  "sku": "IMP-1841"
+ }
+]

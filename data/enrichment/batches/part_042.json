@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2196,
+  "name": "POXET 90MG",
+  "generic": "DAPOXETINE",
+  "price": "15.5",
+  "sku": "IMP-2196"
+ },
+ {
+  "sr": 2197,
+  "name": "PRACTIN TAB",
+  "generic": "CYPROHEPTADINE HYDROCHLORIDE",
+  "price": "4",
+  "sku": "IMP-2197"
+ },
+ {
+  "sr": 2198,
+  "name": "PRAMIPEX 0.5MG",
+  "generic": "PRAMIPEXOL DIHYDROCHLORIDE",
+  "price": "14",
+  "sku": "IMP-2198"
+ },
+ {
+  "sr": 2199,
+  "name": "PRAMIPEX 1MG",
+  "generic": "PRAMIPEXOL DIHYDROCHLORIDE",
+  "price": "19.5",
+  "sku": "IMP-2199"
+ },
+ {
+  "sr": 2200,
+  "name": "PRAMIPEX ER 0.75",
+  "generic": "PRAMIPEXOL DIHYDROCHLORIDE",
+  "price": "14",
+  "sku": "IMP-2200"
+ },
+ {
+  "sr": 2201,
+  "name": "PRAMIPEX ER 1.5MG",
+  "generic": "PRAMIPEXOL DIHYDROCHLORIDE",
+  "price": "23",
+  "sku": "IMP-2201"
+ },
+ {
+  "sr": 2202,
+  "name": "PRAMIPEX ER O.375MG",
+  "generic": "PRAMIPEXOL DIHYDROCHLORIDE",
+  "price": "9",
+  "sku": "IMP-2202"
+ },
+ {
+  "sr": 2203,
+  "name": "PRAMIXIL 0.5MG",
+  "generic": "PRAMIPEXOL DIHYDROCHLORIDE",
+  "price": "4",
+  "sku": "IMP-2203"
+ },
+ {
+  "sr": 2204,
+  "name": "PRAMIXOLE 0.25MG",
+  "generic": "PRAMIPEXOL DIHYDROCHLORIDE",
+  "price": "2.5",
+  "sku": "IMP-2204"
+ },
+ {
+  "sr": 2205,
+  "name": "PRAZICORS 600MG",
+  "generic": "PRAZIQUANTEL",
+  "price": "17",
+  "sku": "IMP-2205"
+ },
+ {
+  "sr": 2206,
+  "name": "PRAZINEC 600MG",
+  "generic": "PRAZIQUANTEL",
+  "price": "17",
+  "sku": "IMP-2206"
+ },
+ {
+  "sr": 2207,
+  "name": "PRAZIQUIN 600MG",
+  "generic": "PRAZIQUANTEL",
+  "price": "16",
+  "sku": "IMP-2207"
+ },
+ {
+  "sr": 2208,
+  "name": "PRAZISHER 600MG",
+  "generic": "PRAZIQUANTEL",
+  "price": "16",
+  "sku": "IMP-2208"
+ },
+ {
+  "sr": 2209,
+  "name": "PRAZOBROOK XL 2.5MG",
+  "generic": "PRAZOSIN HYDROCHLORIDE",
+  "price": "1",
+  "sku": "IMP-2209"
+ },
+ {
+  "sr": 2210,
+  "name": "PREBASUN 300MG",
+  "generic": "PREGABALIN",
+  "price": "4",
+  "sku": "IMP-2210"
+ },
+ {
+  "sr": 2211,
+  "name": "PREBASUN 450MG",
+  "generic": "PREGABALIN",
+  "price": "6",
+  "sku": "IMP-2211"
+ },
+ {
+  "sr": 2212,
+  "name": "PREBEL 75MG",
+  "generic": "PREGABALIN",
+  "price": "2.5",
+  "sku": "IMP-2212"
+ },
+ {
+  "sr": 2213,
+  "name": "PRED FORTE DROP 10ML",
+  "generic": "PREDNISOLONE ACETATE",
+  "price": "60",
+  "sku": "IMP-2213"
+ },
+ {
+  "sr": 2214,
+  "name": "PREDMET EYE DROP",
+  "generic": "PREDNISOLONE",
+  "price": "55",
+  "sku": "IMP-2214"
+ },
+ {
+  "sr": 2215,
+  "name": "PREDNIHEAL 10MG",
+  "generic": "PREDNISOLONE",
+  "price": "1",
+  "sku": "IMP-2215"
+ },
+ {
+  "sr": 2216,
+  "name": "PREDNIHEAL 20MG",
+  "generic": "PREDNISOLONE",
+  "price": "1.75",
+  "sku": "IMP-2216"
+ },
+ {
+  "sr": 2217,
+  "name": "PREDNIHEAL 40MG",
+  "generic": "PREDNISOLONE",
+  "price": "2.5",
+  "sku": "IMP-2217"
+ },
+ {
+  "sr": 2218,
+  "name": "PREDNIHEAL 5MG",
+  "generic": "PREDNISOLONE",
+  "price": "1",
+  "sku": "IMP-2218"
+ },
+ {
+  "sr": 2219,
+  "name": "PREDNIPRO 10MG",
+  "generic": "PREDNISOLONE",
+  "price": "1.25",
+  "sku": "IMP-2219"
+ },
+ {
+  "sr": 2220,
+  "name": "PREDNIPRO 20MG",
+  "generic": "PREDNISOLONE",
+  "price": "2",
+  "sku": "IMP-2220"
+ },
+ {
+  "sr": 2221,
+  "name": "PREDNIPRO 5MG",
+  "generic": "PREDNISOLONE",
+  "price": "0.75",
+  "sku": "IMP-2221"
+ },
+ {
+  "sr": 2222,
+  "name": "PREDNIPRO EYE DROP 10ML",
+  "generic": "PREDNISOLONE",
+  "price": "52",
+  "sku": "IMP-2222"
+ },
+ {
+  "sr": 2223,
+  "name": "PREDNISOLONE 10MG",
+  "generic": "PREDNISOLONE",
+  "price": "1.5",
+  "sku": "IMP-2223"
+ },
+ {
+  "sr": 2224,
+  "name": "PREDNISOLONE 20MG",
+  "generic": "PREDNISOLONE",
+  "price": "2",
+  "sku": "IMP-2224"
+ },
+ {
+  "sr": 2225,
+  "name": "PREDNISOLONE 40MG",
+  "generic": "PREDNISOLONE",
+  "price": "3",
+  "sku": "IMP-2225"
+ },
+ {
+  "sr": 2226,
+  "name": "PREDNISOLONE 5MG",
+  "generic": "PREDNISOLONE",
+  "price": "1",
+  "sku": "IMP-2226"
+ },
+ {
+  "sr": 2227,
+  "name": "PREGABA NT TAB",
+  "generic": "NORTRIPTYLINE + PREGABALIN",
+  "price": "21.5",
+  "sku": "IMP-2227"
+ },
+ {
+  "sr": 2228,
+  "name": "PREGABALIN 150MG",
+  "generic": "PREGABALIN",
+  "price": "2.5",
+  "sku": "IMP-2228"
+ },
+ {
+  "sr": 2229,
+  "name": "PREGABALIN 300MG",
+  "generic": "PREGABALIN",
+  "price": "4",
+  "sku": "IMP-2229"
+ },
+ {
+  "sr": 2230,
+  "name": "PREGABALIN 450MG",
+  "generic": "PREGABALIN",
+  "price": "6",
+  "sku": "IMP-2230"
+ },
+ {
+  "sr": 2231,
+  "name": "PREGABANYL 150MG",
+  "generic": "PREGABALIN",
+  "price": "4",
+  "sku": "IMP-2231"
+ },
+ {
+  "sr": 2232,
+  "name": "PREGABANYL 300MG",
+  "generic": "PREGABALIN",
+  "price": "6.5",
+  "sku": "IMP-2232"
+ },
+ {
+  "sr": 2233,
+  "name": "PREGABEL 300MG",
+  "generic": "PREGABALIN",
+  "price": "7",
+  "sku": "IMP-2233"
+ },
+ {
+  "sr": 2234,
+  "name": "PREGAEND KIT",
+  "generic": "MIFEPRISTONE & MISOPROSTOL",
+  "price": "55",
+  "sku": "IMP-2234"
+ },
+ {
+  "sr": 2235,
+  "name": "PREGAFOX 300MG",
+  "generic": "PREGABALIN",
+  "price": "3.5",
+  "sku": "IMP-2235"
+ },
+ {
+  "sr": 2236,
+  "name": "PREGAFRESH 150MG",
+  "generic": "PREGABALIN",
+  "price": "2.5",
+  "sku": "IMP-2236"
+ },
+ {
+  "sr": 2237,
+  "name": "PREGAFRESH 300MG",
+  "generic": "PREGABALIN",
+  "price": "3.5",
+  "sku": "IMP-2237"
+ },
+ {
+  "sr": 2238,
+  "name": "PREGAGESIC 450MG",
+  "generic": "PREGABALIN",
+  "price": "5.5",
+  "sku": "IMP-2238"
+ },
+ {
+  "sr": 2239,
+  "name": "PREGAKEM CARD",
+  "generic": "",
+  "price": "17",
+  "sku": "IMP-2239"
+ },
+ {
+  "sr": 2240,
+  "name": "PREGAREEN 300MG",
+  "generic": "PREGABALIN",
+  "price": "3",
+  "sku": "IMP-2240"
+ },
+ {
+  "sr": 2241,
+  "name": "PREGARICA 150MG",
+  "generic": "PREGABALIN",
+  "price": "3.5",
+  "sku": "IMP-2241"
+ },
+ {
+  "sr": 2242,
+  "name": "PREGARICA 300MG",
+  "generic": "PREGABALIN",
+  "price": "7.5",
+  "sku": "IMP-2242"
+ },
+ {
+  "sr": 2243,
+  "name": "PREGARICA 50MG",
+  "generic": "PREGABALIN",
+  "price": "2.5",
+  "sku": "IMP-2243"
+ },
+ {
+  "sr": 2244,
+  "name": "PREGARICA 75MG",
+  "generic": "PREGABALIN",
+  "price": "2",
+  "sku": "IMP-2244"
+ },
+ {
+  "sr": 2245,
+  "name": "PREGARICA NT",
+  "generic": "PREGABALIN + NORTRIPTYLINE",
+  "price": "3",
+  "sku": "IMP-2245"
+ }
+]

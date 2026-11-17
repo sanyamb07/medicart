@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 515,
+  "name": "CERNOS GEL 5GM",
+  "generic": "TESTOSTERONE",
+  "price": "85",
+  "sku": "IMP-0515"
+ },
+ {
+  "sr": 516,
+  "name": "CEROTIC AMFY KIT",
+  "generic": "MIFEPRISTONE & MISOPROSTOL",
+  "price": "65",
+  "sku": "IMP-0516"
+ },
+ {
+  "sr": 517,
+  "name": "CETAPHIL MOIST CREAM 80GM",
+  "generic": "",
+  "price": "490",
+  "sku": "IMP-0517"
+ },
+ {
+  "sr": 518,
+  "name": "CETAPIN XR 1000MG",
+  "generic": "METFORMIN HCL",
+  "price": "4",
+  "sku": "IMP-0518"
+ },
+ {
+  "sr": 519,
+  "name": "CETCIP 10MG",
+  "generic": "CETILISTAT",
+  "price": "1",
+  "sku": "IMP-0519"
+ },
+ {
+  "sr": 520,
+  "name": "CETIGAL 120MG",
+  "generic": "CITALOPRAM",
+  "price": "8",
+  "sku": "IMP-0520"
+ },
+ {
+  "sr": 521,
+  "name": "CETRAM 10MG",
+  "generic": "CITALOPRAM",
+  "price": "1.5",
+  "sku": "IMP-0521"
+ },
+ {
+  "sr": 522,
+  "name": "CETRAM 20MG",
+  "generic": "CITALOPRAM",
+  "price": "2",
+  "sku": "IMP-0522"
+ },
+ {
+  "sr": 523,
+  "name": "CETRIHEAL TAB",
+  "generic": "CETIRIZINE",
+  "price": "0.5",
+  "sku": "IMP-0523"
+ },
+ {
+  "sr": 524,
+  "name": "CETZINE TAB",
+  "generic": "CETIRIZINE HCL",
+  "price": "2",
+  "sku": "IMP-0524"
+ },
+ {
+  "sr": 525,
+  "name": "CHERICOF 12 SF SUS",
+  "generic": "CHLORPHENIRAMINE MALEATE+ DEXTROMETHORPHAN",
+  "price": "95",
+  "sku": "IMP-0525"
+ },
+ {
+  "sr": 526,
+  "name": "CHLOROQUINE TAB",
+  "generic": "CHLOROQUINE",
+  "price": "2",
+  "sku": "IMP-0526"
+ },
+ {
+  "sr": 527,
+  "name": "CHLORPROMAZINE TAB",
+  "generic": "CHLORPROMAZINE HCL",
+  "price": "1.5",
+  "sku": "IMP-0527"
+ },
+ {
+  "sr": 528,
+  "name": "CHOCOLIS 20MG",
+  "generic": "TADALAFIL",
+  "price": "4.5",
+  "sku": "IMP-0528"
+ },
+ {
+  "sr": 529,
+  "name": "CHOLTRAN 5MG SACHET",
+  "generic": "CHOLESTYRAMINE",
+  "price": "70",
+  "sku": "IMP-0529"
+ },
+ {
+  "sr": 530,
+  "name": "CIFRAN EYE DROP",
+  "generic": "CIPROFLOXACIN",
+  "price": "13",
+  "sku": "IMP-0530"
+ },
+ {
+  "sr": 531,
+  "name": "CILNIHEAL 10MG",
+  "generic": "CILNIDIPINE",
+  "price": "1.5",
+  "sku": "IMP-0531"
+ },
+ {
+  "sr": 532,
+  "name": "CINASELECT 30MG",
+  "generic": "CINACALCET",
+  "price": "13",
+  "sku": "IMP-0532"
+ },
+ {
+  "sr": 533,
+  "name": "CIPCAL 500MG",
+  "generic": "CALCIUM & VITAMIN D3",
+  "price": "2",
+  "sku": "IMP-0533"
+ },
+ {
+  "sr": 534,
+  "name": "CIPJOHN 500MG",
+  "generic": "CIPROFLOXACIN HCL",
+  "price": "2.5",
+  "sku": "IMP-0534"
+ },
+ {
+  "sr": 535,
+  "name": "CIPLACTIN SYP 200ML",
+  "generic": "CYPROHEPTADINE",
+  "price": "45",
+  "sku": "IMP-0535"
+ },
+ {
+  "sr": 536,
+  "name": "CIPLACTIN TAB",
+  "generic": "CYPROHEPTADINE",
+  "price": "3.5",
+  "sku": "IMP-0536"
+ },
+ {
+  "sr": 537,
+  "name": "CIPLADINE OINT 20GM",
+  "generic": "POVIDONE IODINE",
+  "price": "35",
+  "sku": "IMP-0537"
+ },
+ {
+  "sr": 538,
+  "name": "CIPLAR 10MG",
+  "generic": "PROPRANOLOL",
+  "price": "1.5",
+  "sku": "IMP-0538"
+ },
+ {
+  "sr": 539,
+  "name": "CIPLOX 500MG",
+  "generic": "CIPROFLOXACIN",
+  "price": "4",
+  "sku": "IMP-0539"
+ },
+ {
+  "sr": 540,
+  "name": "CIPLOX D EYE DROP",
+  "generic": "CIPROFLOXACIN",
+  "price": "22",
+  "sku": "IMP-0540"
+ },
+ {
+  "sr": 541,
+  "name": "CIPLOX EYE/EAR DROP",
+  "generic": "CIPROFLOXACIN",
+  "price": "15",
+  "sku": "IMP-0541"
+ },
+ {
+  "sr": 542,
+  "name": "CIPLOX TZ TAB",
+  "generic": "CIPROFLOXACIN AND TINIDAZOLE",
+  "price": "14",
+  "sku": "IMP-0542"
+ },
+ {
+  "sr": 543,
+  "name": "CIPMIDO 5MG",
+  "generic": "MIDODRINE",
+  "price": "54",
+  "sku": "IMP-0543"
+ },
+ {
+  "sr": 544,
+  "name": "CIPMOL 500MG",
+  "generic": "PARACETAMOL",
+  "price": "1",
+  "sku": "IMP-0544"
+ },
+ {
+  "sr": 545,
+  "name": "CIPMOX 500MG",
+  "generic": "AMOXYCILLIN",
+  "price": "4",
+  "sku": "IMP-0545"
+ },
+ {
+  "sr": 546,
+  "name": "CIPRO 750MG",
+  "generic": "CIPROFLOXACIN",
+  "price": "5.5",
+  "sku": "IMP-0546"
+ },
+ {
+  "sr": 547,
+  "name": "CIPRODAC 250MG",
+  "generic": "CIPROFLOXACIN",
+  "price": "1.75",
+  "sku": "IMP-0547"
+ },
+ {
+  "sr": 548,
+  "name": "CIPRODAC 500MG",
+  "generic": "CIPROFLOXACIN",
+  "price": "2.5",
+  "sku": "IMP-0548"
+ },
+ {
+  "sr": 549,
+  "name": "CIPROPEN 500MG",
+  "generic": "CIPROFLOXACIN",
+  "price": "2.5",
+  "sku": "IMP-0549"
+ },
+ {
+  "sr": 550,
+  "name": "CIPROPEN EYE DROP 10ML",
+  "generic": "CIPROFLOXACIN",
+  "price": "10",
+  "sku": "IMP-0550"
+ },
+ {
+  "sr": 551,
+  "name": "CIPZEN D TAB",
+  "generic": "DICLOFENAC+ SERRATIOPEPTIDASE",
+  "price": "2",
+  "sku": "IMP-0551"
+ },
+ {
+  "sr": 552,
+  "name": "CIRZOLE 1MG",
+  "generic": "ANASTROZOLE",
+  "price": "4.5",
+  "sku": "IMP-0552"
+ },
+ {
+  "sr": 553,
+  "name": "CITACAN 20MG",
+  "generic": "CITALOPRAM",
+  "price": "1.25",
+  "sku": "IMP-0553"
+ },
+ {
+  "sr": 554,
+  "name": "CITICOHEAL 500MG",
+  "generic": "CITICOLINE",
+  "price": "11.5",
+  "sku": "IMP-0554"
+ },
+ {
+  "sr": 555,
+  "name": "CITISIGN 500MG",
+  "generic": "CITICOLINE",
+  "price": "15.5",
+  "sku": "IMP-0555"
+ },
+ {
+  "sr": 556,
+  "name": "CITISIGN P FORTE TAB",
+  "generic": "CITICOLINE + PIRACETAM",
+  "price": "17",
+  "sku": "IMP-0556"
+ },
+ {
+  "sr": 557,
+  "name": "CLARIFACE 250MG",
+  "generic": "CLARITHROMYCIN",
+  "price": "12",
+  "sku": "IMP-0557"
+ },
+ {
+  "sr": 558,
+  "name": "CLARIFACE 500MG",
+  "generic": "CLARITHROMYCIN",
+  "price": "20",
+  "sku": "IMP-0558"
+ },
+ {
+  "sr": 559,
+  "name": "CLARIFOD 500MG",
+  "generic": "CLARITHROMYCIN",
+  "price": "18",
+  "sku": "IMP-0559"
+ },
+ {
+  "sr": 560,
+  "name": "CLARIFORD 500MG",
+  "generic": "CLARITHROMYCIN",
+  "price": "18",
+  "sku": "IMP-0560"
+ },
+ {
+  "sr": 561,
+  "name": "CLAVAM DROPS 10ML",
+  "generic": "AMOXYCILLIN- + CLAVULANIC ACID",
+  "price": "100",
+  "sku": "IMP-0561"
+ },
+ {
+  "sr": 562,
+  "name": "CLAVAM DRY SYP 30ML",
+  "generic": "AMOXYCILLIN- + CLAVULANIC ACID",
+  "price": "60",
+  "sku": "IMP-0562"
+ },
+ {
+  "sr": 563,
+  "name": "CLAVIX 75MG",
+  "generic": "CLOPIDOGREL",
+  "price": "6",
+  "sku": "IMP-0563"
+ },
+ {
+  "sr": 564,
+  "name": "CLEAR GRANULES SUS 30ML",
+  "generic": "CLARITHROMYCIN",
+  "price": "26",
+  "sku": "IMP-0564"
+ }
+]

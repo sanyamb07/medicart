@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 565,
+  "name": "CLEARLAX 5MG",
+  "generic": "BISACODYL",
+  "price": "1",
+  "sku": "IMP-0565"
+ },
+ {
+  "sr": 575,
+  "name": "CLIFORD 150MG",
+  "generic": "CLINDAMYCIN",
+  "price": "7",
+  "sku": "IMP-0575"
+ },
+ {
+  "sr": 576,
+  "name": "CLIFORD GEL 20GM",
+  "generic": "CLINDAMYCIN",
+  "price": "35",
+  "sku": "IMP-0576"
+ },
+ {
+  "sr": 577,
+  "name": "CLINCITOP GEL 20GM",
+  "generic": "CLINDAMYCIN",
+  "price": "32",
+  "sku": "IMP-0577"
+ },
+ {
+  "sr": 578,
+  "name": "CLINDAC A GEL 20GM",
+  "generic": "CLINDAMYCIN",
+  "price": "195",
+  "sku": "IMP-0578"
+ },
+ {
+  "sr": 579,
+  "name": "CLINDAC A SOL 25ML",
+  "generic": "CLINDAMYCIN PHOSPHATE & NICOTINAMIDE",
+  "price": "240",
+  "sku": "IMP-0579"
+ },
+ {
+  "sr": 580,
+  "name": "CLINDANOL 300MG",
+  "generic": "CLINDAMYCIN",
+  "price": "8.5",
+  "sku": "IMP-0580"
+ },
+ {
+  "sr": 581,
+  "name": "CLINDON TAB",
+  "generic": "CLINDAMYCIN + CLOTRIMAZOLE + TINIDAZOLE",
+  "price": "8.5",
+  "sku": "IMP-0581"
+ },
+ {
+  "sr": 582,
+  "name": "CLINRIGHT 300MG",
+  "generic": "CLINDAMYCIN",
+  "price": "7.5",
+  "sku": "IMP-0582"
+ },
+ {
+  "sr": 583,
+  "name": "CLINSOL CAP",
+  "generic": "CLINDAMYCIN",
+  "price": "7.5",
+  "sku": "IMP-0583"
+ },
+ {
+  "sr": 584,
+  "name": "CLINTOP GEL",
+  "generic": "CLINDAMYCIN",
+  "price": "30",
+  "sku": "IMP-0584"
+ },
+ {
+  "sr": 585,
+  "name": "CLOBEHEAL GM DOUBLE CREAM",
+  "generic": "CLOBETASOL+ GENTAMICIN+MICONAZOLE+CLOTRIMAZOLE",
+  "price": "35",
+  "sku": "IMP-0585"
+ },
+ {
+  "sr": 586,
+  "name": "CLOCIP B",
+  "generic": "BECLOMETASONE+ CLOTRIMAZOLE",
+  "price": "26",
+  "sku": "IMP-0586"
+ },
+ {
+  "sr": 587,
+  "name": "CLOCIP B OINT",
+  "generic": "CLOTRIMAZOLE + BECLOMETHASONE",
+  "price": "30",
+  "sku": "IMP-0587"
+ },
+ {
+  "sr": 588,
+  "name": "CLOCIP CREAM",
+  "generic": "CLOTRIMAZOLE",
+  "price": "25",
+  "sku": "IMP-0588"
+ },
+ {
+  "sr": 589,
+  "name": "CLOFI 100MG",
+  "generic": "CLOMIPHENE",
+  "price": "2.5",
+  "sku": "IMP-0589"
+ },
+ {
+  "sr": 590,
+  "name": "CLOFI 25MG",
+  "generic": "CLOMIPHENE",
+  "price": "1.5",
+  "sku": "IMP-0590"
+ },
+ {
+  "sr": 591,
+  "name": "CLOFI 50MG",
+  "generic": "CLOMIPHENE",
+  "price": "1.5",
+  "sku": "IMP-0591"
+ },
+ {
+  "sr": 592,
+  "name": "CLOMIBIX 50MG TAB.",
+  "generic": "CLOMIPHENE",
+  "price": "2",
+  "sku": "IMP-0592"
+ },
+ {
+  "sr": 593,
+  "name": "CLOMIBOL TAB",
+  "generic": "CLOMIPHENE",
+  "price": "4.5",
+  "sku": "IMP-0593"
+ },
+ {
+  "sr": 594,
+  "name": "CLOMICARE 25MG",
+  "generic": "CLOMIPRAMINE",
+  "price": "2.5",
+  "sku": "IMP-0594"
+ },
+ {
+  "sr": 595,
+  "name": "CLOMICARE 75SR TAB",
+  "generic": "CLOMIPRAMINE",
+  "price": "4.5",
+  "sku": "IMP-0595"
+ },
+ {
+  "sr": 596,
+  "name": "CLOMIFONE 50MG",
+  "generic": "CLOMIFENE CITRATE",
+  "price": "2",
+  "sku": "IMP-0596"
+ },
+ {
+  "sr": 597,
+  "name": "CLOMIFORD 25MG",
+  "generic": "CLOMIFENE CITRATE",
+  "price": "1.5",
+  "sku": "IMP-0597"
+ },
+ {
+  "sr": 598,
+  "name": "CLOMIFORD 50MG",
+  "generic": "CLOMIFENE CITRATE",
+  "price": "1.5",
+  "sku": "IMP-0598"
+ },
+ {
+  "sr": 599,
+  "name": "CLOMISIGN 100MG",
+  "generic": "CLOMIFENE CITRATE",
+  "price": "3",
+  "sku": "IMP-0599"
+ },
+ {
+  "sr": 600,
+  "name": "CLOMISIGN 50MG",
+  "generic": "CLOMIFENE CITRATE",
+  "price": "2",
+  "sku": "IMP-0600"
+ },
+ {
+  "sr": 601,
+  "name": "CLONATE F CREAM 10GM",
+  "generic": "CLOBETASOL + GENTAMICIN",
+  "price": "180",
+  "sku": "IMP-0601"
+ },
+ {
+  "sr": 602,
+  "name": "CLOP G CREAM 15GM",
+  "generic": "CLOBETASOL+ GENTAMICIN",
+  "price": "35",
+  "sku": "IMP-0602"
+ },
+ {
+  "sr": 603,
+  "name": "CLOP G CREAM 30GM",
+  "generic": "CLOBETASOL+ GENTAMICIN",
+  "price": "35",
+  "sku": "IMP-0603"
+ },
+ {
+  "sr": 604,
+  "name": "CLOPIDRILL 75MG",
+  "generic": "CLOPIDOGREL",
+  "price": "1.5",
+  "sku": "IMP-0604"
+ },
+ {
+  "sr": 605,
+  "name": "CLOPIFINE 75MG",
+  "generic": "CLOPIDOGREL",
+  "price": "1.5",
+  "sku": "IMP-0605"
+ },
+ {
+  "sr": 606,
+  "name": "CLOPIZEN A 150MG",
+  "generic": "CLOPIDOGREL + ASPIRIN",
+  "price": "2.5",
+  "sku": "IMP-0606"
+ },
+ {
+  "sr": 607,
+  "name": "CLOSTAF OINT 15GM",
+  "generic": "CLOBETASOL",
+  "price": "22",
+  "sku": "IMP-0607"
+ },
+ {
+  "sr": 608,
+  "name": "CLOZCARE-50 MG",
+  "generic": "CLOZAPINE",
+  "price": "3",
+  "sku": "IMP-0608"
+ },
+ {
+  "sr": 609,
+  "name": "CLOZINE 25MG",
+  "generic": "CLOZAPINE",
+  "price": "1.5",
+  "sku": "IMP-0609"
+ },
+ {
+  "sr": 610,
+  "name": "CLOZOTIC EAR DROP",
+  "generic": "Neomycin Beclomethasone Clotrimazole Lignocaine Hcl",
+  "price": "15",
+  "sku": "IMP-0610"
+ },
+ {
+  "sr": 611,
+  "name": "CLOZOTIC EAR DROPS",
+  "generic": "NEOMYCIN,BECLOMETHASONE,CLOTRIMAZOLE AND LIGNOCAINE",
+  "price": "15",
+  "sku": "IMP-0611"
+ },
+ {
+  "sr": 612,
+  "name": "COBAFAST 2500MG INJ 1ML",
+  "generic": "METHYLCOBALAMIN",
+  "price": "25",
+  "sku": "IMP-0612"
+ },
+ {
+  "sr": 613,
+  "name": "COBIX 200MG",
+  "generic": "CELECOXIB",
+  "price": "4",
+  "sku": "IMP-0613"
+ },
+ {
+  "sr": 614,
+  "name": "COBRA 120MG",
+  "generic": "SILDENAFIL CITRATE",
+  "price": "2.5",
+  "sku": "IMP-0614"
+ },
+ {
+  "sr": 615,
+  "name": "COBRA 200MG",
+  "generic": "SILDENAFIL CITRATE",
+  "price": "3.5",
+  "sku": "IMP-0615"
+ },
+ {
+  "sr": 616,
+  "name": "COLCHIHEAL 0.5MG",
+  "generic": "COLCHICINE",
+  "price": "1.75",
+  "sku": "IMP-0616"
+ },
+ {
+  "sr": 617,
+  "name": "COLCHISIGN 0.5MG",
+  "generic": "COLCHICINE",
+  "price": "2",
+  "sku": "IMP-0617"
+ },
+ {
+  "sr": 618,
+  "name": "COLOSIG 135MG",
+  "generic": "MEBEVERINE HCL",
+  "price": "3",
+  "sku": "IMP-0618"
+ },
+ {
+  "sr": 619,
+  "name": "COLSHINE 1MG TAB.",
+  "generic": "COLCHICINE",
+  "price": "3.5",
+  "sku": "IMP-0619"
+ },
+ {
+  "sr": 620,
+  "name": "COMBIFLAM TAB",
+  "generic": "IBUPROFEN+ PARACETAMOL",
+  "price": "2.25",
+  "sku": "IMP-0620"
+ },
+ {
+  "sr": 621,
+  "name": "COMBIGAN EYE DROPS",
+  "generic": "BENZALKONIUM CHLORIDE + BRIMONIDINE TARTRATE + TIMOLOL",
+  "price": "425",
+  "sku": "IMP-0621"
+ },
+ {
+  "sr": 622,
+  "name": "CONJUBROOK 0.625MG",
+  "generic": "CONJUGATED ESTROGENS",
+  "price": "10.5",
+  "sku": "IMP-0622"
+ },
+ {
+  "sr": 623,
+  "name": "COOLPROST EYE DROP",
+  "generic": "BIMATOPROST",
+  "price": "120",
+  "sku": "IMP-0623"
+ }
+]

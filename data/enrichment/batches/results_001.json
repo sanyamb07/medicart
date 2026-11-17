@@ -1,0 +1,1914 @@
+[
+ {
+  "sr": 101,
+  "sku": "IMP-0101",
+  "name": "AMOXYHEAL CV 625MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amoxyheal-cv-625/",
+  "official_product_page_url": "https://www.healingpharma.in/product/amoxyheal-cv-625/",
+  "composition_on_source": "Amoxycillin and Potassium Clavulanate Tablets IP 625 mg (from official pack image; product page text gives no composition)",
+  "strength": "625 mg (amoxycillin 500 mg + clavulanic acid 125 mg per blister small print, partly legible)",
+  "dosage_form": "TABLET",
+  "pack_size": "1 x 10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "List generic 'AMOXYCILIN AND POTASSIUM CLAVULANTE' is a misspelling of amoxycillin + potassium clavulanate; matches. Product page (SKU HP0033) has no composition text; composition read from the official pack shot.",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Amoxyheal-CV-625.jpeg",
+   "page_url": "https://www.healingpharma.in/product/amoxyheal-cv-625/",
+   "local_file": "data/enrichment/images_raw/IMP-0101.jpg",
+   "visible_pack_text": "Carton: 'Rx Amoxycillin and Potassium Clavulanate Tablets IP 625 mg', 'Amoxyheal-CV 625 Tablets', '1 x 10 Tablets', 'Healing Pharma'. Blister (partly legible): 'Amoxycillin and Potassium Clavulanate Tablets IP 625 mg', 'Amoxyheal-CV 625', 'Manufactured by: Malik Lifesciences Pvt. Ltd. ...'",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Official site image; carton + blister clearly show brand, 625 mg and tablets."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Composition taken from official pack image, page text lacks composition",
+   "Blister names Malik Lifesciences Pvt. Ltd. as manufacturer (partly legible); Healing Pharma is marketer",
+   "Image PENDING pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/amoxyheal-cv-625/",
+   "https://www.healingpharma.in/wp-content/uploads/2022/03/Amoxyheal-CV-625.jpeg"
+  ]
+ },
+ {
+  "sr": 102,
+  "sku": "IMP-0102",
+  "name": "AMOXYHEAL CV DRY SYRUP 30ML",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amoxyheal-cv-dry-syrup/",
+  "official_product_page_url": "https://www.healingpharma.in/product/amoxyheal-cv-dry-syrup/",
+  "composition_on_source": "AMOXICILLIN 200MG+POTASSIUM CLAVULANIC ACID 28.5 ,25X1X30 ml (page meta description; per 5 ml implied, pack composition panel partly visible: 200 mg / 28.5 mg)",
+  "strength": "200 mg + 28.5 mg per 5 ml (3.3 g/30 ml powder per carton)",
+  "dosage_form": "DRY SYRUP (powder for oral suspension)",
+  "pack_size": "30 ml bottle (box packing 25 x 1 x 30 ml); carton shot also shows 30 ml Sterile Water for Injections IP diluent",
+  "composition_matches_list": true,
+  "composition_note": "List gives no strength; matched to the plain 'Amoxyheal CV Dry Syrup' (SKU HP0034). Healing also sells 'AMOXYHEAL CV DDS SYRUP' (400 mg + 57 mg/5 ml, SKU HP0035) and 'Amoxyheal ES 642.9' - confirm which one is stocked.",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2023/04/Amoxyheal-CV-DRY-Syrup.jpg",
+   "page_url": "https://www.healingpharma.in/product/amoxyheal-cv-dry-syrup/",
+   "local_file": "data/enrichment/images_raw/IMP-0102.jpg",
+   "visible_pack_text": "Carton: 'Rx Amoxycillin & Potassium Clavulanate Oral Suspension IP', 'Amoxyheal-CV Dry Syrup', '3.3g/30ml', 'Healing Pharma'; side panel partly visible: '200 mg', '28.5 mg'. Bottle label: 'Amoxyheal-CV Dry Syrup 3.3g/30ml'. Diluent ampoule: '30 ml Sterile Water for Injections IP ... Sunrise Pharma'.",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Strength on image (3.3g/30ml, 200/28.5 mg) matches the official page; list name has no strength so strength check is against the page. Image includes third-party diluent ampoule (Sunrise Pharma) which is part of the kit."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "List row has no strength; DDS (400/57) variant also exists - confirm stocked variant",
+   "Image PENDING pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/amoxyheal-cv-dry-syrup/",
+   "https://www.healingpharma.in/wp-content/uploads/2023/04/Amoxyheal-CV-DRY-Syrup.jpg",
+   "https://www.healingpharma.in/product/amoxyheal-cv-dds-dry-syrup/"
+  ]
+ },
+ {
+  "sr": 103,
+  "sku": "IMP-0103",
+  "name": "AMPOXIN 500MG",
+  "manufacturer": "Torrent Pharmaceuticals Ltd. (marketer and manufacturer per official prescribing information)",
+  "manufacturer_source_url": "https://www.torrentpharma.com/assets/2904_218e25fb9c.pdf",
+  "official_product_page_url": "https://www.torrentpharma.com/assets/2904_218e25fb9c.pdf",
+  "composition_on_source": "AMPOXIN 500: Each capsule contains Ampicillin Trihydrate I.P. equivalent to Ampicillin 250 mg; Cloxacillin Sodium I.P. equivalent to Cloxacillin 250 mg",
+  "strength": "250 mg + 250 mg (Ampoxin 500)",
+  "dosage_form": "CAPSULE",
+  "pack_size": "strip pack of 15 capsules",
+  "composition_matches_list": true,
+  "composition_note": "Ampicillin + cloxacillin matches list. '500MG' = combined 250+250. Source is Torrent's official prescribing-information PDF on torrentpharma.com (no HTML product page). Rows SR 103, 104, 105 are all 'AMPOXIN 500MG' with near-identical generic text and prices 5.5/6.5/5.5 - probable duplicates; also Ampoxin 500 injection exists, list does not state form (price suggests capsule).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No product image on torrentpharma.com (only text PDF). Retailer images not used."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Possible duplicate rows SR 103/104/105",
+   "Dosage form not in list name (capsule assumed from price; injection variant exists) - confirm",
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.torrentpharma.com/assets/2904_218e25fb9c.pdf",
+   "WebSearch: Ampoxin 500 manufacturer (retailer results only, not used as source)"
+  ]
+ },
+ {
+  "sr": 104,
+  "sku": "IMP-0104",
+  "name": "AMPOXIN 500MG",
+  "manufacturer": "Torrent Pharmaceuticals Ltd. (marketer and manufacturer per official prescribing information)",
+  "manufacturer_source_url": "https://www.torrentpharma.com/assets/2904_218e25fb9c.pdf",
+  "official_product_page_url": "https://www.torrentpharma.com/assets/2904_218e25fb9c.pdf",
+  "composition_on_source": "AMPOXIN 500: Each capsule contains Ampicillin Trihydrate I.P. equivalent to Ampicillin 250 mg; Cloxacillin Sodium I.P. equivalent to Cloxacillin 250 mg",
+  "strength": "250 mg + 250 mg (Ampoxin 500)",
+  "dosage_form": "CAPSULE",
+  "pack_size": "strip pack of 15 capsules",
+  "composition_matches_list": true,
+  "composition_note": "Ampicillin + cloxacillin matches list. '500MG' = combined 250+250. Source is Torrent's official prescribing-information PDF on torrentpharma.com (no HTML product page). Rows SR 103, 104, 105 are all 'AMPOXIN 500MG' with near-identical generic text and prices 5.5/6.5/5.5 - probable duplicates; also Ampoxin 500 injection exists, list does not state form (price suggests capsule).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No product image on torrentpharma.com (only text PDF). Retailer images not used."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Possible duplicate rows SR 103/104/105",
+   "Dosage form not in list name (capsule assumed from price; injection variant exists) - confirm",
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.torrentpharma.com/assets/2904_218e25fb9c.pdf",
+   "WebSearch: Ampoxin 500 manufacturer (retailer results only, not used as source)"
+  ]
+ },
+ {
+  "sr": 105,
+  "sku": "IMP-0105",
+  "name": "AMPOXIN 500MG",
+  "manufacturer": "Torrent Pharmaceuticals Ltd. (marketer and manufacturer per official prescribing information)",
+  "manufacturer_source_url": "https://www.torrentpharma.com/assets/2904_218e25fb9c.pdf",
+  "official_product_page_url": "https://www.torrentpharma.com/assets/2904_218e25fb9c.pdf",
+  "composition_on_source": "AMPOXIN 500: Each capsule contains Ampicillin Trihydrate I.P. equivalent to Ampicillin 250 mg; Cloxacillin Sodium I.P. equivalent to Cloxacillin 250 mg",
+  "strength": "250 mg + 250 mg (Ampoxin 500)",
+  "dosage_form": "CAPSULE",
+  "pack_size": "strip pack of 15 capsules",
+  "composition_matches_list": true,
+  "composition_note": "Ampicillin + cloxacillin matches list. '500MG' = combined 250+250. Source is Torrent's official prescribing-information PDF on torrentpharma.com (no HTML product page). Rows SR 103, 104, 105 are all 'AMPOXIN 500MG' with near-identical generic text and prices 5.5/6.5/5.5 - probable duplicates; also Ampoxin 500 injection exists, list does not state form (price suggests capsule).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No product image on torrentpharma.com (only text PDF). Retailer images not used."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Possible duplicate rows SR 103/104/105",
+   "Dosage form not in list name (capsule assumed from price; injection variant exists) - confirm",
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.torrentpharma.com/assets/2904_218e25fb9c.pdf",
+   "WebSearch: Ampoxin 500 manufacturer (retailer results only, not used as source)"
+  ]
+ },
+ {
+  "sr": 106,
+  "sku": "IMP-0106",
+  "name": "AMRFY CREAM 30GM",
+  "manufacturer": "Hegde & Hegde Pharmaceutica LLP (site operator / brand owner; page does not state manufacturer vs marketer)",
+  "manufacturer_source_url": "https://hhpharma.com/products/amrfy-cream",
+  "official_product_page_url": "https://hhpharma.com/products/amrfy-cream",
+  "composition_on_source": "Key ingredients: Amorolfine 0.25%",
+  "strength": "0.25%",
+  "dosage_form": "CREAM",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Amorolfine 0.25% matches list generic AMOROLFINE. Page states no pack size; list says 30 GM (unverified). An 'Amrfy XL' 50 g variant is sold by retailers - not on official page.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": "https://hhpharma.com/products/amrfy-cream",
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Both official images (63d59deaf1b05d55db68100c0de3bd8c.jpg 601x601, 0dab2c3dd5104b89cd9ef7eec6b73d4b.jpg 501x151) were downloaded, opened and show only the text 'Coming soon' - placeholders, deleted."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Pack size (30 g) not confirmed on official page",
+   "No official product image (placeholder only)"
+  ],
+  "sources_consulted": [
+   "https://hhpharma.com/",
+   "https://hhpharma.com/products/amrfy-cream"
+  ]
+ },
+ {
+  "sr": 107,
+  "sku": "IMP-0107",
+  "name": "AMROLSTAR CREAM 30GM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retailers (Apollo, Medibuddy, Truemeds, Netmeds) attribute Amrolstar 0.25% cream to Oaknet / Eris Oaknet Healthcare (Eris Lifesciences group); not found on an official Eris page. Web search budget exhausted before eris.co.in could be checked directly.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer not confirmed on official site (retailers say Eris Oaknet Healthcare)"
+  ],
+  "sources_consulted": [
+   "WebSearch: Amrolstar cream manufacturer (retailer results only)",
+   "WebSearch: eris.co.in Amrolstar (no official hit)"
+  ]
+ },
+ {
+  "sr": 108,
+  "sku": "IMP-0108",
+  "name": "ANA ASH 1MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "'ASH' suffix family (ANA ASH / API-ASH / APPLE ASH): no manufacturer found in any source.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Brand not found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found online; manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Ana Ash\" anastrozole (no hits)"
+  ]
+ },
+ {
+  "sr": 109,
+  "sku": "IMP-0109",
+  "name": "ANABOL TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "SUSPICIOUS: 'Anabol' is a long-standing brand name for METHANDIENONE (anabolic steroid, on the not-approved-for-human-use list), yet list generic says ANASTROZOLE. Only trace of an 'Anabol 1mg anastrozole' is an IndiaMART B2B ad (Namo Pharma, Nagpur) - not an official source. Strength not stated in list.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Generic possibly wrong: name suggests methandienone (not approved for human use) - pharmacist/auditor must confirm actual product",
+   "No strength in list",
+   "Manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "WebSearch: Anabol tablet anastrozole OR methandienone (B2B ads only)"
+  ]
+ },
+ {
+  "sr": 111,
+  "sku": "IMP-0111",
+  "name": "ANARIDEX 1MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/anaridex-1mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/anaridex-1mg/",
+  "composition_on_source": "Anastrazole 1mg (page tag); pack: Anastrozole Tablets IP 1mg",
+  "strength": "1 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "1 x 10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Matches list (anastrozole 1 mg). Page lists '1 mg', '1 X 10 Tablets' (SKU HP0036).",
+  "official_description": "Anaridex 1 mg Tablet is utilized in the treatment of breast cancer.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Anaridex-1mg-new.jpg",
+   "page_url": "https://www.healingpharma.in/product/anaridex-1mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0111.jpg",
+   "visible_pack_text": "Carton: '1X10 Tablets', 'Rx Anastrozole Tablets IP 1mg', 'Anaridex 1mg', 'Healing Pharma'. Blister shows unprinted back (tablets only).",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Brand, strength and form clearly readable on carton."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Oncology product - Rx; image PENDING pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/anaridex-1mg/",
+   "https://www.healingpharma.in/wp-content/uploads/2022/03/Anaridex-1mg-new.jpg"
+  ]
+ },
+ {
+  "sr": 118,
+  "sku": "IMP-0118",
+  "name": "ANDROFAST 1% GEL",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Only a retailer listing (Apollo, 'Androfast Gel 80 gm', testosterone) found; no manufacturer named, no official page. List says 1% gel; size not given.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer not found",
+   "Controlled/hormone product - Rx"
+  ],
+  "sources_consulted": [
+   "WebSearch: Androfast 1% gel testosterone manufacturer"
+  ]
+ },
+ {
+  "sr": 120,
+  "sku": "IMP-0120",
+  "name": "ANGIOTENSIN 10MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/angiotensin-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/angiotensin-10/",
+  "composition_on_source": "Lisinopril Tablets IP 10mg (page: 'Angiotensin 10 (Lisinopril )Tablet is utilized in the treatment of high blood pressure and heart failure.'; strength from pack/page title)",
+  "strength": "10 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "carton shows '30 x 10 Tablets' (strip of 10 tablets)",
+  "composition_matches_list": true,
+  "composition_note": "Lisinopril 10mg matches list generic LISINOPRIL. Page SKU HP0038.",
+  "official_description": "Angiotensin 10 (Lisinopril )Tablet is utilized in the treatment of high blood pressure and heart failure.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Angiotensin-10-new.jpg",
+   "page_url": "https://www.healingpharma.in/product/angiotensin-10/",
+   "local_file": "data/enrichment/images_raw/IMP-0120.jpg",
+   "visible_pack_text": "Carton: 'Lisinopril Tablets IP 10mg', 'Angiotensin®-10', Hindi brand name, '30 x 10 Tablets', 'Healing Pharma'. Blister unprinted face (tablets).",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Brand, strength and form clearly readable."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image PENDING pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/angiotensin-10/",
+   "https://www.healingpharma.in/wp-content/uploads/2022/03/Angiotensin-10-new.jpg"
+  ]
+ },
+ {
+  "sr": 121,
+  "sku": "IMP-0121",
+  "name": "ANGIOTENSIN 20MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/angiotensin-20mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/angiotensin-20mg/",
+  "composition_on_source": "Lisinopril Tablets IP 20mg (page: 'Angiotensin 20'; strength from pack/page title)",
+  "strength": "20 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "carton shows '3 x 10 Tablets' (strip of 10 tablets)",
+  "composition_matches_list": true,
+  "composition_note": "Lisinopril 20mg matches list generic LISINOPRIL. Page SKU HP0040.",
+  "official_description": "Angiotensin 20 Tablet is utilized in the treatment of high blood pressure and heart failure.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Angiotensin-20-new.jpg",
+   "page_url": "https://www.healingpharma.in/product/angiotensin-20mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0121.jpg",
+   "visible_pack_text": "Carton: 'Lisinopril Tablets IP 20mg', 'Angiotensin®-20', Hindi brand name, '3 x 10 Tablets', 'Healing Pharma'. Blister unprinted face (tablets).",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Brand, strength and form clearly readable."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image PENDING pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/angiotensin-20mg/",
+   "https://www.healingpharma.in/wp-content/uploads/2022/03/Angiotensin-20-new.jpg"
+  ]
+ },
+ {
+  "sr": 122,
+  "sku": "IMP-0122",
+  "name": "ANGIOTENSIN 5MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/angiotensin-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/angiotensin-5/",
+  "composition_on_source": "Lisinopril Tablets IP 5mg (page: 'Angiotensin 5 (Lisinopril)'; strength from pack/page title)",
+  "strength": "5 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "carton shows '30 x 10 Tablets' (strip of 10 tablets)",
+  "composition_matches_list": true,
+  "composition_note": "Lisinopril 5mg matches list generic LISINOPRIL. Page SKU HP0041.",
+  "official_description": "Angiotensin 5 (Lisinopril) Tablet is utilized in the treatment of high blood pressure and heart failure.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Angiotensin-5-new.jpg",
+   "page_url": "https://www.healingpharma.in/product/angiotensin-5/",
+   "local_file": "data/enrichment/images_raw/IMP-0122.jpg",
+   "visible_pack_text": "Carton: 'Lisinopril Tablets IP 5mg', 'Angiotensin®-5', Hindi brand name, '30 x 10 Tablets', 'Healing Pharma'. Blister unprinted face (tablets).",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Brand, strength and form clearly readable."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image PENDING pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/angiotensin-5/",
+   "https://www.healingpharma.in/wp-content/uploads/2022/03/Angiotensin-5-new.jpg"
+  ]
+ },
+ {
+  "sr": 123,
+  "sku": "IMP-0123",
+  "name": "ANGIOTESIN 2.5MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/angiotensin-2-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/angiotensin-2-5/",
+  "composition_on_source": "Lisinopril Tablets IP 2.5mg (page: 'Angiotensin 2.5 (Lisinopril)'; strength from pack/page title)",
+  "strength": "2.5 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "carton shows '30 x 10 Tablets' (strip of 10 tablets)",
+  "composition_matches_list": true,
+  "composition_note": "Lisinopril 2.5mg matches list generic LISINOPRIL. Page SKU HP0039. List name misspelled (ANGIOTESIN).",
+  "official_description": "Angiotensin 2.5 (Lisinopril) Tablet is utilized in the treatment of high blood pressure and heart failure.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/ANGIOTENSIN-2.5.jpg",
+   "page_url": "https://www.healingpharma.in/product/angiotensin-2-5/",
+   "local_file": "data/enrichment/images_raw/IMP-0123.jpg",
+   "visible_pack_text": "Carton: 'Lisinopril Tablets IP 2.5mg', 'Angiotensin®-2.5', Hindi brand name, '30 x 10 Tablets', 'Healing Pharma'. Blister unprinted face (tablets).",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Brand, strength and form clearly readable. Pack shows 'Angiotensin' (list spelling 'ANGIOTESIN' is a typo of the same brand)."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "List name 'ANGIOTESIN 2.5MG' is misspelled; official brand is 'Angiotensin 2.5' (same family as SR 120-122) - name preserved, flag only",
+   "Image PENDING pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/angiotensin-2-5/",
+   "https://www.healingpharma.in/wp-content/uploads/2022/03/ANGIOTENSIN-2.5.jpg"
+  ]
+ },
+ {
+  "sr": 125,
+  "sku": "IMP-0125",
+  "name": "ANOVATE CREAM 20GM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retailers name USV Pvt Ltd; composition per retailers beclomethasone dipropionate 0.025% + phenylephrine 0.1% + lidocaine 2.5% w/w (matches list). usvindia.com home and India-business pages checked - no brand listing / no 'Anovate'.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (USV per retailers) not confirmed on official site"
+  ],
+  "sources_consulted": [
+   "https://www.usvindia.com/",
+   "https://www.usvindia.com/india-business",
+   "WebSearch: Anovate cream manufacturer (retailers only)"
+  ]
+ },
+ {
+  "sr": 126,
+  "sku": "IMP-0126",
+  "name": "APCALIS SX ORAL JELLY",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Secondary/B2B sources attribute Apcalis SX (tadalafil 20 mg oral jelly) to Ajanta Pharma (export brand); no official Ajanta product page found. Strength not in list name.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Only marketplace/export-pharmacy images exist - not allowed."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer not confirmed on official site",
+   "Export brand - check Indian approval status",
+   "Strength not stated in list"
+  ],
+  "sources_consulted": [
+   "WebSearch: Apcalis SX oral jelly Ajanta",
+   "WebSearch: ajantapharma.com Apcalis (no product page)"
+  ]
+ },
+ {
+  "sr": 127,
+  "sku": "IMP-0127",
+  "name": "API-ASH 5MG TAB.",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "'ASH' suffix family (ANA ASH / API-ASH / APPLE ASH): no manufacturer found in any source.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Brand not found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"API-ASH\" apixaban (no hits)"
+  ]
+ },
+ {
+  "sr": 128,
+  "sku": "IMP-0128",
+  "name": "APIEDGE 2.5MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retailers (1mg, Truemeds, PharmEasy) list Apiedge 2.5/5 (apixaban) as Morepen Laboratories. Not listed on morepen.com Rx page (which shows a different apixaban brand 'Apixamore 5mg').",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (Morepen per retailers) not confirmed: brand absent from morepen.com/healthcare/rx"
+  ],
+  "sources_consulted": [
+   "https://www.morepen.com/",
+   "https://www.morepen.com/healthcare/rx",
+   "WebSearch: Apiedge apixaban manufacturer"
+  ]
+ },
+ {
+  "sr": 129,
+  "sku": "IMP-0129",
+  "name": "APIEDGE 5MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retailers (1mg, Truemeds, PharmEasy) list Apiedge 2.5/5 (apixaban) as Morepen Laboratories. Not listed on morepen.com Rx page (which shows a different apixaban brand 'Apixamore 5mg').",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (Morepen per retailers) not confirmed: brand absent from morepen.com/healthcare/rx"
+  ],
+  "sources_consulted": [
+   "https://www.morepen.com/",
+   "https://www.morepen.com/healthcare/rx",
+   "WebSearch: Apiedge apixaban manufacturer"
+  ]
+ },
+ {
+  "sr": 130,
+  "sku": "IMP-0130",
+  "name": "APIGAT 5MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Apigat is Natco Pharma's apixaban brand per Singapore NDF registry (SIN17430P, manufacturer NATCO PHARMA LIMITED - INDIA) and retailers; natcopharma.co.in pages fetched returned no content/404, so not confirmed on the company site.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (Natco) only from regulator registry + retailers, not company site"
+  ],
+  "sources_consulted": [
+   "https://www.ndf.gov.sg/about-drugs/product-information/sin17430p/",
+   "https://www.natcopharma.co.in/",
+   "https://www.natcopharma.co.in/products/ (404)"
+  ]
+ },
+ {
+  "sr": 131,
+  "sku": "IMP-0131",
+  "name": "APIGY 5MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Apollo listing names Cipla Ltd for Apigy 5 (apixaban); no official confirmation found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer not confirmed (Cipla per one retailer)"
+  ],
+  "sources_consulted": [
+   "WebSearch: Apigy 5 apixaban manufacturer"
+  ]
+ },
+ {
+  "sr": 132,
+  "sku": "IMP-0132",
+  "name": "APISMART 2.5MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/apismart-2-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/apismart-2-5/",
+  "composition_on_source": "APIXABAN 2.5 MG (page description); pack: Apixaban Tablets 2.5 mg",
+  "strength": "2.5 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 x 10 tablets (carton)",
+  "composition_matches_list": true,
+  "composition_note": "Apixaban 2.5 mg matches list. Page SKU HP0043.",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/09/Apismart-Tablets-2.5-mg-new.jpg",
+   "page_url": "https://www.healingpharma.in/product/apismart-2-5/",
+   "local_file": "data/enrichment/images_raw/IMP-0132.jpg",
+   "visible_pack_text": "Carton: 'Apixaban Tablets 2.5 mg', 'Apismart 2.5 mg', 'Healing Pharma', '10x10 Tablets'. Blister unprinted face.",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Brand, strength and form clearly readable."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Anticoagulant - Rx; image PENDING pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/apismart-2-5/",
+   "https://www.healingpharma.in/wp-content/uploads/2022/09/Apismart-Tablets-2.5-mg-new.jpg"
+  ]
+ },
+ {
+  "sr": 133,
+  "sku": "IMP-0133",
+  "name": "APISMART 5MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/apismart-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/apismart-5/",
+  "composition_on_source": "APIXABAN 5MG (page description); pack: Apixaban Tablets 5 mg",
+  "strength": "5 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 x 10 tablets (carton)",
+  "composition_matches_list": true,
+  "composition_note": "Apixaban 5 mg matches list. Page SKU HP0044.",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/09/Apismart-Tablets-5-mg-new.jpg",
+   "page_url": "https://www.healingpharma.in/product/apismart-5/",
+   "local_file": "data/enrichment/images_raw/IMP-0133.jpg",
+   "visible_pack_text": "Carton: 'Apixaban Tablets 5 mg', 'Apismart 5 mg', 'Healing Pharma', '10x10 Tablets'. Blister unprinted face.",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Brand, strength and form clearly readable."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Anticoagulant - Rx; image PENDING pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/apismart-5/",
+   "https://www.healingpharma.in/wp-content/uploads/2022/09/Apismart-Tablets-5-mg-new.jpg"
+  ]
+ },
+ {
+  "sr": 134,
+  "sku": "IMP-0134",
+  "name": "APP UP PLUS SYRUP 200ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "APP UP PLUS SYRUP: retailers describe App Up Plus as cyproheptadine + tricholine citrate - list generic says only CYPROHEPTADINE (possible incomplete generic). No official Intas page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (Intas per retailers) not confirmed on official site",
+   "List generic may be incomplete (App Up Plus also contains tricholine citrate per retailers)"
+  ],
+  "sources_consulted": [
+   "WebSearch: App Up syrup cyproheptadine manufacturer"
+  ]
+ },
+ {
+  "sr": 135,
+  "sku": "IMP-0135",
+  "name": "APP UP SYP 200ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "App Up syrup (cyproheptadine 2 mg/5 ml per retailers) attributed to Intas Pharmaceuticals by retailers. No official Intas page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (Intas per retailers) not confirmed on official site"
+  ],
+  "sources_consulted": [
+   "WebSearch: App Up syrup cyproheptadine manufacturer"
+  ]
+ },
+ {
+  "sr": 136,
+  "sku": "IMP-0136",
+  "name": "APP UP TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "App Up tablet: no source checked confirms a tablet form; retailers attribute App Up family to Intas. No official Intas page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (Intas per retailers) not confirmed on official site"
+  ],
+  "sources_consulted": [
+   "WebSearch: App Up syrup cyproheptadine manufacturer"
+  ]
+ },
+ {
+  "sr": 137,
+  "sku": "IMP-0137",
+  "name": "APPLE ASH 450MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "'ASH' suffix family (ANA ASH / API-ASH / APPLE ASH): no manufacturer found in any source. 450 mg chloramphenicol - unusual strength.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Brand not found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; manufacturer unknown",
+   "Unusual strength 450 mg chloramphenicol - check"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Apple Ash\" chloramphenicol (no hits)"
+  ]
+ },
+ {
+  "sr": 138,
+  "sku": "IMP-0138",
+  "name": "APPLICAP I CAP BLISTER",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched in depth (search budget exhausted). 'CHLOROMYCETIN' in generic is a brand name (Pfizer) for chloramphenicol, not a generic name.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Not found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown",
+   "Generic field contains a brand name (Chloromycetin) - should be chloramphenicol"
+  ],
+  "sources_consulted": [
+   "none beyond family search: WebSearch \"Apple Ash\" chloramphenicol; web search budget exhausted"
+  ]
+ },
+ {
+  "sr": 139,
+  "sku": "IMP-0139",
+  "name": "APPOQUIL 16MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "'Appoquil' not found; oclacitinib is a VETERINARY drug (Apoquel, Zoetis, dogs). Name looks like a misspelling of Apoquel or an Indian veterinary generic.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Not found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Veterinary product (oclacitinib, dogs) - check regulatory group",
+   "Brand not found; possibly misspelled Apoquel (Zoetis)"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Appoquil\" oclacitinib 16 mg"
+  ]
+ },
+ {
+  "sr": 140,
+  "sku": "IMP-0140",
+  "name": "APPY PEN TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "'Appy Pen' not found in any source.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Not found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Appy Pen\" cyproheptadine (no hits)"
+  ]
+ },
+ {
+  "sr": 141,
+  "sku": "IMP-0141",
+  "name": "APRECAST 30MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "'Aprecast' not found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Not found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Aprecast\" apremilast (no hits)"
+  ]
+ },
+ {
+  "sr": 142,
+  "sku": "IMP-0142",
+  "name": "APREZO 20MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Aprezo (apremilast) is Glenmark's Indian brand per press coverage of its 2017 launch and retailers; Glenmark official page (glenmarkpharma.com/?p=45486) returned 404. Retailers list 30 mg; 20 mg strength not seen in any source.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (Glenmark) not confirmed on an official page",
+   "Aprezo 20 mg not seen in any source - verify strength"
+  ],
+  "sources_consulted": [
+   "WebSearch: Aprezo apremilast Glenmark",
+   "https://glenmarkpharma.com/?p=45486 (404)"
+  ]
+ },
+ {
+  "sr": 143,
+  "sku": "IMP-0143",
+  "name": "APREZO 30MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Aprezo (apremilast) is Glenmark's Indian brand per press coverage of its 2017 launch and retailers; Glenmark official page (glenmarkpharma.com/?p=45486) returned 404. Retailers list 30 mg; 20 mg strength not seen in any source.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (Glenmark) not confirmed on an official page"
+  ],
+  "sources_consulted": [
+   "WebSearch: Aprezo apremilast Glenmark",
+   "https://glenmarkpharma.com/?p=45486 (404)"
+  ]
+ },
+ {
+  "sr": 144,
+  "sku": "IMP-0144",
+  "name": "AQSUSTEN 50MG VIAL",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retailers name Sun Pharmaceutical Industries; Aqsusten 25 mg/1 ml and 50 mg (2.237 ml vial) progesterone injection. Not confirmed on sunpharma.com.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (Sun Pharma per retailers) not confirmed on official site"
+  ],
+  "sources_consulted": [
+   "WebSearch: Aqsusten progesterone injection"
+  ]
+ },
+ {
+  "sr": 145,
+  "sku": "IMP-0145",
+  "name": "AQUABOL 100 INJ.",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "'Aquabol 100' not found in any source.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Not found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; manufacturer unknown",
+   "Testosterone - controlled/hormone; check product legitimacy"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Aquabol 100\" testosterone suspension"
+  ]
+ },
+ {
+  "sr": 146,
+  "sku": "IMP-0146",
+  "name": "AQUAVIRON INJ",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retailers attribute Aquaviron injection (testosterone 25 mg/ml, 1 ml) to Abbott India / Abbott Healthcare; one lists Akums (Haridwar) as maker. Not listed on abbott.in pages checked; not mentioned in Abbott India annual report 2021-22 extract. List gives no strength.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer not confirmed on official site",
+   "Strength not in list"
+  ],
+  "sources_consulted": [
+   "WebSearch: Aquaviron testosterone injection manufacturer",
+   "https://www.abbott.in/products/therapy-areas/others.html"
+  ]
+ },
+ {
+  "sr": 147,
+  "sku": "IMP-0147",
+  "name": "ARACHITOL 3L IU INJ",
+  "manufacturer": "Abbott India Ltd (Arachitol brand owner per official annual report; this specific SKU not on abbott.in)",
+  "manufacturer_source_url": "https://dam.abbott.com/en-ind/pdf/agm/Annual-Report-2021-22.pdf",
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "ARACHITOL 3L (300000 IU) injection: Abbott India Annual Report 2021-22 names 'Arachitol (vitamin D deficiency)' as an Abbott brand. abbott.in therapy page lists only 'Arachitol Nano - Cholecalciferol, Solution, 2000 IU/5ml' - a different product (not used). Retailers list this SKU as Abbott India.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image for this SKU."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Specific product/strength not on official page; composition unconfirmed",
+   "Retail listing notes veterinary sale of Arachitol injections - irrelevant but noted"
+  ],
+  "sources_consulted": [
+   "https://dam.abbott.com/en-ind/pdf/agm/Annual-Report-2021-22.pdf",
+   "https://www.abbott.in/products/therapy-areas/others.html"
+  ]
+ },
+ {
+  "sr": 148,
+  "sku": "IMP-0148",
+  "name": "ARACHITOL 6L IU INJ",
+  "manufacturer": "Abbott India Ltd (Arachitol brand owner per official annual report; this specific SKU not on abbott.in)",
+  "manufacturer_source_url": "https://dam.abbott.com/en-ind/pdf/agm/Annual-Report-2021-22.pdf",
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "ARACHITOL 6L (600000 IU) injection: Abbott India Annual Report 2021-22 names 'Arachitol (vitamin D deficiency)' as an Abbott brand. abbott.in therapy page lists only 'Arachitol Nano - Cholecalciferol, Solution, 2000 IU/5ml' - a different product (not used). Retailers list this SKU as Abbott India.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image for this SKU."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Specific product/strength not on official page; composition unconfirmed",
+   "Retail listing notes veterinary sale of Arachitol injections - irrelevant but noted"
+  ],
+  "sources_consulted": [
+   "https://dam.abbott.com/en-ind/pdf/agm/Annual-Report-2021-22.pdf",
+   "https://www.abbott.in/products/therapy-areas/others.html"
+  ]
+ },
+ {
+  "sr": 149,
+  "sku": "IMP-0149",
+  "name": "ARACHITOL NANO SUGER FREE 5ML",
+  "manufacturer": "Abbott India Ltd (Arachitol brand owner per official annual report; this specific SKU not on abbott.in)",
+  "manufacturer_source_url": "https://dam.abbott.com/en-ind/pdf/agm/Annual-Report-2021-22.pdf",
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "ARACHITOL NANO sugar-free 5 ml (likely 60K IU per retailers): Abbott India Annual Report 2021-22 names 'Arachitol (vitamin D deficiency)' as an Abbott brand. abbott.in therapy page lists only 'Arachitol Nano - Cholecalciferol, Solution, 2000 IU/5ml' - a different product (not used). Retailers list this SKU as Abbott India.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image for this SKU."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Specific product/strength not on official page; composition unconfirmed",
+   "List spelling 'SUGER' preserved; strength not stated (60K IU per retailers)"
+  ],
+  "sources_consulted": [
+   "https://dam.abbott.com/en-ind/pdf/agm/Annual-Report-2021-22.pdf",
+   "https://www.abbott.in/products/therapy-areas/others.html"
+  ]
+ },
+ {
+  "sr": 150,
+  "sku": "IMP-0150",
+  "name": "ARCOVIT C INJ",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Wholesaler GNH India attributes Arcovit 'C' (vitamin C 100 mg/ml, 5 ampoules) to Arco Lifesciences (I) Pvt Ltd, Nagpur; no official company page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official source."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer (Arco Lifesciences per wholesaler) not confirmed"
+  ],
+  "sources_consulted": [
+   "WebSearch: Arcovit C injection manufacturer"
+  ]
+ },
+ {
+  "sr": 151,
+  "sku": "IMP-0151",
+  "name": "ARICEP 10 MG",
+  "manufacturer": "Eisai Pharmaceuticals India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.eisai.co.in/products",
+  "official_product_page_url": "https://www.eisai.co.in/products",
+  "composition_on_source": "Aricep® - Donepezil Hydrochloride (no strength or form stated)",
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Official Eisai India products page lists 'Aricep® (Donepezil Hydrochloride)'; molecule matches list; strength 10 mg and tablet form NOT stated on official page (retailers list 5 and 10 mg tablets).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official page has no product images."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Strength/form not confirmed on official page"
+  ],
+  "sources_consulted": [
+   "https://www.eisai.co.in/",
+   "https://www.eisai.co.in/products"
+  ]
+ },
+ {
+  "sr": 152,
+  "sku": "IMP-0152",
+  "name": "ARICEP 5MG",
+  "manufacturer": "Eisai Pharmaceuticals India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.eisai.co.in/products",
+  "official_product_page_url": "https://www.eisai.co.in/products",
+  "composition_on_source": "Aricep® - Donepezil Hydrochloride (no strength or form stated)",
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Official Eisai India products page lists 'Aricep® (Donepezil Hydrochloride)'; molecule matches list; strength 5 mg and tablet form NOT stated on official page (retailers list 5 and 10 mg tablets).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official page has no product images."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Strength/form not confirmed on official page"
+  ],
+  "sources_consulted": [
+   "https://www.eisai.co.in/",
+   "https://www.eisai.co.in/products"
+  ]
+ },
+ {
+  "sr": 153,
+  "sku": "IMP-0153",
+  "name": "ARIMEE 1MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "'Arimee' not found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Not found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Arimee\" anastrozole (no hits)"
+  ]
+ },
+ {
+  "sr": 154,
+  "sku": "IMP-0154",
+  "name": "ARIZOLE 10MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "'Arizole' aripiprazole brand not found (only US generic NDC listings). List generic 'ARIPIRAZOLE' is misspelled aripiprazole.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Not found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Arizole\" aripiprazole 10 mg tablet manufacturer"
+  ]
+ },
+ {
+  "sr": 155,
+  "sku": "IMP-0155",
+  "name": "ARIZOLE 15MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "'Arizole' aripiprazole brand not found (only US generic NDC listings). List generic 'ARIPIRAZOLE' is misspelled aripiprazole.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Not found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Arizole\" aripiprazole 10 mg tablet manufacturer"
+  ]
+ },
+ {
+  "sr": 156,
+  "sku": "IMP-0156",
+  "name": "ARIZOLE 5MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "'Arizole' aripiprazole brand not found (only US generic NDC listings). List generic 'ARIPIRAZOLE' is misspelled aripiprazole.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Not found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Arizole\" aripiprazole 10 mg tablet manufacturer"
+  ]
+ },
+ {
+  "sr": 157,
+  "sku": "IMP-0157",
+  "name": "ARKACAN 100MCG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/arkacan-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/arkacan-100/",
+  "composition_on_source": "Clonidine 100mg (page description - evidently a typo); pack: Clonidine Tablets IP 100 mcg",
+  "strength": "100 mcg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 x 30 tablets (carton; blister of 30)",
+  "composition_matches_list": true,
+  "composition_note": "Clonidine matches list. DISCREPANCY: official page text says 'Clonidine 100mg' while pack and list say 100 mcg; 100 mcg is the pack-printed strength. Page SKU HP0045.",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/08/Arkacan-100-new.jpg",
+   "page_url": "https://www.healingpharma.in/product/arkacan-100/",
+   "local_file": "data/enrichment/images_raw/IMP-0157.jpg",
+   "visible_pack_text": "Carton: 'Rx Clonidine Tablets IP 100 mcg', 'Arkacan 100 MCG', Hindi brand name, '10 X 30 Tablets', 'Healing Pharma'. Blister unprinted face (30 tablets).",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Pack clearly shows 100 mcg, matching list '100MCG'."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Official page text says 'Clonidine 100mg' (error vs pack 100 mcg) - pharmacist to confirm",
+   "Image PENDING pharmacist approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/arkacan-100/",
+   "https://www.healingpharma.in/wp-content/uploads/2022/08/Arkacan-100-new.jpg"
+  ]
+ },
+ {
+  "sr": 158,
+  "sku": "IMP-0158",
+  "name": "ARKAMIN TAB",
+  "manufacturer": "Torrent Pharmaceuticals Ltd. (per official abbreviated prescribing information)",
+  "manufacturer_source_url": "https://www.torrentpharma.com/docs/ARKAMIN_100_ABPI_updated_e7cceec45e.pdf",
+  "official_product_page_url": "https://www.torrentpharma.com/docs/ARKAMIN_100_ABPI_updated_e7cceec45e.pdf",
+  "composition_on_source": "ARKAMIN (Clonidine Tablets I.P. 100 mcg)",
+  "strength": "100 mcg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Clonidine matches list. List name 'ARKAMIN TAB' gives no strength; Torrent also has ARKAMIN 150 and ARKAMIN H (clonidine + hydrochlorothiazide) PDFs - matched to plain Arkamin 100 mcg, confirm. Some aggregators wrongly say Unichem.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official source is a text PDF; no image."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Strength not in list - Arkamin 100 assumed; Arkamin 150 / Arkamin H also exist",
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.torrentpharma.com/docs/ARKAMIN_100_ABPI_updated_e7cceec45e.pdf",
+   "WebSearch: Arkamin clonidine tablet Unichem (conflicting retailer attributions)"
+  ]
+ },
+ {
+  "sr": 159,
+  "sku": "IMP-0159",
+  "name": "ARPICAN 5MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "'Arpican' not found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Not found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Brand not found; manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "WebSearch: \"Arpican\" aripiprazole (no hits)"
+  ]
+ }
+]

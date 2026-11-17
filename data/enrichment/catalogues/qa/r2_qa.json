@@ -1,0 +1,663 @@
+[
+ {
+  "sku": "IMP-1225",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Healpecia-1; Finasteride Tablets IP 1mg; 10 x 10 Tablets; Healing Pharma logo",
+  "note": "Brand, strength 1 mg and tablet form match; real carton+blister render",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1226",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Healpecia-5; Finasteride Tablets IP 5 mg; 10 X 10 Tablets; Healing Pharma logo",
+  "note": "Brand, strength 5 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1365",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Iverheal 12; Ivermectin Tablet; 12mg; 10 x 10 Tablets; Healing Pharma logo",
+  "note": "Brand, strength 12 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1829",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "MOLNUVID 200 mg; Molnupiravir 200 mg Capsules; 40 Capsules (bottle + carton); Healing Pharma logo",
+  "note": "Brand and strength 200 mg match; pack is capsules (row name states no form, list generic does not conflict)",
+  "extra_reasons": [
+   "Dosage form on pack is capsules; row name has no form - confirm listing says capsules"
+  ]
+ },
+ {
+  "sku": "IMP-2371",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "RESTFINE; Melatonin Mouth Dissolving Tablets; Sleep Aid; 1x10 Tablets; Healing Pharma logo",
+  "note": "Strength not visible on pack (no mg value anywhere on carton/blister)",
+  "extra_reasons": [
+   "Pack is mouth dissolving tablets"
+  ]
+ },
+ {
+  "sku": "IMP-0013",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "ACARBOZ-25; Acarbose Tablets IP; 20 x 10 Tablets; Knoll logo",
+  "note": "Brand ACARBOZ-25 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -25"
+  ]
+ },
+ {
+  "sku": "IMP-0033",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Acloveer-400 Tablets; Aciclovir Tablets IP 400 mg.; 10 x 10 Tablets; Knoll logo",
+  "note": "Brand, strength 400 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0365",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Budenol-F Inhaler 400; Budesonide & Formoterol Fumarate Inhaler; 120 Metered Doses; CFC-Free; Knoll logo",
+  "note": "Brand Budenol-F, strength 400 and inhaler form match",
+  "extra_reasons": [
+   "Pack shows '400' without unit; row says 400MG - inhaler strength is per actuation (mcg), list unit likely wrong",
+   "Pack composition: Budesonide & Formoterol Fumarate; list says BUDESONIDE"
+  ]
+ },
+ {
+  "sku": "IMP-0452",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Carvenol-25 Tablets; Carvedilol Tablets IP; 20 x 10 Tablets; Knoll logo",
+  "note": "Brand Carvenol-25 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -25"
+  ]
+ },
+ {
+  "sku": "IMP-0559",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Clarifod-500; Clarithromycin Tablets IP; 10x1x10 Tablets; Knoll logo",
+  "note": "Brand Clarifod-500 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -500"
+  ]
+ },
+ {
+  "sku": "IMP-0832",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "DUTANOL-0.5 Tablets; Dutasteride Tablets; 10x10 Tablets; Knoll logo",
+  "note": "Brand DUTANOL-0.5 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -0.5"
+  ]
+ },
+ {
+  "sku": "IMP-0887",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Eplerenol Tablets 25 mg; Eplerenone Tablets 25mg; 10 x 1 x 10 Tablets; Knoll logo",
+  "note": "Brand, strength 25 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0897",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Esetalo-10 Tablets; Escitalopram Tablets; 10 x 10 Tablets; Knoll logo",
+  "note": "Brand Esetalo-10 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -10"
+  ]
+ },
+ {
+  "sku": "IMP-1044",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Finobrate-145; Fenofibrate IP Tablets; 10 x 10 Tablets; Knoll logo",
+  "note": "Brand Finobrate-145 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -145"
+  ]
+ },
+ {
+  "sku": "IMP-1045",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Finobrate-160; Fenofibrate IP Tablets; 10 x 10 Tablets; Knoll logo",
+  "note": "Brand Finobrate-160 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -160"
+  ]
+ },
+ {
+  "sku": "IMP-1283",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Hydronol-25 Tablets; Hydrochlorothiazide Tablets IP; 20 x 10 Tablets; Knoll logo",
+  "note": "Brand Hydronol-25 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -25"
+  ]
+ },
+ {
+  "sku": "IMP-1316",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "INDOSTAR-75; Indomethacin Tablets; 10x10 Tablets; Knoll logo",
+  "note": "Brand INDOSTAR-75 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -75"
+  ]
+ },
+ {
+  "sku": "IMP-1449",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Ketoconol 200 Tablets; Ketoconazole Tablets IP 200mg; 10 x 1 x 10 Tablets; Knoll logo",
+  "note": "Brand, strength 200 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1533",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Letronol-2.5 Tablets; Letrozole 2.5mg; 20 x 5 Tablets; Knoll logo",
+  "note": "Brand, strength 2.5 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1713",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "METFORM SR-1000; Metformin Hydrochloride Sustained Release Tablets IP 1000 mg; 10 x 10 Tablets; Knoll logo",
+  "note": "Brand (SR variant per row), strength 1000 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1724",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Metni-16 Tablets; Methylprednisolone Tablets IP; 20 x 10 Tablets; Knoll logo",
+  "note": "Brand Metni-16 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -16"
+  ]
+ },
+ {
+  "sku": "IMP-1725",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Metni-4 Tablets; Methylprednisolone Tablets IP; 20 x 10 Tablets; Knoll logo",
+  "note": "Brand Metni-4 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -4"
+  ]
+ },
+ {
+  "sku": "IMP-1726",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Metni-8 Tablets; Methylprednisolone Tablets IP; 20 x 10 Tablets; Knoll logo",
+  "note": "Brand Metni-8 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -8"
+  ]
+ },
+ {
+  "sku": "IMP-1930",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Nebivol-5 Tablets; Nebivolol Tablets IP; 20 x 10 Tablets; Knoll logo",
+  "note": "Brand Nebivol-5 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -5"
+  ]
+ },
+ {
+  "sku": "IMP-1987",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Nitro-G 2.6 Tablets; Nitroglycerin Controlled Release Tablets 2.6mg.; 2.6mg; 25x1x30 Tablets; 30 Tablets bottle; Knoll logo",
+  "note": "Brand, strength 2.6 mg and tablet form match",
+  "extra_reasons": [
+   "Pack is Controlled Release tablets; row name does not say CR (2.6 mg nitroglycerin is a CR-only strength)"
+  ]
+ },
+ {
+  "sku": "IMP-1998",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Nolcee+ (Nolcee Plus); Vitamin C, Sodium Ascorbate & Zinc Citrate Tablets; Enriched with Vitamin-C; Chewable Tablets; Orange Flavour; 30 x 15 Tablets; Knoll logo",
+  "note": "Strength not visible; pack is the 'Nolcee+' (Plus) variant, not plain Nolcee as in row name",
+  "extra_reasons": [
+   "Pack composition: Vitamin C, Sodium Ascorbate & Zinc Citrate (chewable); list says VITAMIN C"
+  ]
+ },
+ {
+  "sku": "IMP-2047",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "OLMO-40 Tablets; Olmesartan Medoxomil Tablets IP; 20x10 Tablets; Knoll logo",
+  "note": "Brand OLMO-40 and tablet form match; pack composition is OLMESARTAN MEDOXOMIL, not ofloxacin - auditor suspicion confirmed, list generic is wrong",
+  "extra_reasons": [
+   "Pack composition: Olmesartan Medoxomil Tablets IP; list says OFLOXACIN - list generic should be corrected to OLMESARTAN MEDOXOMIL 40 mg",
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -40"
+  ]
+ },
+ {
+  "sku": "IMP-2048",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "OLMO-H Tablets; Olmesartan Medoxomil & Hydrochlorothiazide Tablets IP; 20x10 Tablets; Knoll logo",
+  "note": "Strength not visible (no mg values for olmesartan or HCTZ on front panel); brand, form and composition otherwise match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2049",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "OLNEE-5; Olanzapine Orally Disintegrating Tablets IP; 10 x 10 tablets; Knoll logo",
+  "note": "Brand OLNEE-5 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -5",
+   "Pack is orally disintegrating tablets (ODT); row/list do not state ODT"
+  ]
+ },
+ {
+  "sku": "IMP-2177",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Pircetam-800 Tablets; Piracetam Tablets; 20 x 10 Tablets; Knoll logo",
+  "note": "Brand Pircetam-800 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -800"
+  ]
+ },
+ {
+  "sku": "IMP-2205",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Prazicors-600 Tablets; Parziquantel Tablets USP 600mg; 10 x 4 Tablets; 'C' monogram logo, no Knoll name visible",
+  "note": "Lead override: manufacturer name/logo not visible and drug name misspelt (Parziquantel) on pack; authenticity doubtful",
+  "extra_reasons": [
+   "Knoll name/logo NOT visible on pack - shows a different 'C' monogram logo; manufacturer branding unconfirmed on image",
+   "Pack misspells generic as 'Parziquantel' (praziquantel)"
+  ]
+ },
+ {
+  "sku": "IMP-2267",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Progestone-100 Capsules; Natural Micronised Progesterone Soft Gelatin Capsules; 10 x 1 x 10 Soft Gelatin Capsules; Knoll logo",
+  "note": "Brand Progestone-100 and capsule form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -100"
+  ]
+ },
+ {
+  "sku": "IMP-2352",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Refaxinol-400 Tablet; Rifaximin Tablets 400 mg; 10 X 10 Tablets; Knoll logo",
+  "note": "Brand, strength 400 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2353",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Refaxinol-550 Tablets; Rifaximin Tablets 550 mg; 10 x 10 Tablets; Knoll logo",
+  "note": "Brand, strength 550 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2604",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Sulfunol-500 Tablets; Sulfasalazine Tablets 500 mg; 10x15 Tablets; Knoll logo",
+  "note": "Brand, strength 500 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2766",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Telkonol-80; Telmisartan Tablets IP; 20 x 10 Tablets (Alu-Alu Pack); Knoll logo",
+  "note": "Brand Telkonol-80 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -80"
+  ]
+ },
+ {
+  "sku": "IMP-2891",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Thyroxinol-100 Tablets; Thyroxine Tablets IP 100 mcg; 10 x 120 Tablets; 120 Tablets bottle; Knoll logo",
+  "note": "Brand, strength 100 (mcg) and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2892",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Thyroxinol-125 Tablets; Thyroxine Tablets IP 125 mcg; 10 x 120 Tablets; 120 Tablets bottle; Knoll logo",
+  "note": "Brand, strength 125 and tablet form match",
+  "extra_reasons": [
+   "Pack strength is 125 mcg; row name says 125MG - list unit error, correct row to 125MCG"
+  ]
+ },
+ {
+  "sku": "IMP-2893",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Thyroxinol-150 Tablets; Thyroxine Tablets IP 150 mcg; 10 x 120 Tablets; 120 Tablets bottle; Knoll logo",
+  "note": "Brand, strength 150 and tablet form match",
+  "extra_reasons": [
+   "Pack strength is 150 mcg; row name says 150MG - list unit error, correct row to 150MCG"
+  ]
+ },
+ {
+  "sku": "IMP-2894",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Thyroxinol-75 Tablets; Thyroxine Tablets IP 75 mcg; 10 x 120 Tablets; 120 Tablets bottle; Knoll logo",
+  "note": "Brand, strength 75 and tablet form match",
+  "extra_reasons": [
+   "Pack strength is 75 mcg; row name says 75MG - list unit error, correct row to 75MCG"
+  ]
+ },
+ {
+  "sku": "IMP-2917",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": true,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "TOFANOL; Tofacitinib Ointment 2% w/w; 10gm tube; 20x10gm; Knoll logo",
+  "note": "Brand, strength 2% and ointment form match; 10 gm tube matches row",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-3018",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "TRYPTINOL-10; Amitriptyline HCl Tablets I.P. 10 m.g.; 20 x 10 Tablets; Knoll name",
+  "note": "Brand, strength 10 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-3019",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "TRYPTINOL-25; Amitriptyline HCl Tablets I.P. 25 mg.; 20 x 10 Tablets; Knoll name",
+  "note": "Brand, strength 25 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0162",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American Artecan Injection 120 mg; Artesunate Injection IP; For I.M./I.V. Use; Single Dose Vial (vial + ampoules in tray); American Remedies logo",
+  "note": "Brand, strength 120 mg and injection form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0163",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American Artecan Injection 60 mg; Artesunate For Injection; For I.M./I.V. Use; Single Dose Vial; Sodium Bicarbonate Injection IP ampoule; American Remedies logo",
+  "note": "Brand, strength 60 mg and injection form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0297",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American Benzocan 20g; Monobenzone Cream U.S.P. 20%; Monobenzone U.S.P. 20% w/w; tube + carton; American Remedies logo",
+  "note": "Brand and cream form match; plain variant, strength 20% visible",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0305",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American BETASTAL Injection; Betamethasone Sodium Phosphate Injection IP; side panel: each ml contains Betamethasone Sodium Phosphate eq. to Betamethasone 4 mg, Phenol 0.5% w/v; For IM/IV Use; 20 x 5 x 1ml Ampoules; American Remedies logo",
+  "note": "Brand and injection form match; strength 4 mg/ml visible on side panel",
+  "extra_reasons": [
+   "Pack composition: Betamethasone Sodium Phosphate only (eq. to betamethasone 4 mg/ml); list says BETAMETHASONE (AS SODIUM PHOSPHATE) & BETAMETHASONE (AS DIPROPIONATE)",
+   "Strength only on side composition panel"
+  ]
+ },
+ {
+  "sku": "IMP-0696",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American DAPAFOX 10 Tablets; Dapagliflozin Tablet 10 mg; 10x10 Tablets; American Remedies logo",
+  "note": "Brand, strength 10 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0745",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American Dexacan 4 Tablets; Dexamethasone Tablets IP 4mg; 10 X 10 Tablets; American Remedies logo",
+  "note": "Brand, strength 4 mg and tablet form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0755",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American Diclocan AQ Injection 75 mg / 1 ml; Diclofenac Sodium Injection IP; Aqueous base painless injection; For IM/Intragluteal/IV Use; 20x5x1ml Ampoules; American Remedies logo",
+  "note": "Brand (AQ), injection form match; strength 75 mg/1 ml visible",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1171",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American GLUTACAN Injection 600 MG; Glutathione For Injection & Vitamin C Injection IP; Lyophilized Powder for Injection; (Combipack) Single Dose vial; For IM/IV Use Only; American Remedies logo",
+  "note": "Brand and injection form match; strength 600 mg visible",
+  "extra_reasons": [
+   "Pack composition: Glutathione for Injection 600 mg + Vitamin C Injection IP (combipack); list says GLUTATHIONE"
+  ]
+ },
+ {
+  "sku": "IMP-1208",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American HCGCAN 10000 IU Lyophilized; Chorionic Gonadotrophin Injection IP 10000 IU; Highly Purified; S.C./I.M. use only; Combi-Pack; American Remedies logo",
+  "note": "Brand, strength 10000 IU and injection form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1209",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American HCGCAN 5000 IU Lyophilized; Chorionic Gonadotrophin Injection IP 5000 IU; Highly Purified; S.C./I.M. use only; Combi-Pack; American Remedies logo",
+  "note": "Brand, strength 5000 IU and injection form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1679",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American Medrocan-40 Injection 40 MG; Methylprednisolone Sodium Succinate for Injection USP; For I.M./I.V. Use Only; 1 Vial of 40 mg; + 10 ml Sterile Water for Injections; American Remedies logo",
+  "note": "Brand, strength 40 mg and injection form match",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2145",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American PENTRAL 400 Tablets; Pentoxifylline Prolonged Release Tablets I.P.; 10 X 15 Tablets; American Remedies logo",
+  "note": "Brand PENTRAL 400 and tablet form match (PR matches list generic)",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): 400"
+  ]
+ },
+ {
+  "sku": "IMP-2439",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American Sacufox V 100 Tablets; Sacubitril and Valsartan Tablets; 10 x 14 Tablets; American Remedies logo",
+  "note": "Brand Sacufox V 100 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): 100 (combined sacubitril/valsartan strength; per-component mg not on front)"
+  ]
+ },
+ {
+  "sku": "IMP-2440",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American Sacufox V 50 Tablets; Sacubitril and Valsartan Tablets; 10 x 14 Tablets; American Remedies logo",
+  "note": "Brand Sacufox V 50 and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): 50 (combined sacubitril/valsartan strength; per-component mg not on front)"
+  ]
+ },
+ {
+  "sku": "IMP-3059",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American Valpodium 500 CR; Sodium Valproate and Valproic Acid Controlled-Release Tablets; 10 x 10 Tablets; American Remedies logo",
+  "note": "Brand, 500 CR variant (per row) and tablet form match",
+  "extra_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): 500"
+  ]
+ },
+ {
+  "sku": "IMP-3155",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "American VORICONAZ 200 Injection 200mg; Voriconazole Injection IP 200mg; Lyophilized for IV infusion only; vial in tray; American Remedies logo",
+  "note": "Brand, strength 200 mg and injection form match",
+  "extra_reasons": []
+ }
+]

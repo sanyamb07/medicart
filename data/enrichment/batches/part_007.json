@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 415,
+  "name": "CAMPICILIN 250MG CAP",
+  "generic": "AMPICILLIN PLUS",
+  "price": "2.5",
+  "sku": "IMP-0415"
+ },
+ {
+  "sr": 416,
+  "name": "CAMPICILIN 500MG",
+  "generic": "AMPICILLIN PLUS",
+  "price": "3.5",
+  "sku": "IMP-0416"
+ },
+ {
+  "sr": 417,
+  "name": "CAMPSATE TAB",
+  "generic": "ACAMPROSATE CALCIUM",
+  "price": "11.5",
+  "sku": "IMP-0417"
+ },
+ {
+  "sr": 418,
+  "name": "CANAGLIFLOWIN 100MG",
+  "generic": "CANAGLIFLOZIN",
+  "price": "21",
+  "sku": "IMP-0418"
+ },
+ {
+  "sr": 419,
+  "name": "CANAGLIFLOZIN 100",
+  "generic": "CANAGLIFLOZIN",
+  "price": "20",
+  "sku": "IMP-0419"
+ },
+ {
+  "sr": 420,
+  "name": "CANDEVAC 16MG",
+  "generic": "CANDESARTAN  CILEXETIL",
+  "price": "8",
+  "sku": "IMP-0420"
+ },
+ {
+  "sr": 421,
+  "name": "CANDIBIOTIC PLUS EAR",
+  "generic": "CLOTRIMAZOLE, BECLOMETHASONE, AND NEOMYCIN",
+  "price": "85",
+  "sku": "IMP-0421"
+ },
+ {
+  "sr": 422,
+  "name": "CANDID B CREAM 10GM",
+  "generic": "BECLOMETHASONE+CLOTRIMAZOLE",
+  "price": "95",
+  "sku": "IMP-0422"
+ },
+ {
+  "sr": 423,
+  "name": "CANDID B CREAM 20GM",
+  "generic": "BECLOMETHASONE+CLOTRIMAZOLE",
+  "price": "140",
+  "sku": "IMP-0423"
+ },
+ {
+  "sr": 424,
+  "name": "CANDID CL CAP",
+  "generic": "CLINDAMYCIN + CLOTRIMAZOLE",
+  "price": "47",
+  "sku": "IMP-0424"
+ },
+ {
+  "sr": 425,
+  "name": "CANDID CL SUPPOOSIT",
+  "generic": "CLINDAMYCIN + CLOTRIMAZOLE",
+  "price": "48",
+  "sku": "IMP-0425"
+ },
+ {
+  "sr": 426,
+  "name": "CANDID EAR DROP",
+  "generic": "CLOTRIMAZOLE",
+  "price": "75",
+  "sku": "IMP-0426"
+ },
+ {
+  "sr": 427,
+  "name": "CANDIFACE 100MG",
+  "generic": "ITRACONAZOLE",
+  "price": "5",
+  "sku": "IMP-0427"
+ },
+ {
+  "sr": 428,
+  "name": "CANDIFACE 200MG",
+  "generic": "ITRACONAZOLE",
+  "price": "8.5",
+  "sku": "IMP-0428"
+ },
+ {
+  "sr": 429,
+  "name": "CANDIFORCE 100MG",
+  "generic": "ITRACONAZOLE",
+  "price": "12",
+  "sku": "IMP-0429"
+ },
+ {
+  "sr": 430,
+  "name": "CANDITRAL 100MG",
+  "generic": "ITRACONAZOLE",
+  "price": "32",
+  "sku": "IMP-0430"
+ },
+ {
+  "sr": 431,
+  "name": "CANRISE D3 6L INJ 1ML",
+  "generic": "VITAMIN D",
+  "price": "18",
+  "sku": "IMP-0431"
+ },
+ {
+  "sr": 432,
+  "name": "CAPTOPRIL 25MG",
+  "generic": "CAPTOPRIL 25MG",
+  "price": "2",
+  "sku": "IMP-0432"
+ },
+ {
+  "sr": 433,
+  "name": "CAR RACE 5MG",
+  "generic": "RAMIPRIL",
+  "price": "1.5",
+  "sku": "IMP-0433"
+ },
+ {
+  "sr": 434,
+  "name": "CARBIGET TAB",
+  "generic": "CABERGOLINE",
+  "price": "21",
+  "sku": "IMP-0434"
+ },
+ {
+  "sr": 435,
+  "name": "CARDIFINE 3.125MG",
+  "generic": "CARVEDILOL",
+  "price": "1.5",
+  "sku": "IMP-0435"
+ },
+ {
+  "sr": 436,
+  "name": "CARDIPIN RETARD TAB",
+  "generic": "NIFEDIPINE-",
+  "price": "1",
+  "sku": "IMP-0436"
+ },
+ {
+  "sr": 437,
+  "name": "CAREFORCE 200",
+  "generic": "SILDENAFIL",
+  "price": "3",
+  "sku": "IMP-0437"
+ },
+ {
+  "sr": 438,
+  "name": "CAREFORCE SUPER ACTIVE",
+  "generic": "Sildenafil + Dapoxetine",
+  "price": "2",
+  "sku": "IMP-0438"
+ },
+ {
+  "sr": 439,
+  "name": "CAREPROST EYE DROP",
+  "generic": "BIMATOPROST OPHTHALMIC SOLUTION",
+  "price": "510",
+  "sku": "IMP-0439"
+ },
+ {
+  "sr": 440,
+  "name": "CARIDOLL 500MG",
+  "generic": "CARISOPRODOL",
+  "price": "2",
+  "sku": "IMP-0440"
+ },
+ {
+  "sr": 441,
+  "name": "CARIDOLL 750MG",
+  "generic": "CARISOPRODOL",
+  "price": "3",
+  "sku": "IMP-0441"
+ },
+ {
+  "sr": 442,
+  "name": "CARINIA 3MG",
+  "generic": "CARIPRAZINE",
+  "price": "13.5",
+  "sku": "IMP-0442"
+ },
+ {
+  "sr": 443,
+  "name": "CARITAP 225MG",
+  "generic": "CARISOPRODOL+TAPENTADOL",
+  "price": "8",
+  "sku": "IMP-0443"
+ },
+ {
+  "sr": 444,
+  "name": "CARITAP DS 450MG",
+  "generic": "CARISOPRODOL+TAPENTADOL",
+  "price": "10.5",
+  "sku": "IMP-0444"
+ },
+ {
+  "sr": 445,
+  "name": "CARITHROTIC-250MG",
+  "generic": "CLARITHROMYCIN",
+  "price": "9",
+  "sku": "IMP-0445"
+ },
+ {
+  "sr": 446,
+  "name": "CARLOC 6.25MG",
+  "generic": "CARVEDILOL",
+  "price": "8",
+  "sku": "IMP-0446"
+ },
+ {
+  "sr": 447,
+  "name": "CARNOTOL 250MG",
+  "generic": "DISULFIRAM",
+  "price": "1.5",
+  "sku": "IMP-0447"
+ },
+ {
+  "sr": 448,
+  "name": "CARNOTOL 500MG",
+  "generic": "DISULFIRAM",
+  "price": "3",
+  "sku": "IMP-0448"
+ },
+ {
+  "sr": 449,
+  "name": "CAR-RACE 10MG",
+  "generic": "RAMIPRIL",
+  "price": "2.5",
+  "sku": "IMP-0449"
+ },
+ {
+  "sr": 450,
+  "name": "CARVEJOHN 12.5MG",
+  "generic": "CARVEDILOL",
+  "price": "2",
+  "sku": "IMP-0450"
+ },
+ {
+  "sr": 451,
+  "name": "CARVEJOHN 25MG",
+  "generic": "CARVEDILOL",
+  "price": "4",
+  "sku": "IMP-0451"
+ },
+ {
+  "sr": 452,
+  "name": "CARVENOL 25MG",
+  "generic": "CARVEDILOL",
+  "price": "3",
+  "sku": "IMP-0452"
+ },
+ {
+  "sr": 453,
+  "name": "CARVISMART 12.5MG",
+  "generic": "CARVEDILOL",
+  "price": "1.5",
+  "sku": "IMP-0453"
+ },
+ {
+  "sr": 454,
+  "name": "CARVISMART 25MG",
+  "generic": "CARVEDILOL",
+  "price": "3",
+  "sku": "IMP-0454"
+ },
+ {
+  "sr": 455,
+  "name": "CARVISMART 3.125MG",
+  "generic": "CARVEDILOL",
+  "price": "1.5",
+  "sku": "IMP-0455"
+ },
+ {
+  "sr": 456,
+  "name": "CARVISTAR CR 20MG",
+  "generic": "CARVEDILOL",
+  "price": "14",
+  "sku": "IMP-0456"
+ },
+ {
+  "sr": 457,
+  "name": "CASTOR OIL",
+  "generic": "",
+  "price": "28",
+  "sku": "IMP-0457"
+ },
+ {
+  "sr": 458,
+  "name": "CAVERTA 100MG",
+  "generic": "SILDENAFIL CITRATE",
+  "price": "81",
+  "sku": "IMP-0458"
+ },
+ {
+  "sr": 459,
+  "name": "CAVERTA 50MG",
+  "generic": "SILDENAFIL CITRATE",
+  "price": "39",
+  "sku": "IMP-0459"
+ },
+ {
+  "sr": 460,
+  "name": "CAVITHRO 500MG",
+  "generic": "AZITHROMYCIN",
+  "price": "10",
+  "sku": "IMP-0460"
+ },
+ {
+  "sr": 461,
+  "name": "CB PLEX INJ 30ML",
+  "generic": "VITAMIN B",
+  "price": "10",
+  "sku": "IMP-0461"
+ },
+ {
+  "sr": 462,
+  "name": "C-CORT INJECTION",
+  "generic": "TRIAMCINOLONE",
+  "price": "40",
+  "sku": "IMP-0462"
+ },
+ {
+  "sr": 463,
+  "name": "CD GLUCOSE MONITOR KIT",
+  "generic": "",
+  "price": "400",
+  "sku": "IMP-0463"
+ },
+ {
+  "sr": 464,
+  "name": "CDINE 0.1MG",
+  "generic": "CLONIDINE",
+  "price": "1.5",
+  "sku": "IMP-0464"
+ }
+]

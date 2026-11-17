@@ -1,0 +1,36 @@
+# secrets — never commit
+.env
+.env.*
+!.env.example
+
+# go
+services/api/bin/
+*.test
+*.out
+coverage.out
+
+# node
+node_modules/
+apps/web/dist/
+apps/web/.vite/
+*.tsbuildinfo
+npm-debug.log*
+yarn-error.log*
+
+# local object storage (uploaded prescriptions / images)
+.localstorage/
+services/api/.localstorage/
+
+# tooling
+.DS_Store
+.idea/
+.vscode/
+playwright-report/
+test-results/
+blob-report/
+apps/web/playwright/.cache/
+data/enrichment/images_raw/
+data/enrichment/*.dump
+
+# runtime logs (may contain customer phone numbers / OTP traces)
+data/enrichment/logs/api.log

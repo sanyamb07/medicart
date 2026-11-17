@@ -1,0 +1,143 @@
+[
+ {
+  "sku": "IMP-0051",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/agefine-cream/",
+  "official_product_page_url": "https://www.healingpharma.in/product/agefine-cream/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Lead override for consistency: no strength printed on the pack (same rule applied to HEALVITAL CAP and AGEFINE FORTE TAB)",
+   "No verified manufacturer pack image found",
+   "Pack composition: L-Glutathione, Kojic Acid, Niacinamide and Glycolic Acid; list says L-GLUTATHIONE",
+   "Pack shows no strength/%; row name also has no strength - approved as plain variant, lead may override if the 'strength not visible' rule is meant to apply to strength-less rows too",
+   "Pack size 20 g visible; row name gives no pack size"
+  ],
+  "image": null,
+  "source_type": "manufacturer_page"
+ },
+ {
+  "sku": "IMP-0102",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amoxyheal-cv-dry-syrup/",
+  "official_product_page_url": "https://www.healingpharma.in/product/amoxyheal-cv-dry-syrup/",
+  "pack_size": null,
+  "review_reasons": [
+   "Included diluent ampoule is labelled as manufactured by Sunrise Pharma (diluent supplier), not Healing Pharma"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/IMP-0102.jpg",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2023/04/Amoxyheal-CV-DRY-Syrup.jpg",
+   "page_url": "https://www.healingpharma.in/product/amoxyheal-cv-dry-syrup/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Carton: 'Rx Amoxycillin & Potassium Clavulanate Oral Suspension IP', 'Amoxyheal-CV', 'Dry Syrup', '3.3g/30ml', Healing Pharma logo; side composition panel partly cut off: '200 mg', '28.5 mg', 'q.s.'. Bottle label: same brand, 'Dry Syrup 3.3g/30ml', Healing Pharma. Diluent ampoule: '30 ml Sterile Water for Injections IP, For use as Diluent ... Manufactured by Sunrise Pharma'",
+   "qa_note": "Brand Amoxyheal-CV matches (CV is in the row name), form dry syrup/oral suspension matches, 30 ml matches row. Per-5ml strength 200 mg/28.5 mg partly visible on side panel. Real product render with readable text; Healing Pharma logo visible."
+  },
+  "source_type": "manufacturer_page"
+ },
+ {
+  "sku": "IMP-0123",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/angiotensin-2-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/angiotensin-2-5/",
+  "pack_size": null,
+  "review_reasons": [
+   "List name typo: 'ANGIOTESIN' on list; pack brand is 'Angiotensin' - suggest correcting the catalogue name",
+   "Pack size 30 x 10 tablets visible; row name gives no pack size"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/IMP-0123.jpg",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/ANGIOTENSIN-2.5.jpg",
+   "page_url": "https://www.healingpharma.in/product/angiotensin-2-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Carton: 'Lisinopril Tablets IP 2.5mg', 'Angiotensin(R)-2.5', Hindi brand line '\u090f\u0928\u094d\u091c\u0940\u0913\u091f\u0947\u0928\u0938\u0940\u0928-\u0968.\u096b', '30 x 10 Tablets', Healing Pharma logo; blister strip of 10 white round tablets (foil side, unprinted)",
+   "qa_note": "Brand Angiotensin matches list name (list typo ANGIOTESIN), strength 2.5mg matches, form tablet matches. Real carton render with readable text; Healing Pharma logo visible."
+  },
+  "source_type": "manufacturer_page"
+ },
+ {
+  "sku": "IMP-0217",
+  "manufacturer": "Sunrise Remedies Pvt. Ltd",
+  "manufacturer_source_url": "https://sunriseremedies.in/our-products/avana/",
+  "official_product_page_url": "https://sunriseremedies.in/our-products/avana/",
+  "pack_size": null,
+  "review_reasons": [
+   "Company name/logo is not printed on the carton itself; 'Sunrise Remedies Pvt. Ltd.' appears only as a watermark/logo overlay in the image corner",
+   "Pack size not visible on carton"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/IMP-0217.jpg",
+   "image_url": "https://sunriseremedies.in/images/products/avana/Avana18-sunrise.jpg",
+   "page_url": "https://sunriseremedies.in/our-products/avana/",
+   "source_name": "Sunrise Remedies Pvt. Ltd.",
+   "visible_pack_text": "Carton render (front and side): 'Avanafil Tablet 100 mg', 'AVANA-100 (TM)'; side panel 'AVANA-100 TM'; top flap 'AVANA-100'. Separate image-corner overlay (not on the carton): 'Sunrise Remedies Pvt. Ltd. Rising healthcare benchmarks www.sunriseremedies.in'",
+   "qa_note": "Brand Avana matches, strength 100 mg clearly readable on the carton, form tablet matches. Carton render with readable text."
+  },
+  "source_type": "manufacturer_page"
+ },
+ {
+  "sku": "IMP-0243",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/azelax-cream/",
+  "official_product_page_url": "https://www.healingpharma.in/product/azelax-cream/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/IMP-0243.jpg",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/08/Azelax-Cream-20-new.jpg",
+   "page_url": "https://www.healingpharma.in/product/azelax-cream/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Tube and carton: 'Azelaic Acid Cream 20% w/w', 'Azelax', Hindi '\u0905\u091d\u0947\u0932\u0945\u0915\u094d\u0938', '20 g'; carton side panel 'Azelax 20%'; Healing Pharma logo on tube and carton",
+   "qa_note": "Brand Azelax matches, form cream matches, 20 g matches row 20GM. Row has no % strength; pack shows the single 20% w/w variant (no Forte/Plus). Real render with readable text; Healing Pharma logo visible."
+  },
+  "source_type": "manufacturer_page"
+ },
+ {
+  "sku": "IMP-0261",
+  "manufacturer": "Torque Pharmaceuticals Pvt. Ltd",
+  "manufacturer_source_url": "https://torquepharma.com/b-colex-capsules",
+  "official_product_page_url": "https://torquepharma.com/b-colex-capsules",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Lead override for consistency: no strength printed on the pack (same rule applied to HEALVITAL CAP and AGEFINE FORTE TAB)",
+   "No verified manufacturer pack image found",
+   "Front pack shows no strength (multivitamin combination); row name also has no strength - approved as plain variant, lead may override",
+   "Pack size 10 x 10 capsules visible; row name gives no pack size"
+  ],
+  "image": null,
+  "source_type": "manufacturer_page"
+ },
+ {
+  "sku": "IMP-0295",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/benzo-2-5-gel/",
+  "official_product_page_url": "https://www.healingpharma.in/product/benzo-2-5-gel/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/IMP-0295.jpg",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/08/Benzo-2.5.jpg",
+   "page_url": "https://www.healingpharma.in/product/benzo-2-5-gel/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Tube and carton: 'Benzoyl Peroxide 2.5%', 'BENZO 2.5% GEL', Hindi '\u092c\u0947\u0902\u091d\u094b \u0968.\u096b% \u091c\u0947\u0932', 'Acne Treatment Gel', '30g'; carton side 'BENZO'; Healing Pharma logo",
+   "qa_note": "Brand Benzo matches, strength 2.5% matches, form gel matches, 30g matches row 30GM. Real render with readable text; Healing Pharma logo visible."
+  },
+  "source_type": "manufacturer_page"
+ },
+ {
+  "sku": "IMP-0296",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/benzo-benzoyl-peroxide-5-gel-acne-spots-treatment-gel-manufacturers-india/",
+  "official_product_page_url": "https://www.healingpharma.in/product/benzo-benzoyl-peroxide-5-gel-acne-spots-treatment-gel-manufacturers-india/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/IMP-0296.jpg",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/08/Benzo-5-GEL.jpg",
+   "page_url": "https://www.healingpharma.in/product/benzo-benzoyl-peroxide-5-gel-acne-spots-treatment-gel-manufacturers-india/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Tube and carton: 'Benzoyl Peroxide 5%', 'BENZO 5% GEL', Hindi '\u092c\u0947\u0902\u091d\u094b \u096b% \u091c\u0947\u0932', 'Acne Treatment Gel', '30g'; carton side 'BENZO'; Healing Pharma logo",
+   "qa_note": "Brand Benzo matches, strength 5% matches (distinct from the 2.5% image), form gel matches, 30g matches row 30GM. Real render with readable text; Healing Pharma logo visible."
+  },
+  "source_type": "manufacturer_page"
+ }
+]

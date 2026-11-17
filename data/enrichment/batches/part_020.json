@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1084,
+  "name": "FLUOXYBIX 5MG",
+  "generic": "FLUOXYMESTERONE",
+  "price": "62",
+  "sku": "IMP-1084"
+ },
+ {
+  "sr": 1085,
+  "name": "FLUOXYBOL 5MG",
+  "generic": "FLUOXYMESTERONE",
+  "price": "72.5",
+  "sku": "IMP-1085"
+ },
+ {
+  "sr": 1086,
+  "name": "FLUPICARE 100MG",
+  "generic": "FLUPIRTINE",
+  "price": "5.5",
+  "sku": "IMP-1086"
+ },
+ {
+  "sr": 1087,
+  "name": "FLUPICARE 400MG SR",
+  "generic": "FLUPIRTINE",
+  "price": "21",
+  "sku": "IMP-1087"
+ },
+ {
+  "sr": 1088,
+  "name": "FLURASTED 250 INJ",
+  "generic": "FLUOROURACIL",
+  "price": "14",
+  "sku": "IMP-1088"
+ },
+ {
+  "sr": 1089,
+  "name": "FLURIDEX 100MG",
+  "generic": "FRUSEMIDE",
+  "price": "2",
+  "sku": "IMP-1089"
+ },
+ {
+  "sr": 1090,
+  "name": "FLURISONE EYE DROPS 5ML",
+  "generic": "FLUOROMETHOLONE",
+  "price": "115",
+  "sku": "IMP-1090"
+ },
+ {
+  "sr": 1091,
+  "name": "FLUTICONE - OX SPRAY",
+  "generic": "FLUTICASONE FUROATE+ OXYMETAZOLINE",
+  "price": "310",
+  "sku": "IMP-1091"
+ },
+ {
+  "sr": 1092,
+  "name": "FLUTIHEAL AZ NASAL SPRAY 7ML",
+  "generic": "FLUOXETINE",
+  "price": "110",
+  "sku": "IMP-1092"
+ },
+ {
+  "sr": 1093,
+  "name": "FLUTIVATE CREAM",
+  "generic": "FLUTICASONE PROPIONATE",
+  "price": "300",
+  "sku": "IMP-1093"
+ },
+ {
+  "sr": 1094,
+  "name": "FLUTY 20MG",
+  "generic": "FLUOXETINE",
+  "price": "1.5",
+  "sku": "IMP-1094"
+ },
+ {
+  "sr": 1095,
+  "name": "FLUXICAN 10MG",
+  "generic": "FLUOXETINE",
+  "price": "1",
+  "sku": "IMP-1095"
+ },
+ {
+  "sr": 1096,
+  "name": "FLUXICAN 20MG",
+  "generic": "FLUOXETINE",
+  "price": "1.5",
+  "sku": "IMP-1096"
+ },
+ {
+  "sr": 1097,
+  "name": "FLUXICAN 60MG",
+  "generic": "FLUOXETINE",
+  "price": "2",
+  "sku": "IMP-1097"
+ },
+ {
+  "sr": 1098,
+  "name": "FML EYE DROP 5ML",
+  "generic": "FLUOROMETHOLONE",
+  "price": "135",
+  "sku": "IMP-1098"
+ },
+ {
+  "sr": 1099,
+  "name": "FOLITRAX 10MG",
+  "generic": "METHOTREXATE",
+  "price": "12",
+  "sku": "IMP-1099"
+ },
+ {
+  "sr": 1100,
+  "name": "FOLLIHAIR NEW TAB",
+  "generic": "VITAMIN MINERALS AMINO ACID  GRAPES SEED",
+  "price": "22",
+  "sku": "IMP-1100"
+ },
+ {
+  "sr": 1101,
+  "name": "FOLLIKESH NEW TAB",
+  "generic": "VITAMIN MINERALS AMINO ACID  GRAPES SEED",
+  "price": "6",
+  "sku": "IMP-1101"
+ },
+ {
+  "sr": 1102,
+  "name": "FORACORT 100 INHALER",
+  "generic": "BUDESONIDE + FORMOTEROL",
+  "price": "265",
+  "sku": "IMP-1102"
+ },
+ {
+  "sr": 1103,
+  "name": "FORACORT 100MG INHR 120MD",
+  "generic": "BUDESONIDE + FORMOTEROL",
+  "price": "230",
+  "sku": "IMP-1103"
+ },
+ {
+  "sr": 1104,
+  "name": "FORACORT 200MG INHR 120MD",
+  "generic": "BUDESONIDE + FORMOTEROL",
+  "price": "370",
+  "sku": "IMP-1104"
+ },
+ {
+  "sr": 1105,
+  "name": "FORACORT 400MG INHALER 120MD",
+  "generic": "BUDESONIDE + FORMOTEROL",
+  "price": "415",
+  "sku": "IMP-1105"
+ },
+ {
+  "sr": 1106,
+  "name": "FORCAN 200MG",
+  "generic": "FLUCONAZOLE",
+  "price": "16",
+  "sku": "IMP-1106"
+ },
+ {
+  "sr": 1107,
+  "name": "FORMONIDE 200MG INHALER",
+  "generic": "BUDESONIDE + FORMOTEROL",
+  "price": "360",
+  "sku": "IMP-1107"
+ },
+ {
+  "sr": 1108,
+  "name": "FORMOST 200 INHALER",
+  "generic": "FORMOTEROL + MOMETASONE",
+  "price": "620",
+  "sku": "IMP-1108"
+ },
+ {
+  "sr": 1109,
+  "name": "FORXIGA 10MG",
+  "generic": "DAPAGLIFLOZIN",
+  "price": "30",
+  "sku": "IMP-1109"
+ },
+ {
+  "sr": 1110,
+  "name": "FORXIGA 5MG",
+  "generic": "DAPAGLIFLOZIN",
+  "price": "28",
+  "sku": "IMP-1110"
+ },
+ {
+  "sr": 1111,
+  "name": "FOSFOCIN SACHET",
+  "generic": "FOSFOMYCIN TROMETAMOL",
+  "price": "325",
+  "sku": "IMP-1111"
+ },
+ {
+  "sr": 1112,
+  "name": "FOSIROL POWDER",
+  "generic": "FOSFOMYCIN TROMETAMOL",
+  "price": "455",
+  "sku": "IMP-1112"
+ },
+ {
+  "sr": 1113,
+  "name": "FRASIX 100 MG",
+  "generic": "FRUSEMIDE",
+  "price": "1.5",
+  "sku": "IMP-1113"
+ },
+ {
+  "sr": 1114,
+  "name": "FRASIX 40MG",
+  "generic": "FRUSEMIDE",
+  "price": "1",
+  "sku": "IMP-1114"
+ },
+ {
+  "sr": 1115,
+  "name": "FRASIZ 40MG",
+  "generic": "FRUSEMIDE",
+  "price": "1",
+  "sku": "IMP-1115"
+ },
+ {
+  "sr": 1116,
+  "name": "FREE PILL KIT",
+  "generic": "MIFEPRISTONE+MISOPROSTOL",
+  "price": "85",
+  "sku": "IMP-1116"
+ },
+ {
+  "sr": 1117,
+  "name": "FRENIN INJ 1ML",
+  "generic": "PHENYLEPHRINE",
+  "price": "180",
+  "sku": "IMP-1117"
+ },
+ {
+  "sr": 1118,
+  "name": "FRUSENEX 100MG",
+  "generic": "FRUSEMIDE",
+  "price": "1",
+  "sku": "IMP-1118"
+ },
+ {
+  "sr": 1119,
+  "name": "FUCIBET CREAM",
+  "generic": "BETAMETHASONE-1MG + FUSIDIC ACID",
+  "price": "75",
+  "sku": "IMP-1119"
+ },
+ {
+  "sr": 1120,
+  "name": "FUCIDIN CREAM",
+  "generic": "FUSIDIC ACID",
+  "price": "135",
+  "sku": "IMP-1120"
+ },
+ {
+  "sr": 1121,
+  "name": "FUCIDIN CREAM 5GM",
+  "generic": "FUSIDIC ACID",
+  "price": "45",
+  "sku": "IMP-1121"
+ },
+ {
+  "sr": 1122,
+  "name": "FUCIDIN H CREAM 15GM",
+  "generic": "FUSIDIC ACID+ HYDROCORTISONE",
+  "price": "215",
+  "sku": "IMP-1122"
+ },
+ {
+  "sr": 1123,
+  "name": "FUNGICIP 200MG",
+  "generic": "FLUCONAZOLE",
+  "price": "7.5",
+  "sku": "IMP-1123"
+ },
+ {
+  "sr": 1124,
+  "name": "FUNGICYTE SHAMPOO 100ML",
+  "generic": "KETOCONAZOLE",
+  "price": "70",
+  "sku": "IMP-1124"
+ },
+ {
+  "sr": 1125,
+  "name": "FUSIGEN OINT 10GM",
+  "generic": "SODIUM FUSIDATE",
+  "price": "90",
+  "sku": "IMP-1125"
+ },
+ {
+  "sr": 1126,
+  "name": "GABAFRESH 1000MG",
+  "generic": "GABAPENTIN",
+  "price": "8.5",
+  "sku": "IMP-1126"
+ },
+ {
+  "sr": 1127,
+  "name": "GABAFRESH 800MG",
+  "generic": "GABAPENTIN",
+  "price": "5.25",
+  "sku": "IMP-1127"
+ },
+ {
+  "sr": 1128,
+  "name": "GABAPEN 100MG",
+  "generic": "GABAPENTIN",
+  "price": "1.5",
+  "sku": "IMP-1128"
+ },
+ {
+  "sr": 1129,
+  "name": "GABAPEN 300MG",
+  "generic": "GABAPENTIN",
+  "price": "2.5",
+  "sku": "IMP-1129"
+ },
+ {
+  "sr": 1130,
+  "name": "GABAPIN 100MG",
+  "generic": "GABAPENTIN",
+  "price": "8.5",
+  "sku": "IMP-1130"
+ },
+ {
+  "sr": 1131,
+  "name": "GABAPIN 800MG",
+  "generic": "GABAPENTIN",
+  "price": "42.5",
+  "sku": "IMP-1131"
+ },
+ {
+  "sr": 1132,
+  "name": "GABASIGN 300MG",
+  "generic": "GABAPENTIN",
+  "price": "2.5",
+  "sku": "IMP-1132"
+ },
+ {
+  "sr": 1133,
+  "name": "GABASIGN 400MG",
+  "generic": "GABAPENTIN",
+  "price": "3",
+  "sku": "IMP-1133"
+ }
+]

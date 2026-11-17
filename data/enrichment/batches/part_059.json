@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 3073,
+  "name": "VARNITOP 1MG",
+  "generic": "Varenicline",
+  "price": "52",
+  "sku": "IMP-3073"
+ },
+ {
+  "sr": 3074,
+  "name": "VARNITRIL 200MG",
+  "generic": "SACUBITRIL + VALSARTAN",
+  "price": "18.5",
+  "sku": "IMP-3074"
+ },
+ {
+  "sr": 3075,
+  "name": "VARNITRIP 0.5",
+  "generic": "Varenicline",
+  "price": "32",
+  "sku": "IMP-3075"
+ },
+ {
+  "sr": 3076,
+  "name": "VARNITRIP 1MG",
+  "generic": "VARENICLINE",
+  "price": "59",
+  "sku": "IMP-3076"
+ },
+ {
+  "sr": 3077,
+  "name": "VASOCON INJ",
+  "generic": "ADRENALINE BITARTATE",
+  "price": "12",
+  "sku": "IMP-3077"
+ },
+ {
+  "sr": 3078,
+  "name": "VEGA 100MG",
+  "generic": "SILDENAFIL",
+  "price": "4",
+  "sku": "IMP-3078"
+ },
+ {
+  "sr": 3079,
+  "name": "VEGA EXTRA 120MG",
+  "generic": "SILDENAFIL CITRATE",
+  "price": "4",
+  "sku": "IMP-3079"
+ },
+ {
+  "sr": 3080,
+  "name": "VEGA EXTRA COBRA 120MG JELLY",
+  "generic": "SILDENAFIL CITRATE",
+  "price": "75",
+  "sku": "IMP-3080"
+ },
+ {
+  "sr": 3081,
+  "name": "VEGA EXTRA COBRA 200MG JELLY",
+  "generic": "SILDENAFIL CITRATE",
+  "price": "75",
+  "sku": "IMP-3081"
+ },
+ {
+  "sr": 3082,
+  "name": "VEGA FORCE 100MG",
+  "generic": "SILDENAFIL+DAPOXETINE",
+  "price": "4.5",
+  "sku": "IMP-3082"
+ },
+ {
+  "sr": 3083,
+  "name": "VELTAM 0.2MG",
+  "generic": "TAMSULOSIN",
+  "price": "7",
+  "sku": "IMP-3083"
+ },
+ {
+  "sr": 3084,
+  "name": "VELTRIDE TAB",
+  "generic": "DUTASTERIDE",
+  "price": "17",
+  "sku": "IMP-3084"
+ },
+ {
+  "sr": 3085,
+  "name": "VEMOX 500MG",
+  "generic": "AMOXICILIN",
+  "price": "3",
+  "sku": "IMP-3085"
+ },
+ {
+  "sr": 3086,
+  "name": "VENIZ XR 75MG",
+  "generic": "VENLAFAXINE",
+  "price": "9",
+  "sku": "IMP-3086"
+ },
+ {
+  "sr": 3087,
+  "name": "VENLAF ER 150MG",
+  "generic": "VENLAFAXINE",
+  "price": "4",
+  "sku": "IMP-3087"
+ },
+ {
+  "sr": 3088,
+  "name": "VENLAF ER 37.5MG",
+  "generic": "VENLAFAXINE",
+  "price": "2",
+  "sku": "IMP-3088"
+ },
+ {
+  "sr": 3089,
+  "name": "VENLAF ER 75MG",
+  "generic": "VENLAFAXINE",
+  "price": "2.75",
+  "sku": "IMP-3089"
+ },
+ {
+  "sr": 3090,
+  "name": "VENLOR XR 150MG",
+  "generic": "VENLAFAXINE",
+  "price": "23",
+  "sku": "IMP-3090"
+ },
+ {
+  "sr": 3091,
+  "name": "VENLOR XR 37.5MG",
+  "generic": "VENLAFAXINE",
+  "price": "6",
+  "sku": "IMP-3091"
+ },
+ {
+  "sr": 3092,
+  "name": "VENLOR XR 75MG",
+  "generic": "VENLAFAXINE",
+  "price": "11",
+  "sku": "IMP-3092"
+ },
+ {
+  "sr": 3093,
+  "name": "VENTAB DXT 100MG",
+  "generic": "DESVENLAFAXINE",
+  "price": "26",
+  "sku": "IMP-3093"
+ },
+ {
+  "sr": 3094,
+  "name": "VENTAB DXT 100MG",
+  "generic": "DESVENLAFAXINE",
+  "price": "32",
+  "sku": "IMP-3094"
+ },
+ {
+  "sr": 3095,
+  "name": "VENTOCORTIL 20MG",
+  "generic": "PREDNISOLONE",
+  "price": "1.75",
+  "sku": "IMP-3095"
+ },
+ {
+  "sr": 3096,
+  "name": "VENTODEP ER 150MG",
+  "generic": "VENLAFAXINE",
+  "price": "4.5",
+  "sku": "IMP-3096"
+ },
+ {
+  "sr": 3097,
+  "name": "VERMISOL 50MG",
+  "generic": "LEVAMISOLE",
+  "price": "16",
+  "sku": "IMP-3097"
+ },
+ {
+  "sr": 3098,
+  "name": "VERTIFORD 16 TAB",
+  "generic": "BETAHISTINE",
+  "price": "1.5",
+  "sku": "IMP-3098"
+ },
+ {
+  "sr": 3099,
+  "name": "VERTIFORD 24MG",
+  "generic": "BETAHISTINE",
+  "price": "2",
+  "sku": "IMP-3099"
+ },
+ {
+  "sr": 3100,
+  "name": "VERTIN 16MG DT",
+  "generic": "BETAHISTINE HCL",
+  "price": "20",
+  "sku": "IMP-3100"
+ },
+ {
+  "sr": 3101,
+  "name": "VESCA GLUTATHIONE CAP",
+  "generic": "GLUTATHIONE",
+  "price": "7",
+  "sku": "IMP-3101"
+ },
+ {
+  "sr": 3102,
+  "name": "VIAGRA 100MG",
+  "generic": "SILDENAFIL",
+  "price": "245",
+  "sku": "IMP-3102"
+ },
+ {
+  "sr": 3103,
+  "name": "VIAGRA 50MG",
+  "generic": "SILDENAFIL",
+  "price": "210",
+  "sku": "IMP-3103"
+ },
+ {
+  "sr": 3104,
+  "name": "VICTOZA 6MG INJ 3ML",
+  "generic": "LIRAGLUTIDE",
+  "price": "4820",
+  "sku": "IMP-3104"
+ },
+ {
+  "sr": 3105,
+  "name": "VIDALISTA 10MG",
+  "generic": "TADALAFIL",
+  "price": "1.25",
+  "sku": "IMP-3105"
+ },
+ {
+  "sr": 3106,
+  "name": "VIDALISTA 2.5MG",
+  "generic": "TADALAFIL",
+  "price": "1",
+  "sku": "IMP-3106"
+ },
+ {
+  "sr": 3107,
+  "name": "VIDALISTA 20MG",
+  "generic": "TADALAFIL",
+  "price": "1.25",
+  "sku": "IMP-3107"
+ },
+ {
+  "sr": 3108,
+  "name": "VIDALISTA 40MG",
+  "generic": "TADALAFIL",
+  "price": "2.25",
+  "sku": "IMP-3108"
+ },
+ {
+  "sr": 3109,
+  "name": "VIDALISTA 5MG",
+  "generic": "TADALAFIL",
+  "price": "1",
+  "sku": "IMP-3109"
+ },
+ {
+  "sr": 3110,
+  "name": "VIDALISTA 60MG",
+  "generic": "TADALAFIL",
+  "price": "3",
+  "sku": "IMP-3110"
+ },
+ {
+  "sr": 3111,
+  "name": "VIDALISTA 80MG",
+  "generic": "TADALAFIL",
+  "price": "4.5",
+  "sku": "IMP-3111"
+ },
+ {
+  "sr": 3112,
+  "name": "VIDALISTA 80MG BLACK",
+  "generic": "TADALAFIL",
+  "price": "6",
+  "sku": "IMP-3112"
+ },
+ {
+  "sr": 3113,
+  "name": "VIDALISTA BLACK 80MG",
+  "generic": "TADALAFIL",
+  "price": "6",
+  "sku": "IMP-3113"
+ },
+ {
+  "sr": 3114,
+  "name": "VIDALISTA CT TAB",
+  "generic": "TADALAFIL CHEWABLE",
+  "price": "2",
+  "sku": "IMP-3114"
+ },
+ {
+  "sr": 3115,
+  "name": "VIDALISTA PROFESSIONAL TAB",
+  "generic": "TADALAFIL  SUBLINGUAL",
+  "price": "2",
+  "sku": "IMP-3115"
+ },
+ {
+  "sr": 3116,
+  "name": "VIGAMOX EYE DROP 5ML",
+  "generic": "MOXIFLOXACIN",
+  "price": "320",
+  "sku": "IMP-3116"
+ },
+ {
+  "sr": 3117,
+  "name": "VIGORE 100MG",
+  "generic": "SILDENAFIL",
+  "price": "3.5",
+  "sku": "IMP-3117"
+ },
+ {
+  "sr": 3118,
+  "name": "VIGORE 50MG",
+  "generic": "SILDENAFIL",
+  "price": "3",
+  "sku": "IMP-3118"
+ },
+ {
+  "sr": 3119,
+  "name": "VIGORE FORCE TAB",
+  "generic": "SILDENAFIL+DAPOXETINE",
+  "price": "10",
+  "sku": "IMP-3119"
+ },
+ {
+  "sr": 3120,
+  "name": "VIGORE JELLY",
+  "generic": "SILDENAFIL",
+  "price": "40",
+  "sku": "IMP-3120"
+ },
+ {
+  "sr": 3121,
+  "name": "VIKOSOLONE 10MG",
+  "generic": "PREDNISOLONE",
+  "price": "1.5",
+  "sku": "IMP-3121"
+ },
+ {
+  "sr": 3122,
+  "name": "VIKRIM DS TAB",
+  "generic": "TRIMETHOPRIM AND SULPHAMETHOXAZOLE",
+  "price": "2.25",
+  "sku": "IMP-3122"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1,
+  "name": "A RET 0.5% GEL 20GM",
+  "generic": "TRETINOIN GEL",
+  "price": "140",
+  "sku": "IMP-0001"
+ },
+ {
+  "sr": 2,
+  "name": "A RET GEL 0.025% 20GM",
+  "generic": "TRETINOIN GEL",
+  "price": "100",
+  "sku": "IMP-0002"
+ },
+ {
+  "sr": 3,
+  "name": "A RET GEL 0.1%",
+  "generic": "TRETINOIN GEL",
+  "price": "170",
+  "sku": "IMP-0003"
+ },
+ {
+  "sr": 4,
+  "name": "A RET-HC CREAM",
+  "generic": "HYDROQUINONE  + TRETINOIN + HYDROCORTISONE",
+  "price": "157",
+  "sku": "IMP-0004"
+ },
+ {
+  "sr": 5,
+  "name": "ABD 400MG",
+  "generic": "ALBENDAZOLE",
+  "price": "4",
+  "sku": "IMP-0005"
+ },
+ {
+  "sr": 6,
+  "name": "ABD PLUS TAB",
+  "generic": "ALBENDAZOLE AND IVERMECTIN",
+  "price": "4.5",
+  "sku": "IMP-0006"
+ },
+ {
+  "sr": 7,
+  "name": "ABD SUSPENSION",
+  "generic": "ALBENDAZOLE SUSPENSION",
+  "price": "14",
+  "sku": "IMP-0007"
+ },
+ {
+  "sr": 8,
+  "name": "ABORTAB 200MG",
+  "generic": "MIFEPRISTONE",
+  "price": "140",
+  "sku": "IMP-0008"
+ },
+ {
+  "sr": 9,
+  "name": "ACAMPOL TAB",
+  "generic": "ACAMPROSATE CALCIUM",
+  "price": "10",
+  "sku": "IMP-0009"
+ },
+ {
+  "sr": 10,
+  "name": "ACAMPROL TAB",
+  "generic": "ACAMPROSATE CALCIUM",
+  "price": "16",
+  "sku": "IMP-0010"
+ },
+ {
+  "sr": 11,
+  "name": "ACAMPROST 333MG",
+  "generic": "ACAMPROSATE CALCIUM",
+  "price": "10.5",
+  "sku": "IMP-0011"
+ },
+ {
+  "sr": 12,
+  "name": "ACAMPURE 333MG",
+  "generic": "ACAMPROSATE CALCIUM",
+  "price": "7",
+  "sku": "IMP-0012"
+ },
+ {
+  "sr": 13,
+  "name": "ACARBOZ 25 TAB",
+  "generic": "ACARBOSE",
+  "price": "3",
+  "sku": "IMP-0013"
+ },
+ {
+  "sr": 14,
+  "name": "ACARJOHN-50 TAB",
+  "generic": "ACARBOSE",
+  "price": "3",
+  "sku": "IMP-0014"
+ },
+ {
+  "sr": 15,
+  "name": "ACCUFINE 10MG",
+  "generic": "ISOTRETINOIN",
+  "price": "2.5",
+  "sku": "IMP-0015"
+ },
+ {
+  "sr": 16,
+  "name": "ACCUFINE 20MG",
+  "generic": "ISOTRETINOIN",
+  "price": "3.5",
+  "sku": "IMP-0016"
+ },
+ {
+  "sr": 17,
+  "name": "ACCUFINE 30MG",
+  "generic": "ISOTRETINOIN",
+  "price": "6.5",
+  "sku": "IMP-0017"
+ },
+ {
+  "sr": 18,
+  "name": "ACCUFINE 40MG",
+  "generic": "ISOTRETINOIN",
+  "price": "10",
+  "sku": "IMP-0018"
+ },
+ {
+  "sr": 19,
+  "name": "ACCUFINE 5MG",
+  "generic": "ISOTRETINOIN",
+  "price": "2",
+  "sku": "IMP-0019"
+ },
+ {
+  "sr": 20,
+  "name": "ACCURATE ADVANCED KIT",
+  "generic": "PREGNANCY TEST KIT",
+  "price": "11.5",
+  "sku": "IMP-0020"
+ },
+ {
+  "sr": 21,
+  "name": "ACEMIZ 100MG",
+  "generic": "ACECLOFENAC",
+  "price": "1",
+  "sku": "IMP-0021"
+ },
+ {
+  "sr": 22,
+  "name": "ACEMIZ 200MG SR",
+  "generic": "ACECLOFENAC",
+  "price": "2.5",
+  "sku": "IMP-0022"
+ },
+ {
+  "sr": 23,
+  "name": "ACEPTOR 10MG",
+  "generic": "BENAZEPRIL",
+  "price": "8",
+  "sku": "IMP-0023"
+ },
+ {
+  "sr": 24,
+  "name": "ACESTINE 600MG",
+  "generic": "Acetylcysteine",
+  "price": "6",
+  "sku": "IMP-0024"
+ },
+ {
+  "sr": 25,
+  "name": "ACETASMART-250 TAB",
+  "generic": "ACETAZOLAMIDE",
+  "price": "2",
+  "sku": "IMP-0025"
+ },
+ {
+  "sr": 26,
+  "name": "ACIMOL SR",
+  "generic": "ACECLOFENAC",
+  "price": "1.5",
+  "sku": "IMP-0026"
+ },
+ {
+  "sr": 27,
+  "name": "ACITRIT 25MG CAP",
+  "generic": "ACITRETIN",
+  "price": "28",
+  "sku": "IMP-0027"
+ },
+ {
+  "sr": 28,
+  "name": "ACIVIR CREAM 10GM",
+  "generic": "ACICLOVIR",
+  "price": "130",
+  "sku": "IMP-0028"
+ },
+ {
+  "sr": 29,
+  "name": "ACIVIR CREAM 5GM",
+  "generic": "ACICLOVIR",
+  "price": "45",
+  "sku": "IMP-0029"
+ },
+ {
+  "sr": 30,
+  "name": "ACIVIR DT 400MG",
+  "generic": "ACICLOVIR DISPERSIBLE",
+  "price": "13",
+  "sku": "IMP-0030"
+ },
+ {
+  "sr": 31,
+  "name": "ACIVIR DT 800MG",
+  "generic": "ACICLOVIR DISPERSIBLE",
+  "price": "34",
+  "sku": "IMP-0031"
+ },
+ {
+  "sr": 32,
+  "name": "ACIVIR IV 250MG INJ",
+  "generic": "Aciclovir",
+  "price": "382",
+  "sku": "IMP-0032"
+ },
+ {
+  "sr": 33,
+  "name": "ACLOVEER 400MG TAB.",
+  "generic": "ACICLOVIR",
+  "price": "4.5",
+  "sku": "IMP-0033"
+ },
+ {
+  "sr": 34,
+  "name": "ACNEDAP GEL",
+  "generic": "DAPSONE GEL",
+  "price": "375",
+  "sku": "IMP-0034"
+ },
+ {
+  "sr": 35,
+  "name": "ACNETOIN 20MG",
+  "generic": "ISOTRETINOIN",
+  "price": "4",
+  "sku": "IMP-0035"
+ },
+ {
+  "sr": 36,
+  "name": "ACNETOP CREAM 20GM",
+  "generic": "ADAPALENE + NICOTINAMIDE",
+  "price": "35",
+  "sku": "IMP-0036"
+ },
+ {
+  "sr": 37,
+  "name": "ACNETOR AD CREAM 15GM",
+  "generic": "ADAPALENE + CLINDAMYCIN",
+  "price": "285",
+  "sku": "IMP-0037"
+ },
+ {
+  "sr": 38,
+  "name": "ACTOID 10MG",
+  "generic": "ACITRETIN",
+  "price": "33",
+  "sku": "IMP-0038"
+ },
+ {
+  "sr": 39,
+  "name": "ACUTRET 20MG",
+  "generic": "ISOTRETINOIN",
+  "price": "24",
+  "sku": "IMP-0039"
+ },
+ {
+  "sr": 40,
+  "name": "ACYLOVIR 800MG",
+  "generic": "ACICLOVIR",
+  "price": "8",
+  "sku": "IMP-0040"
+ },
+ {
+  "sr": 41,
+  "name": "ACYLOVIR EYE OINT 5GM",
+  "generic": "ACICLOVIR",
+  "price": "35",
+  "sku": "IMP-0041"
+ },
+ {
+  "sr": 42,
+  "name": "ACYPROVE 200MG",
+  "generic": "Aciclovir",
+  "price": "3",
+  "sku": "IMP-0042"
+ },
+ {
+  "sr": 43,
+  "name": "ACYPROVE 400MG",
+  "generic": "ACICLOVIR",
+  "price": "4",
+  "sku": "IMP-0043"
+ },
+ {
+  "sr": 44,
+  "name": "ACYPROVE 800MG",
+  "generic": "ACICLOVIR",
+  "price": "8",
+  "sku": "IMP-0044"
+ },
+ {
+  "sr": 45,
+  "name": "ACYPROVE CREAM",
+  "generic": "ACICLOVIR",
+  "price": "18",
+  "sku": "IMP-0045"
+ },
+ {
+  "sr": 46,
+  "name": "ADAFERIN 0.01% GEL 15GM",
+  "generic": "ADAPALENE",
+  "price": "275",
+  "sku": "IMP-0046"
+ },
+ {
+  "sr": 47,
+  "name": "ADAKLEEN GEL 0.1%",
+  "generic": "Adapalene",
+  "price": "270",
+  "sku": "IMP-0047"
+ },
+ {
+  "sr": 48,
+  "name": "ADR INJ 1ML",
+  "generic": "ADRENALINE BITARTATE",
+  "price": "7",
+  "sku": "IMP-0048"
+ },
+ {
+  "sr": 49,
+  "name": "AEROCORT CFC INHALER 200MD",
+  "generic": "BECLOMETHASONE + LEVOSALBUTAMOL",
+  "price": "235",
+  "sku": "IMP-0049"
+ },
+ {
+  "sr": 50,
+  "name": "AFMED 40MG",
+  "generic": "AFATINIB",
+  "price": "90",
+  "sku": "IMP-0050"
+ }
+]

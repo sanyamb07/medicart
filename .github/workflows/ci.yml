@@ -1,0 +1,84 @@
+name: CI
+
+# Runs on every push and PR. This is CI only — it never deploys anything.
+# No secrets are required: the backend test job runs against a throwaway
+# Postgres service container, and every external integration (payments,
+# WhatsApp, AI) has a mock driver that needs no credentials.
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+
+jobs:
+  backend:
+    name: Backend (Go)
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16.4-alpine
+        env:
+          POSTGRES_USER: medicart
+          POSTGRES_PASSWORD: medicart_dev_pw
+          POSTGRES_DB: medicart_test
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U medicart -d medicart_test"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    defaults:
+      run:
+        working-directory: services/api
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.24"
+          cache-dependency-path: services/api/go.sum
+
+      - name: gofmt check
+        run: |
+          fmt_out=$(gofmt -l .)
+          if [ -n "$fmt_out" ]; then
+            echo "The following files are not gofmt-formatted:"
+            echo "$fmt_out"
+            exit 1
+          fi
+
+      - name: go vet
+        run: go vet ./...
+
+      - name: go build
+        run: go build ./...
+
+      - name: go test (unit + integration)
+        env:
+          # The integration suite's TestMain connects as this admin user to
+          # drop/create its own throwaway "medicart_test" database per run,
+          # then runs real migrations against it. Falls back to skip (not
+          # fail) if postgres isn't reachable, but the service above is.
+          MEDICART_TEST_ADMIN_DATABASE_URL: postgres://medicart:medicart_dev_pw@localhost:5432/postgres?sslmode=disable
+          MEDICART_TEST_DATABASE_URL: postgres://medicart:medicart_dev_pw@localhost:5432/medicart_test?sslmode=disable
+        run: go test ./... -race -count=1
+
+  frontend:
+    name: Frontend (web)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: apps/web
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: apps/web/package-lock.json
+
+      - run: npm ci
+      - name: ESLint
+        run: npm run lint
+      - name: TypeScript
+        run: npx tsc -b --noEmit
+      - name: Production build
+        run: npm run build

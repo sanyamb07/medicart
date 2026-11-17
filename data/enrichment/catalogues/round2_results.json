@@ -1,0 +1,1182 @@
+[
+ {
+  "sr": 1225,
+  "sku": "IMP-1225",
+  "name": "HEALPECIA 1MG",
+  "list_generic": "FINASTERIDE",
+  "catalogue": "healingpharma",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/healpecia-1mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/healpecia-1mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Healpecia 1 (Finasteride 1 mg Tablets)",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/HEALPECIA-1-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/healpecia-1mg/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1225.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1226,
+  "sku": "IMP-1226",
+  "name": "HEALPECIA 5MG",
+  "list_generic": "FINASTERIDE",
+  "catalogue": "healingpharma",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/healpecia-5mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/healpecia-5mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Healpecia 5 (Finasteride 5 mg Tablets)",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/HEALPECIA-5-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/healpecia-5mg/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1226.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1365,
+  "sku": "IMP-1365",
+  "name": "IVERHEAL 12MG",
+  "list_generic": "IVERMECTIN",
+  "catalogue": "healingpharma",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/iverheal-12mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/iverheal-12mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Iverheal 12 (Ivermectin 12 mg Tablets)",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Ivermectin-12-third-party-manufacturer-exporter-supplier-India.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/iverheal-12mg/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1365.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1829,
+  "sku": "IMP-1829",
+  "name": "MOLNUVID 200MG",
+  "list_generic": "MOLNUPIRAVIR",
+  "catalogue": "healingpharma",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/molnuvid-200/",
+  "official_product_page_url": "https://www.healingpharma.in/product/molnuvid-200/",
+  "composition_on_source": "ONLY FOR EXPORT",
+  "catalogue_name": "Molnuvid (Molnupiravir) 200 Mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Molnuvid-Capsules-Bottle.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/molnuvid-200/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1829.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2371,
+  "sku": "IMP-2371",
+  "name": "RESTFINE TAB",
+  "list_generic": "MELATONIN",
+  "catalogue": "healingpharma",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/restfine-tab-12/",
+  "official_product_page_url": "https://www.healingpharma.in/product/restfine-tab-12/",
+  "composition_on_source": null,
+  "catalogue_name": "Restfine Tab (12%)",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2024/07/Restfine-Tablet.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/restfine-tab-12/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2371.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 13,
+  "sku": "IMP-0013",
+  "name": "ACARBOZ 25 TAB",
+  "list_generic": "ACARBOSE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/acarboz-25-tab-alu2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/acarboz-25-tab-alu2010/",
+  "composition_on_source": null,
+  "catalogue_name": "ACARBOZ\u00ae-25 TAB (ALU)20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/acarboz-25.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/acarboz-25-tab-alu2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0013.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 33,
+  "sku": "IMP-0033",
+  "name": "ACLOVEER 400MG TAB.",
+  "list_generic": "ACICLOVIR",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/acloveer-400-tab-bl-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/acloveer-400-tab-bl-1010/",
+  "composition_on_source": null,
+  "catalogue_name": "ACLOVEER-400 TAB (BL) 10*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/ACLOVEER-400.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/acloveer-400-tab-bl-1010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0033.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 365,
+  "sku": "IMP-0365",
+  "name": "BUDENOL F 400MG INHALER",
+  "list_generic": "BUDESONIDE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/budenol-f-400-inhaler/",
+  "official_product_page_url": "https://knollhealthcare.com/product/budenol-f-400-inhaler/",
+  "composition_on_source": null,
+  "catalogue_name": "BUDENOL-F 400 INHALER",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/BUDENOL-F-400-2.png?fit=388%2C388&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/budenol-f-400-inhaler/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0365.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 452,
+  "sku": "IMP-0452",
+  "name": "CARVENOL 25MG",
+  "list_generic": "CARVEDILOL",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/carvenol-25-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/carvenol-25-tab-alu-2010/",
+  "composition_on_source": null,
+  "catalogue_name": "CARVENOL-25 TAB (ALU) 20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/CARVENOL-25.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/carvenol-25-tab-alu-2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0452.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 559,
+  "sku": "IMP-0559",
+  "name": "CLARIFOD 500MG",
+  "list_generic": "CLARITHROMYCIN",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/clarifod-500-tab-bl-mono10110/",
+  "official_product_page_url": "https://knollhealthcare.com/product/clarifod-500-tab-bl-mono10110/",
+  "composition_on_source": null,
+  "catalogue_name": "CLARIFOD\u00ae-500 TAB (BL-MONO)10*1*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/clarifod-500.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/clarifod-500-tab-bl-mono10110/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0559.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 832,
+  "sku": "IMP-0832",
+  "name": "DUTANOL 0.5MG",
+  "list_generic": "DUTASTERIDE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/dutanol-0-5-tabs-alu-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/dutanol-0-5-tabs-alu-1010/",
+  "composition_on_source": null,
+  "catalogue_name": "DUTANOL-0.5 TABS (ALU) 10*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/DUTANOL-0.5.png?fit=388%2C388&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/dutanol-0-5-tabs-alu-1010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0832.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 887,
+  "sku": "IMP-0887",
+  "name": "EPLERENOL 25 TAB",
+  "list_generic": "EPLERENONE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/eplerenol-25-tab-10110-mono-alu/",
+  "official_product_page_url": "https://knollhealthcare.com/product/eplerenol-25-tab-10110-mono-alu/",
+  "composition_on_source": null,
+  "catalogue_name": "EPLERENOL-25 TAB 10*1*10 (MONO-ALU)",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/EPLERENOL-25.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/eplerenol-25-tab-10110-mono-alu/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0887.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 897,
+  "sku": "IMP-0897",
+  "name": "ESETALO 10MG",
+  "list_generic": "ESCITALOPRAM",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/esetalo-10-tab-bl-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/esetalo-10-tab-bl-2010/",
+  "composition_on_source": null,
+  "catalogue_name": "ESETALO-10 TAB (BL) 20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/ESETALO-10.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/esetalo-10-tab-bl-2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0897.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1044,
+  "sku": "IMP-1044",
+  "name": "FINOBRATE 145",
+  "list_generic": "FENOFIBRATE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/finobrate-145-tab-bl-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/finobrate-145-tab-bl-1010/",
+  "composition_on_source": null,
+  "catalogue_name": "FINOBRATE-145 TAB (BL) 10*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/FINOBRATE-145.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/finobrate-145-tab-bl-1010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1044.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1045,
+  "sku": "IMP-1045",
+  "name": "FINOBRATE 160MG",
+  "list_generic": "FENOFIBRATE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/finobrate-160-tab-bl-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/finobrate-160-tab-bl-1010/",
+  "composition_on_source": null,
+  "catalogue_name": "FINOBRATE-160 TAB (BL) 10*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/FINOBRATE-160.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/finobrate-160-tab-bl-1010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1045.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1283,
+  "sku": "IMP-1283",
+  "name": "HYDRONOL 25MG",
+  "list_generic": "HYDROCHLOROTHIAZIDE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/hydronol-25-tab-bl-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/hydronol-25-tab-bl-2010/",
+  "composition_on_source": null,
+  "catalogue_name": "HYDRONOL-25 TAB (BL) 20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/HYDRONOL-25.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/hydronol-25-tab-bl-2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1283.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1316,
+  "sku": "IMP-1316",
+  "name": "INDOSTAR-75MG TAB",
+  "list_generic": "INDOMETHACIN",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/indostar-75-tabs-alu-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/indostar-75-tabs-alu-1010/",
+  "composition_on_source": null,
+  "catalogue_name": "INDOSTAR-75 TABS (ALU) 10*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/INDOSTAR-75.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/indostar-75-tabs-alu-1010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1316.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1449,
+  "sku": "IMP-1449",
+  "name": "KETOCONOL 200MG",
+  "list_generic": "KETOCONAZOLE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/ketoconol-200-tab-alu-10110/",
+  "official_product_page_url": "https://knollhealthcare.com/product/ketoconol-200-tab-alu-10110/",
+  "composition_on_source": null,
+  "catalogue_name": "KETOCONOL-200 TAB (ALU) 10*1*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/ketoconol-200.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/ketoconol-200-tab-alu-10110/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1449.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1533,
+  "sku": "IMP-1533",
+  "name": "LETRONOL 2.5MG",
+  "list_generic": "LETROZOLE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/letronol-2-5-tab-bl-205/",
+  "official_product_page_url": "https://knollhealthcare.com/product/letronol-2-5-tab-bl-205/",
+  "composition_on_source": null,
+  "catalogue_name": "LETRONOL-2.5 TAB (BL) 20*5",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/letronol-2.5.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/letronol-2-5-tab-bl-205/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1533.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1713,
+  "sku": "IMP-1713",
+  "name": "METFORM SR 1000MG",
+  "list_generic": "METFORMIN HCL",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/metform-sr-1000-tab-bl-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/metform-sr-1000-tab-bl-1010/",
+  "composition_on_source": null,
+  "catalogue_name": "METFORM-SR 1000 TAB (BL) 10*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/metformin-sr-1000.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/metform-sr-1000-tab-bl-1010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1713.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1724,
+  "sku": "IMP-1724",
+  "name": "METNI 16MG",
+  "list_generic": "METHYLPREDNISOLONE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/metni-16-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/metni-16-tab-alu-2010/",
+  "composition_on_source": null,
+  "catalogue_name": "METNI-16 TAB (ALU) 20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/metni-16.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/metni-16-tab-alu-2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1724.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1725,
+  "sku": "IMP-1725",
+  "name": "METNI 4MG",
+  "list_generic": "METHYLPREDNISOLONE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/metni-4-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/metni-4-tab-alu-2010/",
+  "composition_on_source": null,
+  "catalogue_name": "METNI-4 TAB (ALU) 20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/metni-4.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/metni-4-tab-alu-2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1725.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1726,
+  "sku": "IMP-1726",
+  "name": "METNI 8MG",
+  "list_generic": "METHYLPREDNISOLONE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/metni-8-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/metni-8-tab-alu-2010/",
+  "composition_on_source": null,
+  "catalogue_name": "METNI-8 TAB (ALU) 20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/metni-8.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/metni-8-tab-alu-2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1726.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1930,
+  "sku": "IMP-1930",
+  "name": "NEBIVOL 5MG",
+  "list_generic": "NEBIVOLOL HCL",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/nebivol-5-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/nebivol-5-tab-alu-2010/",
+  "composition_on_source": null,
+  "catalogue_name": "NEBIVOL-5 TAB (ALU) 20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/NEBIVOL-5.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/nebivol-5-tab-alu-2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1930.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1987,
+  "sku": "IMP-1987",
+  "name": "NITRO G 2.6MG",
+  "list_generic": "Nitroglycerin",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/nitro-g-2-6-tab-2530/",
+  "official_product_page_url": "https://knollhealthcare.com/product/nitro-g-2-6-tab-2530/",
+  "composition_on_source": null,
+  "catalogue_name": "NITRO-G 2.6 TAB 25*30",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/NITRO-G-2.6.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/nitro-g-2-6-tab-2530/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1987.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1998,
+  "sku": "IMP-1998",
+  "name": "NOLCEE TAB",
+  "list_generic": "VITAMIN C",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/nolcee-tab-3010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/nolcee-tab-3010/",
+  "composition_on_source": null,
+  "catalogue_name": "NOLCEE+ TAB 30*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/01/Nolcee-.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/nolcee-tab-3010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1998.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2047,
+  "sku": "IMP-2047",
+  "name": "OLMO 40MG TAB",
+  "list_generic": "OFLOXACIN",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/olmo-40-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/olmo-40-tab-alu-2010/",
+  "composition_on_source": null,
+  "catalogue_name": "OLMO-40 TAB (ALU) 20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/OLMO-40.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/olmo-40-tab-alu-2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2047.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2048,
+  "sku": "IMP-2048",
+  "name": "OLMO H TAB",
+  "list_generic": "HYDROCHLOROTHIAZIDE + OLMESARTAN MEDOXOMIL",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/olmo-h-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/olmo-h-tab-alu-2010/",
+  "composition_on_source": null,
+  "catalogue_name": "OLMO-H TAB (ALU) 20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/OMLO-H.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/olmo-h-tab-alu-2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2048.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2049,
+  "sku": "IMP-2049",
+  "name": "OLNEE-5",
+  "list_generic": "OLANZAPINE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/olnee-5-tab-alu-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/olnee-5-tab-alu-1010/",
+  "composition_on_source": null,
+  "catalogue_name": "OLNEE-5 TAB (ALU) 10*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/ONLEE-5.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/olnee-5-tab-alu-1010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2049.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2177,
+  "sku": "IMP-2177",
+  "name": "PIRCETAM 800MG",
+  "list_generic": "PIRACETAM",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/pircetam-800-tab-bl2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/pircetam-800-tab-bl2010/",
+  "composition_on_source": null,
+  "catalogue_name": "PIRCETAM-800 TAB (BL)20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/PIRCEATAM-800.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/pircetam-800-tab-bl2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2177.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2205,
+  "sku": "IMP-2205",
+  "name": "PRAZICORS 600MG",
+  "list_generic": "PRAZIQUANTEL",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/prazicors-600-tab-104-bl/",
+  "official_product_page_url": "https://knollhealthcare.com/product/prazicors-600-tab-104-bl/",
+  "composition_on_source": null,
+  "catalogue_name": "PRAZICORS-600 TAB  10*4 (BL)",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/07/Prazicors-600.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/prazicors-600-tab-104-bl/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2205.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2267,
+  "sku": "IMP-2267",
+  "name": "PROGESTONE-100MG CAP.",
+  "list_generic": "Progesterone",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/progestone-100-cap-bl-mono-10110/",
+  "official_product_page_url": "https://knollhealthcare.com/product/progestone-100-cap-bl-mono-10110/",
+  "composition_on_source": null,
+  "catalogue_name": "PROGESTONE-100 CAP (BL-MONO) 10*1*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/01/progestone-100.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/progestone-100-cap-bl-mono-10110/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2267.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2352,
+  "sku": "IMP-2352",
+  "name": "REFAXINOL 400MG",
+  "list_generic": "RIFAXIMIN",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/refaxinol-400-tab-alu-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/refaxinol-400-tab-alu-1010/",
+  "composition_on_source": null,
+  "catalogue_name": "REFAXINOL-400 TAB (ALU) 10*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/REFAXINOL-400.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/refaxinol-400-tab-alu-1010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2352.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2353,
+  "sku": "IMP-2353",
+  "name": "REFAXINOL 550MG",
+  "list_generic": "RIFAXIMIN",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/refaxinol-550-tab-alu-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/refaxinol-550-tab-alu-1010/",
+  "composition_on_source": null,
+  "catalogue_name": "REFAXINOL-550 TAB (ALU) 10*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/REFAXINOL-550.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/refaxinol-550-tab-alu-1010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2353.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2604,
+  "sku": "IMP-2604",
+  "name": "SULFUNOL 500MG",
+  "list_generic": "SULFASALAZINE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/sulfunol-500-tab-bl1015/",
+  "official_product_page_url": "https://knollhealthcare.com/product/sulfunol-500-tab-bl1015/",
+  "composition_on_source": null,
+  "catalogue_name": "SULFUNOL-500 TAB (BL)10*15",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/SULFUNOL-500.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/sulfunol-500-tab-bl1015/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2604.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2766,
+  "sku": "IMP-2766",
+  "name": "TELKONOL 80MG",
+  "list_generic": "TELMISARTAN HCL",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/telkonol-80-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/telkonol-80-tab-alu-2010/",
+  "composition_on_source": null,
+  "catalogue_name": "TELKONOL\u00ae-80 TAB (ALU) 20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/TELKONOL-80.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/telkonol-80-tab-alu-2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2766.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2891,
+  "sku": "IMP-2891",
+  "name": "THYROXINOL 100",
+  "list_generic": "Thyroxine",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/thyroxinol-100-tab-10120-pet/",
+  "official_product_page_url": "https://knollhealthcare.com/product/thyroxinol-100-tab-10120-pet/",
+  "composition_on_source": null,
+  "catalogue_name": "THYROXINOL-100 TAB 10*120 (PET)",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/THYROXINOL-100.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/thyroxinol-100-tab-10120-pet/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2891.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2892,
+  "sku": "IMP-2892",
+  "name": "THYROXINOL 125MG",
+  "list_generic": "THYROXINE SODIUM",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/thyroxinol-125-tab-10120-pet/",
+  "official_product_page_url": "https://knollhealthcare.com/product/thyroxinol-125-tab-10120-pet/",
+  "composition_on_source": null,
+  "catalogue_name": "THYROXINOL-125 TAB 10*120 (PET)",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/THYROXINOL-125.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/thyroxinol-125-tab-10120-pet/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2892.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2893,
+  "sku": "IMP-2893",
+  "name": "THYROXINOL 150MG",
+  "list_generic": "THYROXINE SODIUM",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/thyroxinol-150-tab-10120-pet/",
+  "official_product_page_url": "https://knollhealthcare.com/product/thyroxinol-150-tab-10120-pet/",
+  "composition_on_source": null,
+  "catalogue_name": "THYROXINOL-150 TAB 10*120 (PET)",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/THYROXINOL-150.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/thyroxinol-150-tab-10120-pet/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2893.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2894,
+  "sku": "IMP-2894",
+  "name": "THYROXINOL 75MG",
+  "list_generic": "THYROXINE SODIUM",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/thyroxinol-75-tab-10120-pet/",
+  "official_product_page_url": "https://knollhealthcare.com/product/thyroxinol-75-tab-10120-pet/",
+  "composition_on_source": null,
+  "catalogue_name": "THYROXINOL-75 TAB 10*120 (PET)",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/THYROXINOL-75.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/thyroxinol-75-tab-10120-pet/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2894.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2917,
+  "sku": "IMP-2917",
+  "name": "TOFANOL OINT 2% 10GM",
+  "list_generic": "TOFACITINIB 2% OINTMENT",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/tofanol-ointment-2-10gm/",
+  "official_product_page_url": "https://knollhealthcare.com/product/tofanol-ointment-2-10gm/",
+  "composition_on_source": null,
+  "catalogue_name": "TOFANOL OINTMENT 2% 10GM",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/07/Tofanol.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/tofanol-ointment-2-10gm/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2917.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 3018,
+  "sku": "IMP-3018",
+  "name": "TRYPTINOL 10MG",
+  "list_generic": "AMITRIPTYLINE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/tryptinol-10-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/tryptinol-10-tab-alu-2010/",
+  "composition_on_source": null,
+  "catalogue_name": "TRYPTINOL\u00ae-10 TAB (ALU) 20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/TRYPTINOL-10.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/tryptinol-10-tab-alu-2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-3018.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 3019,
+  "sku": "IMP-3019",
+  "name": "TRYPTINOL 25MG",
+  "list_generic": "AMITRIPTYLINE",
+  "catalogue": "knoll",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/tryptinol-25-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/tryptinol-25-tab-alu-2010/",
+  "composition_on_source": null,
+  "catalogue_name": "TRYPTINOL\u00ae-25 TAB (ALU) 20*10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/TRYPTINOL-25.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/tryptinol-25-tab-alu-2010/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-3019.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 162,
+  "sku": "IMP-0162",
+  "name": "ARTECAN 120MG INJ",
+  "list_generic": "ARTESUNATE",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/artecan-injection-120-mg/",
+  "official_product_page_url": "https://www.americanremedies.in/product/artecan-injection-120-mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Artecan Injection 120 mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Artecan-120-3D.jpg",
+   "page_url": "https://www.americanremedies.in/product/artecan-injection-120-mg/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0162.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 163,
+  "sku": "IMP-0163",
+  "name": "ARTECAN 60MG INJ",
+  "list_generic": "ARTESUNATE",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/artecan-injection-60-mg/",
+  "official_product_page_url": "https://www.americanremedies.in/product/artecan-injection-60-mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Artecan Injection 60 mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Artecan-60-3D.jpg",
+   "page_url": "https://www.americanremedies.in/product/artecan-injection-60-mg/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0163.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 297,
+  "sku": "IMP-0297",
+  "name": "BENZOCAN CREAM",
+  "list_generic": "MONOBENZONE CREAM",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/benzocan-cream/",
+  "official_product_page_url": "https://www.americanremedies.in/product/benzocan-cream/",
+  "composition_on_source": null,
+  "catalogue_name": "Benzocan Cream",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Benzocan-Cream.jpg",
+   "page_url": "https://www.americanremedies.in/product/benzocan-cream/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0297.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 305,
+  "sku": "IMP-0305",
+  "name": "BETASTAL INJ",
+  "list_generic": "BETAMETHASONE (AS SODIUM PHOSPHATE) & BETAMETHASONE (AS DIPROPIONATE)",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/betastal-injection/",
+  "official_product_page_url": "https://www.americanremedies.in/product/betastal-injection/",
+  "composition_on_source": null,
+  "catalogue_name": "Betastal Injection",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/betastal-inj-new.jpg",
+   "page_url": "https://www.americanremedies.in/product/betastal-injection/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0305.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 696,
+  "sku": "IMP-0696",
+  "name": "DAPAFOX 10MG",
+  "list_generic": "DAPAGLIFLOZIN",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/dapafox-10-tablets/",
+  "official_product_page_url": "https://www.americanremedies.in/product/dapafox-10-tablets/",
+  "composition_on_source": null,
+  "catalogue_name": "Dapafox 10 Tablets",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Dapafox-10-tablet.jpg",
+   "page_url": "https://www.americanremedies.in/product/dapafox-10-tablets/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0696.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 745,
+  "sku": "IMP-0745",
+  "name": "DEXACAN 4MG",
+  "list_generic": "DEXAMETHASONE",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/dexacan-4-tablets/",
+  "official_product_page_url": "https://www.americanremedies.in/product/dexacan-4-tablets/",
+  "composition_on_source": null,
+  "catalogue_name": "Dexacan 4 Tablets",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/dexacan-4-tablet-3D.jpg",
+   "page_url": "https://www.americanremedies.in/product/dexacan-4-tablets/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0745.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 755,
+  "sku": "IMP-0755",
+  "name": "DICLOCAN AQ INJ",
+  "list_generic": "DICLOFENAC SODIUM",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/diclocan-aq-injection/",
+  "official_product_page_url": "https://www.americanremedies.in/product/diclocan-aq-injection/",
+  "composition_on_source": null,
+  "catalogue_name": "Diclocan AQ  Injection",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Diclocan-Aq-1ml-scaled.png",
+   "page_url": "https://www.americanremedies.in/product/diclocan-aq-injection/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-0755.png",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1171,
+  "sku": "IMP-1171",
+  "name": "GLUTACAN INJ",
+  "list_generic": "GLUTATHIONE",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/glutacan-injection/",
+  "official_product_page_url": "https://www.americanremedies.in/product/glutacan-injection/",
+  "composition_on_source": null,
+  "catalogue_name": "Glutacan Injection",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Glutacan-Inj.jpg",
+   "page_url": "https://www.americanremedies.in/product/glutacan-injection/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1171.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1208,
+  "sku": "IMP-1208",
+  "name": "HCGCAN 10000IU INJ",
+  "list_generic": "CHORIONIC GONADOTROPHIN",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/hcgcan-10000iu-inj/",
+  "official_product_page_url": "https://www.americanremedies.in/product/hcgcan-10000iu-inj/",
+  "composition_on_source": null,
+  "catalogue_name": "Hcgcan 10000IU Inj",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2026/03/HCGCAN-1000.jpg",
+   "page_url": "https://www.americanremedies.in/product/hcgcan-10000iu-inj/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1208.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1209,
+  "sku": "IMP-1209",
+  "name": "HCGCAN 5000IU INJ",
+  "list_generic": "CHORIONIC GONADOTROPHIN",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/hcgcan-5000-iu-lyophilized-highly-purified/",
+  "official_product_page_url": "https://www.americanremedies.in/product/hcgcan-5000-iu-lyophilized-highly-purified/",
+  "composition_on_source": null,
+  "catalogue_name": "HCGCAN 5000 IU (Lyophilized Highly Purified)",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/HCGCAN-5000-IU-3D.jpg",
+   "page_url": "https://www.americanremedies.in/product/hcgcan-5000-iu-lyophilized-highly-purified/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1209.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1679,
+  "sku": "IMP-1679",
+  "name": "MEDROCAN-40 INJ",
+  "list_generic": "METHYLPREDNISOLONE SODIUM SUCCINATE",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/medrocan-40-injection/",
+  "official_product_page_url": "https://www.americanremedies.in/product/medrocan-40-injection/",
+  "composition_on_source": null,
+  "catalogue_name": "Medrocan 40 Injection",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Medrocan-Inj.jpg",
+   "page_url": "https://www.americanremedies.in/product/medrocan-40-injection/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-1679.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2145,
+  "sku": "IMP-2145",
+  "name": "PENTRAL 400MG",
+  "list_generic": "PENTOXIFYLLINE PROLONGED RELEASE",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/pentral-400-tablets/",
+  "official_product_page_url": "https://www.americanremedies.in/product/pentral-400-tablets/",
+  "composition_on_source": null,
+  "catalogue_name": "Pentral 400 Tablets",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/pentral-400.jpg",
+   "page_url": "https://www.americanremedies.in/product/pentral-400-tablets/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2145.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2439,
+  "sku": "IMP-2439",
+  "name": "SACUFOX V 100MG",
+  "list_generic": "SACUBITRIL + VALSARTAN",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/sacufox-v-100-tablets/",
+  "official_product_page_url": "https://www.americanremedies.in/product/sacufox-v-100-tablets/",
+  "composition_on_source": null,
+  "catalogue_name": "Sacufox V 100 Tablets",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/sacufox-v-100.jpg",
+   "page_url": "https://www.americanremedies.in/product/sacufox-v-100-tablets/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2439.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2440,
+  "sku": "IMP-2440",
+  "name": "SACUFOX V 50MG",
+  "list_generic": "SACUBITRIL + VALSARTAN",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/sacufox-v-50-tablets/",
+  "official_product_page_url": "https://www.americanremedies.in/product/sacufox-v-50-tablets/",
+  "composition_on_source": null,
+  "catalogue_name": "Sacufox V 50 Tablets",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/sacufox-v-50.jpg",
+   "page_url": "https://www.americanremedies.in/product/sacufox-v-50-tablets/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-2440.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 3059,
+  "sku": "IMP-3059",
+  "name": "VALPODIUM 500 CR",
+  "list_generic": "CONTROLLED-RELEASE TABLETS OF SODIUM VALPROATE AND VALPROIC ACID",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/valpodium-500-cr-tablets/",
+  "official_product_page_url": "https://www.americanremedies.in/product/valpodium-500-cr-tablets/",
+  "composition_on_source": null,
+  "catalogue_name": "Valpodium 500 CR Tablets",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Valpodium-500-Tab.jpg",
+   "page_url": "https://www.americanremedies.in/product/valpodium-500-cr-tablets/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-3059.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 3155,
+  "sku": "IMP-3155",
+  "name": "VORICONAZ 200MG INJ",
+  "list_generic": "VORICONAZOLE",
+  "catalogue": "americanremedies",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/voriconaz-200/",
+  "official_product_page_url": "https://www.americanremedies.in/product/voriconaz-200/",
+  "composition_on_source": null,
+  "catalogue_name": "Voriconaz 200 Injection",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Voriconaz-200-Inj.jpg",
+   "page_url": "https://www.americanremedies.in/product/voriconaz-200/",
+   "local_file": "data/enrichment/images_raw/r2/IMP-3155.jpg",
+   "visible_pack_text": null
+  }
+ }
+]

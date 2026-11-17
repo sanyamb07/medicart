@@ -1,0 +1,998 @@
+[
+ {
+  "sku": "IMP-1225",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/healpecia-1mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/healpecia-1mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1225.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/HEALPECIA-1-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/healpecia-1mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Healpecia-1; Finasteride Tablets IP 1mg; 10 x 10 Tablets; Healing Pharma logo",
+   "qa_note": "Brand, strength 1 mg and tablet form match; real carton+blister render"
+  }
+ },
+ {
+  "sku": "IMP-1226",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/healpecia-5mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/healpecia-5mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1226.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/HEALPECIA-5-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/healpecia-5mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Healpecia-5; Finasteride Tablets IP 5 mg; 10 X 10 Tablets; Healing Pharma logo",
+   "qa_note": "Brand, strength 5 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1365",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/iverheal-12mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/iverheal-12mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1365.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Ivermectin-12-third-party-manufacturer-exporter-supplier-India.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/iverheal-12mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Iverheal 12; Ivermectin Tablet; 12mg; 10 x 10 Tablets; Healing Pharma logo",
+   "qa_note": "Brand, strength 12 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1829",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/molnuvid-200/",
+  "official_product_page_url": "https://www.healingpharma.in/product/molnuvid-200/",
+  "pack_size": null,
+  "review_reasons": [
+   "Dosage form on pack is capsules; row name has no form - confirm listing says capsules"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1829.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Molnuvid-Capsules-Bottle.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/molnuvid-200/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "MOLNUVID 200 mg; Molnupiravir 200 mg Capsules; 40 Capsules (bottle + carton); Healing Pharma logo",
+   "qa_note": "Brand and strength 200 mg match; pack is capsules (row name states no form, list generic does not conflict)"
+  }
+ },
+ {
+  "sku": "IMP-2371",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/restfine-tab-12/",
+  "official_product_page_url": "https://www.healingpharma.in/product/restfine-tab-12/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Strength not visible on pack (no mg value anywhere on carton/blister)",
+   "No verified manufacturer pack image found",
+   "Pack is mouth dissolving tablets"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0013",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/acarboz-25-tab-alu2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/acarboz-25-tab-alu2010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -25"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0013.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/acarboz-25.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/acarboz-25-tab-alu2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "ACARBOZ-25; Acarbose Tablets IP; 20 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand ACARBOZ-25 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-0033",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/acloveer-400-tab-bl-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/acloveer-400-tab-bl-1010/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0033.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/ACLOVEER-400.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/acloveer-400-tab-bl-1010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Acloveer-400 Tablets; Aciclovir Tablets IP 400 mg.; 10 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand, strength 400 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-0365",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/budenol-f-400-inhaler/",
+  "official_product_page_url": "https://knollhealthcare.com/product/budenol-f-400-inhaler/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack shows '400' without unit; row says 400MG - inhaler strength is per actuation (mcg), list unit likely wrong",
+   "Pack composition: Budesonide & Formoterol Fumarate; list says BUDESONIDE"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0365.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/BUDENOL-F-400-2.png?fit=388%2C388&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/budenol-f-400-inhaler/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Budenol-F Inhaler 400; Budesonide & Formoterol Fumarate Inhaler; 120 Metered Doses; CFC-Free; Knoll logo",
+   "qa_note": "Brand Budenol-F, strength 400 and inhaler form match"
+  }
+ },
+ {
+  "sku": "IMP-0452",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/carvenol-25-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/carvenol-25-tab-alu-2010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -25"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0452.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/CARVENOL-25.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/carvenol-25-tab-alu-2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Carvenol-25 Tablets; Carvedilol Tablets IP; 20 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand Carvenol-25 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-0559",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/clarifod-500-tab-bl-mono10110/",
+  "official_product_page_url": "https://knollhealthcare.com/product/clarifod-500-tab-bl-mono10110/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -500"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0559.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/clarifod-500.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/clarifod-500-tab-bl-mono10110/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Clarifod-500; Clarithromycin Tablets IP; 10x1x10 Tablets; Knoll logo",
+   "qa_note": "Brand Clarifod-500 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-0832",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/dutanol-0-5-tabs-alu-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/dutanol-0-5-tabs-alu-1010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -0.5"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0832.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/DUTANOL-0.5.png?fit=388%2C388&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/dutanol-0-5-tabs-alu-1010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "DUTANOL-0.5 Tablets; Dutasteride Tablets; 10x10 Tablets; Knoll logo",
+   "qa_note": "Brand DUTANOL-0.5 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-0887",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/eplerenol-25-tab-10110-mono-alu/",
+  "official_product_page_url": "https://knollhealthcare.com/product/eplerenol-25-tab-10110-mono-alu/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0887.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/EPLERENOL-25.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/eplerenol-25-tab-10110-mono-alu/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Eplerenol Tablets 25 mg; Eplerenone Tablets 25mg; 10 x 1 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand, strength 25 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-0897",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/esetalo-10-tab-bl-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/esetalo-10-tab-bl-2010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -10"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0897.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/ESETALO-10.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/esetalo-10-tab-bl-2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Esetalo-10 Tablets; Escitalopram Tablets; 10 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand Esetalo-10 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1044",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/finobrate-145-tab-bl-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/finobrate-145-tab-bl-1010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -145"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1044.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/FINOBRATE-145.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/finobrate-145-tab-bl-1010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Finobrate-145; Fenofibrate IP Tablets; 10 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand Finobrate-145 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1045",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/finobrate-160-tab-bl-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/finobrate-160-tab-bl-1010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -160"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1045.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/FINOBRATE-160.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/finobrate-160-tab-bl-1010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Finobrate-160; Fenofibrate IP Tablets; 10 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand Finobrate-160 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1283",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/hydronol-25-tab-bl-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/hydronol-25-tab-bl-2010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -25"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1283.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/HYDRONOL-25.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/hydronol-25-tab-bl-2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Hydronol-25 Tablets; Hydrochlorothiazide Tablets IP; 20 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand Hydronol-25 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1316",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/indostar-75-tabs-alu-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/indostar-75-tabs-alu-1010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -75"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1316.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/INDOSTAR-75.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/indostar-75-tabs-alu-1010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "INDOSTAR-75; Indomethacin Tablets; 10x10 Tablets; Knoll logo",
+   "qa_note": "Brand INDOSTAR-75 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1449",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/ketoconol-200-tab-alu-10110/",
+  "official_product_page_url": "https://knollhealthcare.com/product/ketoconol-200-tab-alu-10110/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1449.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/ketoconol-200.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/ketoconol-200-tab-alu-10110/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Ketoconol 200 Tablets; Ketoconazole Tablets IP 200mg; 10 x 1 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand, strength 200 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1533",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/letronol-2-5-tab-bl-205/",
+  "official_product_page_url": "https://knollhealthcare.com/product/letronol-2-5-tab-bl-205/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1533.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/letronol-2.5.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/letronol-2-5-tab-bl-205/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Letronol-2.5 Tablets; Letrozole 2.5mg; 20 x 5 Tablets; Knoll logo",
+   "qa_note": "Brand, strength 2.5 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1713",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/metform-sr-1000-tab-bl-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/metform-sr-1000-tab-bl-1010/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1713.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/metformin-sr-1000.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/metform-sr-1000-tab-bl-1010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "METFORM SR-1000; Metformin Hydrochloride Sustained Release Tablets IP 1000 mg; 10 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand (SR variant per row), strength 1000 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1724",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/metni-16-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/metni-16-tab-alu-2010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -16"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1724.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/metni-16.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/metni-16-tab-alu-2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Metni-16 Tablets; Methylprednisolone Tablets IP; 20 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand Metni-16 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1725",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/metni-4-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/metni-4-tab-alu-2010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -4"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1725.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/metni-4.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/metni-4-tab-alu-2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Metni-4 Tablets; Methylprednisolone Tablets IP; 20 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand Metni-4 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1726",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/metni-8-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/metni-8-tab-alu-2010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -8"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1726.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/metni-8.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/metni-8-tab-alu-2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Metni-8 Tablets; Methylprednisolone Tablets IP; 20 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand Metni-8 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1930",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/nebivol-5-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/nebivol-5-tab-alu-2010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -5"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1930.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/NEBIVOL-5.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/nebivol-5-tab-alu-2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Nebivol-5 Tablets; Nebivolol Tablets IP; 20 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand Nebivol-5 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1987",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/nitro-g-2-6-tab-2530/",
+  "official_product_page_url": "https://knollhealthcare.com/product/nitro-g-2-6-tab-2530/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack is Controlled Release tablets; row name does not say CR (2.6 mg nitroglycerin is a CR-only strength)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1987.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/NITRO-G-2.6.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/nitro-g-2-6-tab-2530/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Nitro-G 2.6 Tablets; Nitroglycerin Controlled Release Tablets 2.6mg.; 2.6mg; 25x1x30 Tablets; 30 Tablets bottle; Knoll logo",
+   "qa_note": "Brand, strength 2.6 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-1998",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/nolcee-tab-3010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/nolcee-tab-3010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Strength not visible; pack is the 'Nolcee+' (Plus) variant, not plain Nolcee as in row name",
+   "No verified manufacturer pack image found",
+   "Pack composition: Vitamin C, Sodium Ascorbate & Zinc Citrate (chewable); list says VITAMIN C"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2047",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/olmo-40-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/olmo-40-tab-alu-2010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack composition: Olmesartan Medoxomil Tablets IP; list says OFLOXACIN - list generic should be corrected to OLMESARTAN MEDOXOMIL 40 mg",
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -40"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2047.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/OLMO-40.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/olmo-40-tab-alu-2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "OLMO-40 Tablets; Olmesartan Medoxomil Tablets IP; 20x10 Tablets; Knoll logo",
+   "qa_note": "Brand OLMO-40 and tablet form match; pack composition is OLMESARTAN MEDOXOMIL, not ofloxacin - auditor suspicion confirmed, list generic is wrong"
+  }
+ },
+ {
+  "sku": "IMP-2048",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/olmo-h-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/olmo-h-tab-alu-2010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Strength not visible (no mg values for olmesartan or HCTZ on front panel); brand, form and composition otherwise match",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2049",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/olnee-5-tab-alu-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/olnee-5-tab-alu-1010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -5",
+   "Pack is orally disintegrating tablets (ODT); row/list do not state ODT"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2049.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/ONLEE-5.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/olnee-5-tab-alu-1010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "OLNEE-5; Olanzapine Orally Disintegrating Tablets IP; 10 x 10 tablets; Knoll logo",
+   "qa_note": "Brand OLNEE-5 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-2177",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/pircetam-800-tab-bl2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/pircetam-800-tab-bl2010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -800"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2177.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/PIRCEATAM-800.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/pircetam-800-tab-bl2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Pircetam-800 Tablets; Piracetam Tablets; 20 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand Pircetam-800 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-2205",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/prazicors-600-tab-104-bl/",
+  "official_product_page_url": "https://knollhealthcare.com/product/prazicors-600-tab-104-bl/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Lead override: manufacturer name/logo not visible and drug name misspelt (Parziquantel) on pack; authenticity doubtful",
+   "No verified manufacturer pack image found",
+   "Knoll name/logo NOT visible on pack - shows a different 'C' monogram logo; manufacturer branding unconfirmed on image",
+   "Pack misspells generic as 'Parziquantel' (praziquantel)"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2267",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/progestone-100-cap-bl-mono-10110/",
+  "official_product_page_url": "https://knollhealthcare.com/product/progestone-100-cap-bl-mono-10110/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -100"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2267.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/01/progestone-100.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/progestone-100-cap-bl-mono-10110/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Progestone-100 Capsules; Natural Micronised Progesterone Soft Gelatin Capsules; 10 x 1 x 10 Soft Gelatin Capsules; Knoll logo",
+   "qa_note": "Brand Progestone-100 and capsule form match"
+  }
+ },
+ {
+  "sku": "IMP-2352",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/refaxinol-400-tab-alu-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/refaxinol-400-tab-alu-1010/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2352.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/REFAXINOL-400.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/refaxinol-400-tab-alu-1010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Refaxinol-400 Tablet; Rifaximin Tablets 400 mg; 10 X 10 Tablets; Knoll logo",
+   "qa_note": "Brand, strength 400 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-2353",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/refaxinol-550-tab-alu-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/refaxinol-550-tab-alu-1010/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2353.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/REFAXINOL-550.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/refaxinol-550-tab-alu-1010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Refaxinol-550 Tablets; Rifaximin Tablets 550 mg; 10 x 10 Tablets; Knoll logo",
+   "qa_note": "Brand, strength 550 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-2604",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/sulfunol-500-tab-bl1015/",
+  "official_product_page_url": "https://knollhealthcare.com/product/sulfunol-500-tab-bl1015/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2604.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/SULFUNOL-500.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/sulfunol-500-tab-bl1015/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Sulfunol-500 Tablets; Sulfasalazine Tablets 500 mg; 10x15 Tablets; Knoll logo",
+   "qa_note": "Brand, strength 500 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-2766",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/telkonol-80-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/telkonol-80-tab-alu-2010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): -80"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2766.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/TELKONOL-80.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/telkonol-80-tab-alu-2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Telkonol-80; Telmisartan Tablets IP; 20 x 10 Tablets (Alu-Alu Pack); Knoll logo",
+   "qa_note": "Brand Telkonol-80 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-2891",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/thyroxinol-100-tab-10120-pet/",
+  "official_product_page_url": "https://knollhealthcare.com/product/thyroxinol-100-tab-10120-pet/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2891.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/THYROXINOL-100.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/thyroxinol-100-tab-10120-pet/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Thyroxinol-100 Tablets; Thyroxine Tablets IP 100 mcg; 10 x 120 Tablets; 120 Tablets bottle; Knoll logo",
+   "qa_note": "Brand, strength 100 (mcg) and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-2892",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/thyroxinol-125-tab-10120-pet/",
+  "official_product_page_url": "https://knollhealthcare.com/product/thyroxinol-125-tab-10120-pet/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack strength is 125 mcg; row name says 125MG - list unit error, correct row to 125MCG"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2892.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/THYROXINOL-125.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/thyroxinol-125-tab-10120-pet/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Thyroxinol-125 Tablets; Thyroxine Tablets IP 125 mcg; 10 x 120 Tablets; 120 Tablets bottle; Knoll logo",
+   "qa_note": "Brand, strength 125 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-2893",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/thyroxinol-150-tab-10120-pet/",
+  "official_product_page_url": "https://knollhealthcare.com/product/thyroxinol-150-tab-10120-pet/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack strength is 150 mcg; row name says 150MG - list unit error, correct row to 150MCG"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2893.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/THYROXINOL-150.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/thyroxinol-150-tab-10120-pet/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Thyroxinol-150 Tablets; Thyroxine Tablets IP 150 mcg; 10 x 120 Tablets; 120 Tablets bottle; Knoll logo",
+   "qa_note": "Brand, strength 150 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-2894",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/thyroxinol-75-tab-10120-pet/",
+  "official_product_page_url": "https://knollhealthcare.com/product/thyroxinol-75-tab-10120-pet/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack strength is 75 mcg; row name says 75MG - list unit error, correct row to 75MCG"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2894.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/THYROXINOL-75.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/thyroxinol-75-tab-10120-pet/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Thyroxinol-75 Tablets; Thyroxine Tablets IP 75 mcg; 10 x 120 Tablets; 120 Tablets bottle; Knoll logo",
+   "qa_note": "Brand, strength 75 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-2917",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/tofanol-ointment-2-10gm/",
+  "official_product_page_url": "https://knollhealthcare.com/product/tofanol-ointment-2-10gm/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2917.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/07/Tofanol.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/tofanol-ointment-2-10gm/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "TOFANOL; Tofacitinib Ointment 2% w/w; 10gm tube; 20x10gm; Knoll logo",
+   "qa_note": "Brand, strength 2% and ointment form match; 10 gm tube matches row"
+  }
+ },
+ {
+  "sku": "IMP-3018",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/tryptinol-10-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/tryptinol-10-tab-alu-2010/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-3018.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/TRYPTINOL-10.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/tryptinol-10-tab-alu-2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "TRYPTINOL-10; Amitriptyline HCl Tablets I.P. 10 m.g.; 20 x 10 Tablets; Knoll name",
+   "qa_note": "Brand, strength 10 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-3019",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/tryptinol-25-tab-alu-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/tryptinol-25-tab-alu-2010/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-3019.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/TRYPTINOL-25.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/tryptinol-25-tab-alu-2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "TRYPTINOL-25; Amitriptyline HCl Tablets I.P. 25 mg.; 20 x 10 Tablets; Knoll name",
+   "qa_note": "Brand, strength 25 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-0162",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/artecan-injection-120-mg/",
+  "official_product_page_url": "https://www.americanremedies.in/product/artecan-injection-120-mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0162.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Artecan-120-3D.jpg",
+   "page_url": "https://www.americanremedies.in/product/artecan-injection-120-mg/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American Artecan Injection 120 mg; Artesunate Injection IP; For I.M./I.V. Use; Single Dose Vial (vial + ampoules in tray); American Remedies logo",
+   "qa_note": "Brand, strength 120 mg and injection form match"
+  }
+ },
+ {
+  "sku": "IMP-0163",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/artecan-injection-60-mg/",
+  "official_product_page_url": "https://www.americanremedies.in/product/artecan-injection-60-mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0163.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Artecan-60-3D.jpg",
+   "page_url": "https://www.americanremedies.in/product/artecan-injection-60-mg/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American Artecan Injection 60 mg; Artesunate For Injection; For I.M./I.V. Use; Single Dose Vial; Sodium Bicarbonate Injection IP ampoule; American Remedies logo",
+   "qa_note": "Brand, strength 60 mg and injection form match"
+  }
+ },
+ {
+  "sku": "IMP-0297",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/benzocan-cream/",
+  "official_product_page_url": "https://www.americanremedies.in/product/benzocan-cream/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0297.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Benzocan-Cream.jpg",
+   "page_url": "https://www.americanremedies.in/product/benzocan-cream/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American Benzocan 20g; Monobenzone Cream U.S.P. 20%; Monobenzone U.S.P. 20% w/w; tube + carton; American Remedies logo",
+   "qa_note": "Brand and cream form match; plain variant, strength 20% visible"
+  }
+ },
+ {
+  "sku": "IMP-0305",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/betastal-injection/",
+  "official_product_page_url": "https://www.americanremedies.in/product/betastal-injection/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack composition: Betamethasone Sodium Phosphate only (eq. to betamethasone 4 mg/ml); list says BETAMETHASONE (AS SODIUM PHOSPHATE) & BETAMETHASONE (AS DIPROPIONATE)",
+   "Strength only on side composition panel"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0305.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/betastal-inj-new.jpg",
+   "page_url": "https://www.americanremedies.in/product/betastal-injection/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American BETASTAL Injection; Betamethasone Sodium Phosphate Injection IP; side panel: each ml contains Betamethasone Sodium Phosphate eq. to Betamethasone 4 mg, Phenol 0.5% w/v; For IM/IV Use; 20 x 5 x 1ml Ampoules; American Remedies logo",
+   "qa_note": "Brand and injection form match; strength 4 mg/ml visible on side panel"
+  }
+ },
+ {
+  "sku": "IMP-0696",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/dapafox-10-tablets/",
+  "official_product_page_url": "https://www.americanremedies.in/product/dapafox-10-tablets/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0696.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Dapafox-10-tablet.jpg",
+   "page_url": "https://www.americanremedies.in/product/dapafox-10-tablets/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American DAPAFOX 10 Tablets; Dapagliflozin Tablet 10 mg; 10x10 Tablets; American Remedies logo",
+   "qa_note": "Brand, strength 10 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-0745",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/dexacan-4-tablets/",
+  "official_product_page_url": "https://www.americanremedies.in/product/dexacan-4-tablets/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0745.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/dexacan-4-tablet-3D.jpg",
+   "page_url": "https://www.americanremedies.in/product/dexacan-4-tablets/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American Dexacan 4 Tablets; Dexamethasone Tablets IP 4mg; 10 X 10 Tablets; American Remedies logo",
+   "qa_note": "Brand, strength 4 mg and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-0755",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/diclocan-aq-injection/",
+  "official_product_page_url": "https://www.americanremedies.in/product/diclocan-aq-injection/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-0755.png",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Diclocan-Aq-1ml-scaled.png",
+   "page_url": "https://www.americanremedies.in/product/diclocan-aq-injection/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American Diclocan AQ Injection 75 mg / 1 ml; Diclofenac Sodium Injection IP; Aqueous base painless injection; For IM/Intragluteal/IV Use; 20x5x1ml Ampoules; American Remedies logo",
+   "qa_note": "Brand (AQ), injection form match; strength 75 mg/1 ml visible"
+  }
+ },
+ {
+  "sku": "IMP-1171",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/glutacan-injection/",
+  "official_product_page_url": "https://www.americanremedies.in/product/glutacan-injection/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack composition: Glutathione for Injection 600 mg + Vitamin C Injection IP (combipack); list says GLUTATHIONE"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1171.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Glutacan-Inj.jpg",
+   "page_url": "https://www.americanremedies.in/product/glutacan-injection/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American GLUTACAN Injection 600 MG; Glutathione For Injection & Vitamin C Injection IP; Lyophilized Powder for Injection; (Combipack) Single Dose vial; For IM/IV Use Only; American Remedies logo",
+   "qa_note": "Brand and injection form match; strength 600 mg visible"
+  }
+ },
+ {
+  "sku": "IMP-1208",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/hcgcan-10000iu-inj/",
+  "official_product_page_url": "https://www.americanremedies.in/product/hcgcan-10000iu-inj/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1208.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2026/03/HCGCAN-1000.jpg",
+   "page_url": "https://www.americanremedies.in/product/hcgcan-10000iu-inj/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American HCGCAN 10000 IU Lyophilized; Chorionic Gonadotrophin Injection IP 10000 IU; Highly Purified; S.C./I.M. use only; Combi-Pack; American Remedies logo",
+   "qa_note": "Brand, strength 10000 IU and injection form match"
+  }
+ },
+ {
+  "sku": "IMP-1209",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/hcgcan-5000-iu-lyophilized-highly-purified/",
+  "official_product_page_url": "https://www.americanremedies.in/product/hcgcan-5000-iu-lyophilized-highly-purified/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1209.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/HCGCAN-5000-IU-3D.jpg",
+   "page_url": "https://www.americanremedies.in/product/hcgcan-5000-iu-lyophilized-highly-purified/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American HCGCAN 5000 IU Lyophilized; Chorionic Gonadotrophin Injection IP 5000 IU; Highly Purified; S.C./I.M. use only; Combi-Pack; American Remedies logo",
+   "qa_note": "Brand, strength 5000 IU and injection form match"
+  }
+ },
+ {
+  "sku": "IMP-1679",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/medrocan-40-injection/",
+  "official_product_page_url": "https://www.americanremedies.in/product/medrocan-40-injection/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-1679.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Medrocan-Inj.jpg",
+   "page_url": "https://www.americanremedies.in/product/medrocan-40-injection/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American Medrocan-40 Injection 40 MG; Methylprednisolone Sodium Succinate for Injection USP; For I.M./I.V. Use Only; 1 Vial of 40 mg; + 10 ml Sterile Water for Injections; American Remedies logo",
+   "qa_note": "Brand, strength 40 mg and injection form match"
+  }
+ },
+ {
+  "sku": "IMP-2145",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/pentral-400-tablets/",
+  "official_product_page_url": "https://www.americanremedies.in/product/pentral-400-tablets/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): 400"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2145.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/pentral-400.jpg",
+   "page_url": "https://www.americanremedies.in/product/pentral-400-tablets/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American PENTRAL 400 Tablets; Pentoxifylline Prolonged Release Tablets I.P.; 10 X 15 Tablets; American Remedies logo",
+   "qa_note": "Brand PENTRAL 400 and tablet form match (PR matches list generic)"
+  }
+ },
+ {
+  "sku": "IMP-2439",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/sacufox-v-100-tablets/",
+  "official_product_page_url": "https://www.americanremedies.in/product/sacufox-v-100-tablets/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): 100 (combined sacubitril/valsartan strength; per-component mg not on front)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2439.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/sacufox-v-100.jpg",
+   "page_url": "https://www.americanremedies.in/product/sacufox-v-100-tablets/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American Sacufox V 100 Tablets; Sacubitril and Valsartan Tablets; 10 x 14 Tablets; American Remedies logo",
+   "qa_note": "Brand Sacufox V 100 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-2440",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/sacufox-v-50-tablets/",
+  "official_product_page_url": "https://www.americanremedies.in/product/sacufox-v-50-tablets/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): 50 (combined sacubitril/valsartan strength; per-component mg not on front)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-2440.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/sacufox-v-50.jpg",
+   "page_url": "https://www.americanremedies.in/product/sacufox-v-50-tablets/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American Sacufox V 50 Tablets; Sacubitril and Valsartan Tablets; 10 x 14 Tablets; American Remedies logo",
+   "qa_note": "Brand Sacufox V 50 and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-3059",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/valpodium-500-cr-tablets/",
+  "official_product_page_url": "https://www.americanremedies.in/product/valpodium-500-cr-tablets/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as numeric brand suffix (no unit printed on front panel): 500"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-3059.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Valpodium-500-Tab.jpg",
+   "page_url": "https://www.americanremedies.in/product/valpodium-500-cr-tablets/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American Valpodium 500 CR; Sodium Valproate and Valproic Acid Controlled-Release Tablets; 10 x 10 Tablets; American Remedies logo",
+   "qa_note": "Brand, 500 CR variant (per row) and tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-3155",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/voriconaz-200/",
+  "official_product_page_url": "https://www.americanremedies.in/product/voriconaz-200/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r2/IMP-3155.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/Voriconaz-200-Inj.jpg",
+   "page_url": "https://www.americanremedies.in/product/voriconaz-200/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "American VORICONAZ 200 Injection 200mg; Voriconazole Injection IP 200mg; Lyophilized for IV infusion only; vial in tray; American Remedies logo",
+   "qa_note": "Brand, strength 200 mg and injection form match"
+  }
+ }
+]

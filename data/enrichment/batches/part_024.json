@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1284,
+  "name": "HYDROSAFE 200MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "3.5",
+  "sku": "IMP-1284"
+ },
+ {
+  "sr": 1285,
+  "name": "HYHIST 25MG",
+  "generic": "HYDROXYZINE HCL",
+  "price": "1.5",
+  "sku": "IMP-1285"
+ },
+ {
+  "sr": 1286,
+  "name": "HYLAZINE 25MG",
+  "generic": "HYDRALAZINE",
+  "price": "2.5",
+  "sku": "IMP-1286"
+ },
+ {
+  "sr": 1287,
+  "name": "HYLORIC-300",
+  "generic": "ALLOPURINOL",
+  "price": "3",
+  "sku": "IMP-1287"
+ },
+ {
+  "sr": 1288,
+  "name": "HYNIDASE 1500IU INJ",
+  "generic": "HYALURONIDASE",
+  "price": "170",
+  "sku": "IMP-1288"
+ },
+ {
+  "sr": 1289,
+  "name": "HYPERNIL 10MG",
+  "generic": "LISINOPRIL",
+  "price": "2",
+  "sku": "IMP-1289"
+ },
+ {
+  "sr": 1290,
+  "name": "HYPLON 10MG",
+  "generic": "ZALEPLON",
+  "price": "4.5",
+  "sku": "IMP-1290"
+ },
+ {
+  "sr": 1291,
+  "name": "HYPNITE 1MG",
+  "generic": "ESZOPICLONE",
+  "price": "3.5",
+  "sku": "IMP-1291"
+ },
+ {
+  "sr": 1292,
+  "name": "HYPNITE 2MG",
+  "generic": "ESZOPICLONE",
+  "price": "4",
+  "sku": "IMP-1292"
+ },
+ {
+  "sr": 1293,
+  "name": "HYPNITE 3MG",
+  "generic": "ESZOPICLONE",
+  "price": "5",
+  "sku": "IMP-1293"
+ },
+ {
+  "sr": 1294,
+  "name": "HYROBACT 4% CREAM",
+  "generic": "HYDROQUINONE",
+  "price": "58",
+  "sku": "IMP-1294"
+ },
+ {
+  "sr": 1295,
+  "name": "HYTRIN 2MG",
+  "generic": "TERAZOSIN",
+  "price": "33",
+  "sku": "IMP-1295"
+ },
+ {
+  "sr": 1296,
+  "name": "HZD 25MG",
+  "generic": "HYDROCHLOROTHIAZIDE",
+  "price": "1",
+  "sku": "IMP-1296"
+ },
+ {
+  "sr": 1297,
+  "name": "I PILL TAB",
+  "generic": "LEVONORGESTREL",
+  "price": "75",
+  "sku": "IMP-1297"
+ },
+ {
+  "sr": 1298,
+  "name": "I.V. SET ROMSONS",
+  "generic": "",
+  "price": "15",
+  "sku": "IMP-1298"
+ },
+ {
+  "sr": 1299,
+  "name": "IBULAB FORTE TAB",
+  "generic": "IBUPROFEN  AND PARACETAMOL",
+  "price": "1",
+  "sku": "IMP-1299"
+ },
+ {
+  "sr": 1300,
+  "name": "IBULAB TAB",
+  "generic": "IBUPROFEN  AND PARACETAMOL",
+  "price": "1.5",
+  "sku": "IMP-1300"
+ },
+ {
+  "sr": 1301,
+  "name": "IBUPROFEN 400MG",
+  "generic": "IBUPROFEN  AND PARACETAMOL",
+  "price": "1.25",
+  "sku": "IMP-1301"
+ },
+ {
+  "sr": 1302,
+  "name": "IMDUR 30MG",
+  "generic": "ISOSORBIDE MONONITRATE",
+  "price": "5.5",
+  "sku": "IMP-1302"
+ },
+ {
+  "sr": 1303,
+  "name": "IMEGLYN 500MG",
+  "generic": "IMEGLIMIN",
+  "price": "6.25",
+  "sku": "IMP-1303"
+ },
+ {
+  "sr": 1304,
+  "name": "IMEGLYN-500 TAB",
+  "generic": "IMEGLIMIN",
+  "price": "7",
+  "sku": "IMP-1304"
+ },
+ {
+  "sr": 1305,
+  "name": "IMIQUAD CREAM 5%",
+  "generic": "IMIQUIMOD",
+  "price": "360",
+  "sku": "IMP-1305"
+ },
+ {
+  "sr": 1306,
+  "name": "IMMUNOSPORIN 100MG",
+  "generic": "CYCLOSPORINE",
+  "price": "17",
+  "sku": "IMP-1306"
+ },
+ {
+  "sr": 1307,
+  "name": "IMMUNOSPORIN 50 CAP",
+  "generic": "CYCLOSPORINE",
+  "price": "11.5",
+  "sku": "IMP-1307"
+ },
+ {
+  "sr": 1308,
+  "name": "IMXIA AT SOL",
+  "generic": "MINOXIDIL TRETINOIN AND AZELAIC ACID",
+  "price": "660",
+  "sku": "IMP-1308"
+ },
+ {
+  "sr": 1309,
+  "name": "IMXIA-F 5% SOL 60ML",
+  "generic": "FINASTERIDE + MINOXIDIL",
+  "price": "660",
+  "sku": "IMP-1309"
+ },
+ {
+  "sr": 1310,
+  "name": "INDERAL 20MG",
+  "generic": "PROPRANOLOL",
+  "price": "3",
+  "sku": "IMP-1310"
+ },
+ {
+  "sr": 1311,
+  "name": "INDOMATHES 25MG",
+  "generic": "INDOMETHACIN",
+  "price": "1.5",
+  "sku": "IMP-1311"
+ },
+ {
+  "sr": 1312,
+  "name": "INDOMATHES 75MG",
+  "generic": "INDOMETHACIN",
+  "price": "3.5",
+  "sku": "IMP-1312"
+ },
+ {
+  "sr": 1313,
+  "name": "INDOMATHES SR 75MG",
+  "generic": "INDOMETHACIN",
+  "price": "3.5",
+  "sku": "IMP-1313"
+ },
+ {
+  "sr": 1314,
+  "name": "INDOMAX 25MG",
+  "generic": "INDOMETHACIN",
+  "price": "1.5",
+  "sku": "IMP-1314"
+ },
+ {
+  "sr": 1315,
+  "name": "INDONESS 75 TAB",
+  "generic": "INDOMETHACIN",
+  "price": "3",
+  "sku": "IMP-1315"
+ },
+ {
+  "sr": 1316,
+  "name": "INDOSTAR-75MG TAB",
+  "generic": "INDOMETHACIN",
+  "price": "4",
+  "sku": "IMP-1316"
+ },
+ {
+  "sr": 1317,
+  "name": "INJEK INJ 0.5ML",
+  "generic": "PHYTOMENADIONE",
+  "price": "15",
+  "sku": "IMP-1317"
+ },
+ {
+  "sr": 1318,
+  "name": "INSTGRA 50MG TAB",
+  "generic": "DOLUTEGRAVIR",
+  "price": "72",
+  "sku": "IMP-1318"
+ },
+ {
+  "sr": 1319,
+  "name": "INTAGESIC AMP PAINLESS",
+  "generic": "diclofenac",
+  "price": "7",
+  "sku": "IMP-1319"
+ },
+ {
+  "sr": 1320,
+  "name": "INTAGESIC MR TAB",
+  "generic": "CHLORZOXAZONE+ DICLOFENAC+ PARACETAMOL",
+  "price": "2",
+  "sku": "IMP-1320"
+ },
+ {
+  "sr": 1321,
+  "name": "INTALON ANTISEPTIC LIQ 100ML",
+  "generic": "",
+  "price": "25",
+  "sku": "IMP-1321"
+ },
+ {
+  "sr": 1322,
+  "name": "INTAS NS 100ML",
+  "generic": "SODIUM CHLORIDE",
+  "price": "15",
+  "sku": "IMP-1322"
+ },
+ {
+  "sr": 1323,
+  "name": "IPNEB RESPIRATOR SOLUTION 15ML",
+  "generic": "IPRATROPIUM",
+  "price": "45",
+  "sku": "IMP-1323"
+ },
+ {
+  "sr": 1324,
+  "name": "IRBEMAX 150MG",
+  "generic": "IRBESARTAN",
+  "price": "9",
+  "sku": "IMP-1324"
+ },
+ {
+  "sr": 1325,
+  "name": "IROVEL 150MG",
+  "generic": "IRBESARTAN",
+  "price": "15.5",
+  "sku": "IMP-1325"
+ },
+ {
+  "sr": 1326,
+  "name": "ISOFAIR 40MG",
+  "generic": "ISOTRETINOIN",
+  "price": "8",
+  "sku": "IMP-1326"
+ },
+ {
+  "sr": 1327,
+  "name": "ISOJUV 20MG",
+  "generic": "ISOTRETINOIN",
+  "price": "11",
+  "sku": "IMP-1327"
+ },
+ {
+  "sr": 1328,
+  "name": "ISORDIL 5MG",
+  "generic": "ISOSORBIDE DINITRATE",
+  "price": "1",
+  "sku": "IMP-1328"
+ },
+ {
+  "sr": 1329,
+  "name": "ISOTRION 20MG",
+  "generic": "ISOTRETINOIN",
+  "price": "28",
+  "sku": "IMP-1329"
+ },
+ {
+  "sr": 1330,
+  "name": "ISOTROIN 10MG",
+  "generic": "ISOTRETINOIN",
+  "price": "18",
+  "sku": "IMP-1330"
+ },
+ {
+  "sr": 1331,
+  "name": "ISOTROIN 20MG",
+  "generic": "ISOTRETINOIN",
+  "price": "28",
+  "sku": "IMP-1331"
+ },
+ {
+  "sr": 1332,
+  "name": "ISOTROIN 30MG",
+  "generic": "ISOTRETINOIN",
+  "price": "28.5",
+  "sku": "IMP-1332"
+ },
+ {
+  "sr": 1333,
+  "name": "ISOTROIN 5MG",
+  "generic": "ISOTRETINOIN",
+  "price": "11",
+  "sku": "IMP-1333"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2711,
+  "name": "TAFERO EM 25MG",
+  "generic": "TENOFOVIR & EMTRICITABINE ALAFENAMIDE",
+  "price": "28.5",
+  "sku": "IMP-2711"
+ },
+ {
+  "sr": 2712,
+  "name": "TAFKA 1MG",
+  "generic": "Tacrolimus",
+  "price": "31",
+  "sku": "IMP-2712"
+ },
+ {
+  "sr": 2713,
+  "name": "TAMILONG 20MG",
+  "generic": "TAMOXIFEN",
+  "price": "2",
+  "sku": "IMP-2713"
+ },
+ {
+  "sr": 2714,
+  "name": "TAMOBIX 20MG",
+  "generic": "TAMOXIFEN",
+  "price": "2",
+  "sku": "IMP-2714"
+ },
+ {
+  "sr": 2715,
+  "name": "TAMODEX 10MG",
+  "generic": "TAMOXIFEN",
+  "price": "1.5",
+  "sku": "IMP-2715"
+ },
+ {
+  "sr": 2716,
+  "name": "TAMODEX 20MG",
+  "generic": "TAMOXIFEN",
+  "price": "2",
+  "sku": "IMP-2716"
+ },
+ {
+  "sr": 2717,
+  "name": "TAMOVAC 10MG",
+  "generic": "TAMOXIFEN",
+  "price": "2",
+  "sku": "IMP-2717"
+ },
+ {
+  "sr": 2718,
+  "name": "TAMOVAC 20MG",
+  "generic": "TAMOXIFEN",
+  "price": "2.5",
+  "sku": "IMP-2718"
+ },
+ {
+  "sr": 2719,
+  "name": "TAMOXICAN 10MG",
+  "generic": "TAMOXIFEN",
+  "price": "1.5",
+  "sku": "IMP-2719"
+ },
+ {
+  "sr": 2720,
+  "name": "TAMOXICAN 20MG",
+  "generic": "TAMOXIFEN",
+  "price": "2.5",
+  "sku": "IMP-2720"
+ },
+ {
+  "sr": 2721,
+  "name": "TAMOXOL 10MG",
+  "generic": "TAMOXIFEN",
+  "price": "2",
+  "sku": "IMP-2721"
+ },
+ {
+  "sr": 2722,
+  "name": "TAMOXOL 20MG",
+  "generic": "TAMOXIFEN",
+  "price": "2.5",
+  "sku": "IMP-2722"
+ },
+ {
+  "sr": 2723,
+  "name": "TAMSOOTH 0.4MG",
+  "generic": "TAMSULOSIN",
+  "price": "1.5",
+  "sku": "IMP-2723"
+ },
+ {
+  "sr": 2724,
+  "name": "TAMSUFINE 0.4MG",
+  "generic": "TAMSULOSIN",
+  "price": "1.5",
+  "sku": "IMP-2724"
+ },
+ {
+  "sr": 2725,
+  "name": "TAMSUHEAL 0.4MG",
+  "generic": "TAMSULOSIN",
+  "price": "2",
+  "sku": "IMP-2725"
+ },
+ {
+  "sr": 2726,
+  "name": "TAMSUHEAL D TAB",
+  "generic": "DUTASTERIDE+TAMSULOSIN",
+  "price": "2",
+  "sku": "IMP-2726"
+ },
+ {
+  "sr": 2727,
+  "name": "TAP 100MG",
+  "generic": "TAPENTADOL",
+  "price": "9",
+  "sku": "IMP-2727"
+ },
+ {
+  "sr": 2728,
+  "name": "TAP 200MG",
+  "generic": "TAPENTADOL",
+  "price": "20",
+  "sku": "IMP-2728"
+ },
+ {
+  "sr": 2729,
+  "name": "TAP ASH 100MG",
+  "generic": "TAPENTADOL",
+  "price": "9",
+  "sku": "IMP-2729"
+ },
+ {
+  "sr": 2730,
+  "name": "TAP ASH 200MG",
+  "generic": "TAPENTADOL",
+  "price": "12",
+  "sku": "IMP-2730"
+ },
+ {
+  "sr": 2731,
+  "name": "TAPADAY 100MG",
+  "generic": "TAPENTADOL",
+  "price": "11",
+  "sku": "IMP-2731"
+ },
+ {
+  "sr": 2732,
+  "name": "TAPADAY 200MG",
+  "generic": "TAPENTADOL",
+  "price": "22",
+  "sku": "IMP-2732"
+ },
+ {
+  "sr": 2733,
+  "name": "TAPADAY GOLD 250MG",
+  "generic": "TAPENTADOL",
+  "price": "26.5",
+  "sku": "IMP-2733"
+ },
+ {
+  "sr": 2734,
+  "name": "TAPADAY O 100MG",
+  "generic": "TAPENTADOL",
+  "price": "13",
+  "sku": "IMP-2734"
+ },
+ {
+  "sr": 2735,
+  "name": "TAPAL 100MG",
+  "generic": "TAPENTADOL",
+  "price": "20.5",
+  "sku": "IMP-2735"
+ },
+ {
+  "sr": 2736,
+  "name": "TAPAL ER 100MG",
+  "generic": "TAPENTADOL",
+  "price": "20",
+  "sku": "IMP-2736"
+ },
+ {
+  "sr": 2737,
+  "name": "TAPANDA 100MG",
+  "generic": "TAPENTADOL",
+  "price": "7",
+  "sku": "IMP-2737"
+ },
+ {
+  "sr": 2738,
+  "name": "TAPANDA 200MG",
+  "generic": "TAPENTADOL",
+  "price": "16",
+  "sku": "IMP-2738"
+ },
+ {
+  "sr": 2739,
+  "name": "TAPANDA MAX 250MG",
+  "generic": "TAPENTADOL",
+  "price": "22.5",
+  "sku": "IMP-2739"
+ },
+ {
+  "sr": 2740,
+  "name": "TAPDOL 100MG",
+  "generic": "TAPENTADOL",
+  "price": "9",
+  "sku": "IMP-2740"
+ },
+ {
+  "sr": 2741,
+  "name": "TAPDOL 200MG",
+  "generic": "TAPENTADOL",
+  "price": "20",
+  "sku": "IMP-2741"
+ },
+ {
+  "sr": 2742,
+  "name": "TAPDOL 50MG",
+  "generic": "TAPENTADOL",
+  "price": "5.5",
+  "sku": "IMP-2742"
+ },
+ {
+  "sr": 2743,
+  "name": "TAPEASE NASAL SPRAY",
+  "generic": "TAPENTADOL",
+  "price": "550",
+  "sku": "IMP-2743"
+ },
+ {
+  "sr": 2744,
+  "name": "TAPEASE NS 225MG",
+  "generic": "TAPENTADOL",
+  "price": "515",
+  "sku": "IMP-2744"
+ },
+ {
+  "sr": 2745,
+  "name": "TAPENDOL 200MG",
+  "generic": "TAPENTADOL",
+  "price": "22.5",
+  "sku": "IMP-2745"
+ },
+ {
+  "sr": 2746,
+  "name": "TAPFINE 100MG",
+  "generic": "TAPENTADOL",
+  "price": "9",
+  "sku": "IMP-2746"
+ },
+ {
+  "sr": 2747,
+  "name": "TAPFREE ER 100MG",
+  "generic": "TAPENTADOL",
+  "price": "25",
+  "sku": "IMP-2747"
+ },
+ {
+  "sr": 2748,
+  "name": "TAPFREE ER 50MG",
+  "generic": "TAPENTADOL",
+  "price": "14",
+  "sku": "IMP-2748"
+ },
+ {
+  "sr": 2749,
+  "name": "TAPNITE 100MG",
+  "generic": "TAPENTADOL",
+  "price": "7.5",
+  "sku": "IMP-2749"
+ },
+ {
+  "sr": 2750,
+  "name": "TAPRISE NAS SPRAY",
+  "generic": "TAPENTADOL",
+  "price": "545",
+  "sku": "IMP-2750"
+ },
+ {
+  "sr": 2751,
+  "name": "TAPSMART 100MG",
+  "generic": "TAPENTADOL",
+  "price": "9",
+  "sku": "IMP-2751"
+ },
+ {
+  "sr": 2752,
+  "name": "TAPSMART 200MG",
+  "generic": "TAPENTADOL",
+  "price": "21",
+  "sku": "IMP-2752"
+ },
+ {
+  "sr": 2753,
+  "name": "TAPWHITE DIAMOND 250MG",
+  "generic": "TAPENTADOL",
+  "price": "23",
+  "sku": "IMP-2753"
+ },
+ {
+  "sr": 2754,
+  "name": "TASTYLIA 10MG",
+  "generic": "TADALAFIL",
+  "price": "1",
+  "sku": "IMP-2754"
+ },
+ {
+  "sr": 2755,
+  "name": "TASTYLIA 10MG ODS",
+  "generic": "",
+  "price": "120",
+  "sku": "IMP-2755"
+ },
+ {
+  "sr": 2756,
+  "name": "TASTYLIA 20MG",
+  "generic": "TADALAFIL",
+  "price": "1",
+  "sku": "IMP-2756"
+ },
+ {
+  "sr": 2757,
+  "name": "TASTYLIA 20MG ODS",
+  "generic": "TADALAFIL",
+  "price": "115",
+  "sku": "IMP-2757"
+ },
+ {
+  "sr": 2758,
+  "name": "TASTYLIA 5MG",
+  "generic": "TADALAFIL",
+  "price": "1",
+  "sku": "IMP-2758"
+ },
+ {
+  "sr": 2759,
+  "name": "TAZOPOL 4.5GM INJ",
+  "generic": "PIPERACILLIN 4GM + TAZOBACTUM",
+  "price": "150",
+  "sku": "IMP-2759"
+ },
+ {
+  "sr": 2760,
+  "name": "TAZRET 0.5% GEL",
+  "generic": "TAZAROTENE",
+  "price": "325",
+  "sku": "IMP-2760"
+ }
+]

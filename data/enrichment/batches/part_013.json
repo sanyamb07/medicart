@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 727,
+  "name": "DECARIX INJ 1ML",
+  "generic": "NANDROLONE",
+  "price": "110",
+  "sku": "IMP-0727"
+ },
+ {
+  "sr": 728,
+  "name": "DECMAX 4MG",
+  "generic": "NANDROLONE",
+  "price": "4.5",
+  "sku": "IMP-0728"
+ },
+ {
+  "sr": 729,
+  "name": "DECMAX 8MG",
+  "generic": "DEXAMETHASONE",
+  "price": "6",
+  "sku": "IMP-0729"
+ },
+ {
+  "sr": 730,
+  "name": "DEE X1 CAP",
+  "generic": "DOXYCYCLINE HCL",
+  "price": "2",
+  "sku": "IMP-0730"
+ },
+ {
+  "sr": 731,
+  "name": "DEFLASIGN 6MG",
+  "generic": "DEFLAZACORT",
+  "price": "2.75",
+  "sku": "IMP-0731"
+ },
+ {
+  "sr": 732,
+  "name": "DEMELAN CREAM 20GM",
+  "generic": "KOJIC ACID +  ARBUTAMINE+ GLYCOLIC ACID",
+  "price": "400",
+  "sku": "IMP-0732"
+ },
+ {
+  "sr": 733,
+  "name": "DEPIWHITE CREAM",
+  "generic": "HYDROQUINONE",
+  "price": "450",
+  "sku": "IMP-0733"
+ },
+ {
+  "sr": 734,
+  "name": "DEPIWHITE CREAM 15ML",
+  "generic": "HYDROQUINONE",
+  "price": "500",
+  "sku": "IMP-0734"
+ },
+ {
+  "sr": 735,
+  "name": "DEPNOCEPT 100MG",
+  "generic": "FLUVOXAMINE",
+  "price": "7.5",
+  "sku": "IMP-0735"
+ },
+ {
+  "sr": 736,
+  "name": "DEPO PROVERA 150MG INJ 1ML",
+  "generic": "MEDROXYPROGESTERONE",
+  "price": "260",
+  "sku": "IMP-0736"
+ },
+ {
+  "sr": 737,
+  "name": "DERIPHYLLIN R 300MG",
+  "generic": "ETOFYLLINE + THEOPHYLLINE",
+  "price": "2",
+  "sku": "IMP-0737"
+ },
+ {
+  "sr": 738,
+  "name": "DERIPHYLLIN TAB",
+  "generic": "ETOFYLLINE + THEOPHYLLINE",
+  "price": "2",
+  "sku": "IMP-0738"
+ },
+ {
+  "sr": 739,
+  "name": "DERMAFIL 250MG",
+  "generic": "TERBINAFINE",
+  "price": "6",
+  "sku": "IMP-0739"
+ },
+ {
+  "sr": 740,
+  "name": "DERMOZOLE 500MG",
+  "generic": "GRISEOFULVIN",
+  "price": "7",
+  "sku": "IMP-0740"
+ },
+ {
+  "sr": 741,
+  "name": "DEROBIN OINT 30GM",
+  "generic": "COAL TAR + DITHRANOL-+ SALICYLIC ACID",
+  "price": "110",
+  "sku": "IMP-0741"
+ },
+ {
+  "sr": 742,
+  "name": "DESLOTAG 5MG",
+  "generic": "DESLORATADINE",
+  "price": "2",
+  "sku": "IMP-0742"
+ },
+ {
+  "sr": 743,
+  "name": "DESOADD CREAM 15GM",
+  "generic": "DESONIDE",
+  "price": "130",
+  "sku": "IMP-0743"
+ },
+ {
+  "sr": 744,
+  "name": "DEVIRY TAB",
+  "generic": "MEDROXYPROGESTERONE",
+  "price": "6",
+  "sku": "IMP-0744"
+ },
+ {
+  "sr": 745,
+  "name": "DEXACAN 4MG",
+  "generic": "DEXAMETHASONE",
+  "price": "3",
+  "sku": "IMP-0745"
+ },
+ {
+  "sr": 746,
+  "name": "DEXALAB INJ 2ML",
+  "generic": "DEXAMETHASONE",
+  "price": "8",
+  "sku": "IMP-0746"
+ },
+ {
+  "sr": 747,
+  "name": "DEXALAB INJ 30ML",
+  "generic": "DEXAMETHASONE",
+  "price": "30",
+  "sku": "IMP-0747"
+ },
+ {
+  "sr": 748,
+  "name": "DEXAPIC TAB",
+  "generic": "DEXAMETHASONE",
+  "price": "0.5",
+  "sku": "IMP-0748"
+ },
+ {
+  "sr": 749,
+  "name": "DEXLYSONE 0.5 TAB",
+  "generic": "DEXAMETHASONE",
+  "price": "0.5",
+  "sku": "IMP-0749"
+ },
+ {
+  "sr": 750,
+  "name": "DEXONA TAB",
+  "generic": "DEXAMETHASONE",
+  "price": "0.5",
+  "sku": "IMP-0750"
+ },
+ {
+  "sr": 751,
+  "name": "DHRUBH 150MG",
+  "generic": "FENBENDAZOLE",
+  "price": "2",
+  "sku": "IMP-0751"
+ },
+ {
+  "sr": 753,
+  "name": "DICHRYSTICIN DS INJ VET",
+  "generic": "STREPTO PENICILLIN",
+  "price": "110",
+  "sku": "IMP-0753"
+ },
+ {
+  "sr": 754,
+  "name": "DICLO PLUS TAB",
+  "generic": "DICLOFENAC SODIUM",
+  "price": "1",
+  "sku": "IMP-0754"
+ },
+ {
+  "sr": 755,
+  "name": "DICLOCAN AQ INJ",
+  "generic": "DICLOFENAC SODIUM",
+  "price": "5",
+  "sku": "IMP-0755"
+ },
+ {
+  "sr": 756,
+  "name": "DICLOCAN AQ INJ 1ML",
+  "generic": "DICLOFENAC SODIUM",
+  "price": "8",
+  "sku": "IMP-0756"
+ },
+ {
+  "sr": 757,
+  "name": "DICLOHEAL SUPER TAB",
+  "generic": "DICLOFENAC SODIUM + PARACETAMOL",
+  "price": "1",
+  "sku": "IMP-0757"
+ },
+ {
+  "sr": 758,
+  "name": "DICLOLAB GEL 30GM",
+  "generic": "DICLOFENAC GEL",
+  "price": "16",
+  "sku": "IMP-0758"
+ },
+ {
+  "sr": 759,
+  "name": "DICLOLAB INJ 1ML",
+  "generic": "DICLOFENAC GEL",
+  "price": "4",
+  "sku": "IMP-0759"
+ },
+ {
+  "sr": 760,
+  "name": "DICLOLAB PLUS TAB",
+  "generic": "DICLOFENAC GEL",
+  "price": "1",
+  "sku": "IMP-0760"
+ },
+ {
+  "sr": 761,
+  "name": "DICRYSTICIN DS INJ",
+  "generic": "PENICILLIN SUSPENSION",
+  "price": "105",
+  "sku": "IMP-0761"
+ },
+ {
+  "sr": 762,
+  "name": "DIFLUCOR EYE DROP",
+  "generic": "DIFLUPREDNATE",
+  "price": "165",
+  "sku": "IMP-0762"
+ },
+ {
+  "sr": 763,
+  "name": "DILLIGAN 25MG",
+  "generic": "Meclizine HCL",
+  "price": "14",
+  "sku": "IMP-0763"
+ },
+ {
+  "sr": 764,
+  "name": "DILVAS 10MG",
+  "generic": "ENALAPRI",
+  "price": "1.5",
+  "sku": "IMP-0764"
+ },
+ {
+  "sr": 765,
+  "name": "DILVAS 2.5MG",
+  "generic": "ENALAPRI",
+  "price": "1",
+  "sku": "IMP-0765"
+ },
+ {
+  "sr": 766,
+  "name": "DILVAS 5MG",
+  "generic": "ENALAPRI",
+  "price": "1",
+  "sku": "IMP-0766"
+ },
+ {
+  "sr": 767,
+  "name": "DILZEM CD 120MG",
+  "generic": "DILTIAZEM HCL",
+  "price": "22.5",
+  "sku": "IMP-0767"
+ },
+ {
+  "sr": 768,
+  "name": "DINOGEST TAB",
+  "generic": "DIENOESTROL",
+  "price": "51",
+  "sku": "IMP-0768"
+ },
+ {
+  "sr": 769,
+  "name": "DINOST GEL 3GM",
+  "generic": "DINOPROSTONE",
+  "price": "185",
+  "sku": "IMP-0769"
+ },
+ {
+  "sr": 770,
+  "name": "DIOVAAL 80MG",
+  "generic": "VALSARTAN",
+  "price": "5.25",
+  "sku": "IMP-0770"
+ },
+ {
+  "sr": 771,
+  "name": "DIOVAAL H TAB",
+  "generic": "VALSARTAN",
+  "price": "5.5",
+  "sku": "IMP-0771"
+ },
+ {
+  "sr": 772,
+  "name": "DISPO SYRING 5ML",
+  "generic": "SYRINGE",
+  "price": "7",
+  "sku": "IMP-0772"
+ },
+ {
+  "sr": 773,
+  "name": "DISPOVAN SYRINGE 1ML",
+  "generic": "SYRINGE",
+  "price": "6",
+  "sku": "IMP-0773"
+ },
+ {
+  "sr": 774,
+  "name": "DISPOVAN SYRINGE 2.5ML",
+  "generic": "SYRINGE",
+  "price": "3",
+  "sku": "IMP-0774"
+ },
+ {
+  "sr": 775,
+  "name": "DISPOVAN SYRINGE 2ML",
+  "generic": "SYRINGE",
+  "price": "3",
+  "sku": "IMP-0775"
+ },
+ {
+  "sr": 776,
+  "name": "DISPOVAN SYRINGE 5ML",
+  "generic": "SYRINGE",
+  "price": "26",
+  "sku": "IMP-0776"
+ },
+ {
+  "sr": 777,
+  "name": "DISRAM 250MG",
+  "generic": "DISULFIRAM",
+  "price": "2",
+  "sku": "IMP-0777"
+ }
+]

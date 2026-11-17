@@ -1,0 +1,1815 @@
+[
+ {
+  "sr": 260,
+  "sku": "IMP-0260",
+  "name": "AZTOR 20MG",
+  "manufacturer": "Sun Pharmaceutical Industries Ltd.",
+  "manufacturer_source_url": "https://sunpharma.com/india-products/",
+  "official_product_page_url": "https://sunpharma.com/india-products/",
+  "composition_on_source": "Sun Pharma India product list row: 'AZTOR 20 MG TABLET | 15 | ATORVASTATIN 20 MG TABLET | AZTOR | CARDIAC'",
+  "strength": "20 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "15 tablets (strip)",
+  "composition_matches_list": true,
+  "composition_note": "Atorvastatin 20 mg matches list. Official price list also shows 'AZTOR 20 TABS (15'S) STRIP 15s'. Not to be confused with Aztor EZ / Aztor ASP / Daztor.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Sun Pharma product list is a text table; no official pack image found."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official pack image",
+   "No official description"
+  ],
+  "sources_consulted": [
+   "https://sunpharma.com/india-products/",
+   "https://sunpharma.com/product-price-list/"
+  ]
+ },
+ {
+  "sr": 261,
+  "sku": "IMP-0261",
+  "name": "B COLEX CAP",
+  "manufacturer": "Torque Pharmaceuticals Pvt. Ltd. (Torque Group) (marketer)",
+  "manufacturer_source_url": "https://torquepharma.com/b-colex-capsules",
+  "official_product_page_url": "https://torquepharma.com/b-colex-capsules",
+  "composition_on_source": "Each capsule: Vitamin B1 IP 10 mg, Vitamin B2 IP 10 mg, Vitamin B6 IP 3 mg, Nicotinamide IP 50 mg, Folic Acid IP 1000 mcg, Calcium Pantothenate IP 20 mg, L-Lysine Mono Hydrochloride USP 150 mg, Vitamin B12 IP 5 mcg",
+  "strength": null,
+  "dosage_form": "CAPSULE",
+  "pack_size": "10 x 10 capsules (carton); site presentation 48x10x10",
+  "composition_matches_list": true,
+  "composition_note": "List says MULTIVITAMIN; official composition is B-complex + folic acid + L-lysine (multivitamin) - consistent but list generic is vague.",
+  "official_description": "B-Colex Capsules combine B-vitamins, folic acid, calcium pantothenate and L-Lysine as a multivitamin supplement.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://backend.torquepharma.com/storage/products/featured/NN5crT7sqvUvSjq6n9drcYpHKTsvT679CrZVyRT5.png",
+   "page_url": "https://torquepharma.com/b-colex-capsules",
+   "local_file": "data/enrichment/images_raw/IMP-0261.png",
+   "visible_pack_text": "Potent - Multivitamin Capsules; B-COLEX TM; 10 x 10 Capsules; TORQUE (carton and strip)",
+   "checks": {
+    "brand": true,
+    "strength": null,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1200x1200",
+   "notes": "Official Torque render, carton + strip. Multi-ingredient product, no single strength on front."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Multi-ingredient: no single strength to check",
+   "Image PENDING human approval"
+  ],
+  "sources_consulted": [
+   "https://torquepharma.com/b-colex-capsules"
+  ]
+ },
+ {
+  "sr": 262,
+  "sku": "IMP-0262",
+  "name": "BACLOF OD 20MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 263,
+  "sku": "IMP-0263",
+  "name": "BACLOHEAL 10MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/bacloheal-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/bacloheal-10/",
+  "composition_on_source": "Pack: 'Baclofen Tablets IP 10 mg'",
+  "strength": "10 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 x 10 tablets (carton)",
+  "composition_matches_list": true,
+  "composition_note": "Baclofen 10 mg per pack; matches list generic BACLOFEN. Page has SKU HP0067 only, no text.",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Bacloheal-10.jpg",
+   "page_url": "https://www.healingpharma.in/product/bacloheal-10/",
+   "local_file": "data/enrichment/images_raw/IMP-0263.jpg",
+   "visible_pack_text": "Rx Baclofen Tablets IP 10 mg; Bacloheal 10; Healing Pharma; 10 x 10 Tablets",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Official Healing Pharma product render (carton + blister/tube); text clearly legible."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Composition taken from official pack image only; product page has no composition text",
+   "Image PENDING human approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/bacloheal-10/",
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=bacloheal-10"
+  ]
+ },
+ {
+  "sr": 264,
+  "sku": "IMP-0264",
+  "name": "BACLOHEAL 25MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/bacloheal-25/",
+  "official_product_page_url": "https://www.healingpharma.in/product/bacloheal-25/",
+  "composition_on_source": "Pack: 'Baclofen Tablets IP 25 mg'",
+  "strength": "25 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 x 10 tablets (carton)",
+  "composition_matches_list": true,
+  "composition_note": "Baclofen 25 mg per pack; matches list generic BACLOFEN. Note: 25 mg is an uncommon baclofen strength but it is what the official pack shows.",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Bacloheal-25.jpg",
+   "page_url": "https://www.healingpharma.in/product/bacloheal-25/",
+   "local_file": "data/enrichment/images_raw/IMP-0264.jpg",
+   "visible_pack_text": "Rx Baclofen Tablets IP 25 mg; Bacloheal 25; Healing Pharma; 10 X 10 Tablets",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Official Healing Pharma product render (carton + blister/tube); text clearly legible."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Composition taken from official pack image only; product page has no composition text",
+   "Image PENDING human approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/bacloheal-25/",
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=bacloheal-25"
+  ]
+ },
+ {
+  "sr": 265,
+  "sku": "IMP-0265",
+  "name": "BACLOSIGN 10MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 266,
+  "sku": "IMP-0266",
+  "name": "BACLOSIGN 25MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 267,
+  "sku": "IMP-0267",
+  "name": "BACSTOL 200MG",
+  "manufacturer": "Ipca Laboratories Ltd.",
+  "manufacturer_source_url": "https://ipca.com/pharmaceutical-formulations-manufacturers-india/",
+  "official_product_page_url": "https://ipca.com/pharmaceutical-formulations-manufacturers-india/",
+  "composition_on_source": "Ipca India branded formulations list: 'BACSTOL | TRIMETHOPRIM' (Anti-infectives and Urology sections)",
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Generic trimethoprim matches; official list gives no strength/form/pack. 200 mg not confirmed on official source.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Ipca list is text only; no official pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Strength/form not confirmed on official source"
+  ],
+  "sources_consulted": [
+   "https://ipca.com/?s=bacstol",
+   "https://ipca.com/pharmaceutical-formulations-manufacturers-india/"
+  ]
+ },
+ {
+  "sr": 268,
+  "sku": "IMP-0268",
+  "name": "BACSTOL TAB",
+  "manufacturer": "Ipca Laboratories Ltd.",
+  "manufacturer_source_url": "https://ipca.com/pharmaceutical-formulations-manufacturers-india/",
+  "official_product_page_url": "https://ipca.com/pharmaceutical-formulations-manufacturers-india/",
+  "composition_on_source": "Ipca India branded formulations list: 'BACSTOL | TRIMETHOPRIM' (Anti-infectives and Urology sections)",
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Generic trimethoprim matches; official list gives no strength/form/pack. List row has no strength - may duplicate SR 267 (Bacstol 200 mg).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Ipca list is text only; no official pack image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Strength/form not confirmed on official source",
+   "Possible duplicate of SR 267 (no strength in name)"
+  ],
+  "sources_consulted": [
+   "https://ipca.com/?s=bacstol",
+   "https://ipca.com/pharmaceutical-formulations-manufacturers-india/"
+  ]
+ },
+ {
+  "sr": 269,
+  "sku": "IMP-0269",
+  "name": "BACTRIM DS TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 270,
+  "sku": "IMP-0270",
+  "name": "BANDY 400MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 271,
+  "sku": "IMP-0271",
+  "name": "BANDY PLUS SUSPENSION",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 272,
+  "sku": "IMP-0272",
+  "name": "BANDY PLUS TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 273,
+  "sku": "IMP-0273",
+  "name": "BANGFORCE 250MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 274,
+  "sku": "IMP-0274",
+  "name": "BD INSULIN SYRINGE 31G.6M",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 275,
+  "sku": "IMP-0275",
+  "name": "BD SYRINGE G 31 1ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 276,
+  "sku": "IMP-0276",
+  "name": "BD SYRINGE INS U-4",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 277,
+  "sku": "IMP-0277",
+  "name": "BD SYRINGE INSU 100 1ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 278,
+  "sku": "IMP-0278",
+  "name": "BEATON TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 279,
+  "sku": "IMP-0279",
+  "name": "BECLATE INHALER 200MD",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 280,
+  "sku": "IMP-0280",
+  "name": "BECOSULES CAP",
+  "manufacturer": "Pfizer Ltd., India (licensed user; trademark proprietor Pfizer Products Inc., USA)",
+  "manufacturer_source_url": "https://labeling.pfizer.com/ShowLabeling.aspx?id=14807",
+  "official_product_page_url": "https://labeling.pfizer.com/ShowLabeling.aspx?id=14807",
+  "composition_on_source": "Each hard gelatin capsule: Thiamine Mononitrate IP 10 mg, Riboflavin IP 10 mg, Pyridoxine HCl IP 3 mg, Vitamin B12 IP 15 mcg, Niacinamide IP 100 mg, Calcium Pantothenate IP 50 mg, Folic Acid IP 1.5 mg, Biotin IP 100 mcg, Ascorbic Acid IP 150 mg",
+  "strength": null,
+  "dosage_form": "CAPSULE",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "List generic 'B-complex boost, Vitamin C' is informal but consistent with official 'B-Complex Forte with Vitamin C Capsules'. Label code LPDBCC082024. Other Becosules variants (Z, Women, Plus) are different products.",
+  "official_description": "Becosules capsules (B-Complex Forte with Vitamin C) are indicated in patients with deficiencies of, or increased requirement for, Vitamin B-complex and Vitamin C.",
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official labeling is a PDF without pack image; no official image found."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official pack image",
+   "List generic text informal - suggest 'B-Complex Forte with Vitamin C'"
+  ],
+  "sources_consulted": [
+   "https://labeling.pfizer.com/ShowLabeling.aspx?id=14807",
+   "https://www.pfizerltd.co.in/our-products/product-search"
+  ]
+ },
+ {
+  "sr": 281,
+  "sku": "IMP-0281",
+  "name": "BECOZYMC CFORTE TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 282,
+  "sku": "IMP-0282",
+  "name": "BELOC TR 80MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 283,
+  "sku": "IMP-0283",
+  "name": "BEMPETOL EZ TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 284,
+  "sku": "IMP-0284",
+  "name": "BEMPIDOC EZ TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 285,
+  "sku": "IMP-0285",
+  "name": "BEMPOTOL 180MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 286,
+  "sku": "IMP-0286",
+  "name": "BEMPOTOL EZ TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 287,
+  "sku": "IMP-0287",
+  "name": "BEMPOTOL TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 288,
+  "sku": "IMP-0288",
+  "name": "BENCID TAB",
+  "manufacturer": "Geno Pharmaceuticals Pvt. Ltd.",
+  "manufacturer_source_url": "https://genopharma.com/wp-content/uploads/2025/09/Circular_New_MRP.pdf",
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": "TABLET",
+  "pack_size": "10 tablets (Geno official MRP circular: 'BENCID TABLETS | Geno Shourya | 10's')",
+  "composition_matches_list": null,
+  "composition_note": "Geno's official MRP circular (scanned PDF, page 1) lists BENCID TABLETS, 10's, Geno Shourya division. No composition/strength on official source; retailers say probenecid 500 mg (not used).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official pack image found on genopharma.com."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Composition/strength not confirmed on an official source"
+  ],
+  "sources_consulted": [
+   "https://genopharma.com/",
+   "https://genopharma.com/2025/09/19/circular-pharma-products-updated-mrp-list/",
+   "https://genopharma.com/wp-content/uploads/2025/09/Circular_New_MRP.pdf"
+  ]
+ },
+ {
+  "sr": 289,
+  "sku": "IMP-0289",
+  "name": "BENOQUIN CREAM 100GM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 290,
+  "sku": "IMP-0290",
+  "name": "BENOQUIN OINTMENT 30GM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 291,
+  "sku": "IMP-0291",
+  "name": "BENZ PEARLS CAP",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 292,
+  "sku": "IMP-0292",
+  "name": "BENZAC AC 2.5 GEL",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 293,
+  "sku": "IMP-0293",
+  "name": "BENZAC AC 2.5 GEL 30GM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 294,
+  "sku": "IMP-0294",
+  "name": "BENZAC AC 5% GEL 20GM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 295,
+  "sku": "IMP-0295",
+  "name": "BENZO 2.5% GEL 30GM",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/benzo-2-5-gel/",
+  "official_product_page_url": "https://www.healingpharma.in/product/benzo-2-5-gel/",
+  "composition_on_source": "Pack: 'Benzoyl Peroxide 2.5%'; page text: 'Benzyl Peroxide 2.5%' (sic)",
+  "strength": "2.5% w/w",
+  "dosage_form": "GEL",
+  "pack_size": "30 g tube",
+  "composition_matches_list": true,
+  "composition_note": "Benzoyl peroxide 2.5% matches list. Page text misspells as 'Benzyl Peroxide'; pack reads Benzoyl Peroxide. 30 g matches list name.",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/08/Benzo-2.5.jpg",
+   "page_url": "https://www.healingpharma.in/product/benzo-2-5-gel/",
+   "local_file": "data/enrichment/images_raw/IMP-0295.jpg",
+   "visible_pack_text": "Benzoyl Peroxide 2.5%; BENZO 2.5% GEL; Acne Treatment Gel; 30g; Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Official Healing Pharma product render (carton + blister/tube); text clearly legible."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Composition taken from official pack image only; product page has no composition text",
+   "Image PENDING human approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/benzo-2-5-gel/",
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=benzo-2-5-gel"
+  ]
+ },
+ {
+  "sr": 296,
+  "sku": "IMP-0296",
+  "name": "BENZO 5% GEL 30GM",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/benzo-benzoyl-peroxide-5-gel-acne-spots-treatment-gel-manufacturers-india/",
+  "official_product_page_url": "https://www.healingpharma.in/product/benzo-benzoyl-peroxide-5-gel-acne-spots-treatment-gel-manufacturers-india/",
+  "composition_on_source": "Page: 'Active ingredients: Benzoyl peroxide Strength: 5%'; pack: 'Benzoyl Peroxide 5%'",
+  "strength": "5%",
+  "dosage_form": "GEL",
+  "pack_size": "30 g tube",
+  "composition_matches_list": true,
+  "composition_note": "Benzoyl peroxide 5% matches list; 30 g matches list name.",
+  "official_description": "Benzo 5% Gel is a topical anti-bacterial gel containing benzoyl peroxide 5%, used for acne under a doctor's advice.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/08/Benzo-5-GEL.jpg",
+   "page_url": "https://www.healingpharma.in/product/benzo-benzoyl-peroxide-5-gel-acne-spots-treatment-gel-manufacturers-india/",
+   "local_file": "data/enrichment/images_raw/IMP-0296.jpg",
+   "visible_pack_text": "Benzoyl Peroxide 5%; BENZO 5% GEL; Acne Treatment Gel; 30g; Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1600x1600",
+   "notes": "Official Healing Pharma product render (carton + blister/tube); text clearly legible."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Composition taken from official pack image only; product page has no composition text",
+   "Image PENDING human approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/benzo-benzoyl-peroxide-5-gel-acne-spots-treatment-gel-manufacturers-india/",
+   "https://www.healingpharma.in/wp-json/wp/v2/product?search=benzo-benzoyl-peroxide-5-gel-acne-spots-treatment-gel-manufacturers-india"
+  ]
+ },
+ {
+  "sr": 297,
+  "sku": "IMP-0297",
+  "name": "BENZOCAN CREAM",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 298,
+  "sku": "IMP-0298",
+  "name": "BETABLOCK XL 100MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/betablock-xl-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/betablock-xl-100mg/",
+  "composition_on_source": "Pack: 'Metoprolol Succinate Extended Release Tablets IP 100 mg'",
+  "strength": "100 mg",
+  "dosage_form": "TABLET (extended release)",
+  "pack_size": "3 x 10 tablets (carton)",
+  "composition_matches_list": true,
+  "composition_note": "Metoprolol succinate ER matches list. Page says it is used in angina, heart failure and high blood pressure.",
+  "official_description": "Betablock XL 100 Tablet (metoprolol succinate extended-release) is used in the treatment of chest pain (angina), heart failure and high blood pressure.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Betablock-100-XL.jpg",
+   "page_url": "https://www.healingpharma.in/product/betablock-xl-100mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0298.jpg",
+   "visible_pack_text": "Rx Metoprolol Succinate Extended Release Tablets IP 100 mg; Betablock XL-100; 3 x 10 Tablets; Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Official Healing Pharma render, carton + blister; text legible."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Composition taken from official pack image; page text has uses/how-to-use only",
+   "Image PENDING human approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/betablock-xl-100mg/",
+   "https://www.healingpharma.in/wp-json/wc/store/products (catalogue listing)"
+  ]
+ },
+ {
+  "sr": 299,
+  "sku": "IMP-0299",
+  "name": "BETABLOCK XL 25MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/betablock-xl-25mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/betablock-xl-25mg/",
+  "composition_on_source": "Pack: 'Metoprolol Succinate Extended Release Tablets IP 25 mg'",
+  "strength": "25 mg",
+  "dosage_form": "TABLET (extended release)",
+  "pack_size": "3 x 10 tablets (carton)",
+  "composition_matches_list": true,
+  "composition_note": "Metoprolol succinate ER matches list. Page says it is used in angina, heart failure and high blood pressure.",
+  "official_description": "Betablock XL 25 Tablet (metoprolol succinate extended-release) is used in the treatment of chest pain (angina), heart failure and high blood pressure.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Betablock-25-XL.jpg",
+   "page_url": "https://www.healingpharma.in/product/betablock-xl-25mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0299.jpg",
+   "visible_pack_text": "Rx Metoprolol Succinate Extended Release Tablets IP 25 mg; Betablock XL- 25; 3X10 Tablets; Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Official Healing Pharma render, carton + blister; text legible."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Composition taken from official pack image; page text has uses/how-to-use only",
+   "Image PENDING human approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/betablock-xl-25mg/",
+   "https://www.healingpharma.in/wp-json/wc/store/products (catalogue listing)"
+  ]
+ },
+ {
+  "sr": 300,
+  "sku": "IMP-0300",
+  "name": "BETABLOCK XL 50MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/betablock-xl-50mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/betablock-xl-50mg/",
+  "composition_on_source": "Pack: 'Metoprolol Succinate Extended Release Tablets IP 50 mg'",
+  "strength": "50 mg",
+  "dosage_form": "TABLET (extended release)",
+  "pack_size": "3 x 10 tablets (carton)",
+  "composition_matches_list": false,
+  "composition_note": "LIST ERROR: list generic is 'MONOBENZONE CREAM' but the official product is Metoprolol Succinate ER 50 mg tablet (same family as SR 298/299). Do not use list generic. Page says it is used in angina, heart failure and high blood pressure.",
+  "official_description": "Betablock XL 50 Tablet (metoprolol succinate extended-release) is used in the treatment of chest pain (angina), heart failure and high blood pressure.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Betablock-50-XL.jpg",
+   "page_url": "https://www.healingpharma.in/product/betablock-xl-50mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0300.jpg",
+   "visible_pack_text": "Rx Metoprolol Succinate Extended release Tablets IP 50 mg; Betablock XL - 50; 3 x 10 tablets; Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Official Healing Pharma render, carton + blister; text legible."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Wrong generic in source list (MONOBENZONE CREAM) - must be corrected by human",
+   "Composition taken from official pack image; page text has uses/how-to-use only",
+   "Image PENDING human approval"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/betablock-xl-50mg/",
+   "https://www.healingpharma.in/wp-json/wc/store/products (catalogue listing)"
+  ]
+ },
+ {
+  "sr": 301,
+  "sku": "IMP-0301",
+  "name": "BETACARD 25MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 302,
+  "sku": "IMP-0302",
+  "name": "BETAGEE INJ 1ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 303,
+  "sku": "IMP-0303",
+  "name": "BETAMETHASONE TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 304,
+  "sku": "IMP-0304",
+  "name": "BETAPIX INJ 1ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 305,
+  "sku": "IMP-0305",
+  "name": "BETASTAL INJ",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 306,
+  "sku": "IMP-0306",
+  "name": "BETAVERT 16MG",
+  "manufacturer": "Sun Pharmaceutical Industries Ltd.",
+  "manufacturer_source_url": "https://sunpharma.com/india-products/",
+  "official_product_page_url": "https://sunpharma.com/india-products/",
+  "composition_on_source": "Sun Pharma India product list row: 'BETAVERT 16 MG TABLET | 10 | BETAHISTINE 16 MG TABLET | BETAVERT | NEURO / CNS'",
+  "strength": "16 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 tablets per product list (price list shows 'BETAVERT TAB 16MG 10X15B INDIA STRIP 15s')",
+  "composition_matches_list": true,
+  "composition_note": "Betahistine 16 mg matches list. Pack size inconsistent between Sun's product list (10) and price list (15s).",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Sun Pharma product list is a text table; no official pack image found."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official pack image",
+   "Pack size differs between two Sun official lists (10 vs 15)"
+  ],
+  "sources_consulted": [
+   "https://sunpharma.com/india-products/",
+   "https://sunpharma.com/product-price-list/"
+  ]
+ },
+ {
+  "sr": 307,
+  "sku": "IMP-0307",
+  "name": "BETLYSONE TAB",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Not researched yet",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official image found"
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not yet researched"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 308,
+  "sku": "IMP-0308",
+  "name": "BETNESOL 0.5MG",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Ltd. (India)",
+  "manufacturer_source_url": "https://india-pharma.gsk.com/media/701078/betnesol-tablet-and-betnesol-forte-tablets.pdf",
+  "official_product_page_url": "https://india-pharma.gsk.com/media/701078/betnesol-tablet-and-betnesol-forte-tablets.pdf",
+  "composition_on_source": "Betnesol PI: 'Each uncoated tablet contains: Betamethasone Sodium Phosphate I.P. equivalent to Betamethasone 0.5 mg'",
+  "strength": "0.5 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Matches list (betamethasone 0.5 mg as sodium phosphate). PI packaging: 'Aluminium strips in a carton', no count. PI version BET-TAB/PI/IN/2026/01, revised 03-NOV-2026.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official single-product pack image found on GSK India site."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official pack image",
+   "Pack count not stated"
+  ],
+  "sources_consulted": [
+   "https://india-pharma.gsk.com/media/701078/betnesol-tablet-and-betnesol-forte-tablets.pdf",
+   "https://india-pharma.gsk.com/media/6345/betnesol-tablet-and-betnesol-forte-tablets.pdf"
+  ]
+ },
+ {
+  "sr": 309,
+  "sku": "IMP-0309",
+  "name": "BETNOVATE CREAM 20GM",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Ltd. (India)",
+  "manufacturer_source_url": "https://india-pharma.gsk.com/media/701030/betnovate-skin-cream.pdf",
+  "official_product_page_url": "https://india-pharma.gsk.com/media/701030/betnovate-skin-cream.pdf",
+  "composition_on_source": "Betnovate Skin Cream PI: 'Betamethasone Valerate I.P. equivalent to Betamethasone 0.10 % w/w; Chlorocresol I.P. (as preservative) 0.1 % w/w in a non-greasy base'",
+  "strength": "0.1% w/w betamethasone (as valerate)",
+  "dosage_form": "CREAM",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Matches list (betamethasone valerate cream). PI gives packaging as 'Aluminium collapsible tube or Lamitube in a carton' without tube size, so 20 g not confirmed. PI revision 05-FEB-2024.",
+  "official_description": "Betnovate Skin Cream is a potent topical corticosteroid cream containing betamethasone valerate, indicated for the relief of the inflammatory and pruritic manifestations of steroid-responsive dermatoses.",
+  "image": {
+   "status": "rejected",
+   "image_url": "https://india-pharma.gsk.com/media/yhylyck2/betnovate.jpg",
+   "page_url": "https://india-pharma.gsk.com/en-in/products/",
+   "local_file": null,
+   "visible_pack_text": "Group shot: Betnovate-N skin cream 20 g, Betnovate-GM 20 g, 'Betamethasone Valerate Cream I.P. Betnovate Skin Cream', Betnovate-C 30 g; 'Now in Lamitube'",
+   "checks": {
+    "brand": true,
+    "strength": false,
+    "form": true,
+    "pack": false
+   },
+   "pixel_size": "300x375",
+   "notes": "Rejected: family group shot of 4 Betnovate variants (not a single-product image), 300 px short side (<300 rule borderline/too small), 20 g of plain Betnovate not legible. File not kept in images_raw."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Pack size 20 g not confirmed on official source",
+   "No acceptable official image"
+  ],
+  "sources_consulted": [
+   "https://india-pharma.gsk.com/en-in/products/",
+   "https://india-pharma.gsk.com/media/701030/betnovate-skin-cream.pdf"
+  ]
+ }
+]

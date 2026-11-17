@@ -1,0 +1,81 @@
+# MediCart / OneTrueDose production stack — runs on the Hetzner VPS.
+#
+# This is deliberately NOT the same file as the repo-root docker-compose.yml:
+# that one is a local dev convenience (includes a `web` service, publishes
+# the DB port to the host, no TLS). This file is what actually runs in
+# production: db + api + a Caddy reverse proxy for automatic HTTPS. There is
+# no `web` service here — the frontend is a static build deployed separately
+# to Cloudflare Pages, not a container on this box.
+#
+# Usage on the VPS (see docs/DEPLOYMENT.md for the full runbook):
+#   docker compose -f infra/deployment/docker-compose.prod.yml --env-file .env up -d
+#
+# Requires on the host, before first run:
+#   - A .env file (copy from .env.production.example, fill in real secrets)
+#   - DNS: api.onetruedose.com -> this VPS's IP, proxied through Cloudflare
+#   - Port 80/443 open (Caddy needs 80 for the ACME HTTP challenge, and
+#     Cloudflare's edge terminates the public side; this is "Full" origin TLS)
+
+services:
+  db:
+    image: postgres:16.4-alpine
+    container_name: medicart-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: medicart
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: medicart
+      POSTGRES_INITDB_ARGS: "--encoding=UTF8 --locale=C"
+    # Deliberately NOT published to the host network — only `api` (on the
+    # same compose network) and the backup script (run via `docker exec`)
+    # ever touch this database directly.
+    volumes:
+      - medicart_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U medicart -d medicart"]
+      interval: 3s
+      timeout: 5s
+      retries: 20
+
+  api:
+    image: ${API_IMAGE:-ghcr.io/sanyam/medicart-api:latest}
+    container_name: medicart-api
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATABASE_URL: postgres://medicart:${POSTGRES_PASSWORD}@db:5432/medicart?sslmode=disable
+      API_PORT: "8080"
+      APP_ENV: production
+    # No ports published to the host — Caddy is the only thing that talks to
+    # this container, over the compose network, by service name.
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "/app/api", "-healthcheck"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  caddy:
+    image: caddy:2.8-alpine
+    container_name: medicart-caddy
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      api:
+        condition: service_healthy
+
+volumes:
+  medicart_pgdata:
+    name: medicart_pgdata
+  caddy_data:
+    name: medicart_caddy_data
+  caddy_config:
+    name: medicart_caddy_config

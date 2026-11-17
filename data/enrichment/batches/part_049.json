@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2553,
+  "name": "SNOZZY 20MG",
+  "generic": "MELATONIN",
+  "price": "4",
+  "sku": "IMP-2553"
+ },
+ {
+  "sr": 2554,
+  "name": "SODICAN 8.4% INJ 25ML",
+  "generic": "SODIUM BICARBONATE",
+  "price": "23",
+  "sku": "IMP-2554"
+ },
+ {
+  "sr": 2555,
+  "name": "SODIHEAL 500MG",
+  "generic": "SODIUM BICARBONATE",
+  "price": "1",
+  "sku": "IMP-2555"
+ },
+ {
+  "sr": 2556,
+  "name": "SOFRAMYCIN CREAM 30GM",
+  "generic": "FRAMYCETIN",
+  "price": "50",
+  "sku": "IMP-2556"
+ },
+ {
+  "sr": 2557,
+  "name": "SOMADOL 350MG",
+  "generic": "CARISOPRODOL",
+  "price": "2",
+  "sku": "IMP-2557"
+ },
+ {
+  "sr": 2558,
+  "name": "SONADERM-NM CREAM",
+  "generic": "CLOBETASOL + MICONAZOLE + NEOMYCIN",
+  "price": "80",
+  "sku": "IMP-2558"
+ },
+ {
+  "sr": 2559,
+  "name": "SONKOLAR TAB",
+  "generic": "HERBAL TABLETS",
+  "price": "5",
+  "sku": "IMP-2559"
+ },
+ {
+  "sr": 2560,
+  "name": "SORANIB 200MG",
+  "generic": "SORAFENIB",
+  "price": "38",
+  "sku": "IMP-2560"
+ },
+ {
+  "sr": 2561,
+  "name": "SORBITRATE 5MG",
+  "generic": "SOTALOL HYDROCHLORIDE",
+  "price": "1",
+  "sku": "IMP-2561"
+ },
+ {
+  "sr": 2562,
+  "name": "SOTALAR 40MG",
+  "generic": "SOTALOL HYDROCHLORIDE",
+  "price": "12",
+  "sku": "IMP-2562"
+ },
+ {
+  "sr": 2563,
+  "name": "SOTRET 10MG",
+  "generic": "ISOTRETINOIN",
+  "price": "20",
+  "sku": "IMP-2563"
+ },
+ {
+  "sr": 2564,
+  "name": "SOTRET 20MG",
+  "generic": "ISOTRETINOIN",
+  "price": "29",
+  "sku": "IMP-2564"
+ },
+ {
+  "sr": 2565,
+  "name": "SPASMCARE TAB",
+  "generic": "Dicyclomine Hydrochloride",
+  "price": "1",
+  "sku": "IMP-2565"
+ },
+ {
+  "sr": 2566,
+  "name": "SPASMOHEAL TAB",
+  "generic": "Drotaverine + Mefenamic acid",
+  "price": "2.5",
+  "sku": "IMP-2566"
+ },
+ {
+  "sr": 2567,
+  "name": "SPASMONIL PLUS",
+  "generic": "DICYCLOMINE- + MEFENAMIC ACID-",
+  "price": "1.5",
+  "sku": "IMP-2567"
+ },
+ {
+  "sr": 2568,
+  "name": "SPASMONIL TAB",
+  "generic": "DICYCLOMINE + PARACETAMOL",
+  "price": "1.5",
+  "sku": "IMP-2568"
+ },
+ {
+  "sr": 2569,
+  "name": "SPECTRA 75MG",
+  "generic": "DOXEPIN HCL",
+  "price": "13",
+  "sku": "IMP-2569"
+ },
+ {
+  "sr": 2570,
+  "name": "SPECTRA 75MG",
+  "generic": "Doxepin",
+  "price": "13",
+  "sku": "IMP-2570"
+ },
+ {
+  "sr": 2571,
+  "name": "SPECTRA CAP 10MG",
+  "generic": "DOXEPIN HCL",
+  "price": "7",
+  "sku": "IMP-2571"
+ },
+ {
+  "sr": 2572,
+  "name": "SPIROSAFE 25MG",
+  "generic": "SPIRONOLACTONE",
+  "price": "2",
+  "sku": "IMP-2572"
+ },
+ {
+  "sr": 2573,
+  "name": "SPORIDEX CV 750+125MG",
+  "generic": "CEPHALEXIN+ CLAVULANIC ACID",
+  "price": "36",
+  "sku": "IMP-2573"
+ },
+ {
+  "sr": 2574,
+  "name": "SPYRO 100MG",
+  "generic": "SPIRONOLACTONE",
+  "price": "5.5",
+  "sku": "IMP-2574"
+ },
+ {
+  "sr": 2575,
+  "name": "SPYRRO 25MG",
+  "generic": "SPIRONOLACTONE",
+  "price": "2",
+  "sku": "IMP-2575"
+ },
+ {
+  "sr": 2576,
+  "name": "STABLON TAB",
+  "generic": "TIANEPTINE",
+  "price": "13",
+  "sku": "IMP-2576"
+ },
+ {
+  "sr": 2577,
+  "name": "STALOPAM 10MG",
+  "generic": "ESCITALOPRAM  OXALATE",
+  "price": "8.5",
+  "sku": "IMP-2577"
+ },
+ {
+  "sr": 2586,
+  "name": "STEMETIL MD TAB",
+  "generic": "PROCHLORPERAZINE MALEATE",
+  "price": "11.5",
+  "sku": "IMP-2586"
+ },
+ {
+  "sr": 2587,
+  "name": "STENAGRA 100MG",
+  "generic": "SILDENAFIL & DAPOXETINE",
+  "price": "1.75",
+  "sku": "IMP-2587"
+ },
+ {
+  "sr": 2588,
+  "name": "STENAGRA POWER TAB",
+  "generic": "SILDENAFIL & DAPOXETINE",
+  "price": "10",
+  "sku": "IMP-2588"
+ },
+ {
+  "sr": 2589,
+  "name": "STENAGRA SUPER POWER TAB",
+  "generic": "SILDENAFIL & DAPOXETINE",
+  "price": "14.5",
+  "sku": "IMP-2589"
+ },
+ {
+  "sr": 2590,
+  "name": "STROCIT 250MG INJ 2ML",
+  "generic": "CITICOLINE",
+  "price": "138",
+  "sku": "IMP-2590"
+ },
+ {
+  "sr": 2591,
+  "name": "STROSUN 500MG",
+  "generic": "ANASTROZOLE",
+  "price": "6",
+  "sku": "IMP-2591"
+ },
+ {
+  "sr": 2592,
+  "name": "STUD 10000",
+  "generic": "LIDOCAINE",
+  "price": "70",
+  "sku": "IMP-2592"
+ },
+ {
+  "sr": 2593,
+  "name": "STUD 1000MG SPRAY 20GM",
+  "generic": "LIDOCAINE",
+  "price": "70",
+  "sku": "IMP-2593"
+ },
+ {
+  "sr": 2594,
+  "name": "STUD 5000",
+  "generic": "LIDOCAINE",
+  "price": "70",
+  "sku": "IMP-2594"
+ },
+ {
+  "sr": 2595,
+  "name": "STUD MILLENNIUM SPRAY 5000MG",
+  "generic": "LIDOCAINE",
+  "price": "70",
+  "sku": "IMP-2595"
+ },
+ {
+  "sr": 2596,
+  "name": "SUCRAGEST TAB",
+  "generic": "SUCRALFATE",
+  "price": "3.5",
+  "sku": "IMP-2596"
+ },
+ {
+  "sr": 2597,
+  "name": "SUCRATAS O SYP",
+  "generic": "SUCRALFATE AND OXETACAINE SUSPENSION",
+  "price": "52",
+  "sku": "IMP-2597"
+ },
+ {
+  "sr": 2598,
+  "name": "SUCRATAS O SYS 100ML",
+  "generic": "SUCRALFATE+ OXETACAINE",
+  "price": "52",
+  "sku": "IMP-2598"
+ },
+ {
+  "sr": 2599,
+  "name": "SUCROCAN 100MG INJ 5ML",
+  "generic": "IRON SUCROSE",
+  "price": "35",
+  "sku": "IMP-2599"
+ },
+ {
+  "sr": 2600,
+  "name": "SUHAGRA 100MG",
+  "generic": "SILDENAFIL",
+  "price": "4",
+  "sku": "IMP-2600"
+ },
+ {
+  "sr": 2601,
+  "name": "SUHAGRA 25MG",
+  "generic": "SILDENAFIL",
+  "price": "2.5",
+  "sku": "IMP-2601"
+ },
+ {
+  "sr": 2602,
+  "name": "SUHAGRA 50MG",
+  "generic": "SILDENAFIL",
+  "price": "2.5",
+  "sku": "IMP-2602"
+ },
+ {
+  "sr": 2603,
+  "name": "SUHAGRA FORCE 50MG",
+  "generic": "SILDENAFIL",
+  "price": "13.5",
+  "sku": "IMP-2603"
+ },
+ {
+  "sr": 2604,
+  "name": "SULFUNOL 500MG",
+  "generic": "SULFASALAZINE",
+  "price": "4",
+  "sku": "IMP-2604"
+ },
+ {
+  "sr": 2605,
+  "name": "SULISENT 100MG",
+  "generic": "CANAGLIFLOZIN",
+  "price": "55",
+  "sku": "IMP-2605"
+ },
+ {
+  "sr": 2606,
+  "name": "SULSAZIN 500 TAB",
+  "generic": "SULFASALAZINE",
+  "price": "5",
+  "sku": "IMP-2606"
+ },
+ {
+  "sr": 2607,
+  "name": "SUMINAT 100MG",
+  "generic": "SUMATRIPTAN",
+  "price": "176",
+  "sku": "IMP-2607"
+ },
+ {
+  "sr": 2608,
+  "name": "SUMINAT 50MG TAB",
+  "generic": "SUMATRIPTAN",
+  "price": "50",
+  "sku": "IMP-2608"
+ },
+ {
+  "sr": 2609,
+  "name": "SUMITOP 100MG",
+  "generic": "SUMATRIPTAN",
+  "price": "13",
+  "sku": "IMP-2609"
+ },
+ {
+  "sr": 2610,
+  "name": "SUMITOP 25MG",
+  "generic": "SUMATRIPTAN",
+  "price": "7",
+  "sku": "IMP-2610"
+ }
+]

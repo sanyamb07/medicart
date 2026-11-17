@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2811,
+  "name": "TESTACYP 250MG INJ 1ML",
+  "generic": "TESTOSTERONE CYPIONATE",
+  "price": "50",
+  "sku": "IMP-2811"
+ },
+ {
+  "sr": 2812,
+  "name": "TEST-C PRO INJ",
+  "generic": "TESTOSTERONE CYPIONATE",
+  "price": "90",
+  "sku": "IMP-2812"
+ },
+ {
+  "sr": 2813,
+  "name": "TESTENATE DEPOT 250MG INJ 1ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "50",
+  "sku": "IMP-2813"
+ },
+ {
+  "sr": 2814,
+  "name": "TESTO C 250MG AMP",
+  "generic": "TESTOSTERONE CYPIONATE,",
+  "price": "68",
+  "sku": "IMP-2814"
+ },
+ {
+  "sr": 2815,
+  "name": "TESTO C 250MG INJ 10ML",
+  "generic": "TESTOSTERONE CYPIONATE",
+  "price": "680",
+  "sku": "IMP-2815"
+ },
+ {
+  "sr": 2816,
+  "name": "TESTO E INJ 10ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "855",
+  "sku": "IMP-2816"
+ },
+ {
+  "sr": 2817,
+  "name": "TESTO E INJ 1ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "86",
+  "sku": "IMP-2817"
+ },
+ {
+  "sr": 2818,
+  "name": "TESTO P 100MG INJ 10ML",
+  "generic": "TESTOSTERONE PROPIONATE",
+  "price": "320",
+  "sku": "IMP-2818"
+ },
+ {
+  "sr": 2819,
+  "name": "TESTOBIX C INJ 10ML",
+  "generic": "TESTOSTERONE CYPIONATE",
+  "price": "680",
+  "sku": "IMP-2819"
+ },
+ {
+  "sr": 2820,
+  "name": "TESTOBIX C INJ 1ML",
+  "generic": "TESTOSTERONE CYPIONATE",
+  "price": "68",
+  "sku": "IMP-2820"
+ },
+ {
+  "sr": 2821,
+  "name": "TESTOBIX E INJ 10ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "800",
+  "sku": "IMP-2821"
+ },
+ {
+  "sr": 2822,
+  "name": "TESTOBIX E MAXX 10ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "1460",
+  "sku": "IMP-2822"
+ },
+ {
+  "sr": 2823,
+  "name": "TESTOBIX MIX INJ 10ML",
+  "generic": "TESTOSTERONE PROPIONATE",
+  "price": "680",
+  "sku": "IMP-2823"
+ },
+ {
+  "sr": 2824,
+  "name": "TESTOBIX P INJ 10ML",
+  "generic": "TESTOSTERONE PROPIONATE",
+  "price": "560",
+  "sku": "IMP-2824"
+ },
+ {
+  "sr": 2825,
+  "name": "TESTOBLESS 40MG",
+  "generic": "TESTOSTERONE UNDECANOATE",
+  "price": "6.5",
+  "sku": "IMP-2825"
+ },
+ {
+  "sr": 2826,
+  "name": "TESTOBLESS GEL 5GM",
+  "generic": "TESTOSTERONE UNDECANOATE",
+  "price": "45",
+  "sku": "IMP-2826"
+ },
+ {
+  "sr": 2827,
+  "name": "TESTOBLISS 40MG",
+  "generic": "TESTOSTERONE",
+  "price": "6.5",
+  "sku": "IMP-2827"
+ },
+ {
+  "sr": 2828,
+  "name": "TESTOBOL 50MG INJ",
+  "generic": "TESTOSTERONE BASE",
+  "price": "72",
+  "sku": "IMP-2828"
+ },
+ {
+  "sr": 2829,
+  "name": "TESTOBOON 250MG INJ 10ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "860",
+  "sku": "IMP-2829"
+ },
+ {
+  "sr": 2830,
+  "name": "TESTOBOON 250MG INJ 1ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "68",
+  "sku": "IMP-2830"
+ },
+ {
+  "sr": 2831,
+  "name": "TESTOBOON CP 250MG INJ 10ML",
+  "generic": "TESTOSTERONE CYPIONATE",
+  "price": "680",
+  "sku": "IMP-2831"
+ },
+ {
+  "sr": 2832,
+  "name": "TESTOBOON CP 250MG INJ 1ML",
+  "generic": "TESTOSTERONE CYPIONATE",
+  "price": "65",
+  "sku": "IMP-2832"
+ },
+ {
+  "sr": 2833,
+  "name": "TESTOBOON CP 250MG INJ 20ML",
+  "generic": "TESTOSTERONE CYPIONATE",
+  "price": "1080",
+  "sku": "IMP-2833"
+ },
+ {
+  "sr": 2834,
+  "name": "TESTOBOON CP 300MG",
+  "generic": "TESTOSTERONE CYPIONATE",
+  "price": "785",
+  "sku": "IMP-2834"
+ },
+ {
+  "sr": 2835,
+  "name": "TESTOBOON DEPOT 250MG INJ 10ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "680",
+  "sku": "IMP-2835"
+ },
+ {
+  "sr": 2836,
+  "name": "TESTOBOON DEPOT 250MG INJ 1ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "50",
+  "sku": "IMP-2836"
+ },
+ {
+  "sr": 2837,
+  "name": "TESTOBOON DEPOT 250MG INJ 20ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "1080",
+  "sku": "IMP-2837"
+ },
+ {
+  "sr": 2838,
+  "name": "TESTOBOON GEL 5GM",
+  "generic": "TESTOSTERONE",
+  "price": "35",
+  "sku": "IMP-2838"
+ },
+ {
+  "sr": 2839,
+  "name": "TESTOBOON PP 100MG 1ML",
+  "generic": "TESTOSTERONE PROPIONATE",
+  "price": "45",
+  "sku": "IMP-2839"
+ },
+ {
+  "sr": 2840,
+  "name": "TESTOBOON PP 100MG INJ 10ML",
+  "generic": "TESTOSTERONE PROPIONATE",
+  "price": "270",
+  "sku": "IMP-2840"
+ },
+ {
+  "sr": 2841,
+  "name": "TESTOBOON PP 100MG INJ 1ML",
+  "generic": "TESTOSTERONE PROPIONATE",
+  "price": "50",
+  "sku": "IMP-2841"
+ },
+ {
+  "sr": 2842,
+  "name": "TESTOBOON PP 100MG INJ 20ML",
+  "generic": "TESTOSTERONE UNDECANOATE",
+  "price": "435",
+  "sku": "IMP-2842"
+ },
+ {
+  "sr": 2843,
+  "name": "TESTOHEAL 40MG",
+  "generic": "TESTOSTERONE UNDECANOATE",
+  "price": "8.5",
+  "sku": "IMP-2843"
+ },
+ {
+  "sr": 2844,
+  "name": "TESTOHEAL GEL 5GM",
+  "generic": "TESTOSTERONE UNDECANOATE",
+  "price": "40",
+  "sku": "IMP-2844"
+ },
+ {
+  "sr": 2845,
+  "name": "TESTOLIDO 250MG INJ 4ML",
+  "generic": "TESTOSTERONE UNDECANOATE",
+  "price": "410",
+  "sku": "IMP-2845"
+ },
+ {
+  "sr": 2846,
+  "name": "TESTOMAXX INJ 10ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "785",
+  "sku": "IMP-2846"
+ },
+ {
+  "sr": 2847,
+  "name": "TESTOMAXX INJ 1ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "148",
+  "sku": "IMP-2847"
+ },
+ {
+  "sr": 2848,
+  "name": "TESTON 250MG INJ",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "150",
+  "sku": "IMP-2848"
+ },
+ {
+  "sr": 2849,
+  "name": "TESTONET DEPOT 250MG INJ 1ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "50",
+  "sku": "IMP-2849"
+ },
+ {
+  "sr": 2850,
+  "name": "TESTOP INJ",
+  "generic": "TESTOSTERONE PROPIONATE",
+  "price": "105",
+  "sku": "IMP-2850"
+ },
+ {
+  "sr": 2851,
+  "name": "TESTORIGHT 40MG",
+  "generic": "TESTOSTERONE UNDECANOATE",
+  "price": "5.75",
+  "sku": "IMP-2851"
+ },
+ {
+  "sr": 2852,
+  "name": "TESTORIX C INJ 1ML",
+  "generic": "TESTOSTERONE CYPIONATE",
+  "price": "75",
+  "sku": "IMP-2852"
+ },
+ {
+  "sr": 2853,
+  "name": "TESTORIX E INJ 1ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "75",
+  "sku": "IMP-2853"
+ },
+ {
+  "sr": 2854,
+  "name": "TESTORIX P INJ 1ML",
+  "generic": "TESTOSTERONE PROPIONATE",
+  "price": "70",
+  "sku": "IMP-2854"
+ },
+ {
+  "sr": 2855,
+  "name": "TESTOSIGN 40MG",
+  "generic": "TESTOSTERONE UNDECANOATE",
+  "price": "6",
+  "sku": "IMP-2855"
+ },
+ {
+  "sr": 2856,
+  "name": "TESTOSIGN GEL",
+  "generic": "TESTOSTERONE UNDECANOATE",
+  "price": "10",
+  "sku": "IMP-2856"
+ },
+ {
+  "sr": 2857,
+  "name": "TESTOVIRON DEPOT 250MG INJ 1ML",
+  "generic": "TESTOSTERONE ENANTHATE",
+  "price": "405",
+  "sku": "IMP-2857"
+ },
+ {
+  "sr": 2858,
+  "name": "TETRACYCLINE 250MG",
+  "generic": "TETRACYCLINE",
+  "price": "2.5",
+  "sku": "IMP-2858"
+ },
+ {
+  "sr": 2859,
+  "name": "TETRACYCLINE 500MG",
+  "generic": "TETRACYCLINE",
+  "price": "4.5",
+  "sku": "IMP-2859"
+ },
+ {
+  "sr": 2860,
+  "name": "TETRACYN 250MG",
+  "generic": "TETRACYCLINE",
+  "price": "2.5",
+  "sku": "IMP-2860"
+ }
+]

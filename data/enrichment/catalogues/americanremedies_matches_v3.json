@@ -1,0 +1,693 @@
+[
+ {
+  "sku": "IMP-0157",
+  "sr": 157,
+  "name": "ARKACAN 100MCG",
+  "list_generic": "CLONIDINE",
+  "status": "matched",
+  "catalogue_name": "Arkacan 100 Tablets",
+  "catalogue_sku": "ATBA042",
+  "url": "https://www.americanremedies.in/product/arkacan-100-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Arkacan-100MCG-Tab.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-0162",
+  "sr": 162,
+  "name": "ARTECAN 120MG INJ",
+  "list_generic": "ARTESUNATE",
+  "status": "matched",
+  "catalogue_name": "Artecan Injection 120 mg",
+  "catalogue_sku": "ADIA028",
+  "url": "https://www.americanremedies.in/product/artecan-injection-120-mg/",
+  "composition": "",
+  "catalogue_form": "INJECTION",
+  "list_form": "INJECTION",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Artecan-120-3D.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-0163",
+  "sr": 163,
+  "name": "ARTECAN 60MG INJ",
+  "list_generic": "ARTESUNATE",
+  "status": "matched",
+  "catalogue_name": "Artecan Injection 60 mg",
+  "catalogue_sku": "ADIA029",
+  "url": "https://www.americanremedies.in/product/artecan-injection-60-mg/",
+  "composition": "",
+  "catalogue_form": "INJECTION",
+  "list_form": "INJECTION",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Artecan-60-3D.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-0234",
+  "sr": 234,
+  "name": "AZACAN 50MG",
+  "list_generic": "AZATHIOPRINE",
+  "status": "matched",
+  "catalogue_name": "Azacan 50 Tablets",
+  "catalogue_sku": "ATBA035",
+  "url": "https://www.americanremedies.in/product/azacan-50-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Azacan-Tab.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-0297",
+  "sr": 297,
+  "name": "BENZOCAN CREAM",
+  "list_generic": "MONOBENZONE CREAM",
+  "status": "matched",
+  "catalogue_name": "Benzocan Cream",
+  "catalogue_sku": "ACRB001-EX",
+  "url": "https://www.americanremedies.in/product/benzocan-cream/",
+  "composition": "",
+  "catalogue_form": "CREAM",
+  "list_form": "CREAM",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Benzocan-Cream.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-0305",
+  "sr": 305,
+  "name": "BETASTAL INJ",
+  "list_generic": "BETAMETHASONE (AS SODIUM PHOSPHATE) & BETAMETHASONE (AS DIPROPIONATE)",
+  "status": "matched",
+  "catalogue_name": "Betastal Injection",
+  "catalogue_sku": "ALIB002",
+  "url": "https://www.americanremedies.in/product/betastal-injection/",
+  "composition": "",
+  "catalogue_form": "INJECTION",
+  "list_form": "INJECTION",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/betastal-inj-new.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-0383",
+  "sr": 383,
+  "name": "BUSPICAN 10MG",
+  "list_generic": "BUSPIRONE",
+  "status": "matched",
+  "catalogue_name": "Buspican 10 Tablets",
+  "catalogue_sku": "ATBB007",
+  "url": "https://www.americanremedies.in/product/buspican-10-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Buspican-10.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-0553",
+  "sr": 553,
+  "name": "CITACAN 20MG",
+  "list_generic": "CITALOPRAM",
+  "status": "matched",
+  "catalogue_name": "Citacan 20 Tablets",
+  "catalogue_sku": "ATBC009",
+  "url": "https://www.americanremedies.in/product/citacan-20-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Citacan-20.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-0696",
+  "sr": 696,
+  "name": "DAPAFOX 10MG",
+  "list_generic": "DAPAGLIFLOZIN",
+  "status": "matched",
+  "catalogue_name": "Dapafox 10 Tablets",
+  "catalogue_sku": "ATBD018",
+  "url": "https://www.americanremedies.in/product/dapafox-10-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Dapafox-10-tablet.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-0745",
+  "sr": 745,
+  "name": "DEXACAN 4MG",
+  "list_generic": "DEXAMETHASONE",
+  "status": "matched",
+  "catalogue_name": "Dexacan 4 Tablets",
+  "catalogue_sku": "ATBD019",
+  "url": "https://www.americanremedies.in/product/dexacan-4-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/dexacan-4-tablet-3D.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-0755",
+  "sr": 755,
+  "name": "DICLOCAN AQ INJ",
+  "list_generic": "DICLOFENAC SODIUM",
+  "status": "matched",
+  "catalogue_name": "Diclocan AQ  Injection",
+  "catalogue_sku": "ALID006",
+  "url": "https://www.americanremedies.in/product/diclocan-aq-injection/",
+  "composition": "",
+  "catalogue_form": "INJECTION",
+  "list_form": "INJECTION",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Diclocan-Aq-1ml-scaled.png"
+  ]
+ },
+ {
+  "sku": "IMP-0830",
+  "name": "DUTAFOX 0.5MG",
+  "status": "form_conflict",
+  "candidates": [
+   {
+    "name": "Dutafox 0.5 Capsules",
+    "url": "https://www.americanremedies.in/product/dutafox-0-5-capsules/",
+    "form": "CAPSULE"
+   }
+  ],
+  "list_form": "TABLET"
+ },
+ {
+  "sku": "IMP-1095",
+  "name": "FLUXICAN 10MG",
+  "status": "form_conflict",
+  "candidates": [
+   {
+    "name": "Fluxican 10 Capsules",
+    "url": "https://www.americanremedies.in/product/fluxican-10-capsules/",
+    "form": "CAPSULE"
+   }
+  ],
+  "list_form": "TABLET"
+ },
+ {
+  "sku": "IMP-1096",
+  "name": "FLUXICAN 20MG",
+  "status": "form_conflict",
+  "candidates": [
+   {
+    "name": "Fluxican 20 Capsules",
+    "url": "https://www.americanremedies.in/product/fluxican-20-capsules/",
+    "form": "CAPSULE"
+   }
+  ],
+  "list_form": "TABLET"
+ },
+ {
+  "sku": "IMP-1097",
+  "name": "FLUXICAN 60MG",
+  "status": "form_conflict",
+  "candidates": [
+   {
+    "name": "Fluxican 60 Capsules",
+    "url": "https://www.americanremedies.in/product/fluxican-60-capsules/",
+    "form": "CAPSULE"
+   }
+  ],
+  "list_form": "TABLET"
+ },
+ {
+  "sku": "IMP-1114",
+  "name": "FRASIX 40MG",
+  "status": "form_conflict",
+  "candidates": [
+   {
+    "name": "Frasix 40 Injection",
+    "url": "https://www.americanremedies.in/product/frasix-40-injection/",
+    "form": "INJECTION"
+   }
+  ],
+  "list_form": "TABLET"
+ },
+ {
+  "sku": "IMP-1171",
+  "sr": 1171,
+  "name": "GLUTACAN INJ",
+  "list_generic": "GLUTATHIONE",
+  "status": "matched",
+  "catalogue_name": "Glutacan Injection",
+  "catalogue_sku": "ADIG002",
+  "url": "https://www.americanremedies.in/product/glutacan-injection/",
+  "composition": "",
+  "catalogue_form": "INJECTION",
+  "list_form": "INJECTION",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Glutacan-Inj.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-1208",
+  "sr": 1208,
+  "name": "HCGCAN 10000IU INJ",
+  "list_generic": "CHORIONIC GONADOTROPHIN",
+  "status": "matched",
+  "catalogue_name": "Hcgcan 10000IU Inj",
+  "catalogue_sku": "ADIH001",
+  "url": "https://www.americanremedies.in/product/hcgcan-10000iu-inj/",
+  "composition": "",
+  "catalogue_form": "INJECTION",
+  "list_form": "INJECTION",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2026/03/HCGCAN-1000.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-1209",
+  "sr": 1209,
+  "name": "HCGCAN 5000IU INJ",
+  "list_generic": "CHORIONIC GONADOTROPHIN",
+  "status": "matched",
+  "catalogue_name": "HCGCAN 5000 IU (Lyophilized Highly Purified)",
+  "catalogue_sku": "ADIH002",
+  "url": "https://www.americanremedies.in/product/hcgcan-5000-iu-lyophilized-highly-purified/",
+  "composition": "",
+  "catalogue_form": null,
+  "list_form": "INJECTION",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/HCGCAN-5000-IU-3D.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-1262",
+  "sr": 1262,
+  "name": "HPDOL 5MG",
+  "list_generic": "HALOPERIDOL",
+  "status": "matched",
+  "catalogue_name": "Hpdol 5 Tablets",
+  "catalogue_sku": "ATBH005",
+  "url": "https://www.americanremedies.in/product/hpdol-5-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Hpdol-5.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-1341",
+  "name": "ITROTAB 100MG",
+  "status": "form_conflict",
+  "candidates": [
+   {
+    "name": "Itrotab 100 Capsules",
+    "url": "https://www.americanremedies.in/product/itrotab-100/",
+    "form": "CAPSULE"
+   }
+  ],
+  "list_form": "TABLET"
+ },
+ {
+  "sku": "IMP-1342",
+  "name": "ITROTAB 200MG",
+  "status": "form_conflict",
+  "candidates": [
+   {
+    "name": "Itrotab 200 Capsules",
+    "url": "https://www.americanremedies.in/product/itrotab-200/",
+    "form": "CAPSULE"
+   }
+  ],
+  "list_form": "TABLET"
+ },
+ {
+  "sku": "IMP-1457",
+  "sr": 1457,
+  "name": "KETROCAN 30MG INJ",
+  "list_generic": "KETOROLAC TROMETHAMINE",
+  "status": "matched",
+  "catalogue_name": "Ketrocan 30 Injection",
+  "catalogue_sku": "ALIK004",
+  "url": "https://www.americanremedies.in/product/ketrocan-30-injection/",
+  "composition": "",
+  "catalogue_form": "INJECTION",
+  "list_form": "INJECTION",
+  "images": []
+ },
+ {
+  "sku": "IMP-1494",
+  "sr": 1494,
+  "name": "LAMOTRIG 100MG DT",
+  "list_generic": "LAMOTRIGINE",
+  "status": "matched",
+  "catalogue_name": "Lamotrig-DT 100 Tablets",
+  "catalogue_sku": "ATBL002",
+  "url": "https://www.americanremedies.in/product/lamotrig-dt-100-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Lamotrig-DT-100.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-1679",
+  "sr": 1679,
+  "name": "MEDROCAN-40 INJ",
+  "list_generic": "METHYLPREDNISOLONE SODIUM SUCCINATE",
+  "status": "matched",
+  "catalogue_name": "Medrocan 40 Injection",
+  "catalogue_sku": "ADIM002",
+  "url": "https://www.americanremedies.in/product/medrocan-40-injection/",
+  "composition": "",
+  "catalogue_form": "INJECTION",
+  "list_form": "INJECTION",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Medrocan-Inj.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-1833",
+  "sr": 1833,
+  "name": "MOMENTA 10MG",
+  "list_generic": "MOMETASONE",
+  "status": "matched",
+  "catalogue_name": "Momenta 10 Tablets",
+  "catalogue_sku": "ATBM011",
+  "url": "https://www.americanremedies.in/product/momenta-10-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Momenta-10.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-1909",
+  "sr": 1909,
+  "name": "NALTIVIA 50MG",
+  "list_generic": "NALTREXONE",
+  "status": "matched",
+  "catalogue_name": "Naltivia 50 Tablets",
+  "catalogue_sku": "ATBN001",
+  "url": "https://www.americanremedies.in/product/naltivia-50-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Naltivia-Tab.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-2041",
+  "sr": 2041,
+  "name": "OLANA 10MG",
+  "list_generic": "OLANZAPINE",
+  "status": "matched",
+  "catalogue_name": "Olana 10 Tablets",
+  "catalogue_sku": "ATBO001",
+  "url": "https://www.americanremedies.in/product/olana-10-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Olana-10.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-2042",
+  "sr": 2042,
+  "name": "OLANA 5MG TAB",
+  "list_generic": "OLANZAPINE",
+  "status": "matched",
+  "catalogue_name": "Olana 5 Tablets",
+  "catalogue_sku": "ATBO005",
+  "url": "https://www.americanremedies.in/product/olana-5-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Olana-5.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-2055",
+  "name": "OMEECAN 20MG",
+  "status": "form_conflict",
+  "candidates": [
+   {
+    "name": "Omeecan 20 Capsules",
+    "url": "https://www.americanremedies.in/product/omeecan-20-capsules/",
+    "form": "CAPSULE"
+   }
+  ],
+  "list_form": "TABLET"
+ },
+ {
+  "sku": "IMP-2145",
+  "sr": 2145,
+  "name": "PENTRAL 400MG",
+  "list_generic": "PENTOXIFYLLINE PROLONGED RELEASE",
+  "status": "matched",
+  "catalogue_name": "Pentral 400 Tablets",
+  "catalogue_sku": "ATBP033",
+  "url": "https://www.americanremedies.in/product/pentral-400-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/pentral-400.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-2235",
+  "name": "PREGAFOX 300MG",
+  "status": "form_conflict",
+  "candidates": [
+   {
+    "name": "Pregafox 300 Capsules",
+    "url": "https://www.americanremedies.in/product/pregafox-300-capsules/",
+    "form": "CAPSULE"
+   }
+  ],
+  "list_form": "TABLET"
+ },
+ {
+  "sku": "IMP-2393",
+  "sr": 2393,
+  "name": "RISCAN 2MG",
+  "list_generic": "RISPERIDONE",
+  "status": "matched",
+  "catalogue_name": "Riscan 2 Tablets",
+  "catalogue_sku": "ATBR006",
+  "url": "https://www.americanremedies.in/product/riscan-2-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Riscan-2.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-2402",
+  "sr": 2402,
+  "name": "ROBICAN 500MG",
+  "list_generic": "METHOCARMABOL",
+  "status": "matched",
+  "catalogue_name": "Robican 500 Tablets",
+  "catalogue_sku": "ATBR009",
+  "url": "https://www.americanremedies.in/product/robican-500-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Robican-500-Tab-3D.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-2439",
+  "sr": 2439,
+  "name": "SACUFOX V 100MG",
+  "list_generic": "SACUBITRIL + VALSARTAN",
+  "status": "matched",
+  "catalogue_name": "Sacufox V 100 Tablets",
+  "catalogue_sku": "ATBS025",
+  "url": "https://www.americanremedies.in/product/sacufox-v-100-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/sacufox-v-100.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-2440",
+  "sr": 2440,
+  "name": "SACUFOX V 50MG",
+  "list_generic": "SACUBITRIL + VALSARTAN",
+  "status": "matched",
+  "catalogue_name": "Sacufox V 50 Tablets",
+  "catalogue_sku": "ATBS024",
+  "url": "https://www.americanremedies.in/product/sacufox-v-50-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/sacufox-v-50.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-2719",
+  "sr": 2719,
+  "name": "TAMOXICAN 10MG",
+  "list_generic": "TAMOXIFEN",
+  "status": "matched",
+  "catalogue_name": "Tamoxican 10 Tablets",
+  "catalogue_sku": "ATBT001",
+  "url": "https://www.americanremedies.in/product/tamoxican-10-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2026/02/Tamoxican-10-1.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-2720",
+  "sr": 2720,
+  "name": "TAMOXICAN 20MG",
+  "list_generic": "TAMOXIFEN",
+  "status": "matched",
+  "catalogue_name": "Tamoxican 20 Tablets",
+  "catalogue_sku": "ATBT002",
+  "url": "https://www.americanremedies.in/product/tamoxican-20-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2026/02/TAMOXICAN-20.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-2945",
+  "sr": 2945,
+  "name": "TRAZOCAN 100MG",
+  "list_generic": "TRAZODONE",
+  "status": "matched",
+  "catalogue_name": "Trazocan 100 Tablets",
+  "catalogue_sku": "ATBT015",
+  "url": "https://www.americanremedies.in/product/trazocan-100-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Trazocan-100.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-2946",
+  "sr": 2946,
+  "name": "TRAZOCAN 50MG",
+  "list_generic": "TRAZODONE",
+  "status": "matched",
+  "catalogue_name": "TRAZOCAN 50",
+  "catalogue_sku": "",
+  "url": "https://www.americanremedies.in/product/trazocan-50/",
+  "composition": "",
+  "catalogue_form": null,
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Trazocan-50-Tab.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-3015",
+  "sr": 3015,
+  "name": "TRYPTICAN 10MG",
+  "list_generic": "AMITRIPTYLINE",
+  "status": "matched",
+  "catalogue_name": "Tryptican 10 Tablets",
+  "catalogue_sku": "ATBT021",
+  "url": "https://www.americanremedies.in/product/tryptican-10-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Tryptican-10.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-3016",
+  "sr": 3016,
+  "name": "TRYPTICAN 25MG",
+  "list_generic": "AMITRIPTYLINE",
+  "status": "matched",
+  "catalogue_name": "Tryptican 25 Tablets",
+  "catalogue_sku": "ATBT022",
+  "url": "https://www.americanremedies.in/product/tryptican-25-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Tryptican-25.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-3058",
+  "sr": 3058,
+  "name": "VALPODIUM 200MG",
+  "list_generic": "Valproate 200mg, Valproic Acid 87mg",
+  "status": "matched",
+  "catalogue_name": "Valpodium 200 Tablets",
+  "catalogue_sku": "ATBV013",
+  "url": "https://www.americanremedies.in/product/valpodium-200-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2026/02/Valpodium-200-Tab.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-3059",
+  "sr": 3059,
+  "name": "VALPODIUM 500 CR",
+  "list_generic": "CONTROLLED-RELEASE TABLETS OF SODIUM VALPROATE AND VALPROIC ACID",
+  "status": "matched",
+  "catalogue_name": "Valpodium 500 CR Tablets",
+  "catalogue_sku": "ATBV004",
+  "url": "https://www.americanremedies.in/product/valpodium-500-cr-tablets/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Valpodium-500-Tab.jpg"
+  ]
+ },
+ {
+  "sku": "IMP-3155",
+  "sr": 3155,
+  "name": "VORICONAZ 200MG INJ",
+  "list_generic": "VORICONAZOLE",
+  "status": "matched",
+  "catalogue_name": "Voriconaz 200 Injection",
+  "catalogue_sku": "",
+  "url": "https://www.americanremedies.in/product/voriconaz-200/",
+  "composition": "",
+  "catalogue_form": "INJECTION",
+  "list_form": "INJECTION",
+  "images": [
+   "https://www.americanremedies.in/wp-content/uploads/2025/05/Voriconaz-200-Inj.jpg"
+  ]
+ }
+]

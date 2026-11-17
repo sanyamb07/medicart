@@ -1,0 +1,86 @@
+# MediCart local development stack.
+#
+# Default (`make dev`) runs ONLY Postgres here, with the Go API and Vite dev
+# server running natively for fast reload. Use the `full` profile to run the
+# API in Docker too (`docker compose --profile full up`).
+#
+# Host port 55432 is deliberate: this machine already has a Postgres on 5432.
+
+services:
+  db:
+    image: postgres:16.4-alpine
+    container_name: medicart-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: medicart
+      POSTGRES_PASSWORD: medicart_dev_pw
+      POSTGRES_DB: medicart
+      # Deterministic collation so ORDER BY matches between machines.
+      POSTGRES_INITDB_ARGS: "--encoding=UTF8 --locale=C"
+    ports:
+      - "55432:5432"
+    volumes:
+      - medicart_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U medicart -d medicart"]
+      interval: 3s
+      timeout: 5s
+      retries: 20
+
+  # Lightweight DB browser. `docker compose --profile tools up -d adminer`
+  adminer:
+    image: adminer:4.8.1-standalone
+    container_name: medicart-adminer
+    restart: unless-stopped
+    profiles: ["tools"]
+    ports:
+      - "8081:8080"
+    environment:
+      ADMINER_DEFAULT_SERVER: db
+    depends_on:
+      db:
+        condition: service_healthy
+
+  api:
+    build:
+      context: ./services/api
+      dockerfile: Dockerfile
+    container_name: medicart-api
+    restart: unless-stopped
+    profiles: ["full"]
+    env_file: .env
+    environment:
+      # Inside the compose network the DB is reachable as db:5432.
+      DATABASE_URL: postgres://medicart:medicart_dev_pw@db:5432/medicart?sslmode=disable
+      API_PORT: "8080"
+    ports:
+      - "8080:8080"
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "/app/api", "-healthcheck"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  web:
+    build:
+      context: ./apps/web
+      dockerfile: Dockerfile
+      args:
+        # Baked in at build time (Vite inlines import.meta.env). The browser
+        # reaches the API on the host-published port, same as native dev.
+        VITE_API_BASE_URL: http://localhost:8080
+    container_name: medicart-web
+    restart: unless-stopped
+    profiles: ["full"]
+    ports:
+      - "5173:80"
+    depends_on:
+      api:
+        condition: service_healthy
+
+volumes:
+  medicart_pgdata:
+    name: medicart_pgdata

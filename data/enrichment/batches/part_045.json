@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2352,
+  "name": "REFAXINOL 400MG",
+  "generic": "RIFAXIMIN",
+  "price": "15",
+  "sku": "IMP-2352"
+ },
+ {
+  "sr": 2353,
+  "name": "REFAXINOL 550MG",
+  "generic": "RIFAXIMIN",
+  "price": "18.5",
+  "sku": "IMP-2353"
+ },
+ {
+  "sr": 2354,
+  "name": "REGESTRONE TAB",
+  "generic": "NORETHISTERONE",
+  "price": "5",
+  "sku": "IMP-2354"
+ },
+ {
+  "sr": 2355,
+  "name": "RELGIN 1",
+  "generic": "RASAGILINE",
+  "price": "17",
+  "sku": "IMP-2355"
+ },
+ {
+  "sr": 2356,
+  "name": "RELIPOIETIN 10000IU INJ",
+  "generic": "ERYTHROPOIETIN",
+  "price": "475",
+  "sku": "IMP-2356"
+ },
+ {
+  "sr": 2357,
+  "name": "RELIPOIETIN 2000",
+  "generic": "ERYTHROPOIETIN",
+  "price": "230",
+  "sku": "IMP-2357"
+ },
+ {
+  "sr": 2358,
+  "name": "RELIPOIETIN 4000",
+  "generic": "ERYTHROPOIETIN",
+  "price": "230",
+  "sku": "IMP-2358"
+ },
+ {
+  "sr": 2359,
+  "name": "RELITEST-M VIAL.",
+  "generic": "TESTOSTERONE MIX COMPOUND",
+  "price": "2",
+  "sku": "IMP-2359"
+ },
+ {
+  "sr": 2360,
+  "name": "REMOQUEEN 15MG",
+  "generic": "MIRTAZAPINE",
+  "price": "2.5",
+  "sku": "IMP-2360"
+ },
+ {
+  "sr": 2361,
+  "name": "REMOQUEEN 30MG",
+  "generic": "MIRTAZAPINE",
+  "price": "4.5",
+  "sku": "IMP-2361"
+ },
+ {
+  "sr": 2362,
+  "name": "REMOQUEEN 7.5MG",
+  "generic": "MIRTAZAPINE",
+  "price": "2",
+  "sku": "IMP-2362"
+ },
+ {
+  "sr": 2363,
+  "name": "RENOCEL 10000IU",
+  "generic": "RECOMBINANT HUMAN ERYTHROPOIETIN",
+  "price": "1975",
+  "sku": "IMP-2363"
+ },
+ {
+  "sr": 2364,
+  "name": "RENOCEL 2000IU",
+  "generic": "RECOMBINANT HUMAN ERYTHROPOIETIN",
+  "price": "170",
+  "sku": "IMP-2364"
+ },
+ {
+  "sr": 2365,
+  "name": "RENOCEL 4000IU",
+  "generic": "RECOMBINANT HUMAN ERYTHROPOIETIN",
+  "price": "1185",
+  "sku": "IMP-2365"
+ },
+ {
+  "sr": 2366,
+  "name": "RENOCRIT 10000IU INJ",
+  "generic": "Erythropoietin",
+  "price": "680",
+  "sku": "IMP-2366"
+ },
+ {
+  "sr": 2367,
+  "name": "RENOCRIT 4000IU",
+  "generic": "Erythropoietin",
+  "price": "200",
+  "sku": "IMP-2367"
+ },
+ {
+  "sr": 2368,
+  "name": "RESPIDON 1MG",
+  "generic": "RISPERIDONE",
+  "price": "2.5",
+  "sku": "IMP-2368"
+ },
+ {
+  "sr": 2369,
+  "name": "RESPIDON 2MG",
+  "generic": "RISPERIDONE",
+  "price": "4",
+  "sku": "IMP-2369"
+ },
+ {
+  "sr": 2370,
+  "name": "RESTASIS 0.05MG",
+  "generic": "CYCLOSPORINE",
+  "price": "2060",
+  "sku": "IMP-2370"
+ },
+ {
+  "sr": 2371,
+  "name": "RESTFINE TAB",
+  "generic": "MELATONIN",
+  "price": "5.5",
+  "sku": "IMP-2371"
+ },
+ {
+  "sr": 2372,
+  "name": "RESTILIN 250MG",
+  "generic": "TETRACYCLINE",
+  "price": "2",
+  "sku": "IMP-2372"
+ },
+ {
+  "sr": 2373,
+  "name": "RESTILIN 500MG",
+  "generic": "TETRACYCLINE",
+  "price": "4.5",
+  "sku": "IMP-2373"
+ },
+ {
+  "sr": 2374,
+  "name": "RET GROW A 0.025%",
+  "generic": "TRETINOIN",
+  "price": "25",
+  "sku": "IMP-2374"
+ },
+ {
+  "sr": 2375,
+  "name": "RET GROW A 0.025% CREAM",
+  "generic": "TRETINOIN",
+  "price": "25",
+  "sku": "IMP-2375"
+ },
+ {
+  "sr": 2376,
+  "name": "RET GROW A 0.1% CREAM",
+  "generic": "TRETINOIN",
+  "price": "32",
+  "sku": "IMP-2376"
+ },
+ {
+  "sr": 2377,
+  "name": "RETESTO AMP",
+  "generic": "TESTOSTERONE PROPIONATE",
+  "price": "65",
+  "sku": "IMP-2377"
+ },
+ {
+  "sr": 2378,
+  "name": "REXIGO 120MG 10TAB",
+  "generic": "RELUGOLIX",
+  "price": "210",
+  "sku": "IMP-2378"
+ },
+ {
+  "sr": 2379,
+  "name": "REXIGUT 200MG",
+  "generic": "RIFAXIMIN",
+  "price": "8",
+  "sku": "IMP-2379"
+ },
+ {
+  "sr": 2380,
+  "name": "REXIGUT 400 TAB",
+  "generic": "RIFAXIMIN",
+  "price": "16",
+  "sku": "IMP-2380"
+ },
+ {
+  "sr": 2381,
+  "name": "REXIGUT 550MG",
+  "generic": "RIFAXIMIN",
+  "price": "20",
+  "sku": "IMP-2381"
+ },
+ {
+  "sr": 2382,
+  "name": "REXIPRA 10MG",
+  "generic": "ESCITALOPRAM",
+  "price": "8.5",
+  "sku": "IMP-2382"
+ },
+ {
+  "sr": 2383,
+  "name": "RIBNOID 200MG",
+  "generic": "RIBAVIRIN",
+  "price": "22.5",
+  "sku": "IMP-2383"
+ },
+ {
+  "sr": 2384,
+  "name": "RIBUTIN CAP",
+  "generic": "RIFABUTIN",
+  "price": "40",
+  "sku": "IMP-2384"
+ },
+ {
+  "sr": 2385,
+  "name": "RICOVIR EM TAB",
+  "generic": "EMTRICITABINE AND TENOFOVIR DISOPROXIL FUMARATE",
+  "price": "20",
+  "sku": "IMP-2385"
+ },
+ {
+  "sr": 2386,
+  "name": "RIFAGUT 550MG",
+  "generic": "RIFAXIMIN",
+  "price": "42",
+  "sku": "IMP-2386"
+ },
+ {
+  "sr": 2387,
+  "name": "RIFAXIHEAL 400MG",
+  "generic": "RIFAXIMIN",
+  "price": "15",
+  "sku": "IMP-2387"
+ },
+ {
+  "sr": 2388,
+  "name": "RIFAXIHEAL 550MG",
+  "generic": "RIFAXIMIN",
+  "price": "20",
+  "sku": "IMP-2388"
+ },
+ {
+  "sr": 2389,
+  "name": "RIFAXISIGN 550MG",
+  "generic": "RIFAXIMIN",
+  "price": "17",
+  "sku": "IMP-2389"
+ },
+ {
+  "sr": 2391,
+  "name": "RIPTIN 75MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "3",
+  "sku": "IMP-2391"
+ },
+ {
+  "sr": 2392,
+  "name": "RISCAN 1MG",
+  "generic": "RISPERIDONE",
+  "price": "1",
+  "sku": "IMP-2392"
+ },
+ {
+  "sr": 2393,
+  "name": "RISCAN 2MG",
+  "generic": "RISPERIDONE",
+  "price": "1",
+  "sku": "IMP-2393"
+ },
+ {
+  "sr": 2394,
+  "name": "RISDONE 1MG",
+  "generic": "RISPERIDONE",
+  "price": "2.5",
+  "sku": "IMP-2394"
+ },
+ {
+  "sr": 2395,
+  "name": "RIVAJON 20MG",
+  "generic": "RIVAROXABAN",
+  "price": "4.5",
+  "sku": "IMP-2395"
+ },
+ {
+  "sr": 2396,
+  "name": "RIVAMER 1.5MG",
+  "generic": "RIVASTIGMINE",
+  "price": "16",
+  "sku": "IMP-2396"
+ },
+ {
+  "sr": 2397,
+  "name": "RIVARIGHT 20MG",
+  "generic": "RIVAROXABAN",
+  "price": "4.5",
+  "sku": "IMP-2397"
+ },
+ {
+  "sr": 2398,
+  "name": "RIVASMART 20MG",
+  "generic": "RIVAROXABAN",
+  "price": "4.5",
+  "sku": "IMP-2398"
+ },
+ {
+  "sr": 2399,
+  "name": "RIXAFIN 550MG",
+  "generic": "RIFAXIMIN",
+  "price": "18",
+  "sku": "IMP-2399"
+ },
+ {
+  "sr": 2400,
+  "name": "RIZAFINE 10MG",
+  "generic": "RIZATRIPTAN",
+  "price": "19.5",
+  "sku": "IMP-2400"
+ },
+ {
+  "sr": 2401,
+  "name": "RIZATOP 10MG",
+  "generic": "RIZATRIPTAN",
+  "price": "19.5",
+  "sku": "IMP-2401"
+ },
+ {
+  "sr": 2402,
+  "name": "ROBICAN 500MG",
+  "generic": "METHOCARMABOL",
+  "price": "3.5",
+  "sku": "IMP-2402"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1942,
+  "name": "NEOSPORIN ANTIBIOTIC OINT 10GM",
+  "generic": "BACITRACIN + NEOMYCIN + POLYMYXIN B",
+  "price": "110",
+  "sku": "IMP-1942"
+ },
+ {
+  "sr": 1943,
+  "name": "NEOSPORIN H OINT 5GM",
+  "generic": "BACITRACIN + NEOMYCIN + POLYMYXIN B",
+  "price": "72",
+  "sku": "IMP-1943"
+ },
+ {
+  "sr": 1944,
+  "name": "NEOSPORIN SKIN OINT 30GM",
+  "generic": "BACITRACIN + NEOMYCIN + POLYMYXIN B",
+  "price": "175",
+  "sku": "IMP-1944"
+ },
+ {
+  "sr": 1945,
+  "name": "NEPTAZ 50MG",
+  "generic": "SACUBITRIL+ VALSARTAN",
+  "price": "21",
+  "sku": "IMP-1945"
+ },
+ {
+  "sr": 1946,
+  "name": "NERVIASH 450MG",
+  "generic": "PREGABALIN",
+  "price": "5.5",
+  "sku": "IMP-1946"
+ },
+ {
+  "sr": 1947,
+  "name": "NERVIGESIC 150MG",
+  "generic": "PREGABALIN",
+  "price": "2.5",
+  "sku": "IMP-1947"
+ },
+ {
+  "sr": 1948,
+  "name": "NERVIGESIC 300MG",
+  "generic": "PREGABALIN",
+  "price": "4.5",
+  "sku": "IMP-1948"
+ },
+ {
+  "sr": 1949,
+  "name": "NERVIGESIC 75MG",
+  "generic": "PREGABALIN",
+  "price": "2",
+  "sku": "IMP-1949"
+ },
+ {
+  "sr": 1950,
+  "name": "NERVIGUARD 150MG",
+  "generic": "PREGABALIN",
+  "price": "2",
+  "sku": "IMP-1950"
+ },
+ {
+  "sr": 1951,
+  "name": "NERVIGUARD 300MG",
+  "generic": "PREGABALIN",
+  "price": "4",
+  "sku": "IMP-1951"
+ },
+ {
+  "sr": 1952,
+  "name": "NERVISIGN 300MG",
+  "generic": "PREGABALIN",
+  "price": "4",
+  "sku": "IMP-1952"
+ },
+ {
+  "sr": 1953,
+  "name": "NERVISMART 300MG",
+  "generic": "PREGABALIN",
+  "price": "4",
+  "sku": "IMP-1953"
+ },
+ {
+  "sr": 1954,
+  "name": "NERVISMART 450MG",
+  "generic": "PREGABALIN",
+  "price": "6",
+  "sku": "IMP-1954"
+ },
+ {
+  "sr": 1955,
+  "name": "NEULOX 30 MG",
+  "generic": "DULOXETINE",
+  "price": "4",
+  "sku": "IMP-1955"
+ },
+ {
+  "sr": 1956,
+  "name": "NEULOX 60MG",
+  "generic": "DULOXETINE",
+  "price": "6",
+  "sku": "IMP-1956"
+ },
+ {
+  "sr": 1957,
+  "name": "NEURO SELIRON 300MG",
+  "generic": "PREGABALIN",
+  "price": "4",
+  "sku": "IMP-1957"
+ },
+ {
+  "sr": 1958,
+  "name": "NEUROBION FORTE TAB",
+  "generic": "VITAMIN B1 B6 B12",
+  "price": "1.5",
+  "sku": "IMP-1958"
+ },
+ {
+  "sr": 1959,
+  "name": "NEUROLAB INJ",
+  "generic": "VITAMIN B1 B6 B12",
+  "price": "6",
+  "sku": "IMP-1959"
+ },
+ {
+  "sr": 1960,
+  "name": "NEUROPEN TAB",
+  "generic": "VITAMIN B1 B2  B6 AND B12",
+  "price": "1",
+  "sku": "IMP-1960"
+ },
+ {
+  "sr": 1961,
+  "name": "NEXITO 10MG",
+  "generic": "ESCITALOPRAM",
+  "price": "8.5",
+  "sku": "IMP-1961"
+ },
+ {
+  "sr": 1962,
+  "name": "NEXITO 5MG",
+  "generic": "ESCITALOPRAM",
+  "price": "5",
+  "sku": "IMP-1962"
+ },
+ {
+  "sr": 1963,
+  "name": "NEXPRO 40 TABS",
+  "generic": "ESOMEPRAZOLE",
+  "price": "11",
+  "sku": "IMP-1963"
+ },
+ {
+  "sr": 1964,
+  "name": "NEZAFLO NASAL SPRAY",
+  "generic": "FLUTICASONE PROPIONATE",
+  "price": "330",
+  "sku": "IMP-1964"
+ },
+ {
+  "sr": 1965,
+  "name": "NFD-RETARD 30MG",
+  "generic": "NIFEDIPINE RETARD SUSTAINED",
+  "price": "2.5",
+  "sku": "IMP-1965"
+ },
+ {
+  "sr": 1966,
+  "name": "NICARDIA CAP 5MG",
+  "generic": "NIFEDIPINE",
+  "price": "2",
+  "sku": "IMP-1966"
+ },
+ {
+  "sr": 1967,
+  "name": "NICARDIA RETARD 10",
+  "generic": "NIFEDIPINE",
+  "price": "5",
+  "sku": "IMP-1967"
+ },
+ {
+  "sr": 1968,
+  "name": "NICARDIA RETARD 20MG",
+  "generic": "NIFEDIPINE",
+  "price": "4.5",
+  "sku": "IMP-1968"
+ },
+ {
+  "sr": 1969,
+  "name": "NICERBIUM TAB",
+  "generic": "NICERGOLINE",
+  "price": "56",
+  "sku": "IMP-1969"
+ },
+ {
+  "sr": 1970,
+  "name": "NICIP PLUS",
+  "generic": "NIMUSULIDE + PARACETAMOL",
+  "price": "1.5",
+  "sku": "IMP-1970"
+ },
+ {
+  "sr": 1971,
+  "name": "NICLOBEST 500MG",
+  "generic": "NICLOSAMIDE",
+  "price": "2.5",
+  "sku": "IMP-1971"
+ },
+ {
+  "sr": 1972,
+  "name": "NICLOCHRIST 500MG",
+  "generic": "NICLOSAMIDE",
+  "price": "3",
+  "sku": "IMP-1972"
+ },
+ {
+  "sr": 1973,
+  "name": "NICLOSIG 500MG",
+  "generic": "NICLOSAMIDE",
+  "price": "3.5",
+  "sku": "IMP-1973"
+ },
+ {
+  "sr": 1974,
+  "name": "NICODUCE OD 100MG",
+  "generic": "NICORANDIL",
+  "price": "31",
+  "sku": "IMP-1974"
+ },
+ {
+  "sr": 1975,
+  "name": "NIDDMOSE 25MG",
+  "generic": "ACARBOSE",
+  "price": "3",
+  "sku": "IMP-1975"
+ },
+ {
+  "sr": 1976,
+  "name": "NIDDMOSE 50MG",
+  "generic": "ACARBOSE",
+  "price": "5",
+  "sku": "IMP-1976"
+ },
+ {
+  "sr": 1977,
+  "name": "NIFEWICK XL 30MG",
+  "generic": "NIFEDIPINE",
+  "price": "1.5",
+  "sku": "IMP-1977"
+ },
+ {
+  "sr": 1978,
+  "name": "NIFTAS 50MG",
+  "generic": "NITROFURANTOIN",
+  "price": "7",
+  "sku": "IMP-1978"
+ },
+ {
+  "sr": 1979,
+  "name": "NIKORAN OD 10MG",
+  "generic": "NICORANDIL",
+  "price": "28",
+  "sku": "IMP-1979"
+ },
+ {
+  "sr": 1980,
+  "name": "NIKORAN-OD-20 TAB.",
+  "generic": "NICORANDIL",
+  "price": "51",
+  "sku": "IMP-1980"
+ },
+ {
+  "sr": 1981,
+  "name": "NIMORPHAGE 30MG",
+  "generic": "NIMODIPINE",
+  "price": "2.5",
+  "sku": "IMP-1981"
+ },
+ {
+  "sr": 1982,
+  "name": "NINDANIB 150MG",
+  "generic": "NINTEDANIB",
+  "price": "80",
+  "sku": "IMP-1982"
+ },
+ {
+  "sr": 1983,
+  "name": "NINLIB 200MG",
+  "generic": "NILOTINIB",
+  "price": "47",
+  "sku": "IMP-1983"
+ },
+ {
+  "sr": 1984,
+  "name": "NINTEDONE 150MG",
+  "generic": "NINTEDANIB",
+  "price": "72",
+  "sku": "IMP-1984"
+ },
+ {
+  "sr": 1985,
+  "name": "NINTIB 100MG",
+  "generic": "NINTEDANIB",
+  "price": "62",
+  "sku": "IMP-1985"
+ },
+ {
+  "sr": 1986,
+  "name": "NINTIB 150MG CAP",
+  "generic": "NINTEDANIB",
+  "price": "75",
+  "sku": "IMP-1986"
+ },
+ {
+  "sr": 1987,
+  "name": "NITRO G 2.6MG",
+  "generic": "Nitroglycerin",
+  "price": "2",
+  "sku": "IMP-1987"
+ },
+ {
+  "sr": 1988,
+  "name": "NITROBACT 100MG",
+  "generic": "NITROFURANTOIN",
+  "price": "8",
+  "sku": "IMP-1988"
+ },
+ {
+  "sr": 1989,
+  "name": "NITROBACT 100MG CAP",
+  "generic": "NITROFURANTOIN",
+  "price": "8",
+  "sku": "IMP-1989"
+ },
+ {
+  "sr": 1990,
+  "name": "NITROCIN INJ 5ML",
+  "generic": "NITROGLYCERIN",
+  "price": "30",
+  "sku": "IMP-1990"
+ },
+ {
+  "sr": 1991,
+  "name": "NITROROIN 100MG",
+  "generic": "NITROGLYCERIN",
+  "price": "2.5",
+  "sku": "IMP-1991"
+ }
+]

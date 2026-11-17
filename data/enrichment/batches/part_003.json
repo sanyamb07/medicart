@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 210,
+  "name": "AUGMENTIN R 1000MG",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "54",
+  "sku": "IMP-0210"
+ },
+ {
+  "sr": 211,
+  "name": "AUGMENTIN R 625MG",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "17",
+  "sku": "IMP-0211"
+ },
+ {
+  "sr": 212,
+  "name": "AUGUCLAV 625MG",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "8",
+  "sku": "IMP-0212"
+ },
+ {
+  "sr": 213,
+  "name": "AUROGRA 100MG",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-0213"
+ },
+ {
+  "sr": 214,
+  "name": "AVAFORCE 100MG",
+  "generic": "AVANAFIL",
+  "price": "48",
+  "sku": "IMP-0214"
+ },
+ {
+  "sr": 215,
+  "name": "AVAFORCE 200MG",
+  "generic": "AVANAFIL",
+  "price": "76",
+  "sku": "IMP-0215"
+ },
+ {
+  "sr": 216,
+  "name": "AVAGRA 100MG",
+  "generic": "AVANAFIL",
+  "price": "25.5",
+  "sku": "IMP-0216"
+ },
+ {
+  "sr": 217,
+  "name": "AVANA 100MG",
+  "generic": "AVANAFIL",
+  "price": "50",
+  "sku": "IMP-0217"
+ },
+ {
+  "sr": 218,
+  "name": "AVANA 200MG",
+  "generic": "AVANAFIL",
+  "price": "90",
+  "sku": "IMP-0218"
+ },
+ {
+  "sr": 219,
+  "name": "AVANA 50MG",
+  "generic": "AVANAFIL",
+  "price": "22",
+  "sku": "IMP-0219"
+ },
+ {
+  "sr": 220,
+  "name": "AVBET 100MG",
+  "generic": "ARTESUNATE",
+  "price": "10",
+  "sku": "IMP-0220"
+ },
+ {
+  "sr": 221,
+  "name": "AVOL 200MG CR",
+  "generic": "SODIUM VALPROATE VALPROIC ACID",
+  "price": "2",
+  "sku": "IMP-0221"
+ },
+ {
+  "sr": 222,
+  "name": "AVOL 500MG CR",
+  "generic": "SODIUM VALPROATE VALPROIC ACID",
+  "price": "3.5",
+  "sku": "IMP-0222"
+ },
+ {
+  "sr": 223,
+  "name": "AVOMIN TAB",
+  "generic": "PROMETHAZINE HCL",
+  "price": "5",
+  "sku": "IMP-0223"
+ },
+ {
+  "sr": 224,
+  "name": "AVONZA TAB",
+  "generic": "EFAVIRENZ+LAMIVUDINE+TENOFOVIR DISOPROXIL FUMARATE",
+  "price": "90",
+  "sku": "IMP-0224"
+ },
+ {
+  "sr": 225,
+  "name": "AVOSTERIDE 0.5MG",
+  "generic": "DUTASTERIDE",
+  "price": "2",
+  "sku": "IMP-0225"
+ },
+ {
+  "sr": 226,
+  "name": "AXENTRI 150MG",
+  "generic": "MARAVIROC",
+  "price": "142",
+  "sku": "IMP-0226"
+ },
+ {
+  "sr": 227,
+  "name": "AXEPTA 10MG",
+  "generic": "ATOMOXETINE",
+  "price": "10",
+  "sku": "IMP-0227"
+ },
+ {
+  "sr": 228,
+  "name": "AXEPTA 18MG",
+  "generic": "ATOMOXETINE",
+  "price": "16",
+  "sku": "IMP-0228"
+ },
+ {
+  "sr": 229,
+  "name": "AXEPTA 25MG",
+  "generic": "ATOMOXETINE",
+  "price": "22",
+  "sku": "IMP-0229"
+ },
+ {
+  "sr": 230,
+  "name": "AXEPTA 40MG",
+  "generic": "ATOMOXETINE",
+  "price": "30.5",
+  "sku": "IMP-0230"
+ },
+ {
+  "sr": 231,
+  "name": "AXEPTA 60MG",
+  "generic": "ATOMOXETINE",
+  "price": "41",
+  "sku": "IMP-0231"
+ },
+ {
+  "sr": 232,
+  "name": "AXOVIR 500 INJ",
+  "generic": "ACICLOVIR",
+  "price": "250",
+  "sku": "IMP-0232"
+ },
+ {
+  "sr": 233,
+  "name": "AYUR SLIM CAP",
+  "generic": "HERBAL CAPSULES",
+  "price": "4.5",
+  "sku": "IMP-0233"
+ },
+ {
+  "sr": 234,
+  "name": "AZACAN 50MG",
+  "generic": "AZATHIOPRINE",
+  "price": "3",
+  "sku": "IMP-0234"
+ },
+ {
+  "sr": 235,
+  "name": "AZAPINE 50MG",
+  "generic": "AZATHIOPRINE",
+  "price": "3",
+  "sku": "IMP-0235"
+ },
+ {
+  "sr": 236,
+  "name": "AZAQUEST 50MG",
+  "generic": "AZATHIOPRINE",
+  "price": "4",
+  "sku": "IMP-0236"
+ },
+ {
+  "sr": 237,
+  "name": "AZEE 250MG",
+  "generic": "AZITHROMYCIN",
+  "price": "11",
+  "sku": "IMP-0237"
+ },
+ {
+  "sr": 238,
+  "name": "AZEE 500MG",
+  "generic": "AZITHROMYCIN",
+  "price": "22",
+  "sku": "IMP-0238"
+ },
+ {
+  "sr": 239,
+  "name": "AZEETOP 100MG DT",
+  "generic": "AZITHROMYCIN",
+  "price": "3.5",
+  "sku": "IMP-0239"
+ },
+ {
+  "sr": 240,
+  "name": "AZEETOP 1GM",
+  "generic": "AZITHROMYCIN",
+  "price": "32",
+  "sku": "IMP-0240"
+ },
+ {
+  "sr": 241,
+  "name": "AZEETOP 500MG",
+  "generic": "AZITHROMYCIN",
+  "price": "14",
+  "sku": "IMP-0241"
+ },
+ {
+  "sr": 242,
+  "name": "AZELAX 20% GEL",
+  "generic": "AZELAIC ACID",
+  "price": "100",
+  "sku": "IMP-0242"
+ },
+ {
+  "sr": 243,
+  "name": "AZELAX CREAM 20GM",
+  "generic": "AZELAIC ACID",
+  "price": "100",
+  "sku": "IMP-0243"
+ },
+ {
+  "sr": 244,
+  "name": "AZICIP 100MG ORAL SYRP 15ML",
+  "generic": "AZITHROMYCIN",
+  "price": "22",
+  "sku": "IMP-0244"
+ },
+ {
+  "sr": 245,
+  "name": "AZICIP 200MG 15ML",
+  "generic": "AZITHROMYCIN",
+  "price": "30",
+  "sku": "IMP-0245"
+ },
+ {
+  "sr": 246,
+  "name": "AZICIP 250MG",
+  "generic": "AZITHROMYCIN",
+  "price": "7",
+  "sku": "IMP-0246"
+ },
+ {
+  "sr": 247,
+  "name": "AZICIP 500MG",
+  "generic": "AZITHROMYCIN",
+  "price": "15.5",
+  "sku": "IMP-0247"
+ },
+ {
+  "sr": 248,
+  "name": "AZIDERM 10% CREAM",
+  "generic": "AZELAIC ACID",
+  "price": "260",
+  "sku": "IMP-0248"
+ },
+ {
+  "sr": 249,
+  "name": "AZIDERM 20% CREAM",
+  "generic": "AZELAIC ACID",
+  "price": "250",
+  "sku": "IMP-0249"
+ },
+ {
+  "sr": 250,
+  "name": "AZIFAST GEL",
+  "generic": "AZITHROMYCIN",
+  "price": "95",
+  "sku": "IMP-0250"
+ },
+ {
+  "sr": 251,
+  "name": "AZIHEART 500MG",
+  "generic": "AZITHROMYCIN",
+  "price": "13",
+  "sku": "IMP-0251"
+ },
+ {
+  "sr": 252,
+  "name": "AZILAB 500MG",
+  "generic": "AZITHROMYCIN",
+  "price": "11",
+  "sku": "IMP-0252"
+ },
+ {
+  "sr": 253,
+  "name": "AZISIGN 250MG",
+  "generic": "AZITHROMYCIN",
+  "price": "6",
+  "sku": "IMP-0253"
+ },
+ {
+  "sr": 254,
+  "name": "AZISIGN 500MG",
+  "generic": "AZITHROMYCIN",
+  "price": "9",
+  "sku": "IMP-0254"
+ },
+ {
+  "sr": 255,
+  "name": "AZITHRAL EYE DROPS 3ML",
+  "generic": "AZITHROMYCIN",
+  "price": "135",
+  "sku": "IMP-0255"
+ },
+ {
+  "sr": 256,
+  "name": "AZITHRAL EYE OINT 5GM",
+  "generic": "AZITHROMYCIN",
+  "price": "130",
+  "sku": "IMP-0256"
+ },
+ {
+  "sr": 257,
+  "name": "AZITHROMAX 250MG",
+  "generic": "AZITHROMYCIN",
+  "price": "5",
+  "sku": "IMP-0257"
+ },
+ {
+  "sr": 258,
+  "name": "AZITHROMAX 500MG",
+  "generic": "AZITHROMYCIN",
+  "price": "9",
+  "sku": "IMP-0258"
+ },
+ {
+  "sr": 259,
+  "name": "AZIZOOM 250MG",
+  "generic": "AZITHROMYCIN",
+  "price": "4.5",
+  "sku": "IMP-0259"
+ }
+]

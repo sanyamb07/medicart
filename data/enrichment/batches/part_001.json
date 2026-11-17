@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 101,
+  "name": "AMOXYHEAL CV 625MG",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "9",
+  "sku": "IMP-0101"
+ },
+ {
+  "sr": 102,
+  "name": "AMOXYHEAL CV DRY SYRUP 30ML",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "42",
+  "sku": "IMP-0102"
+ },
+ {
+  "sr": 103,
+  "name": "AMPOXIN 500MG",
+  "generic": "AMPICILLIN+CLOXACILLIN",
+  "price": "5.5",
+  "sku": "IMP-0103"
+ },
+ {
+  "sr": 104,
+  "name": "AMPOXIN 500MG",
+  "generic": "AMPICILLIN+ CLOXACILLIN",
+  "price": "6.5",
+  "sku": "IMP-0104"
+ },
+ {
+  "sr": 105,
+  "name": "AMPOXIN 500MG",
+  "generic": "AMPICILLIN +CLOXACILLIN",
+  "price": "5.5",
+  "sku": "IMP-0105"
+ },
+ {
+  "sr": 106,
+  "name": "AMRFY CREAM 30GM",
+  "generic": "AMOROLFINE",
+  "price": "295",
+  "sku": "IMP-0106"
+ },
+ {
+  "sr": 107,
+  "name": "AMROLSTAR CREAM 30GM",
+  "generic": "AMOROLFINE",
+  "price": "230",
+  "sku": "IMP-0107"
+ },
+ {
+  "sr": 108,
+  "name": "ANA ASH 1MG",
+  "generic": "ANASTROZOLE",
+  "price": "4.5",
+  "sku": "IMP-0108"
+ },
+ {
+  "sr": 109,
+  "name": "ANABOL TAB",
+  "generic": "ANASTROZOLE",
+  "price": "6",
+  "sku": "IMP-0109"
+ },
+ {
+  "sr": 111,
+  "name": "ANARIDEX 1MG",
+  "generic": "ANASTROZOLE",
+  "price": "7.5",
+  "sku": "IMP-0111"
+ },
+ {
+  "sr": 118,
+  "name": "ANDROFAST 1% GEL",
+  "generic": "TESTOSTERONE",
+  "price": "1280",
+  "sku": "IMP-0118"
+ },
+ {
+  "sr": 120,
+  "name": "ANGIOTENSIN 10MG",
+  "generic": "LISINOPRIL",
+  "price": "1.5",
+  "sku": "IMP-0120"
+ },
+ {
+  "sr": 121,
+  "name": "ANGIOTENSIN 20MG",
+  "generic": "LISINOPRIL",
+  "price": "3.5",
+  "sku": "IMP-0121"
+ },
+ {
+  "sr": 122,
+  "name": "ANGIOTENSIN 5MG",
+  "generic": "LISINOPRIL",
+  "price": "1.25",
+  "sku": "IMP-0122"
+ },
+ {
+  "sr": 123,
+  "name": "ANGIOTESIN 2.5MG",
+  "generic": "LISINOPRIL",
+  "price": "1.25",
+  "sku": "IMP-0123"
+ },
+ {
+  "sr": 125,
+  "name": "ANOVATE CREAM 20GM",
+  "generic": "BECLOMETHASONE-+ LIGNOCAINE + PHENYLEPHRINE",
+  "price": "120",
+  "sku": "IMP-0125"
+ },
+ {
+  "sr": 126,
+  "name": "APCALIS SX ORAL JELLY",
+  "generic": "TADALAFIL",
+  "price": "130",
+  "sku": "IMP-0126"
+ },
+ {
+  "sr": 127,
+  "name": "API-ASH 5MG TAB.",
+  "generic": "Apixaban",
+  "price": "3",
+  "sku": "IMP-0127"
+ },
+ {
+  "sr": 128,
+  "name": "APIEDGE 2.5MG",
+  "generic": "APIXABAN",
+  "price": "2.5",
+  "sku": "IMP-0128"
+ },
+ {
+  "sr": 129,
+  "name": "APIEDGE 5MG",
+  "generic": "APIXABAN",
+  "price": "3",
+  "sku": "IMP-0129"
+ },
+ {
+  "sr": 130,
+  "name": "APIGAT 5MG",
+  "generic": "APIXABAN",
+  "price": "16",
+  "sku": "IMP-0130"
+ },
+ {
+  "sr": 131,
+  "name": "APIGY 5MG",
+  "generic": "APIXABAN",
+  "price": "15.5",
+  "sku": "IMP-0131"
+ },
+ {
+  "sr": 132,
+  "name": "APISMART 2.5MG",
+  "generic": "APIXABAN",
+  "price": "2.5",
+  "sku": "IMP-0132"
+ },
+ {
+  "sr": 133,
+  "name": "APISMART 5MG",
+  "generic": "APIXABAN",
+  "price": "3.5",
+  "sku": "IMP-0133"
+ },
+ {
+  "sr": 134,
+  "name": "APP UP PLUS SYRUP 200ML",
+  "generic": "CYPROHEPTADINE",
+  "price": "44",
+  "sku": "IMP-0134"
+ },
+ {
+  "sr": 135,
+  "name": "APP UP SYP 200ML",
+  "generic": "CYPROHEPTADINE",
+  "price": "42",
+  "sku": "IMP-0135"
+ },
+ {
+  "sr": 136,
+  "name": "APP UP TAB",
+  "generic": "CYPROHEPTADINE",
+  "price": "1",
+  "sku": "IMP-0136"
+ },
+ {
+  "sr": 137,
+  "name": "APPLE ASH 450MG",
+  "generic": "CHLORAMPHENICOL",
+  "price": "13",
+  "sku": "IMP-0137"
+ },
+ {
+  "sr": 138,
+  "name": "APPLICAP I CAP BLISTER",
+  "generic": "CHLOROMYCETIN",
+  "price": "1.25",
+  "sku": "IMP-0138"
+ },
+ {
+  "sr": 139,
+  "name": "APPOQUIL 16MG",
+  "generic": "OCLACITINIB MALEATE",
+  "price": "229",
+  "sku": "IMP-0139"
+ },
+ {
+  "sr": 140,
+  "name": "APPY PEN TAB",
+  "generic": "CYPROHEPTADINE",
+  "price": "1",
+  "sku": "IMP-0140"
+ },
+ {
+  "sr": 141,
+  "name": "APRECAST 30MG",
+  "generic": "APREMILAST",
+  "price": "17.5",
+  "sku": "IMP-0141"
+ },
+ {
+  "sr": 142,
+  "name": "APREZO 20MG",
+  "generic": "APREMILAST",
+  "price": "24",
+  "sku": "IMP-0142"
+ },
+ {
+  "sr": 143,
+  "name": "APREZO 30MG",
+  "generic": "APREMILAST",
+  "price": "27",
+  "sku": "IMP-0143"
+ },
+ {
+  "sr": 144,
+  "name": "AQSUSTEN 50MG VIAL",
+  "generic": "PROGESTERONE",
+  "price": "175",
+  "sku": "IMP-0144"
+ },
+ {
+  "sr": 145,
+  "name": "AQUABOL 100 INJ.",
+  "generic": "Testosterone Injection Suspension",
+  "price": "300",
+  "sku": "IMP-0145"
+ },
+ {
+  "sr": 146,
+  "name": "AQUAVIRON INJ",
+  "generic": "TESTOSTERONE",
+  "price": "172",
+  "sku": "IMP-0146"
+ },
+ {
+  "sr": 147,
+  "name": "ARACHITOL 3L IU INJ",
+  "generic": "VITAMIN D3",
+  "price": "44",
+  "sku": "IMP-0147"
+ },
+ {
+  "sr": 148,
+  "name": "ARACHITOL 6L IU INJ",
+  "generic": "VITAMIN D3",
+  "price": "60",
+  "sku": "IMP-0148"
+ },
+ {
+  "sr": 149,
+  "name": "ARACHITOL NANO SUGER FREE 5ML",
+  "generic": "VITAMIN D3",
+  "price": "85",
+  "sku": "IMP-0149"
+ },
+ {
+  "sr": 150,
+  "name": "ARCOVIT C INJ",
+  "generic": "VITAMIN C INJ",
+  "price": "15",
+  "sku": "IMP-0150"
+ },
+ {
+  "sr": 151,
+  "name": "ARICEP 10 MG",
+  "generic": "DONEPEZIL HCL",
+  "price": "16",
+  "sku": "IMP-0151"
+ },
+ {
+  "sr": 152,
+  "name": "ARICEP 5MG",
+  "generic": "DONEPEZIL",
+  "price": "11",
+  "sku": "IMP-0152"
+ },
+ {
+  "sr": 153,
+  "name": "ARIMEE 1MG",
+  "generic": "ANASTROZOLE",
+  "price": "4.5",
+  "sku": "IMP-0153"
+ },
+ {
+  "sr": 154,
+  "name": "ARIZOLE 10MG",
+  "generic": "ARIPIRAZOLE",
+  "price": "1.5",
+  "sku": "IMP-0154"
+ },
+ {
+  "sr": 155,
+  "name": "ARIZOLE 15MG",
+  "generic": "ARIPIRAZOLE",
+  "price": "2",
+  "sku": "IMP-0155"
+ },
+ {
+  "sr": 156,
+  "name": "ARIZOLE 5MG",
+  "generic": "ARIPIRAZOLE",
+  "price": "1.25",
+  "sku": "IMP-0156"
+ },
+ {
+  "sr": 157,
+  "name": "ARKACAN 100MCG",
+  "generic": "CLONIDINE",
+  "price": "1.5",
+  "sku": "IMP-0157"
+ },
+ {
+  "sr": 158,
+  "name": "ARKAMIN TAB",
+  "generic": "CLONIDINE",
+  "price": "2.5",
+  "sku": "IMP-0158"
+ },
+ {
+  "sr": 159,
+  "name": "ARPICAN 5MG",
+  "generic": "ARIPIRAZOLE",
+  "price": "1.5",
+  "sku": "IMP-0159"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 310,
+  "name": "BETNOVATE GM SKIN CREAM 20GM",
+  "generic": "BETAMETHASONE VALERATE CREAM",
+  "price": "38",
+  "sku": "IMP-0310"
+ },
+ {
+  "sr": 311,
+  "name": "BEXOL TAB",
+  "generic": "TRIHEXYPHENIDYL HCL",
+  "price": "1.5",
+  "sku": "IMP-0311"
+ },
+ {
+  "sr": 312,
+  "name": "BICALUMIDE 50 TAB",
+  "generic": "BICALUMUTIDE",
+  "price": "14",
+  "sku": "IMP-0312"
+ },
+ {
+  "sr": 313,
+  "name": "BICIPHAGE 1000MG",
+  "generic": "METFORMIN HCL",
+  "price": "1.5",
+  "sku": "IMP-0313"
+ },
+ {
+  "sr": 314,
+  "name": "BICIPHAGE 500MG",
+  "generic": "METFORMIN HCL",
+  "price": "1.5",
+  "sku": "IMP-0314"
+ },
+ {
+  "sr": 315,
+  "name": "BICIPHAGE SR 1000MG",
+  "generic": "METFORMIN HCL",
+  "price": "2",
+  "sku": "IMP-0315"
+ },
+ {
+  "sr": 316,
+  "name": "BICIPHAGE SR 500MG",
+  "generic": "METFORMIN HCL",
+  "price": "1.5",
+  "sku": "IMP-0316"
+ },
+ {
+  "sr": 317,
+  "name": "BICOMINE 50MG",
+  "generic": "BICALUTAMIDE",
+  "price": "23",
+  "sku": "IMP-0317"
+ },
+ {
+  "sr": 318,
+  "name": "BILTREE 600MG",
+  "generic": "PRAZIQUANTEL",
+  "price": "17",
+  "sku": "IMP-0318"
+ },
+ {
+  "sr": 319,
+  "name": "BIMAT EYE DROP 3ML",
+  "generic": "BIMATOPROST",
+  "price": "325",
+  "sku": "IMP-0319"
+ },
+ {
+  "sr": 320,
+  "name": "BIODIB 15MG",
+  "generic": "PIOGLITAZONE",
+  "price": "1",
+  "sku": "IMP-0320"
+ },
+ {
+  "sr": 321,
+  "name": "BIODIB 30MG",
+  "generic": "PIOGLITAZONE",
+  "price": "1",
+  "sku": "IMP-0321"
+ },
+ {
+  "sr": 322,
+  "name": "BIOMETHRIN CREAM 30GM",
+  "generic": "PERMETHRIN",
+  "price": "22",
+  "sku": "IMP-0322"
+ },
+ {
+  "sr": 323,
+  "name": "BIOMYCIN 500MG",
+  "generic": "CLARITHROMYCIN",
+  "price": "18",
+  "sku": "IMP-0323"
+ },
+ {
+  "sr": 324,
+  "name": "BIOPIPER-TZ 4.5 INJ",
+  "generic": "PIPERACILLIN-4000MG + TAZOBACTAM-500MG",
+  "price": "212",
+  "sku": "IMP-0324"
+ },
+ {
+  "sr": 325,
+  "name": "BIOVAS 20MG",
+  "generic": "ATORVASTATIN",
+  "price": "1.5",
+  "sku": "IMP-0325"
+ },
+ {
+  "sr": 326,
+  "name": "BISOMAX 10MG",
+  "generic": "BISOPROLOL",
+  "price": "4",
+  "sku": "IMP-0326"
+ },
+ {
+  "sr": 327,
+  "name": "BISOMAX 2.5MG",
+  "generic": "BISOPROLOL",
+  "price": "1.5",
+  "sku": "IMP-0327"
+ },
+ {
+  "sr": 328,
+  "name": "BISOMAX 5MG",
+  "generic": "BISOPROLOL",
+  "price": "2.5",
+  "sku": "IMP-0328"
+ },
+ {
+  "sr": 329,
+  "name": "BIXIBAT 5MG",
+  "generic": "ELOBIXIBAT",
+  "price": "18",
+  "sku": "IMP-0329"
+ },
+ {
+  "sr": 330,
+  "name": "BLUCAN INJ 10ML",
+  "generic": "METHYLENE BLUE",
+  "price": "100",
+  "sku": "IMP-0330"
+ },
+ {
+  "sr": 331,
+  "name": "BLUEFORCE 1 100MG",
+  "generic": "SILDENAFIL",
+  "price": "1",
+  "sku": "IMP-0331"
+ },
+ {
+  "sr": 332,
+  "name": "BLUEFORCE 100MG",
+  "generic": "SILDENAFIL",
+  "price": "1",
+  "sku": "IMP-0332"
+ },
+ {
+  "sr": 333,
+  "name": "BLUEFORCE 1-25MG",
+  "generic": "Sildenafil",
+  "price": "1",
+  "sku": "IMP-0333"
+ },
+ {
+  "sr": 334,
+  "name": "BLUEFORCE 200MG",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-0334"
+ },
+ {
+  "sr": 335,
+  "name": "BLUEFORCE 250MG",
+  "generic": "SILDENAFIL",
+  "price": "2.5",
+  "sku": "IMP-0335"
+ },
+ {
+  "sr": 336,
+  "name": "BOCAINE 2% INJ.",
+  "generic": "Lidocaine",
+  "price": "22",
+  "sku": "IMP-0336"
+ },
+ {
+  "sr": 342,
+  "name": "BONTRESS PRO HAIR SERUM",
+  "generic": "HAIR SUPPLEMENTS",
+  "price": "1200",
+  "sku": "IMP-0342"
+ },
+ {
+  "sr": 343,
+  "name": "BONTRESS PRO SCALP SERUM 60ML",
+  "generic": "HAIR SUPPLEMENTS",
+  "price": "1200",
+  "sku": "IMP-0343"
+ },
+ {
+  "sr": 344,
+  "name": "BONTRESS PRO+SCALP SERUM",
+  "generic": "HAIR SUPPLEMENTS",
+  "price": "680",
+  "sku": "IMP-0344"
+ },
+ {
+  "sr": 345,
+  "name": "BOTOX 100 IU INJ",
+  "generic": "BOTULINUM TOXIN",
+  "price": "13000",
+  "sku": "IMP-0345"
+ },
+ {
+  "sr": 346,
+  "name": "BOTOX 50IU INJ",
+  "generic": "BOTULINUM TOXIN",
+  "price": "7300",
+  "sku": "IMP-0346"
+ },
+ {
+  "sr": 347,
+  "name": "BRILINTA 90MG",
+  "generic": "TICAGRELOR",
+  "price": "28",
+  "sku": "IMP-0347"
+ },
+ {
+  "sr": 348,
+  "name": "BRIMODIN EYE DROP",
+  "generic": "BRIMONIDINE",
+  "price": "250",
+  "sku": "IMP-0348"
+ },
+ {
+  "sr": 349,
+  "name": "BRIMTOFAST 0.03% EYE DROP",
+  "generic": "BRIMONIDINE",
+  "price": "150",
+  "sku": "IMP-0349"
+ },
+ {
+  "sr": 350,
+  "name": "BROMOPRIN 2.5MG",
+  "generic": "BIMATOPROST",
+  "price": "17",
+  "sku": "IMP-0350"
+ },
+ {
+  "sr": 351,
+  "name": "BRUFEN 400MG",
+  "generic": "IBUPROFEN",
+  "price": "1.25",
+  "sku": "IMP-0351"
+ },
+ {
+  "sr": 352,
+  "name": "BRUFEN 600MG",
+  "generic": "IBUPROFEN",
+  "price": "2.5",
+  "sku": "IMP-0352"
+ },
+ {
+  "sr": 353,
+  "name": "BRUSTAN TAB",
+  "generic": "IBUPROFEN",
+  "price": "1.5",
+  "sku": "IMP-0353"
+ },
+ {
+  "sr": 354,
+  "name": "BTN TAB",
+  "generic": "BIOTIN TAB",
+  "price": "12",
+  "sku": "IMP-0354"
+ },
+ {
+  "sr": 355,
+  "name": "BUDASOOTH 0.5MG RES 2ML",
+  "generic": "BUDESONIDE NEBULISER",
+  "price": "10",
+  "sku": "IMP-0355"
+ },
+ {
+  "sr": 356,
+  "name": "BUDECAN RES 0.5MG",
+  "generic": "BUDESONIDE",
+  "price": "10",
+  "sku": "IMP-0356"
+ },
+ {
+  "sr": 357,
+  "name": "BUDECORT 0.5MG 2ML RESP",
+  "generic": "BUDESONIDE",
+  "price": "22",
+  "sku": "IMP-0357"
+ },
+ {
+  "sr": 358,
+  "name": "BUDECORT 100 INHALER 200MD",
+  "generic": "BUDESONIDE",
+  "price": "285",
+  "sku": "IMP-0358"
+ },
+ {
+  "sr": 359,
+  "name": "BUDECORT 200MG INHALER",
+  "generic": "BUDESONIDE",
+  "price": "365",
+  "sku": "IMP-0359"
+ },
+ {
+  "sr": 360,
+  "name": "BUDECORT 400 ROTACAPS",
+  "generic": "BUDESONIDE",
+  "price": "5.5",
+  "sku": "IMP-0360"
+ },
+ {
+  "sr": 361,
+  "name": "BUDECORT RES 1MG",
+  "generic": "BUDESONIDE",
+  "price": "25",
+  "sku": "IMP-0361"
+ },
+ {
+  "sr": 362,
+  "name": "BUDEFINE 1MG RES 2ML",
+  "generic": "BUDESONIDE",
+  "price": "15",
+  "sku": "IMP-0362"
+ },
+ {
+  "sr": 363,
+  "name": "BUDENASE AQ SPRAY",
+  "generic": "BUDESONIDE",
+  "price": "125",
+  "sku": "IMP-0363"
+ },
+ {
+  "sr": 364,
+  "name": "BUDENOL 0.5MG RES",
+  "generic": "BUDESONIDE",
+  "price": "12",
+  "sku": "IMP-0364"
+ }
+]

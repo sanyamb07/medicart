@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2503,
+  "name": "SILECTONE 100MG",
+  "generic": "SPIRONOLACTONE",
+  "price": "5.5",
+  "sku": "IMP-2503"
+ },
+ {
+  "sr": 2504,
+  "name": "SILECTONE 25MG",
+  "generic": "SPIRONOLACTONE",
+  "price": "2",
+  "sku": "IMP-2504"
+ },
+ {
+  "sr": 2505,
+  "name": "SILECTONE 50MG",
+  "generic": "SPIRONOLACTONE",
+  "price": "3.5",
+  "sku": "IMP-2505"
+ },
+ {
+  "sr": 2506,
+  "name": "SILVER SULPHA OINT",
+  "generic": "SILVER SULFADIZINE",
+  "price": "21",
+  "sku": "IMP-2506"
+ },
+ {
+  "sr": 2507,
+  "name": "SILVEREX IONIC OINT 10GM",
+  "generic": "SILVER NITRATE",
+  "price": "90",
+  "sku": "IMP-2507"
+ },
+ {
+  "sr": 2508,
+  "name": "SILVEREX IONIC OINT 20GM",
+  "generic": "SILVER NITRATE",
+  "price": "135",
+  "sku": "IMP-2508"
+ },
+ {
+  "sr": 2509,
+  "name": "SILVITRA 120MG",
+  "generic": "SILDENAFIL + VERDENAFIL",
+  "price": "12",
+  "sku": "IMP-2509"
+ },
+ {
+  "sr": 2510,
+  "name": "SIMBRINZA EYE DROP 6ML",
+  "generic": "BRIMONIDINE + BRINZOLAMIDE",
+  "price": "575",
+  "sku": "IMP-2510"
+ },
+ {
+  "sr": 2511,
+  "name": "SIMLUP 10MG",
+  "generic": "SIMVASTATIN",
+  "price": "2.25",
+  "sku": "IMP-2511"
+ },
+ {
+  "sr": 2512,
+  "name": "SIMLUP 20MG",
+  "generic": "SIMVASTATIN",
+  "price": "2.5",
+  "sku": "IMP-2512"
+ },
+ {
+  "sr": 2513,
+  "name": "SIROASH 1MG",
+  "generic": "SIROLIMUS",
+  "price": "24.5",
+  "sku": "IMP-2513"
+ },
+ {
+  "sr": 2514,
+  "name": "SIROBOON 1MG",
+  "generic": "SIROLIMUS",
+  "price": "25.5",
+  "sku": "IMP-2514"
+ },
+ {
+  "sr": 2515,
+  "name": "SIROBOON 2MG",
+  "generic": "SIROLIMUS",
+  "price": "45",
+  "sku": "IMP-2515"
+ },
+ {
+  "sr": 2516,
+  "name": "SIROBOON 3MG",
+  "generic": "SIROLIMUS",
+  "price": "61.5",
+  "sku": "IMP-2516"
+ },
+ {
+  "sr": 2517,
+  "name": "SIROBOON 5MG",
+  "generic": "SIROLIMUS",
+  "price": "96",
+  "sku": "IMP-2517"
+ },
+ {
+  "sr": 2518,
+  "name": "SIROLIMA 2MG",
+  "generic": "SIROLIMUS",
+  "price": "40",
+  "sku": "IMP-2518"
+ },
+ {
+  "sr": 2519,
+  "name": "SIROMUS 1MG",
+  "generic": "SIROLIMUS",
+  "price": "64",
+  "sku": "IMP-2519"
+ },
+ {
+  "sr": 2520,
+  "name": "SIROSAFE 1MG",
+  "generic": "SIROLIMUS",
+  "price": "24",
+  "sku": "IMP-2520"
+ },
+ {
+  "sr": 2521,
+  "name": "SITASMART 100MG",
+  "generic": "SITAGLIPTIN",
+  "price": "5.5",
+  "sku": "IMP-2521"
+ },
+ {
+  "sr": 2522,
+  "name": "SITASMART-M50/1000MG",
+  "generic": "SITAGLIPTIN PHOSPHATE & METFORMIN HYDROCHLORIDE",
+  "price": "3",
+  "sku": "IMP-2522"
+ },
+ {
+  "sr": 2523,
+  "name": "SITAYES 100MG",
+  "generic": "SITAGLIPTIN",
+  "price": "5",
+  "sku": "IMP-2523"
+ },
+ {
+  "sr": 2524,
+  "name": "SITOR 20MG",
+  "generic": "CITALOPRAM",
+  "price": "2",
+  "sku": "IMP-2524"
+ },
+ {
+  "sr": 2525,
+  "name": "SITOR 40MG",
+  "generic": "CITALOPRAM",
+  "price": "2.5",
+  "sku": "IMP-2525"
+ },
+ {
+  "sr": 2526,
+  "name": "SKELEBENZ 15MG",
+  "generic": "CYCLOBENZAPRINE",
+  "price": "20.5",
+  "sku": "IMP-2526"
+ },
+ {
+  "sr": 2527,
+  "name": "SKIN FINE ISO 10MG",
+  "generic": "ISOTRETINOIN",
+  "price": "25",
+  "sku": "IMP-2527"
+ },
+ {
+  "sr": 2528,
+  "name": "SKIN FINE ISO 20MG",
+  "generic": "ISOTRETINOIN",
+  "price": "3.5",
+  "sku": "IMP-2528"
+ },
+ {
+  "sr": 2529,
+  "name": "SKIN SHINE CREAM 15GM",
+  "generic": "HYDROQUINONE+ MOMETASONE+ TRETINOIN",
+  "price": "40",
+  "sku": "IMP-2529"
+ },
+ {
+  "sr": 2530,
+  "name": "SKINLITE CREAM",
+  "generic": "HYDROQUINONE + MOMETASONE-+ TRETINOIN",
+  "price": "165",
+  "sku": "IMP-2530"
+ },
+ {
+  "sr": 2531,
+  "name": "SKINLITE CREAM 20GM",
+  "generic": "HYDROQUINONE+ MOMETASONE+ TRETINOIN",
+  "price": "215",
+  "sku": "IMP-2531"
+ },
+ {
+  "sr": 2532,
+  "name": "SKINSHINE CREAM 15GM",
+  "generic": "HYDROQUINONE+ MOMETASONE+ TRETINOIN",
+  "price": "40",
+  "sku": "IMP-2532"
+ },
+ {
+  "sr": 2533,
+  "name": "SKINSHINE CREAM 30GM",
+  "generic": "HYDROQUINONE+ MOMETASONE+ TRETINOIN",
+  "price": "40",
+  "sku": "IMP-2533"
+ },
+ {
+  "sr": 2534,
+  "name": "SLEEPIREST 20MG",
+  "generic": "ZOPICLONE",
+  "price": "4.5",
+  "sku": "IMP-2534"
+ },
+ {
+  "sr": 2535,
+  "name": "SLEEPIREST 7.5MG",
+  "generic": "ZOPICLONE",
+  "price": "1.5",
+  "sku": "IMP-2535"
+ },
+ {
+  "sr": 2536,
+  "name": "SLEEPOSE 10MG",
+  "generic": "MELATONIN",
+  "price": "4",
+  "sku": "IMP-2536"
+ },
+ {
+  "sr": 2537,
+  "name": "SLEEPOSE 20MG",
+  "generic": "MELATONIN",
+  "price": "5.5",
+  "sku": "IMP-2537"
+ },
+ {
+  "sr": 2538,
+  "name": "SLEEPOSE 3MG",
+  "generic": "MELATONIN",
+  "price": "2",
+  "sku": "IMP-2538"
+ },
+ {
+  "sr": 2539,
+  "name": "SLEPICKA 30MG",
+  "generic": "POTASSIUM IODIDE",
+  "price": "4",
+  "sku": "IMP-2539"
+ },
+ {
+  "sr": 2540,
+  "name": "SLEPICKA 65MG",
+  "generic": "POTASSIUM IODIDE",
+  "price": "5.5",
+  "sku": "IMP-2540"
+ },
+ {
+  "sr": 2541,
+  "name": "SLIM TRIM 120MG",
+  "generic": "ORLISTAT",
+  "price": "15.5",
+  "sku": "IMP-2541"
+ },
+ {
+  "sr": 2542,
+  "name": "SLIM TRIM 60MG",
+  "generic": "ORLISTAT",
+  "price": "10.5",
+  "sku": "IMP-2542"
+ },
+ {
+  "sr": 2543,
+  "name": "SLIM TRIM ACTIVE 120MG",
+  "generic": "ORLISTAT",
+  "price": "15.5",
+  "sku": "IMP-2543"
+ },
+ {
+  "sr": 2544,
+  "name": "SLIMGAL 120MG",
+  "generic": "ORLISTAT",
+  "price": "10",
+  "sku": "IMP-2544"
+ },
+ {
+  "sr": 2545,
+  "name": "SLIMTOP 120MG",
+  "generic": "ORLISTAT",
+  "price": "11",
+  "sku": "IMP-2545"
+ },
+ {
+  "sr": 2546,
+  "name": "SLIMTOP 60MG",
+  "generic": "ORLISTAT",
+  "price": "7",
+  "sku": "IMP-2546"
+ },
+ {
+  "sr": 2547,
+  "name": "SNOVITRA 20MG",
+  "generic": "VARDENAFIL",
+  "price": "6.5",
+  "sku": "IMP-2547"
+ },
+ {
+  "sr": 2548,
+  "name": "SNOVITRA 40MG",
+  "generic": "VARDENAFIL",
+  "price": "12.5",
+  "sku": "IMP-2548"
+ },
+ {
+  "sr": 2549,
+  "name": "SNOVITRA POWER TAB",
+  "generic": "VARDENAFIL & DAPOXETINE",
+  "price": "20",
+  "sku": "IMP-2549"
+ },
+ {
+  "sr": 2550,
+  "name": "SNOVITRA SUPER POWER TAB",
+  "generic": "VARDENAFIL & DAPOXETINE",
+  "price": "20",
+  "sku": "IMP-2550"
+ },
+ {
+  "sr": 2551,
+  "name": "SNOVITRA XL 60MG",
+  "generic": "VERDENAFIL",
+  "price": "15",
+  "sku": "IMP-2551"
+ },
+ {
+  "sr": 2552,
+  "name": "SNOZZY 10MG",
+  "generic": "MELATONIN",
+  "price": "3.5",
+  "sku": "IMP-2552"
+ }
+]

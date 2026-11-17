@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2861,
+  "name": "TETRACYN 500MG",
+  "generic": "TETRACYCLINE",
+  "price": "4.5",
+  "sku": "IMP-2861"
+ },
+ {
+  "sr": 2862,
+  "name": "TETRALAB 500MG",
+  "generic": "TETRACYCLINE",
+  "price": "5.5",
+  "sku": "IMP-2862"
+ },
+ {
+  "sr": 2863,
+  "name": "THALIDON 25MG",
+  "generic": "CHLORTHALIDONE",
+  "price": "4",
+  "sku": "IMP-2863"
+ },
+ {
+  "sr": 2864,
+  "name": "THALITERO 100MG",
+  "generic": "THALIDOMIDE",
+  "price": "168",
+  "sku": "IMP-2864"
+ },
+ {
+  "sr": 2865,
+  "name": "THEALIFE TAB",
+  "generic": "L-Theanine",
+  "price": "13",
+  "sku": "IMP-2865"
+ },
+ {
+  "sr": 2866,
+  "name": "THEOMOX 500MG",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "3",
+  "sku": "IMP-2866"
+ },
+ {
+  "sr": 2867,
+  "name": "THEOMOX CLV 1000MG",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "12.5",
+  "sku": "IMP-2867"
+ },
+ {
+  "sr": 2868,
+  "name": "THIACAN 200 INJ 2ML",
+  "generic": "THIAMINE HYDROCHLORIDE",
+  "price": "16",
+  "sku": "IMP-2868"
+ },
+ {
+  "sr": 2869,
+  "name": "THIORIL 50MG",
+  "generic": "THIORIDAZINE",
+  "price": "7.5",
+  "sku": "IMP-2869"
+ },
+ {
+  "sr": 2870,
+  "name": "THROMBOPHOB OINT 30GM",
+  "generic": "BENZYL NICOTINATE + HEPARIN",
+  "price": "195",
+  "sku": "IMP-2870"
+ },
+ {
+  "sr": 2871,
+  "name": "THYCAD 100MG",
+  "generic": "THALIDOMIDE",
+  "price": "51",
+  "sku": "IMP-2871"
+ },
+ {
+  "sr": 2872,
+  "name": "THYRONORM 100MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "1.25",
+  "sku": "IMP-2872"
+ },
+ {
+  "sr": 2873,
+  "name": "THYRONORM 112MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "1.5",
+  "sku": "IMP-2873"
+ },
+ {
+  "sr": 2874,
+  "name": "THYRONORM 112MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "1.5",
+  "sku": "IMP-2874"
+ },
+ {
+  "sr": 2875,
+  "name": "THYRONORM 125MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "1.75",
+  "sku": "IMP-2875"
+ },
+ {
+  "sr": 2876,
+  "name": "THYRONORM 137MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "2",
+  "sku": "IMP-2876"
+ },
+ {
+  "sr": 2877,
+  "name": "THYRONORM 150MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "1.6",
+  "sku": "IMP-2877"
+ },
+ {
+  "sr": 2878,
+  "name": "THYRONORM 200MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "2",
+  "sku": "IMP-2878"
+ },
+ {
+  "sr": 2879,
+  "name": "THYRONORM 25MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "1.3",
+  "sku": "IMP-2879"
+ },
+ {
+  "sr": 2880,
+  "name": "THYRONORM 75MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "1.5",
+  "sku": "IMP-2880"
+ },
+ {
+  "sr": 2881,
+  "name": "THYRONORM 88MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "1.75",
+  "sku": "IMP-2881"
+ },
+ {
+  "sr": 2882,
+  "name": "THYRORISE 200MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "0.75",
+  "sku": "IMP-2882"
+ },
+ {
+  "sr": 2883,
+  "name": "THYRORISE 88MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "0.75",
+  "sku": "IMP-2883"
+ },
+ {
+  "sr": 2884,
+  "name": "THYROTAG 100MG",
+  "generic": "LEVOTHYROXINE",
+  "price": "1",
+  "sku": "IMP-2884"
+ },
+ {
+  "sr": 2885,
+  "name": "THYROTAG 25MG",
+  "generic": "LEVOTHYROXINE",
+  "price": "0.7",
+  "sku": "IMP-2885"
+ },
+ {
+  "sr": 2886,
+  "name": "THYROX 100MCG",
+  "generic": "THYROXINE SODIUM",
+  "price": "1.5",
+  "sku": "IMP-2886"
+ },
+ {
+  "sr": 2887,
+  "name": "THYROX 150MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "2",
+  "sku": "IMP-2887"
+ },
+ {
+  "sr": 2888,
+  "name": "THYROX 200MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "2.5",
+  "sku": "IMP-2888"
+ },
+ {
+  "sr": 2889,
+  "name": "THYROX 50MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "1",
+  "sku": "IMP-2889"
+ },
+ {
+  "sr": 2890,
+  "name": "THYROX 62.5MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "1.5",
+  "sku": "IMP-2890"
+ },
+ {
+  "sr": 2891,
+  "name": "THYROXINOL 100",
+  "generic": "Thyroxine",
+  "price": "1",
+  "sku": "IMP-2891"
+ },
+ {
+  "sr": 2892,
+  "name": "THYROXINOL 125MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "0.6",
+  "sku": "IMP-2892"
+ },
+ {
+  "sr": 2893,
+  "name": "THYROXINOL 150MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "0.75",
+  "sku": "IMP-2893"
+ },
+ {
+  "sr": 2894,
+  "name": "THYROXINOL 75MG",
+  "generic": "THYROXINE SODIUM",
+  "price": "1",
+  "sku": "IMP-2894"
+ },
+ {
+  "sr": 2895,
+  "name": "TIAPREX 50MG",
+  "generic": "Tiapride",
+  "price": "6.5",
+  "sku": "IMP-2895"
+ },
+ {
+  "sr": 2896,
+  "name": "TIATAN 12.5MG",
+  "generic": "TIANEPTINE",
+  "price": "8.5",
+  "sku": "IMP-2896"
+ },
+ {
+  "sr": 2897,
+  "name": "TIATAN 50MG",
+  "generic": "TIANEPTINE",
+  "price": "31",
+  "sku": "IMP-2897"
+ },
+ {
+  "sr": 2898,
+  "name": "TIDOMET PLUS",
+  "generic": "LEVODOPA AND CARBIDOPA",
+  "price": "2.5",
+  "sku": "IMP-2898"
+ },
+ {
+  "sr": 2899,
+  "name": "TIMOLET EYE DROP 5ML",
+  "generic": "TIMOLOL",
+  "price": "60",
+  "sku": "IMP-2899"
+ },
+ {
+  "sr": 2900,
+  "name": "TINIMA-500",
+  "generic": "Tinidazole",
+  "price": "3.5",
+  "sku": "IMP-2900"
+ },
+ {
+  "sr": 2901,
+  "name": "TINVISTA 300MG",
+  "generic": "TINIDAZOLE",
+  "price": "1",
+  "sku": "IMP-2901"
+ },
+ {
+  "sr": 2902,
+  "name": "TINVISTA 500MG",
+  "generic": "TINIDAZOLE",
+  "price": "1.5",
+  "sku": "IMP-2902"
+ },
+ {
+  "sr": 2903,
+  "name": "TIOVA INHALER",
+  "generic": "TIOTROPIUM BROMIDE",
+  "price": "500",
+  "sku": "IMP-2903"
+ },
+ {
+  "sr": 2904,
+  "name": "TIOVA ROTACAPS",
+  "generic": "TIOTROPIUM BROMIDE",
+  "price": "10",
+  "sku": "IMP-2904"
+ },
+ {
+  "sr": 2905,
+  "name": "TIPANAT 20MG",
+  "generic": "TRIFLURIDINE AND TIPIRACIL",
+  "price": "398",
+  "sku": "IMP-2905"
+ },
+ {
+  "sr": 2906,
+  "name": "TIZAN 2MG",
+  "generic": "TIZANIDINE",
+  "price": "15",
+  "sku": "IMP-2906"
+ },
+ {
+  "sr": 2907,
+  "name": "TLS 20MG",
+  "generic": "TELMISARTAN",
+  "price": "1.5",
+  "sku": "IMP-2907"
+ },
+ {
+  "sr": 2908,
+  "name": "TLS 40MG",
+  "generic": "TELMISARTAN",
+  "price": "1.5",
+  "sku": "IMP-2908"
+ },
+ {
+  "sr": 2909,
+  "name": "TLS 80MG",
+  "generic": "TELMISARTAN",
+  "price": "3",
+  "sku": "IMP-2909"
+ },
+ {
+  "sr": 2910,
+  "name": "TLS H TAB",
+  "generic": "TELMISARTAN+HCL",
+  "price": "2.5",
+  "sku": "IMP-2910"
+ }
+]

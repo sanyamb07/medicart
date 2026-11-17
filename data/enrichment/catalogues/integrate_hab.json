@@ -1,0 +1,511 @@
+[
+ {
+  "sku": "IMP-0063",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/aldol-400/",
+  "official_product_page_url": "https://habpharma.com/product/aldol-400/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0170",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/artvigil-150-tab/",
+  "official_product_page_url": "https://habpharma.com/product/artvigil-150-tab/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0171",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/artvigil-250-tab/",
+  "official_product_page_url": "https://habpharma.com/product/artvigil-250-tab/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0265",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/baclosign-10/",
+  "official_product_page_url": "https://habpharma.com/product/baclosign-10/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0266",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/baclosign-25/",
+  "official_product_page_url": "https://habpharma.com/product/baclosign-25/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0432",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/captopril-25/",
+  "official_product_page_url": "https://habpharma.com/product/captopril-25/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0465",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/cefasign-500/",
+  "official_product_page_url": "https://habpharma.com/product/cefasign-500/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hab/IMP-0465.jpg",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/cefasign-500-1.jpg",
+   "page_url": "https://habpharma.com/product/cefasign-500/",
+   "source_name": "HAB Pharmaceuticals",
+   "visible_pack_text": "CEFASIGN-500; Rx Cefuroxime Axetil Tablets IP 500 mg; 1 x 10 Tablets; strip: each film coated tablet contains Cefuroxime Axetil IP eq. to Cefuroxime 500 mg; Manufactured in India by Signature Phytochemical Industries, Selaqui, Dehradun",
+   "qa_note": "Brand CEFASIGN, 500 mg, tablet all match. Carton+blister render with readable text. pack branded 'Signature' (Signature Phytochemical Industries, Dehradun shown as manufacturer); HAB name/logo not visible on pack"
+  }
+ },
+ {
+  "sku": "IMP-0478",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/cefposign-200/",
+  "official_product_page_url": "https://habpharma.com/product/cefposign-200/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hab/IMP-0478.jpg",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/cefposign-200-1.jpg",
+   "page_url": "https://habpharma.com/product/cefposign-200/",
+   "source_name": "HAB Pharmaceuticals",
+   "visible_pack_text": "CEFPOSIGN 200; Rx Cefpodoxime Proxetil Tablets IP; 10 x 1 x 10 Tablets; strip: each film coated tablet contains Cefpodoxime Proxetil IP eq. to Cefpodoxime 200 mg; Signature Phytochemical Industries, Dehradun",
+   "qa_note": "Brand CEFPOSIGN, 200 mg (on strip composition), tablet all match. Real pack photo. pack branded 'Signature' (Signature Phytochemical Industries, Dehradun shown as manufacturer); HAB name/logo not visible on pack"
+  }
+ },
+ {
+  "sku": "IMP-0555",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/citisign-500/",
+  "official_product_page_url": "https://habpharma.com/product/citisign-500/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0556",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/citisign-p-forte/",
+  "official_product_page_url": "https://habpharma.com/product/citisign-p-forte/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand CITISIGN P FORTE and tablet form match, but strength not visible (no mg on carton front; strip composition text unreadable). only 'Signature' logo visible; HAB name/logo not visible on pack",
+   "No verified manufacturer pack image found",
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0599",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/clomisign-100/",
+  "official_product_page_url": "https://habpharma.com/product/clomisign-100/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hab/IMP-0599.jpg",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/clomisign-100-1.jpg",
+   "page_url": "https://habpharma.com/product/clomisign-100/",
+   "source_name": "HAB Pharmaceuticals",
+   "visible_pack_text": "CLOMISIGN-100; Rx Clomifene Citrate Tablets IP 100mg; 3 X 10 Tablets; strip: Manufactured in India by HAB Pharmaceuticals & Research Limited, Vasai; Signature logo",
+   "qa_note": "Brand CLOMISIGN, 100 mg, tablet all match. Real pack photo; HAB Pharmaceuticals & Research Ltd named on strip."
+  }
+ },
+ {
+  "sku": "IMP-0600",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/clomisign-50/",
+  "official_product_page_url": "https://habpharma.com/product/clomisign-50/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hab/IMP-0600.jpg",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/clomisign-50-1.jpg",
+   "page_url": "https://habpharma.com/product/clomisign-50/",
+   "source_name": "HAB Pharmaceuticals",
+   "visible_pack_text": "CLOMISIGN-50; Rx Clomifene Citrate Tablets IP 50mg; 3 X 10 Tablets; strip: HAB Pharmaceuticals & Research Limited, Vasai; Signature logo",
+   "qa_note": "Brand CLOMISIGN, 50 mg, tablet all match. Real pack photo; HAB named on strip."
+  }
+ },
+ {
+  "sku": "IMP-0637",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/covimectin-12/",
+  "official_product_page_url": "https://habpharma.com/product/covimectin-12/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hab/IMP-0637.jpg",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/covimectin-12-1.jpg",
+   "page_url": "https://habpharma.com/product/covimectin-12/",
+   "source_name": "HAB Pharmaceuticals",
+   "visible_pack_text": "Covimectin-12; Rx Ivermectin Tablets USP; 10 X 10 Tablets; strip: each uncoated tablet contains Ivermectin IP 12mg; Manufactured in India by HAB Pharmaceuticals & Research Limited, SIDCUL, Selaqui, Dehradun; Signature logo",
+   "qa_note": "Brand COVIMECTIN, 12 mg (on strip), tablet all match. Real pack photo; HAB named on strip."
+  }
+ },
+ {
+  "sku": "IMP-0663",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/cyclodom/",
+  "official_product_page_url": "https://habpharma.com/product/cyclodom/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack composition: Pantoprazole 40 mg + Domperidone 10 mg; list says PARACETAMOL & DICYCLOMINE HCL"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hab/IMP-0663.jpg",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/cyclodom-1.jpg",
+   "page_url": "https://habpharma.com/product/cyclodom/",
+   "source_name": "HAB Pharmaceuticals",
+   "visible_pack_text": "Cyclodom Tablets; Rx Pantoprazole & Domperidone Tablets; 10x10 Tablets; strip: Pantoprazole Sodium Sesquihydrate IP eq. to Pantoprazole 40 mg, Domperidone IP 10 mg; Mfg. Lic. No. 48/UA/2006; Signature logo",
+   "qa_note": "Brand CYCLODOM, plain variant, tablet match; strength (40 mg/10 mg) readable on strip. HAB name only in tiny, barely legible manufacturer text on carton side (Mfg Lic 48/UA/2006 matches HAB Dehradun licence seen on Covimectin); effectively HAB name/logo not visible on pack clearly."
+  }
+ },
+ {
+  "sku": "IMP-0670",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/cyflox-250/",
+  "official_product_page_url": "https://habpharma.com/product/cyflox-250/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0671",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/cyflox-500/",
+  "official_product_page_url": "https://habpharma.com/product/cyflox-500/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0672",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/cyflox/",
+  "official_product_page_url": "https://habpharma.com/product/cyflox/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Pack is clearly the Ciprofloxacin Eye/Ear Drops (10 ml carton + dropper bottle), NOT the 250/500 tablets, so brand and form match. Rejected per brief because strength not visible (no 0.3% shown on carton or readable on bottle). HAB name only partially/illegibly visible on bottle side label.",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0731",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/deflasign-6/",
+  "official_product_page_url": "https://habpharma.com/product/deflasign-6/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hab/IMP-0731.jpg",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/deflasign-6-1.jpg",
+   "page_url": "https://habpharma.com/product/deflasign-6/",
+   "source_name": "HAB Pharmaceuticals",
+   "visible_pack_text": "DEFLASIGN-6; Rx Deflazacort Tablets 6 mg; 10 X 10 Tablets; composition: each uncoated tablet contains Deflazacort 6 mg; Signature logo",
+   "qa_note": "Brand DEFLASIGN, 6 mg, tablet all match. Carton render with readable text. only 'Signature' logo visible; HAB name/logo not visible on pack"
+  }
+ },
+ {
+  "sku": "IMP-1133",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/gabasign-400/",
+  "official_product_page_url": "https://habpharma.com/product/gabasign-400/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1338",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/itrasporax-100/",
+  "official_product_page_url": "https://habpharma.com/product/itrasporax-100/",
+  "pack_size": null,
+  "review_reasons": [
+   "Brand spelling: list says ITRASPORAX, pack reads ITRASPOROX"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hab/IMP-1338.jpg",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/itrasporax-100-1.jpg",
+   "page_url": "https://habpharma.com/product/itrasporax-100/",
+   "source_name": "HAB Pharmaceuticals",
+   "visible_pack_text": "ITRASPOROX-100; Rx Itraconazole Capsules; 10 x 10 Blister Strips; HAB logo on carton; strip: Itraconazole Capsules, eq. to Itraconazole B.P. 100 mg, HAB Pharmaceuticals & Research Limited",
+   "qa_note": "Brand matches (list typo ITRASPORAX vs pack ITRASPOROX), 100 mg, capsules. Real pack photo; HAB logo on carton and HAB named on strip."
+  }
+ },
+ {
+  "sku": "IMP-1487",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/lamifil/",
+  "official_product_page_url": "https://habpharma.com/product/lamifil/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1825",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/modvigil-200-tab/",
+  "official_product_page_url": "https://habpharma.com/product/modvigil-200-tab/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1879",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/multi-9/",
+  "official_product_page_url": "https://habpharma.com/product/multi-9/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Lead override: no manufacturer name or logo on the pack; authenticity cannot be confirmed from the image",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1906",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/nalsign-50-tab/",
+  "official_product_page_url": "https://habpharma.com/product/nalsign-50-tab/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1957",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/neuro-seliron-300/",
+  "official_product_page_url": "https://habpharma.com/product/neuro-seliron-300/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2484",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/signaforce-100/",
+  "official_product_page_url": "https://habpharma.com/product/signaforce-100/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2485",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/signapred-4/",
+  "official_product_page_url": "https://habpharma.com/product/signapred-4/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hab/IMP-2485.jpg",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/signapred-4-1.jpg",
+   "page_url": "https://habpharma.com/product/signapred-4/",
+   "source_name": "HAB Pharmaceuticals",
+   "visible_pack_text": "SIGNAPRED-4; Rx Methylprednisolone Tablets IP 4 mg; 10 X 10 Tablets; strip: Methylprednisolone IP 4 mg; Manufactured in India by Signature Phytochemical Industries, Selaqui, Dehradun",
+   "qa_note": "Brand SIGNAPRED, 4 mg, tablet all match. Real pack photo. pack branded 'Signature' (Signature Phytochemical Industries, Dehradun shown as manufacturer); HAB name/logo not visible on pack"
+  }
+ },
+ {
+  "sku": "IMP-2486",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/signapred-8/",
+  "official_product_page_url": "https://habpharma.com/product/signapred-8/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2713",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/tamilong-20/",
+  "official_product_page_url": "https://habpharma.com/product/tamilong-20/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hab/IMP-2713.jpg",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/tamilong-20-1.jpg",
+   "page_url": "https://habpharma.com/product/tamilong-20/",
+   "source_name": "HAB Pharmaceuticals",
+   "visible_pack_text": "TAMILONG 20 TABLETS; Rx Tamoxifen Citrate Tablets IP; 10 x 10 TABLETS; HAB logo on carton; strip: Tamoxifen Citrate eq. to Tamoxifen 20 mg, HAB Pharmaceuticals & Research Limited",
+   "qa_note": "Brand TAMILONG, 20 (mg), tablet all match. Real pack photo; HAB logo on carton."
+  }
+ },
+ {
+  "sku": "IMP-2855",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/testosign-40/",
+  "official_product_page_url": "https://habpharma.com/product/testosign-40/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2922",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/toficalm-100/",
+  "official_product_page_url": "https://habpharma.com/product/toficalm-100/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2952",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/trazosig-100/",
+  "official_product_page_url": "https://habpharma.com/product/trazosig-100/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2953",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/trazosig-50/",
+  "official_product_page_url": "https://habpharma.com/product/trazosig-50/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2984",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/tretoin-0-1/",
+  "official_product_page_url": "https://habpharma.com/product/tretoin-0-1/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-3256",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/zop-7-5-tab/",
+  "official_product_page_url": "https://habpharma.com/product/zop-7-5-tab/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-3276",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/zopisign-10-tab/",
+  "official_product_page_url": "https://habpharma.com/product/zopisign-10-tab/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-3288",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/zunestar-2/",
+  "official_product_page_url": "https://habpharma.com/product/zunestar-2/",
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-3293",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/zylomox-500/",
+  "official_product_page_url": "https://habpharma.com/product/zylomox-500/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hab/IMP-3293.jpg",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/zylomox-500-1.jpg",
+   "page_url": "https://habpharma.com/product/zylomox-500/",
+   "source_name": "HAB Pharmaceuticals",
+   "visible_pack_text": "ZYLOMOX-500 CAPSULES; Rx Amoxycillin Capsules IP 500 mg; 10 x 15 Capsules; Signature logo",
+   "qa_note": "Brand ZYLOMOX, 500 mg, capsules all match (list generic says CAP). Real pack photo. only 'Signature' logo visible; HAB name/logo not visible on pack"
+  }
+ },
+ {
+  "sku": "IMP-3294",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/zylomox-cv-625/",
+  "official_product_page_url": "https://habpharma.com/product/zylomox-cv-625/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hab/IMP-3294.jpg",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/zylomox-cv-625-1.jpg",
+   "page_url": "https://habpharma.com/product/zylomox-cv-625/",
+   "source_name": "HAB Pharmaceuticals",
+   "visible_pack_text": "ZYLOMOX-CV 625 Co-amoxiclav; Rx Amoxycillin and Potassium Clavulanate Tablets IP; 20 x 1 x 6 Tablets; side: Amoxycillin Trihydrate IP eq. to Amoxycillin 500 mg, Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 125 mg; Signature logo",
+   "qa_note": "Brand ZYLOMOX CV, 625 (500+125 mg), tablet all match. Carton render with readable text. only 'Signature' logo visible; HAB name/logo not visible on pack"
+  }
+ }
+]

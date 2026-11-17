@@ -1,0 +1,287 @@
+[
+ {
+  "sr": 465,
+  "sku": "IMP-0465",
+  "name": "CEFASIGN 500MG",
+  "list_generic": "CEFUROXIME AXETIL",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/cefasign-500/",
+  "official_product_page_url": "https://habpharma.com/product/cefasign-500/",
+  "composition_on_source": "Cefuroxime Axetil 500 mg",
+  "catalogue_name": "CEFASIGN 500",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/cefasign-500-1.jpg",
+   "page_url": "https://habpharma.com/product/cefasign-500/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-0465.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 478,
+  "sku": "IMP-0478",
+  "name": "CEFPOSIGN 200MG",
+  "list_generic": "CEFPODOXIME PROXETIL",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/cefposign-200/",
+  "official_product_page_url": "https://habpharma.com/product/cefposign-200/",
+  "composition_on_source": "Cefpodoxime Proxetil 200 mg",
+  "catalogue_name": "CEFPOSIGN 200",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/cefposign-200-1.jpg",
+   "page_url": "https://habpharma.com/product/cefposign-200/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-0478.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 556,
+  "sku": "IMP-0556",
+  "name": "CITISIGN P FORTE TAB",
+  "list_generic": "CITICOLINE + PIRACETAM",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/citisign-p-forte/",
+  "official_product_page_url": "https://habpharma.com/product/citisign-p-forte/",
+  "composition_on_source": "Citicoline 500 mg + Piracetam 800 mg",
+  "catalogue_name": "CITISIGN P FORTE",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/citisign-p-forte-1.jpg",
+   "page_url": "https://habpharma.com/product/citisign-p-forte/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-0556.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 599,
+  "sku": "IMP-0599",
+  "name": "CLOMISIGN 100MG",
+  "list_generic": "CLOMIFENE CITRATE",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/clomisign-100/",
+  "official_product_page_url": "https://habpharma.com/product/clomisign-100/",
+  "composition_on_source": "Clomiphene Citrate 100 mg",
+  "catalogue_name": "CLOMISIGN 100",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/clomisign-100-1.jpg",
+   "page_url": "https://habpharma.com/product/clomisign-100/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-0599.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 600,
+  "sku": "IMP-0600",
+  "name": "CLOMISIGN 50MG",
+  "list_generic": "CLOMIFENE CITRATE",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/clomisign-50/",
+  "official_product_page_url": "https://habpharma.com/product/clomisign-50/",
+  "composition_on_source": "Clomiphene Citrate 50 mg",
+  "catalogue_name": "CLOMISIGN 50",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/clomisign-50-1.jpg",
+   "page_url": "https://habpharma.com/product/clomisign-50/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-0600.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 637,
+  "sku": "IMP-0637",
+  "name": "COVIMECTIN 12MG",
+  "list_generic": "IVERMECTIN",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/covimectin-12/",
+  "official_product_page_url": "https://habpharma.com/product/covimectin-12/",
+  "composition_on_source": "Ivermectin 12 mg",
+  "catalogue_name": "COVIMECTIN 12",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/covimectin-12-1.jpg",
+   "page_url": "https://habpharma.com/product/covimectin-12/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-0637.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 663,
+  "sku": "IMP-0663",
+  "name": "CYCLODOM TAB",
+  "list_generic": "PARACETAMOL & DICYCLOMINE HCL",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/cyclodom/",
+  "official_product_page_url": "https://habpharma.com/product/cyclodom/",
+  "composition_on_source": "Pantoprazole 40 mg + Domperidone 10 mg",
+  "catalogue_name": "CYCLODOM",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/cyclodom-1.jpg",
+   "page_url": "https://habpharma.com/product/cyclodom/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-0663.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 672,
+  "sku": "IMP-0672",
+  "name": "CYFLOX EYE EAR DROP",
+  "list_generic": "CIPROFLOXACIN HYDROCLORIDE",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/cyflox/",
+  "official_product_page_url": "https://habpharma.com/product/cyflox/",
+  "composition_on_source": "Ciprofloxacin Hydrochloride IP 0.3% + Hydroxypropyl Methylcellulose IP 0.025% + Benzalkonium Chloride Solution IP 0.02%",
+  "catalogue_name": "CYFLOX",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/cyflox-1.jpg",
+   "page_url": "https://habpharma.com/product/cyflox/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-0672.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 731,
+  "sku": "IMP-0731",
+  "name": "DEFLASIGN 6MG",
+  "list_generic": "DEFLAZACORT",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/deflasign-6/",
+  "official_product_page_url": "https://habpharma.com/product/deflasign-6/",
+  "composition_on_source": "Deflazacort 6 mg",
+  "catalogue_name": "DEFLASIGN 6",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/deflasign-6-1.jpg",
+   "page_url": "https://habpharma.com/product/deflasign-6/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-0731.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1338,
+  "sku": "IMP-1338",
+  "name": "ITRASPORAX 100MG",
+  "list_generic": "ITRACONAZOLE",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/itrasporax-100/",
+  "official_product_page_url": "https://habpharma.com/product/itrasporax-100/",
+  "composition_on_source": "Itraconazole 100 mg",
+  "catalogue_name": "ITRASPORAX 100",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/itrasporax-100-1.jpg",
+   "page_url": "https://habpharma.com/product/itrasporax-100/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-1338.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1879,
+  "sku": "IMP-1879",
+  "name": "MULTI 9 TAB",
+  "list_generic": "MULTIVITAMIN  & MULTIMINERALS",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/multi-9/",
+  "official_product_page_url": "https://habpharma.com/product/multi-9/",
+  "composition_on_source": "Multivitamins + Minerals",
+  "catalogue_name": "MULTI-9",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/multi-9-1.jpg",
+   "page_url": "https://habpharma.com/product/multi-9/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-1879.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2485,
+  "sku": "IMP-2485",
+  "name": "SIGNAPRED 4MG",
+  "list_generic": "METHYLPREDNISOLONE",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/signapred-4/",
+  "official_product_page_url": "https://habpharma.com/product/signapred-4/",
+  "composition_on_source": "Methylprednisolone 4 mg",
+  "catalogue_name": "SIGNAPRED 4",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/signapred-4-1.jpg",
+   "page_url": "https://habpharma.com/product/signapred-4/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-2485.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2713,
+  "sku": "IMP-2713",
+  "name": "TAMILONG 20MG",
+  "list_generic": "TAMOXIFEN",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/tamilong-20/",
+  "official_product_page_url": "https://habpharma.com/product/tamilong-20/",
+  "composition_on_source": "Tamoxifen 20 mg",
+  "catalogue_name": "TAMILONG 20",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/tamilong-20-1.jpg",
+   "page_url": "https://habpharma.com/product/tamilong-20/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-2713.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 3293,
+  "sku": "IMP-3293",
+  "name": "ZYLOMOX 500MG",
+  "list_generic": "AMOXYCILLIN CAP",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/zylomox-500/",
+  "official_product_page_url": "https://habpharma.com/product/zylomox-500/",
+  "composition_on_source": "Amoxycillin 500 mg",
+  "catalogue_name": "ZYLOMOX 500",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/zylomox-500-1.jpg",
+   "page_url": "https://habpharma.com/product/zylomox-500/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-3293.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 3294,
+  "sku": "IMP-3294",
+  "name": "ZYLOMOX CV 625MG",
+  "list_generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "manufacturer": "HAB Pharmaceuticals",
+  "manufacturer_source_url": "https://habpharma.com/product/zylomox-cv-625/",
+  "official_product_page_url": "https://habpharma.com/product/zylomox-cv-625/",
+  "composition_on_source": "Amoxycillin 500 mg + Potassium Clavulanate 125 mg",
+  "catalogue_name": "ZYLOMOX CV 625",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://habpharma.com/wp-content/uploads/2026/11/zylomox-cv-625-1.jpg",
+   "page_url": "https://habpharma.com/product/zylomox-cv-625/",
+   "local_file": "data/enrichment/images_raw/hab/IMP-3294.jpg",
+   "visible_pack_text": null
+  }
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 365,
+  "name": "BUDENOL F 400MG INHALER",
+  "generic": "BUDESONIDE",
+  "price": "190",
+  "sku": "IMP-0365"
+ },
+ {
+  "sr": 366,
+  "name": "BUDEZ CR CAP",
+  "generic": "BUDESONIDE",
+  "price": "23",
+  "sku": "IMP-0366"
+ },
+ {
+  "sr": 367,
+  "name": "BULETRIP SR 300MG",
+  "generic": "BUPROPION HYDROCHLORIDE EXTENDED",
+  "price": "14.5",
+  "sku": "IMP-0367"
+ },
+ {
+  "sr": 368,
+  "name": "BULL FORCE 100MG",
+  "generic": "SILDENAFIL",
+  "price": "1",
+  "sku": "IMP-0368"
+ },
+ {
+  "sr": 369,
+  "name": "BULL FORCE 200MG",
+  "generic": "SILDENAFIL",
+  "price": "2.5",
+  "sku": "IMP-0369"
+ },
+ {
+  "sr": 370,
+  "name": "BUPCART XL 150MG",
+  "generic": "BUPROPION HYDROCHLORIDE",
+  "price": "3",
+  "sku": "IMP-0370"
+ },
+ {
+  "sr": 371,
+  "name": "BUPROBAN 150MG",
+  "generic": "BUPROPION HYDROCHLORIDE",
+  "price": "3.5",
+  "sku": "IMP-0371"
+ },
+ {
+  "sr": 372,
+  "name": "BUPROBAN XL 150MG",
+  "generic": "BUPROPION HYDROCHLORIDE",
+  "price": "16",
+  "sku": "IMP-0372"
+ },
+ {
+  "sr": 373,
+  "name": "BUPROKEM ER 150MG",
+  "generic": "BUPROPION HCL",
+  "price": "3.5",
+  "sku": "IMP-0373"
+ },
+ {
+  "sr": 374,
+  "name": "BUPRON SR 150MG",
+  "generic": "BUPROPION HCL",
+  "price": "14",
+  "sku": "IMP-0374"
+ },
+ {
+  "sr": 375,
+  "name": "BUPRON XL 150MG",
+  "generic": "BUPROPION HCL",
+  "price": "16",
+  "sku": "IMP-0375"
+ },
+ {
+  "sr": 376,
+  "name": "BUPRON XL 300MG",
+  "generic": "BUPROPION HCL",
+  "price": "26.5",
+  "sku": "IMP-0376"
+ },
+ {
+  "sr": 377,
+  "name": "BUPROTOP SR 150MG",
+  "generic": "BUPROPION HCL",
+  "price": "6",
+  "sku": "IMP-0377"
+ },
+ {
+  "sr": 378,
+  "name": "BUPROTROP DEXTER",
+  "generic": "DEXTROMETHORPHAN + BUPROPION",
+  "price": "7.5",
+  "sku": "IMP-0378"
+ },
+ {
+  "sr": 379,
+  "name": "BURNHEAL CREAM 15GM",
+  "generic": "SILVER NITRATE CHLORHEXIDINE GLUCONATE",
+  "price": "30",
+  "sku": "IMP-0379"
+ },
+ {
+  "sr": 380,
+  "name": "BUSCOHEAL 10MG",
+  "generic": "HYSOCINE BUTYLBROMIDE",
+  "price": "2.5",
+  "sku": "IMP-0380"
+ },
+ {
+  "sr": 381,
+  "name": "BUSIRON 10MG",
+  "generic": "BUSPIRONE HCL",
+  "price": "3",
+  "sku": "IMP-0381"
+ },
+ {
+  "sr": 382,
+  "name": "BUSIRON 5MG",
+  "generic": "BUSPIRONE",
+  "price": "2.5",
+  "sku": "IMP-0382"
+ },
+ {
+  "sr": 383,
+  "name": "BUSPICAN 10MG",
+  "generic": "BUSPIRONE",
+  "price": "2",
+  "sku": "IMP-0383"
+ },
+ {
+  "sr": 384,
+  "name": "BUSPIN 10MG",
+  "generic": "BUSPIRONE",
+  "price": "5",
+  "sku": "IMP-0384"
+ },
+ {
+  "sr": 385,
+  "name": "C NAC EYE DROP 10ML",
+  "generic": "GLYCERIN+ N ACETYLCARNOSINE+ SODIUM CARBOXY METHYL CELLULOSE",
+  "price": "265",
+  "sku": "IMP-0385"
+ },
+ {
+  "sr": 386,
+  "name": "CA RACE 10MG",
+  "generic": "RAMIPRIL",
+  "price": "2.5",
+  "sku": "IMP-0386"
+ },
+ {
+  "sr": 387,
+  "name": "CABERDOST 0.5MG",
+  "generic": "CABERGOLINE",
+  "price": "23",
+  "sku": "IMP-0387"
+ },
+ {
+  "sr": 388,
+  "name": "CABERGOLINE -0.25",
+  "generic": "CABERGOLINE",
+  "price": "16",
+  "sku": "IMP-0388"
+ },
+ {
+  "sr": 389,
+  "name": "CABERGOLINE 1MG",
+  "generic": "CABERGOLINE",
+  "price": "42",
+  "sku": "IMP-0389"
+ },
+ {
+  "sr": 390,
+  "name": "CABERLEE 0.25MG",
+  "generic": "CABERGOLINE",
+  "price": "16",
+  "sku": "IMP-0390"
+ },
+ {
+  "sr": 391,
+  "name": "CABERMAX 0.5MG",
+  "generic": "CABERGOLINE",
+  "price": "21",
+  "sku": "IMP-0391"
+ },
+ {
+  "sr": 392,
+  "name": "CABERMAX 1.0MG",
+  "generic": "CABERGOLINE",
+  "price": "42.5",
+  "sku": "IMP-0392"
+ },
+ {
+  "sr": 393,
+  "name": "CABERMORE 0.5MG",
+  "generic": "CABERGOLINE",
+  "price": "23",
+  "sku": "IMP-0393"
+ },
+ {
+  "sr": 394,
+  "name": "CABERSMART 0.5MG",
+  "generic": "CABERGOLINE",
+  "price": "24",
+  "sku": "IMP-0394"
+ },
+ {
+  "sr": 395,
+  "name": "CABGOLIN 0.25 TAB",
+  "generic": "CABERGOLINE",
+  "price": "55",
+  "sku": "IMP-0395"
+ },
+ {
+  "sr": 396,
+  "name": "CABGOLIN 0.5MG",
+  "generic": "CABERGOLINE",
+  "price": "105",
+  "sku": "IMP-0396"
+ },
+ {
+  "sr": 397,
+  "name": "CABPRO 0.5MG",
+  "generic": "CABERGOLINE",
+  "price": "23",
+  "sku": "IMP-0397"
+ },
+ {
+  "sr": 398,
+  "name": "CABSHER 0.25MG",
+  "generic": "CABERGOLINE",
+  "price": "13.5",
+  "sku": "IMP-0398"
+ },
+ {
+  "sr": 399,
+  "name": "CABSHER 0.5MG",
+  "generic": "CABERGOLINE",
+  "price": "21",
+  "sku": "IMP-0399"
+ },
+ {
+  "sr": 400,
+  "name": "CABSHER 1MG",
+  "generic": "CABERGOLINE",
+  "price": "34",
+  "sku": "IMP-0400"
+ },
+ {
+  "sr": 401,
+  "name": "CADCORT 100MG INJ",
+  "generic": "Lidocaine",
+  "price": "28",
+  "sku": "IMP-0401"
+ },
+ {
+  "sr": 402,
+  "name": "CADITRIL 2.6MG",
+  "generic": "GLYCERYL TRINITRATE",
+  "price": "2",
+  "sku": "IMP-0402"
+ },
+ {
+  "sr": 403,
+  "name": "CADOMER OINTMENT",
+  "generic": "CADEXOMER IODINE",
+  "price": "170",
+  "sku": "IMP-0403"
+ },
+ {
+  "sr": 404,
+  "name": "CAL D3 INJ",
+  "generic": "VITAMIN D3",
+  "price": "15",
+  "sku": "IMP-0404"
+ },
+ {
+  "sr": 405,
+  "name": "CALAPTIN 120 SR",
+  "generic": "VERAPAMIL",
+  "price": "5",
+  "sku": "IMP-0405"
+ },
+ {
+  "sr": 406,
+  "name": "CALAPTIN 120MG SR",
+  "generic": "VERAPAMIL",
+  "price": "5",
+  "sku": "IMP-0406"
+ },
+ {
+  "sr": 407,
+  "name": "CALAPTIN 240 SR TAB",
+  "generic": "VERAPAMIL",
+  "price": "9",
+  "sku": "IMP-0407"
+ },
+ {
+  "sr": 408,
+  "name": "CALCIGARD 10MG RETARD",
+  "generic": "NIFEDIPINE",
+  "price": "1.5",
+  "sku": "IMP-0408"
+ },
+ {
+  "sr": 409,
+  "name": "CALCIGARD RET 20MG TAB",
+  "generic": "NIFEDIPINE",
+  "price": "4.5",
+  "sku": "IMP-0409"
+ },
+ {
+  "sr": 410,
+  "name": "CALCIGEN 500MG",
+  "generic": "CALCIUM WITH VITAMIN D3",
+  "price": "1",
+  "sku": "IMP-0410"
+ },
+ {
+  "sr": 411,
+  "name": "CALCIGEN D3 CAP",
+  "generic": "CHOLECALCIFEROL",
+  "price": "5.5",
+  "sku": "IMP-0411"
+ },
+ {
+  "sr": 412,
+  "name": "CALCIGEN D3 SOFT",
+  "generic": "CHOLECALCIFEROL",
+  "price": "6.5",
+  "sku": "IMP-0412"
+ },
+ {
+  "sr": 413,
+  "name": "CALCIGLU INJ 10ML",
+  "generic": "CALCIUM GLUCONATE",
+  "price": "35",
+  "sku": "IMP-0413"
+ },
+ {
+  "sr": 414,
+  "name": "CALUTIDE 50MG",
+  "generic": "BICALUTAMIDE",
+  "price": "39",
+  "sku": "IMP-0414"
+ }
+]

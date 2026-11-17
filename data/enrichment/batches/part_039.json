@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2042,
+  "name": "OLANA 5MG TAB",
+  "generic": "OLANZAPINE",
+  "price": "1",
+  "sku": "IMP-2042"
+ },
+ {
+  "sr": 2043,
+  "name": "OLMEHEAL 20MG",
+  "generic": "OLMESARTAN MEDOXOMIL",
+  "price": "1.75",
+  "sku": "IMP-2043"
+ },
+ {
+  "sr": 2044,
+  "name": "OLMEHEAL 40MG",
+  "generic": "OLMESARTAN MEDOXOMIL",
+  "price": "2.5",
+  "sku": "IMP-2044"
+ },
+ {
+  "sr": 2045,
+  "name": "OLMEPEN 40MG",
+  "generic": "OLMESARTAN MEDOXOMIL",
+  "price": "3.5",
+  "sku": "IMP-2045"
+ },
+ {
+  "sr": 2046,
+  "name": "OLMESMART 40 H TAB",
+  "generic": "HYDROCHLOROTHIAZIDE + OLMESARTAN MEDOXOMIL",
+  "price": "4",
+  "sku": "IMP-2046"
+ },
+ {
+  "sr": 2047,
+  "name": "OLMO 40MG TAB",
+  "generic": "OFLOXACIN",
+  "price": "4",
+  "sku": "IMP-2047"
+ },
+ {
+  "sr": 2048,
+  "name": "OLMO H TAB",
+  "generic": "HYDROCHLOROTHIAZIDE + OLMESARTAN MEDOXOMIL",
+  "price": "4",
+  "sku": "IMP-2048"
+ },
+ {
+  "sr": 2049,
+  "name": "OLNEE-5",
+  "generic": "OLANZAPINE",
+  "price": "1",
+  "sku": "IMP-2049"
+ },
+ {
+  "sr": 2050,
+  "name": "OLOX 200MG",
+  "generic": "OFLOXACIN",
+  "price": "1.5",
+  "sku": "IMP-2050"
+ },
+ {
+  "sr": 2051,
+  "name": "OLOX OZ TAB",
+  "generic": "OFLOXACIN + ORNIDAZOLE",
+  "price": "4.5",
+  "sku": "IMP-2051"
+ },
+ {
+  "sr": 2052,
+  "name": "OLPAVIR 75MG",
+  "generic": "OSELTAMIVIR",
+  "price": "22",
+  "sku": "IMP-2052"
+ },
+ {
+  "sr": 2053,
+  "name": "OLZEP 20MG",
+  "generic": "OMEPRAZOLE",
+  "price": "1.5",
+  "sku": "IMP-2053"
+ },
+ {
+  "sr": 2054,
+  "name": "OMEE 20MG",
+  "generic": "OMEPRAZOLE",
+  "price": "1.5",
+  "sku": "IMP-2054"
+ },
+ {
+  "sr": 2055,
+  "name": "OMEECAN 20MG",
+  "generic": "OMEPRAZOLE",
+  "price": "1.5",
+  "sku": "IMP-2055"
+ },
+ {
+  "sr": 2056,
+  "name": "OMEEFORCE 20MG",
+  "generic": "OMEPRAZOLE",
+  "price": "1.5",
+  "sku": "IMP-2056"
+ },
+ {
+  "sr": 2057,
+  "name": "OMEZ 20MG",
+  "generic": "OMEPRAZOLE",
+  "price": "3",
+  "sku": "IMP-2057"
+ },
+ {
+  "sr": 2058,
+  "name": "OMEZ 40MG",
+  "generic": "OMEPRAZOLE MAGNESIUM",
+  "price": "8",
+  "sku": "IMP-2058"
+ },
+ {
+  "sr": 2059,
+  "name": "OMEZ DSR CAP",
+  "generic": "DOMPERIDONE+ ESOMEPRAZOLE",
+  "price": "12.5",
+  "sku": "IMP-2059"
+ },
+ {
+  "sr": 2060,
+  "name": "OMFORCE 20MG",
+  "generic": "OMEPRAZOLE",
+  "price": "1.25",
+  "sku": "IMP-2060"
+ },
+ {
+  "sr": 2061,
+  "name": "OMNACORTIL 10MG",
+  "generic": "PREDNISOLONE",
+  "price": "1.5",
+  "sku": "IMP-2061"
+ },
+ {
+  "sr": 2062,
+  "name": "OMNACORTIL 20MG",
+  "generic": "PREDNISOLONE",
+  "price": "2",
+  "sku": "IMP-2062"
+ },
+ {
+  "sr": 2063,
+  "name": "OMNACORTIL 40MG",
+  "generic": "PREDNISOLONE",
+  "price": "3.5",
+  "sku": "IMP-2063"
+ },
+ {
+  "sr": 2064,
+  "name": "OMNACORTIL 5MG",
+  "generic": "PREDNISOLONE",
+  "price": "1",
+  "sku": "IMP-2064"
+ },
+ {
+  "sr": 2065,
+  "name": "OMNI HOT GEL",
+  "generic": "DICLOFENAC + CAPSAICIN+ METHYL SALICYLATE  + MENTHOL + LINSEED OIL",
+  "price": "31",
+  "sku": "IMP-2065"
+ },
+ {
+  "sr": 2066,
+  "name": "OMNIGEL ONT 20GM",
+  "generic": "DICLOFENAC SODIUM+ LINSEED OIL+ MENTHOL + METHYL SALICYLATE",
+  "price": "50",
+  "sku": "IMP-2066"
+ },
+ {
+  "sr": 2067,
+  "name": "OMRON-6161 B.P",
+  "generic": "BLOOD PRESSURE MONITORING",
+  "price": "1650",
+  "sku": "IMP-2067"
+ },
+ {
+  "sr": 2068,
+  "name": "ONCO 8MG",
+  "generic": "ONDANSETRON",
+  "price": "1",
+  "sku": "IMP-2068"
+ },
+ {
+  "sr": 2069,
+  "name": "ONCOPEN 4MG",
+  "generic": "ONDANSETRON",
+  "price": "1",
+  "sku": "IMP-2069"
+ },
+ {
+  "sr": 2070,
+  "name": "ONDAHEAL MD 4MG",
+  "generic": "ONDANSETRON",
+  "price": "1",
+  "sku": "IMP-2070"
+ },
+ {
+  "sr": 2071,
+  "name": "ONDAHEAL MD 8MG",
+  "generic": "ONDANSETRON",
+  "price": "1.5",
+  "sku": "IMP-2071"
+ },
+ {
+  "sr": 2072,
+  "name": "ONDICAN 4 INJ 4ML",
+  "generic": "ONDANSETRON",
+  "price": "8",
+  "sku": "IMP-2072"
+ },
+ {
+  "sr": 2073,
+  "name": "ONDION 4MG",
+  "generic": "ONDANSETRON",
+  "price": "1",
+  "sku": "IMP-2073"
+ },
+ {
+  "sr": 2074,
+  "name": "ONDION 8MD",
+  "generic": "ONDANSETRON",
+  "price": "1.25",
+  "sku": "IMP-2074"
+ },
+ {
+  "sr": 2075,
+  "name": "ONDIRON MD 4MG",
+  "generic": "ONDANSETRON",
+  "price": "1",
+  "sku": "IMP-2075"
+ },
+ {
+  "sr": 2076,
+  "name": "ONVIN MD 4MG",
+  "generic": "ONDANSETRON",
+  "price": "1",
+  "sku": "IMP-2076"
+ },
+ {
+  "sr": 2077,
+  "name": "OPIPTRIP 50MG",
+  "generic": "OPIPRAMOL DIHYDROCHLORIDE",
+  "price": "6.5",
+  "sku": "IMP-2077"
+ },
+ {
+  "sr": 2078,
+  "name": "OPTINEURON FORTE INJ 3ML",
+  "generic": "THIAMINE(VITAMIN B1) + VITAMIN B6 (PYRIDOXINE)  + D-PANTHENOL",
+  "price": "10",
+  "sku": "IMP-2078"
+ },
+ {
+  "sr": 2079,
+  "name": "ORCERIN CAP",
+  "generic": "DIACEREIN",
+  "price": "140",
+  "sku": "IMP-2079"
+ },
+ {
+  "sr": 2080,
+  "name": "ORLIASH 120MG",
+  "generic": "ORLISTAT",
+  "price": "9",
+  "sku": "IMP-2080"
+ },
+ {
+  "sr": 2081,
+  "name": "ORLIGAL 120MG",
+  "generic": "ORLISTAT",
+  "price": "13",
+  "sku": "IMP-2081"
+ },
+ {
+  "sr": 2082,
+  "name": "ORLIJOHN 120MG",
+  "generic": "ORLISTAT",
+  "price": "10.5",
+  "sku": "IMP-2082"
+ },
+ {
+  "sr": 2083,
+  "name": "ORNI 500MG TAB",
+  "generic": "ORNIDAZOLE",
+  "price": "8.25",
+  "sku": "IMP-2083"
+ },
+ {
+  "sr": 2084,
+  "name": "OROGARD MOUTHWASH",
+  "generic": "MOUTHWASH",
+  "price": "55",
+  "sku": "IMP-2084"
+ },
+ {
+  "sr": 2085,
+  "name": "ORS PROLYTE POWDER",
+  "generic": "ORAL REHYDRATION SALTS",
+  "price": "10",
+  "sku": "IMP-2085"
+ },
+ {
+  "sr": 2086,
+  "name": "OSELTAFLU 75MG",
+  "generic": "OSELTAMIVIR",
+  "price": "17",
+  "sku": "IMP-2086"
+ },
+ {
+  "sr": 2087,
+  "name": "OSELTAVAC 75MG",
+  "generic": "OSELTAMIVIR",
+  "price": "24",
+  "sku": "IMP-2087"
+ },
+ {
+  "sr": 2088,
+  "name": "OSELVIR 75MG",
+  "generic": "OSELTAMIVIR",
+  "price": "34",
+  "sku": "IMP-2088"
+ },
+ {
+  "sr": 2089,
+  "name": "OSELVIR-30 CAP",
+  "generic": "OSELTAMIVIR",
+  "price": "11",
+  "sku": "IMP-2089"
+ },
+ {
+  "sr": 2090,
+  "name": "OSMEGA 500MG",
+  "generic": "OMEGA-3 FATTY ACID",
+  "price": "29",
+  "sku": "IMP-2090"
+ },
+ {
+  "sr": 2091,
+  "name": "OSMEGA CAP",
+  "generic": "OMEGA-3 FATTY ACID",
+  "price": "15",
+  "sku": "IMP-2091"
+ }
+]

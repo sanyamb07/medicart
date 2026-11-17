@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 674,
+  "name": "CYNOMIST INJ",
+  "generic": "CYANOCOBALAMINE",
+  "price": "20",
+  "sku": "IMP-0674"
+ },
+ {
+  "sr": 675,
+  "name": "CYNOPIC FORTE 500MG INJ 30ML",
+  "generic": "CYANOCOBALAMINE",
+  "price": "20",
+  "sku": "IMP-0675"
+ },
+ {
+  "sr": 676,
+  "name": "CYPROHEPTADINE TAB",
+  "generic": "CYPROHEPTADINE TAB",
+  "price": "1",
+  "sku": "IMP-0676"
+ },
+ {
+  "sr": 677,
+  "name": "CYSTOPEN CAP",
+  "generic": "PENTOSAN POLYSULFATE",
+  "price": "65",
+  "sku": "IMP-0677"
+ },
+ {
+  "sr": 678,
+  "name": "CYTOGARD MR 35MG",
+  "generic": "TRIMETAZIDINE",
+  "price": "14",
+  "sku": "IMP-0678"
+ },
+ {
+  "sr": 679,
+  "name": "CYTOHEAL 200MG",
+  "generic": "MISOPROSTOL",
+  "price": "4.5",
+  "sku": "IMP-0679"
+ },
+ {
+  "sr": 680,
+  "name": "D 50MG",
+  "generic": "",
+  "price": "1",
+  "sku": "IMP-0680"
+ },
+ {
+  "sr": 681,
+  "name": "D VALNEB 500MG",
+  "generic": "DIVALPROEX",
+  "price": "4",
+  "sku": "IMP-0681"
+ },
+ {
+  "sr": 682,
+  "name": "D VENTODEP XR 100MG",
+  "generic": "DESVENLAFAXINE",
+  "price": "8",
+  "sku": "IMP-0682"
+ },
+ {
+  "sr": 683,
+  "name": "DABINOL 150MG",
+  "generic": "DABIGATRAN ETEXILATE",
+  "price": "19",
+  "sku": "IMP-0683"
+ },
+ {
+  "sr": 684,
+  "name": "DABITOR 150MG",
+  "generic": "DABIGATRAN ETEXILATE",
+  "price": "17",
+  "sku": "IMP-0684"
+ },
+ {
+  "sr": 685,
+  "name": "DAFLOHEAL 500MG",
+  "generic": "MICRONIZED PURIFIED FLAVONOID FRACTION",
+  "price": "9.5",
+  "sku": "IMP-0685"
+ },
+ {
+  "sr": 686,
+  "name": "DAFLON 500MG",
+  "generic": "DIOSMIN+ HESPERIDINE",
+  "price": "14",
+  "sku": "IMP-0686"
+ },
+ {
+  "sr": 687,
+  "name": "DAILYMET 850MG SR",
+  "generic": "METFORMIN HCL",
+  "price": "1.75",
+  "sku": "IMP-0687"
+ },
+ {
+  "sr": 688,
+  "name": "DALAHEAL 300MG",
+  "generic": "CLINDAMYCIN",
+  "price": "8.5",
+  "sku": "IMP-0688"
+ },
+ {
+  "sr": 689,
+  "name": "DALSTEP TAB",
+  "generic": "DALFAMPRIDINE EXTENDED",
+  "price": "42",
+  "sku": "IMP-0689"
+ },
+ {
+  "sr": 693,
+  "name": "DANDROFINE SHAMPOO 100ML",
+  "generic": "KETOCONAZOLE + ZINC PYRITHIONE",
+  "price": "60",
+  "sku": "IMP-0693"
+ },
+ {
+  "sr": 694,
+  "name": "DANOGEN 200MG",
+  "generic": "DANAZOL",
+  "price": "52",
+  "sku": "IMP-0694"
+ },
+ {
+  "sr": 695,
+  "name": "DANOGEN 50MG",
+  "generic": "DANAZOL",
+  "price": "14.5",
+  "sku": "IMP-0695"
+ },
+ {
+  "sr": 696,
+  "name": "DAPAFOX 10MG",
+  "generic": "DAPAGLIFLOZIN",
+  "price": "4",
+  "sku": "IMP-0696"
+ },
+ {
+  "sr": 697,
+  "name": "DAPASMART 10MG",
+  "generic": "DAPAGLIFLOZIN",
+  "price": "4.5",
+  "sku": "IMP-0697"
+ },
+ {
+  "sr": 698,
+  "name": "DAPASMART 5MG",
+  "generic": "DAPAGLIFLOZIN",
+  "price": "3",
+  "sku": "IMP-0698"
+ },
+ {
+  "sr": 699,
+  "name": "DAPAWORTH 10MG",
+  "generic": "DAPAGLIFLOZIN",
+  "price": "3",
+  "sku": "IMP-0699"
+ },
+ {
+  "sr": 700,
+  "name": "DAPAWORTH 5MG",
+  "generic": "DAPAGLIFLOZIN",
+  "price": "2",
+  "sku": "IMP-0700"
+ },
+ {
+  "sr": 701,
+  "name": "DAPOFORCE 30MG",
+  "generic": "DAPOXITINE",
+  "price": "6",
+  "sku": "IMP-0701"
+ },
+ {
+  "sr": 702,
+  "name": "DAPOFORCE 60MG",
+  "generic": "DAPOXITINE",
+  "price": "7",
+  "sku": "IMP-0702"
+ },
+ {
+  "sr": 703,
+  "name": "DAPOFORCE 90MG",
+  "generic": "DAPOXITINE",
+  "price": "11.5",
+  "sku": "IMP-0703"
+ },
+ {
+  "sr": 704,
+  "name": "DAPOTIME 60MG",
+  "generic": "DAPOXITINE",
+  "price": "5.5",
+  "sku": "IMP-0704"
+ },
+ {
+  "sr": 705,
+  "name": "DARDFLAM TAB",
+  "generic": "DARDFLAM -DICLOFENAC POT  PARACETAMOL SERRATIOPEPTIDASE",
+  "price": "2.5",
+  "sku": "IMP-0705"
+ },
+ {
+  "sr": 706,
+  "name": "DARK HORCE FORCE TAB",
+  "generic": "SILDENAFIL CITRATE",
+  "price": "7",
+  "sku": "IMP-0706"
+ },
+ {
+  "sr": 707,
+  "name": "DASAMED 20MG TAB",
+  "generic": "DASATINIB",
+  "price": "14.5",
+  "sku": "IMP-0707"
+ },
+ {
+  "sr": 708,
+  "name": "DASAMED 50",
+  "generic": "DASATINIB",
+  "price": "25",
+  "sku": "IMP-0708"
+ },
+ {
+  "sr": 709,
+  "name": "DASANAT 50MG",
+  "generic": "DASATINIB",
+  "price": "35",
+  "sku": "IMP-0709"
+ },
+ {
+  "sr": 710,
+  "name": "DASATRUE 50MG",
+  "generic": "DASATINIB",
+  "price": "34",
+  "sku": "IMP-0710"
+ },
+ {
+  "sr": 711,
+  "name": "DA-ZEAGRA LONG STAY GEL 10GM",
+  "generic": "LIDOCAINE",
+  "price": "80",
+  "sku": "IMP-0711"
+ },
+ {
+  "sr": 712,
+  "name": "DDR 60MG",
+  "generic": "DASATINIB",
+  "price": "14",
+  "sku": "IMP-0712"
+ },
+ {
+  "sr": 713,
+  "name": "DECA 250MG INJ 10ML",
+  "generic": "NANDROLONE",
+  "price": "1070",
+  "sku": "IMP-0713"
+ },
+ {
+  "sr": 714,
+  "name": "DECA DURABOLIN 100MG INJ 1ML",
+  "generic": "NANDROLONE",
+  "price": "560",
+  "sku": "IMP-0714"
+ },
+ {
+  "sr": 715,
+  "name": "DECA DURABOLIN 50MG INJ 1ML",
+  "generic": "NANDROLONE",
+  "price": "365",
+  "sku": "IMP-0715"
+ },
+ {
+  "sr": 716,
+  "name": "DECA INSTABOLIN 100MG INJ 1ML",
+  "generic": "NANDROLONE",
+  "price": "35",
+  "sku": "IMP-0716"
+ },
+ {
+  "sr": 717,
+  "name": "DECA INSTABOLIN 50MG",
+  "generic": "NANDROLONE",
+  "price": "20",
+  "sku": "IMP-0717"
+ },
+ {
+  "sr": 718,
+  "name": "DECABIX 250MG 10ML",
+  "generic": "NANDROLONE DECANOATE",
+  "price": "1000",
+  "sku": "IMP-0718"
+ },
+ {
+  "sr": 719,
+  "name": "DECABIX-MAXX 10ML",
+  "generic": "NANDROLONE DECANOATE",
+  "price": "1625",
+  "sku": "IMP-0719"
+ },
+ {
+  "sr": 720,
+  "name": "DECABIX-MAXX INJ 1ml",
+  "generic": "NANDROLONE DECANOATE",
+  "price": "160",
+  "sku": "IMP-0720"
+ },
+ {
+  "sr": 721,
+  "name": "DECABOL 200MG INJ 1ML",
+  "generic": "NANDROLONE",
+  "price": "100",
+  "sku": "IMP-0721"
+ },
+ {
+  "sr": 722,
+  "name": "DECABOL 250MG INJ 10ML",
+  "generic": "NANDROLONE",
+  "price": "1120",
+  "sku": "IMP-0722"
+ },
+ {
+  "sr": 723,
+  "name": "DECABOL 250MG INJ 1ML",
+  "generic": "NANDROLONE",
+  "price": "115",
+  "sku": "IMP-0723"
+ },
+ {
+  "sr": 724,
+  "name": "DECADURABOLIN 100MG INJ",
+  "generic": "NANDROLONE DECANOATE",
+  "price": "536",
+  "sku": "IMP-0724"
+ },
+ {
+  "sr": 725,
+  "name": "DECADURABOLIN 25MG INJ",
+  "generic": "NANDROLONE DECANOATE",
+  "price": "260",
+  "sku": "IMP-0725"
+ },
+ {
+  "sr": 726,
+  "name": "DECAMAXX 400MG INJ 1ML",
+  "generic": "NANDROLONE",
+  "price": "165",
+  "sku": "IMP-0726"
+ }
+]

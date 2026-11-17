@@ -1,0 +1,618 @@
+[
+ {
+  "sku": "IMP-0010",
+  "name": "ACAMPROL TAB",
+  "manufacturer": "Sun Pharmaceutical Industries Ltd",
+  "url": "https://sunpharma.com/india-products/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0014",
+  "name": "ACARJOHN-50 TAB",
+  "manufacturer": "Johnlee Pharmaceuticals Pvt Ltd",
+  "url": "https://www.johnleepharmaceuticals.com/acarbose-tablets-7050817.html",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0016",
+  "name": "ACCUFINE 20MG",
+  "manufacturer": "Healing Pharma India Pvt Ltd",
+  "url": "https://www.healingpharma.in/product/accufine-20mg/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0028",
+  "name": "ACIVIR CREAM 10GM",
+  "manufacturer": "Cipla Ltd",
+  "url": "https://www.ciplamed.com/product-index/acivir-cream",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0029",
+  "name": "ACIVIR CREAM 5GM",
+  "manufacturer": "Cipla Ltd",
+  "url": "https://www.ciplamed.com/product-index/acivir-cream",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0030",
+  "name": "ACIVIR DT 400MG",
+  "manufacturer": "Cipla Ltd",
+  "url": "https://www.ciplamed.com/product-index/acivir-dt-tablets",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0031",
+  "name": "ACIVIR DT 800MG",
+  "manufacturer": "Cipla Ltd",
+  "url": "https://www.ciplamed.com/product-index/acivir-dt-tablets",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0032",
+  "name": "ACIVIR IV 250MG INJ",
+  "manufacturer": "Cipla Ltd",
+  "url": "https://www.ciplamed.com/product-index/acivir-iv-injection",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0034",
+  "name": "ACNEDAP GEL",
+  "manufacturer": "Cipla Ltd",
+  "url": "https://www.ciplamed.com/product-index/acnedap-gel",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0037",
+  "name": "ACNETOR AD CREAM 15GM",
+  "manufacturer": "Torrent Pharmaceuticals Ltd",
+  "url": "https://www.torrentpharma.com/docs/ACNETOR_AD_ABPI_e95e9739a2.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0040",
+  "name": "ACYLOVIR 800MG",
+  "manufacturer": "Prevego Healthcare & Research Pvt Ltd (marketer); pack states Mfd by Vidhyasha Pharmaceuticals",
+  "url": "https://www.prevegohealthcare.com/product-page/acylovir-800",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0048",
+  "name": "ADR INJ 1ML",
+  "manufacturer": "American Remedies Healthcare Pvt Ltd",
+  "url": "https://www.americanremedies.in/product/adr-injection/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0049",
+  "name": "AEROCORT CFC INHALER 200MD",
+  "manufacturer": "Cipla Ltd",
+  "url": "https://www.ciplamed.com/product-index/aerocort-inhaler",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0050",
+  "name": "AFMED 40MG",
+  "manufacturer": "Medicamen Biotech Ltd",
+  "url": "https://www.medicamen.com/product/view/10",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0051",
+  "name": "AGEFINE CREAM",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "url": "https://www.healingpharma.in/product/agefine-cream/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0053",
+  "name": "AGOPREX TAB",
+  "manufacturer": "Sun Pharmaceutical Industries Ltd",
+  "url": "https://sunpharma.com/wp-content/uploads/2021/04/INDIA-BUSINESS-product-List.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0058",
+  "name": "ALBUREL OS 20% 100ML",
+  "manufacturer": "Reliance Life Sciences",
+  "url": "https://www.rellife.com/web/lifesciences/albureltm",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0059",
+  "name": "ALCAREX EYE DROP 5ML",
+  "manufacturer": "Ajanta Pharma Ltd",
+  "url": "https://www.ajantapharma.com/ajanta/Business/india_branded_generics",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0060",
+  "name": "ALCINAC SR TAB",
+  "manufacturer": "Leeford Healthcare Ltd (official page seen via search index only; site refused connection)",
+  "url": "https://www.leeford.in/product/3414/alcinac-sr",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0061",
+  "name": "ALDACTONE 25MG",
+  "manufacturer": "RPG Life Sciences Ltd",
+  "url": "https://www.rpglifesciences.com/products-and-science/product-details/aldactone-25-mg",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0062",
+  "name": "ALDIGESIC TH TAB",
+  "manufacturer": "Alkem Laboratories Ltd",
+  "url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0067",
+  "name": "ALLEGRA 120MG",
+  "manufacturer": "Sanofi India Limited (PI: 'Manufactured by: Allegra 120 and 180 Tablets: Sanofi India Limited, Verna, Goa')",
+  "url": "https://www.sanofi.com/assets/countries/india/docs/consumer-healthcare/for-healthcare-professionals/products-information/allegra-pi.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0070",
+  "name": "ALMOX 250MG",
+  "manufacturer": "Alkem Laboratories Ltd",
+  "url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0071",
+  "name": "ALMOX 500MG",
+  "manufacturer": "Alkem Laboratories Ltd",
+  "url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0072",
+  "name": "ALMOX CV 625MG",
+  "manufacturer": "Alkem Laboratories Ltd",
+  "url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0073",
+  "name": "ALMOX DRY 30ML SYP",
+  "manufacturer": "Alkem Laboratories Ltd",
+  "url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0074",
+  "name": "ALMOX DT 125MG",
+  "manufacturer": "Alkem Laboratories Ltd",
+  "url": "https://www.alkemlabs.com/our-offerings/alkem-generics",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0075",
+  "name": "ALOJA 25MG",
+  "manufacturer": "Indoco Remedies Ltd",
+  "url": "https://www.indoco.com/document/Revised-MRP-w.e.f-22nd-Sept25-IRL-Stockist.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0076",
+  "name": "AMANTEX 100MG",
+  "manufacturer": "Intas Pharmaceuticals Ltd (official page seen via search index only; direct fetch failed)",
+  "url": "https://www.intaspharma.com/product/amantex/",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0077",
+  "name": "AMANTREL",
+  "manufacturer": "Cipla Ltd",
+  "url": "https://www.ciplamed.com/product-index/amantrel-tablets",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0080",
+  "name": "AMEE 500MG INJ 2ML",
+  "manufacturer": "Zydus Lifesciences (official products page seen via search index only; TLS error on fetch)",
+  "url": "https://zyduslife.com/products.html",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0084",
+  "name": "AMITONE 75MG",
+  "manufacturer": "Intas Pharmaceuticals Ltd (official page seen via search index only; direct fetch failed HTTP 500/TLS chain)",
+  "url": "https://www.intaspharma.com/product/amitone/",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0085",
+  "name": "AMLIP 10MG",
+  "manufacturer": "Cipla Ltd (official generic product list seen via search index only; page bot-protected, not fetchable)",
+  "url": "https://www.cipla.com/generic-product-list",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0086",
+  "name": "AMLIP 2.5MG",
+  "manufacturer": "Cipla Ltd (official generic product list seen via search index only; page bot-protected, not fetchable)",
+  "url": "https://www.cipla.com/generic-product-list",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0087",
+  "name": "AMLIP 5MG",
+  "manufacturer": "Cipla Ltd (official generic product list seen via search index only; page bot-protected, not fetchable)",
+  "url": "https://www.cipla.com/generic-product-list",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0088",
+  "name": "AMLOHEAL 10MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (brand family owner; 10 mg not listed)",
+  "url": "https://www.healingpharma.in/product/amloheal-5/",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0090",
+  "name": "AMLOHEAL AT",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (brand family owner; AT variant not listed)",
+  "url": "https://www.healingpharma.in/product/amloheal-5/",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0094",
+  "name": "AMOXYCLAV 1GM",
+  "manufacturer": "Abbott Healthcare Pvt. Ltd. (per official Abbott India price list; composition not stated there)",
+  "url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0095",
+  "name": "AMOXYCLAV 375MG",
+  "manufacturer": "Abbott Healthcare Pvt. Ltd. (per official Abbott India price list; composition not stated there)",
+  "url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0096",
+  "name": "AMOXYCLAV 625MG",
+  "manufacturer": "Abbott Healthcare Pvt. Ltd. (per official Abbott India price list; composition not stated there)",
+  "url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0097",
+  "name": "AMOXYCLAV DRY SYP 30ML",
+  "manufacturer": "Abbott Healthcare Pvt. Ltd. (per official Abbott India price list; composition not stated there)",
+  "url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0098",
+  "name": "AMOXYCLAV DRY SYRP 30ML",
+  "manufacturer": "Abbott Healthcare Pvt. Ltd. (per official Abbott India price list; composition not stated there)",
+  "url": "https://www.abbott.in/content/dam/corp/abbott/en-in/homepage/about-abbott/abbott-gst/trade-partners/Abbott-Healthcare-Private-Limited-Pharmaceuticals-Price-List.pdf",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0102",
+  "name": "AMOXYHEAL CV DRY SYRUP 30ML",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "url": "https://www.healingpharma.in/product/amoxyheal-cv-dry-syrup/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0103",
+  "name": "AMPOXIN 500MG",
+  "manufacturer": "Torrent Pharmaceuticals Ltd. (marketer and manufacturer per official prescribing information)",
+  "url": "https://www.torrentpharma.com/assets/2904_218e25fb9c.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0104",
+  "name": "AMPOXIN 500MG",
+  "manufacturer": "Torrent Pharmaceuticals Ltd. (marketer and manufacturer per official prescribing information)",
+  "url": "https://www.torrentpharma.com/assets/2904_218e25fb9c.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0105",
+  "name": "AMPOXIN 500MG",
+  "manufacturer": "Torrent Pharmaceuticals Ltd. (marketer and manufacturer per official prescribing information)",
+  "url": "https://www.torrentpharma.com/assets/2904_218e25fb9c.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0106",
+  "name": "AMRFY CREAM 30GM",
+  "manufacturer": "Hegde & Hegde Pharmaceutica LLP (site operator / brand owner; page does not state manufacturer vs marketer)",
+  "url": "https://hhpharma.com/products/amrfy-cream",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0123",
+  "name": "ANGIOTESIN 2.5MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "url": "https://www.healingpharma.in/product/angiotensin-2-5/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0147",
+  "name": "ARACHITOL 3L IU INJ",
+  "manufacturer": "Abbott India Ltd (Arachitol brand owner per official annual report; this specific SKU not on abbott.in)",
+  "url": "https://dam.abbott.com/en-ind/pdf/agm/Annual-Report-2021-22.pdf",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0148",
+  "name": "ARACHITOL 6L IU INJ",
+  "manufacturer": "Abbott India Ltd (Arachitol brand owner per official annual report; this specific SKU not on abbott.in)",
+  "url": "https://dam.abbott.com/en-ind/pdf/agm/Annual-Report-2021-22.pdf",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0149",
+  "name": "ARACHITOL NANO SUGER FREE 5ML",
+  "manufacturer": "Abbott India Ltd (Arachitol brand owner per official annual report; this specific SKU not on abbott.in)",
+  "url": "https://dam.abbott.com/en-ind/pdf/agm/Annual-Report-2021-22.pdf",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0151",
+  "name": "ARICEP 10 MG",
+  "manufacturer": "Eisai Pharmaceuticals India Pvt. Ltd.",
+  "url": "https://www.eisai.co.in/products",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0152",
+  "name": "ARICEP 5MG",
+  "manufacturer": "Eisai Pharmaceuticals India Pvt. Ltd.",
+  "url": "https://www.eisai.co.in/products",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0157",
+  "name": "ARKACAN 100MCG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "url": "https://www.healingpharma.in/product/arkacan-100/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0158",
+  "name": "ARKAMIN TAB",
+  "manufacturer": "Torrent Pharmaceuticals Ltd. (per official abbreviated prescribing information)",
+  "url": "https://www.torrentpharma.com/docs/ARKAMIN_100_ABPI_updated_e7cceec45e.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0160",
+  "name": "ARPIZOL 5MG",
+  "manufacturer": "Sun Pharmaceutical Industries Ltd.",
+  "url": "https://sunpharma.com/india-products/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0178",
+  "name": "ASKLEROL 3% INJ",
+  "manufacturer": "Samarth Life Sciences Pvt. Ltd.",
+  "url": "https://samarthlife.com/all-products",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0183",
+  "name": "ASTHAFEN TAB",
+  "manufacturer": "Torrent Pharmaceuticals Ltd. (marketer)",
+  "url": "https://torrentpharma.com/assets/2516_d38d400a9d.pdf",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0184",
+  "name": "ASTHALIN 2MG",
+  "manufacturer": "Cipla Limited (ASTHALIN brand owner; tablet strength not listed on official site)",
+  "url": "https://www.ciplamed.com/product-index/asthalin-inhaler",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0185",
+  "name": "ASTHALIN 4MG",
+  "manufacturer": "Cipla Limited (ASTHALIN brand owner; tablet strength not listed on official site)",
+  "url": "https://www.ciplamed.com/product-index/asthalin-inhaler",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0186",
+  "name": "ASTHALIN INHR 200MD",
+  "manufacturer": "Cipla Limited",
+  "url": "https://www.ciplamed.com/product-index/asthalin-inhaler",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0187",
+  "name": "ASTHALIN RES 2.5ML",
+  "manufacturer": "Cipla Limited",
+  "url": "https://www.ciplamed.com/product-index/asthalin-respules",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0192",
+  "name": "ATLURA 40MG",
+  "manufacturer": "Torrent Pharmaceuticals Ltd. (marketer, per PI 'MARKETED BY TORRENT PHARMACEUTICALS LTD.')",
+  "url": "https://torrentpharma.com/assets/2768_22c545c566.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0198",
+  "name": "ATORLIP 20MG",
+  "manufacturer": "Cipla Limited",
+  "url": "https://www.ciplamed.com/product-index/atorlip-tablets",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0205",
+  "name": "AUGEMENTIN 1000MG DUO",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India)",
+  "url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0206",
+  "name": "AUGMENTIN (R) 1000MG DUO",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India)",
+  "url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0207",
+  "name": "AUGMENTIN 625MG",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India)",
+  "url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0208",
+  "name": "AUGMENTIN DDS SUSP 30ML",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India)",
+  "url": "https://india-pharma.gsk.com/media/mpchixmp/augmentin-dds.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0209",
+  "name": "AUGMENTIN DUO 625 TAB",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India)",
+  "url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0210",
+  "name": "AUGMENTIN R 1000MG",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India; Worli, Mumbai) - per official PI",
+  "url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0211",
+  "name": "AUGMENTIN R 625MG",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India; Worli, Mumbai) - per official PI",
+  "url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0217",
+  "name": "AVANA 100MG",
+  "manufacturer": "Sunrise Remedies Pvt. Ltd. (Ahmedabad)",
+  "url": "https://sunriseremedies.in/our-products/avana/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0218",
+  "name": "AVANA 200MG",
+  "manufacturer": "Sunrise Remedies Pvt. Ltd. (Ahmedabad)",
+  "url": "https://sunriseremedies.in/our-products/avana/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0219",
+  "name": "AVANA 50MG",
+  "manufacturer": "Sunrise Remedies Pvt. Ltd. (Ahmedabad)",
+  "url": "https://sunriseremedies.in/our-products/avana/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0234",
+  "name": "AZACAN 50MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "url": "https://www.healingpharma.in/product/azacan-50/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0243",
+  "name": "AZELAX CREAM 20GM",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "url": "https://www.healingpharma.in/product/azelax-cream/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0250",
+  "name": "AZIFAST GEL",
+  "manufacturer": "Ipca Laboratories Ltd.",
+  "url": "https://www.ipca.com/wp-content/pdf/revised-pricelist-of-all-domestic-formulations-applicable-22-09-2025.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0260",
+  "name": "AZTOR 20MG",
+  "manufacturer": "Sun Pharmaceutical Industries Ltd.",
+  "url": "https://sunpharma.com/india-products/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0261",
+  "name": "B COLEX CAP",
+  "manufacturer": "Torque Pharmaceuticals Pvt. Ltd. (Torque Group) (marketer)",
+  "url": "https://torquepharma.com/b-colex-capsules",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0267",
+  "name": "BACSTOL 200MG",
+  "manufacturer": "Ipca Laboratories Ltd.",
+  "url": "https://ipca.com/pharmaceutical-formulations-manufacturers-india/",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0268",
+  "name": "BACSTOL TAB",
+  "manufacturer": "Ipca Laboratories Ltd.",
+  "url": "https://ipca.com/pharmaceutical-formulations-manufacturers-india/",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0280",
+  "name": "BECOSULES CAP",
+  "manufacturer": "Pfizer Ltd., India (licensed user; trademark proprietor Pfizer Products Inc., USA)",
+  "url": "https://labeling.pfizer.com/ShowLabeling.aspx?id=14807",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0288",
+  "name": "BENCID TAB",
+  "manufacturer": "Geno Pharmaceuticals Pvt. Ltd.",
+  "url": "https://genopharma.com/wp-content/uploads/2025/09/Circular_New_MRP.pdf",
+  "status": "NEEDS_REVIEW"
+ },
+ {
+  "sku": "IMP-0295",
+  "name": "BENZO 2.5% GEL 30GM",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "url": "https://www.healingpharma.in/product/benzo-2-5-gel/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0296",
+  "name": "BENZO 5% GEL 30GM",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "url": "https://www.healingpharma.in/product/benzo-benzoyl-peroxide-5-gel-acne-spots-treatment-gel-manufacturers-india/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0306",
+  "name": "BETAVERT 16MG",
+  "manufacturer": "Sun Pharmaceutical Industries Ltd.",
+  "url": "https://sunpharma.com/india-products/",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0308",
+  "name": "BETNESOL 0.5MG",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Ltd. (India)",
+  "url": "https://india-pharma.gsk.com/media/701078/betnesol-tablet-and-betnesol-forte-tablets.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ },
+ {
+  "sku": "IMP-0309",
+  "name": "BETNOVATE CREAM 20GM",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Ltd. (India)",
+  "url": "https://india-pharma.gsk.com/media/701030/betnovate-skin-cream.pdf",
+  "status": "PARTIALLY_VERIFIED"
+ }
+]

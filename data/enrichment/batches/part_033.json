@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1741,
+  "name": "METROGYL GEL 30GM",
+  "generic": "METRONIDAZOLE",
+  "price": "82",
+  "sku": "IMP-1741"
+ },
+ {
+  "sr": 1742,
+  "name": "METROGYL SUSP",
+  "generic": "METRONIDAZOLE",
+  "price": "30",
+  "sku": "IMP-1742"
+ },
+ {
+  "sr": 1743,
+  "name": "METRON 400MG",
+  "generic": "METRONIDAZOLE",
+  "price": "1.5",
+  "sku": "IMP-1743"
+ },
+ {
+  "sr": 1744,
+  "name": "METRON K 400MG",
+  "generic": "METRONIDAZOLE",
+  "price": "1",
+  "sku": "IMP-1744"
+ },
+ {
+  "sr": 1745,
+  "name": "METRON SUSPENSION 60ML",
+  "generic": "METRONIDAZOLE",
+  "price": "25",
+  "sku": "IMP-1745"
+ },
+ {
+  "sr": 1746,
+  "name": "METRONIDAZOLE 200MG",
+  "generic": "METRONIDAZOLE",
+  "price": "1",
+  "sku": "IMP-1746"
+ },
+ {
+  "sr": 1747,
+  "name": "METRONIDAZOLE 400MG",
+  "generic": "METRONIDAZOLE",
+  "price": "1",
+  "sku": "IMP-1747"
+ },
+ {
+  "sr": 1748,
+  "name": "METRONIDAZOLE GEL",
+  "generic": "METRONIDAZOLE",
+  "price": "75",
+  "sku": "IMP-1748"
+ },
+ {
+  "sr": 1749,
+  "name": "METROPIN 250MG",
+  "generic": "METRONIDAZOLE",
+  "price": "1.5",
+  "sku": "IMP-1749"
+ },
+ {
+  "sr": 1750,
+  "name": "METROPRIN 500MG",
+  "generic": "METRONIDAZOLE",
+  "price": "3",
+  "sku": "IMP-1750"
+ },
+ {
+  "sr": 1751,
+  "name": "METROZEE 400MG",
+  "generic": "METRONIDAZOLE",
+  "price": "1.5",
+  "sku": "IMP-1751"
+ },
+ {
+  "sr": 1752,
+  "name": "METZYL GEL 2%",
+  "generic": "METRONIDAZOLE",
+  "price": "35",
+  "sku": "IMP-1752"
+ },
+ {
+  "sr": 1753,
+  "name": "MICOGEL CREAM",
+  "generic": "METRONIDAZOLE",
+  "price": "20",
+  "sku": "IMP-1753"
+ },
+ {
+  "sr": 1754,
+  "name": "MIDOSMART 2.5MG",
+  "generic": "MIDODRINE HCL",
+  "price": "7.5",
+  "sku": "IMP-1754"
+ },
+ {
+  "sr": 1755,
+  "name": "MIENTA TAB",
+  "generic": "BOSWELLIA SERRATA EXTRACT",
+  "price": "15.5",
+  "sku": "IMP-1755"
+ },
+ {
+  "sr": 1756,
+  "name": "MIFEGEST KIT",
+  "generic": "MIFEPRISTONE & MISOPROSTOL",
+  "price": "390",
+  "sku": "IMP-1756"
+ },
+ {
+  "sr": 1757,
+  "name": "MIGRABETA TR 40MG",
+  "generic": "PROPRANOLOL HCL",
+  "price": "3",
+  "sku": "IMP-1757"
+ },
+ {
+  "sr": 1758,
+  "name": "MIGRAHEAL TAB",
+  "generic": "CAFFEINE+ ERGOTAMINE + PARACETAMOL + PROCHLORPERAZINE",
+  "price": "4",
+  "sku": "IMP-1758"
+ },
+ {
+  "sr": 1759,
+  "name": "MINICHEK 5% LOTION 60ML",
+  "generic": "MINOXIDIL",
+  "price": "780",
+  "sku": "IMP-1759"
+ },
+ {
+  "sr": 1760,
+  "name": "MINICYCLINE CAP",
+  "generic": "MINICYCLINE",
+  "price": "3",
+  "sku": "IMP-1760"
+ },
+ {
+  "sr": 1761,
+  "name": "MINIRIN 0.1MG",
+  "generic": "DESMOPRESSIN",
+  "price": "30.5",
+  "sku": "IMP-1761"
+ },
+ {
+  "sr": 1762,
+  "name": "MINJUC 5MG",
+  "generic": "MINOXIDIL",
+  "price": "13",
+  "sku": "IMP-1762"
+ },
+ {
+  "sr": 1763,
+  "name": "MINJUV 5MG",
+  "generic": "MINOXIDIL",
+  "price": "13",
+  "sku": "IMP-1763"
+ },
+ {
+  "sr": 1764,
+  "name": "MINOCYCLONE 100MG",
+  "generic": "MINOCYCLINE  HCL",
+  "price": "22.5",
+  "sku": "IMP-1764"
+ },
+ {
+  "sr": 1765,
+  "name": "MINOCYCLONE 50MG",
+  "generic": "MINOCYCLINE  HCL",
+  "price": "11",
+  "sku": "IMP-1765"
+ },
+ {
+  "sr": 1766,
+  "name": "MINOKEM N 5% 60ML",
+  "generic": "Minoxidil + Azelaic Acid + Tretinoin",
+  "price": "772",
+  "sku": "IMP-1766"
+ },
+ {
+  "sr": 1767,
+  "name": "MINOSIGN 100MG",
+  "generic": "MINOXIDIL",
+  "price": "21.5",
+  "sku": "IMP-1767"
+ },
+ {
+  "sr": 1768,
+  "name": "MINOSIGN 50MG TAB.",
+  "generic": "MINOXIDIL",
+  "price": "11",
+  "sku": "IMP-1768"
+ },
+ {
+  "sr": 1769,
+  "name": "MINOSTAR 10MG TAB.",
+  "generic": "MINOXIDIL",
+  "price": "5",
+  "sku": "IMP-1769"
+ },
+ {
+  "sr": 1770,
+  "name": "MINOSTAR 2.5MG",
+  "generic": "MINOXIDIL",
+  "price": "3",
+  "sku": "IMP-1770"
+ },
+ {
+  "sr": 1771,
+  "name": "MINOSTAR 5MG",
+  "generic": "MINOXIDIL",
+  "price": "3.5",
+  "sku": "IMP-1771"
+ },
+ {
+  "sr": 1772,
+  "name": "MINOXIBOON 10MG",
+  "generic": "MINOXIDIL",
+  "price": "6",
+  "sku": "IMP-1772"
+ },
+ {
+  "sr": 1773,
+  "name": "MINOXIBOON 2.5MG",
+  "generic": "MINOXIDIL",
+  "price": "2.5",
+  "sku": "IMP-1773"
+ },
+ {
+  "sr": 1774,
+  "name": "MINOXIBOON 5MG",
+  "generic": "MINOXIDIL",
+  "price": "4",
+  "sku": "IMP-1774"
+ },
+ {
+  "sr": 1775,
+  "name": "MINOXIFORD 5MG",
+  "generic": "MINOXIDIL",
+  "price": "3.5",
+  "sku": "IMP-1775"
+ },
+ {
+  "sr": 1776,
+  "name": "MINOXIHEAD 10MG",
+  "generic": "MINOXIDIL",
+  "price": "4.5",
+  "sku": "IMP-1776"
+ },
+ {
+  "sr": 1777,
+  "name": "MINOXIHEAD 2.5MG",
+  "generic": "MINOXIDIL",
+  "price": "2.5",
+  "sku": "IMP-1777"
+ },
+ {
+  "sr": 1778,
+  "name": "MINOXIHEAD 5MG",
+  "generic": "MINOXIDIL",
+  "price": "3.5",
+  "sku": "IMP-1778"
+ },
+ {
+  "sr": 1779,
+  "name": "MINOXYQURE 10% 60ML",
+  "generic": "MINOXIDIL",
+  "price": "220",
+  "sku": "IMP-1779"
+ },
+ {
+  "sr": 1780,
+  "name": "MINOXYQURE 5% 60ML",
+  "generic": "MINOXIDIL",
+  "price": "160",
+  "sku": "IMP-1780"
+ },
+ {
+  "sr": 1781,
+  "name": "MINOXYQURE F 60ML",
+  "generic": "MINOXIDIL",
+  "price": "205",
+  "sku": "IMP-1781"
+ },
+ {
+  "sr": 1782,
+  "name": "MINOXYTOP 10% SOL",
+  "generic": "MINOXIDIL",
+  "price": "215",
+  "sku": "IMP-1782"
+ },
+ {
+  "sr": 1783,
+  "name": "MINOXYTOP 10MG",
+  "generic": "MINOXIDIL",
+  "price": "17",
+  "sku": "IMP-1783"
+ },
+ {
+  "sr": 1784,
+  "name": "MINOXYTOP 2.5MG",
+  "generic": "MINOXIDIL",
+  "price": "5.5",
+  "sku": "IMP-1784"
+ },
+ {
+  "sr": 1785,
+  "name": "MINOXYTOP 5% SOL",
+  "generic": "MINOXIDIL",
+  "price": "155",
+  "sku": "IMP-1785"
+ },
+ {
+  "sr": 1786,
+  "name": "MINOXYTOP 5MG",
+  "generic": "MINOXIDIL",
+  "price": "9",
+  "sku": "IMP-1786"
+ },
+ {
+  "sr": 1787,
+  "name": "MINOXYTOP F 5 %",
+  "generic": "Minoxidil + Finasteride",
+  "price": "165",
+  "sku": "IMP-1787"
+ },
+ {
+  "sr": 1788,
+  "name": "MINOXYTOP F 5%",
+  "generic": "MINOXIDIL",
+  "price": "210",
+  "sku": "IMP-1788"
+ },
+ {
+  "sr": 1789,
+  "name": "MINPRO 10MG",
+  "generic": "MINOXIDIL",
+  "price": "5",
+  "sku": "IMP-1789"
+ },
+ {
+  "sr": 1790,
+  "name": "MINWIN 10MG",
+  "generic": "MINOXIDIL",
+  "price": "7",
+  "sku": "IMP-1790"
+ }
+]

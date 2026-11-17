@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1992,
+  "name": "NITROTIME 100MG",
+  "generic": "NITROFURANTOIN",
+  "price": "3",
+  "sku": "IMP-1992"
+ },
+ {
+  "sr": 1993,
+  "name": "NIXANIDE 500MG",
+  "generic": "NITAZOXANIDE",
+  "price": "8",
+  "sku": "IMP-1993"
+ },
+ {
+  "sr": 1994,
+  "name": "NIZOCHRIST 500MG",
+  "generic": "NITAZOXANIDE",
+  "price": "8",
+  "sku": "IMP-1994"
+ },
+ {
+  "sr": 1995,
+  "name": "NIZONIDE 500MG",
+  "generic": "NITAZOXANIDE",
+  "price": "18",
+  "sku": "IMP-1995"
+ },
+ {
+  "sr": 1996,
+  "name": "NODICT 50MG",
+  "generic": "NALTREXONE",
+  "price": "70",
+  "sku": "IMP-1996"
+ },
+ {
+  "sr": 1997,
+  "name": "NOKRONO 500MG",
+  "generic": "DISULFIRAM",
+  "price": "2",
+  "sku": "IMP-1997"
+ },
+ {
+  "sr": 1998,
+  "name": "NOLCEE TAB",
+  "generic": "VITAMIN C",
+  "price": "2",
+  "sku": "IMP-1998"
+ },
+ {
+  "sr": 1999,
+  "name": "NOOSANTA 100MG",
+  "generic": "TAPENTADOL",
+  "price": "9",
+  "sku": "IMP-1999"
+ },
+ {
+  "sr": 2000,
+  "name": "NOOSANTA 200MG",
+  "generic": "TAPENTADOL",
+  "price": "16",
+  "sku": "IMP-2000"
+ },
+ {
+  "sr": 2001,
+  "name": "NOOSANTA 200MG 1*10",
+  "generic": "TAPENTADOL",
+  "price": "15.5",
+  "sku": "IMP-2001"
+ },
+ {
+  "sr": 2002,
+  "name": "NOOSANTA 250MG",
+  "generic": "TAPENTADOL",
+  "price": "29",
+  "sku": "IMP-2002"
+ },
+ {
+  "sr": 2003,
+  "name": "NOOSANTA GEL",
+  "generic": "TAPENTADOL",
+  "price": "17",
+  "sku": "IMP-2003"
+ },
+ {
+  "sr": 2004,
+  "name": "NORDITROPIN NORDIFLEX 15MG",
+  "generic": "HUMAN GROWTH HORMONE",
+  "price": "17350",
+  "sku": "IMP-2004"
+ },
+ {
+  "sr": 2005,
+  "name": "NORIP 25MG",
+  "generic": "NORTRIPTYLINE",
+  "price": "2",
+  "sku": "IMP-2005"
+ },
+ {
+  "sr": 2006,
+  "name": "NORPIT-25MG TAB.",
+  "generic": "Nortriptyline",
+  "price": "1.5",
+  "sku": "IMP-2006"
+ },
+ {
+  "sr": 2007,
+  "name": "NORSAFE 400MG",
+  "generic": "NORFLOXACIN",
+  "price": "2.5",
+  "sku": "IMP-2007"
+ },
+ {
+  "sr": 2008,
+  "name": "NORSUNATE 100MG",
+  "generic": "ARTESUNATE",
+  "price": "11",
+  "sku": "IMP-2008"
+ },
+ {
+  "sr": 2009,
+  "name": "NORSUNATE 200MG",
+  "generic": "ARTESUNATE",
+  "price": "20",
+  "sku": "IMP-2009"
+ },
+ {
+  "sr": 2010,
+  "name": "NORSUNATE 50MG",
+  "generic": "ARTESUNATE",
+  "price": "10.75",
+  "sku": "IMP-2010"
+ },
+ {
+  "sr": 2011,
+  "name": "NORTIMER 25MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "4.5",
+  "sku": "IMP-2011"
+ },
+ {
+  "sr": 2012,
+  "name": "NORTROP 25MG",
+  "generic": "NORTRIPTYLINE",
+  "price": "1.5",
+  "sku": "IMP-2012"
+ },
+ {
+  "sr": 2013,
+  "name": "NORTROP 25MG",
+  "generic": "Nortriptyline",
+  "price": "1.5",
+  "sku": "IMP-2013"
+ },
+ {
+  "sr": 2014,
+  "name": "NORWAYS TAB",
+  "generic": "IDEBENONE",
+  "price": "24",
+  "sku": "IMP-2014"
+ },
+ {
+  "sr": 2015,
+  "name": "NOVAMOX 250MG DT",
+  "generic": "AMOXYCILLIN",
+  "price": "10",
+  "sku": "IMP-2015"
+ },
+ {
+  "sr": 2016,
+  "name": "NOVASTAT 20MG",
+  "generic": "ROSUVASTATIN",
+  "price": "33",
+  "sku": "IMP-2016"
+ },
+ {
+  "sr": 2017,
+  "name": "NOVASTAT EZ 20MG",
+  "generic": "EZETIMIBE + ROSUVASTATIN",
+  "price": "32.5",
+  "sku": "IMP-2017"
+ },
+ {
+  "sr": 2018,
+  "name": "NOVORAPID FLEXPEN 3ML",
+  "generic": "INSULIN ASPART",
+  "price": "890",
+  "sku": "IMP-2018"
+ },
+ {
+  "sr": 2019,
+  "name": "NOWILL TAB",
+  "generic": "LEVONOGESTREL",
+  "price": "15.5",
+  "sku": "IMP-2019"
+ },
+ {
+  "sr": 2020,
+  "name": "NS 250ML",
+  "generic": "",
+  "price": "22",
+  "sku": "IMP-2020"
+ },
+ {
+  "sr": 2021,
+  "name": "NUDICLO INJ 1ML",
+  "generic": "DICLOFENAC",
+  "price": "5",
+  "sku": "IMP-2021"
+ },
+ {
+  "sr": 2022,
+  "name": "NULIFE MEDITCH PULS OXY",
+  "generic": "PULSE OXYMETER MEDTECH",
+  "price": "1010",
+  "sku": "IMP-2022"
+ },
+ {
+  "sr": 2023,
+  "name": "NUMBON 2% GEL 30GM",
+  "generic": "LIGNOCAINE HCL",
+  "price": "25",
+  "sku": "IMP-2023"
+ },
+ {
+  "sr": 2024,
+  "name": "NUMBON 2% INJ 30ML",
+  "generic": "LIGNOCAINE HCL",
+  "price": "15",
+  "sku": "IMP-2024"
+ },
+ {
+  "sr": 2025,
+  "name": "NUROKIND Z MORE TAB",
+  "generic": "CHROMIUM, FOLIC ACID, MECOBALAMIN (VIT B12), NIACINAMIDE (VITAMIN B3), PYRIDOXINE HYDROCHLORIDE (VITAMIN B6),",
+  "price": "6",
+  "sku": "IMP-2025"
+ },
+ {
+  "sr": 2026,
+  "name": "NVGESIC 300MG",
+  "generic": "PREGABALIN",
+  "price": "3.5",
+  "sku": "IMP-2026"
+ },
+ {
+  "sr": 2027,
+  "name": "OBIMET 500MG",
+  "generic": "METFORMIN HCL",
+  "price": "2",
+  "sku": "IMP-2027"
+ },
+ {
+  "sr": 2028,
+  "name": "OCLAPET 5.4MG",
+  "generic": "OCLACITINIB",
+  "price": "57",
+  "sku": "IMP-2028"
+ },
+ {
+  "sr": 2029,
+  "name": "OCUPOL EYE OINT",
+  "generic": "CHLORAMPHENICOL + POLYMYXIN B",
+  "price": "60",
+  "sku": "IMP-2029"
+ },
+ {
+  "sr": 2030,
+  "name": "OFLOKEM 200MG",
+  "generic": "OFLOXACIN",
+  "price": "2",
+  "sku": "IMP-2030"
+ },
+ {
+  "sr": 2031,
+  "name": "OFLOMAC TZ TAB",
+  "generic": "OFLOXACIN + TINIDAZOLE",
+  "price": "9.5",
+  "sku": "IMP-2031"
+ },
+ {
+  "sr": 2032,
+  "name": "OFLOTAS OZ TAB",
+  "generic": "OFLOXACIN + ORNIDAZOLE",
+  "price": "3",
+  "sku": "IMP-2032"
+ },
+ {
+  "sr": 2033,
+  "name": "OFLOX EYE DROPS 5ML",
+  "generic": "OFLOXACIN",
+  "price": "42",
+  "sku": "IMP-2033"
+ },
+ {
+  "sr": 2034,
+  "name": "OFLOX OZ TAB",
+  "generic": "OFLOXACIN + ORNIDAZOLE",
+  "price": "16",
+  "sku": "IMP-2034"
+ },
+ {
+  "sr": 2035,
+  "name": "OFRAMAX 1 GM INJ",
+  "generic": "CEFTRIAXONE",
+  "price": "30",
+  "sku": "IMP-2035"
+ },
+ {
+  "sr": 2036,
+  "name": "OKACET 10MG",
+  "generic": "CETRIZINE",
+  "price": "1",
+  "sku": "IMP-2036"
+ },
+ {
+  "sr": 2037,
+  "name": "OKAMET 500MG",
+  "generic": "METFORMIN HYDROCHLORIDE",
+  "price": "1",
+  "sku": "IMP-2037"
+ },
+ {
+  "sr": 2038,
+  "name": "OL TAP 100MG",
+  "generic": "TAPENTADOL",
+  "price": "11",
+  "sku": "IMP-2038"
+ },
+ {
+  "sr": 2039,
+  "name": "OL TAP 200ER TAB",
+  "generic": "TAPENTADOL",
+  "price": "19.5",
+  "sku": "IMP-2039"
+ },
+ {
+  "sr": 2040,
+  "name": "OL TAP 200MG",
+  "generic": "TAPENTADOL",
+  "price": "16.5",
+  "sku": "IMP-2040"
+ },
+ {
+  "sr": 2041,
+  "name": "OLANA 10MG",
+  "generic": "OLANZAPINE",
+  "price": "1",
+  "sku": "IMP-2041"
+ }
+]

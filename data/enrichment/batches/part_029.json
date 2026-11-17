@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1536,
+  "name": "LEVERATAM 750MG",
+  "generic": "LEVOCETIRIZINE",
+  "price": "7",
+  "sku": "IMP-1536"
+ },
+ {
+  "sr": 1537,
+  "name": "LEVETRAM 500MG",
+  "generic": "LEVETIRACETAM",
+  "price": "3.5",
+  "sku": "IMP-1537"
+ },
+ {
+  "sr": 1538,
+  "name": "LEVIFIL POWER TAB",
+  "generic": "VARDENAFIL + DAPOXETINE",
+  "price": "26",
+  "sku": "IMP-1538"
+ },
+ {
+  "sr": 1539,
+  "name": "LEVOCETRIZEN 5MG",
+  "generic": "LEVOCETIRIZINE",
+  "price": "1",
+  "sku": "IMP-1539"
+ },
+ {
+  "sr": 1540,
+  "name": "LEVODOC 750MG",
+  "generic": "LEVOFLOXACIN",
+  "price": "9",
+  "sku": "IMP-1540"
+ },
+ {
+  "sr": 1541,
+  "name": "LEVOFLOX 500MG",
+  "generic": "LEVOFLOXACIN",
+  "price": "8.5",
+  "sku": "IMP-1541"
+ },
+ {
+  "sr": 1542,
+  "name": "LEVOHEAL 250MG",
+  "generic": "LEVOFLOXACIN",
+  "price": "2",
+  "sku": "IMP-1542"
+ },
+ {
+  "sr": 1543,
+  "name": "LEVOHEAL 500MG",
+  "generic": "LEVOFLOXACIN",
+  "price": "3.5",
+  "sku": "IMP-1543"
+ },
+ {
+  "sr": 1544,
+  "name": "LEVOLIN INHALER",
+  "generic": "LEVOSALBUTAMOL",
+  "price": "210",
+  "sku": "IMP-1544"
+ },
+ {
+  "sr": 1545,
+  "name": "LEVOMORE 500MG",
+  "generic": "LEVOFLOXACIN",
+  "price": "9",
+  "sku": "IMP-1545"
+ },
+ {
+  "sr": 1546,
+  "name": "LEVOQUIN 250MG",
+  "generic": "LEVOFLOXACIN",
+  "price": "3",
+  "sku": "IMP-1546"
+ },
+ {
+  "sr": 1547,
+  "name": "LEVOQUIN 500MG",
+  "generic": "LEVOFLOXACIN",
+  "price": "5.5",
+  "sku": "IMP-1547"
+ },
+ {
+  "sr": 1548,
+  "name": "LEXAHEAL 10MG",
+  "generic": "ESCITALOPRAM",
+  "price": "1.5",
+  "sku": "IMP-1548"
+ },
+ {
+  "sr": 1549,
+  "name": "LEXAHEAL 20MG",
+  "generic": "ESCITALOPRAM",
+  "price": "2",
+  "sku": "IMP-1549"
+ },
+ {
+  "sr": 1550,
+  "name": "LIGNOCAD GEL",
+  "generic": "LIDOCAINE",
+  "price": "25",
+  "sku": "IMP-1550"
+ },
+ {
+  "sr": 1551,
+  "name": "LIGNOCAIN INJ 30ML",
+  "generic": "LIGNOCAIN HCL",
+  "price": "15",
+  "sku": "IMP-1551"
+ },
+ {
+  "sr": 1552,
+  "name": "LIGNOHEAL 2% GEL",
+  "generic": "LIGNOCAINE",
+  "price": "20",
+  "sku": "IMP-1552"
+ },
+ {
+  "sr": 1553,
+  "name": "LIMCEE 500MG",
+  "generic": "VITAMIN C CHEWABLE",
+  "price": "1.5",
+  "sku": "IMP-1553"
+ },
+ {
+  "sr": 1554,
+  "name": "LINAGLIVAC 5MG",
+  "generic": "LINAGLIPTIN",
+  "price": "3",
+  "sku": "IMP-1554"
+ },
+ {
+  "sr": 1555,
+  "name": "LINASMART 5MG",
+  "generic": "Linagliptin",
+  "price": "1.5",
+  "sku": "IMP-1555"
+ },
+ {
+  "sr": 1556,
+  "name": "LINEZMED 600MG",
+  "generic": "LINEZOLID",
+  "price": "11",
+  "sku": "IMP-1556"
+ },
+ {
+  "sr": 1557,
+  "name": "LINEZOD",
+  "generic": "LINEZOLID",
+  "price": "8.5",
+  "sku": "IMP-1557"
+ },
+ {
+  "sr": 1558,
+  "name": "LINEZOL 600MG",
+  "generic": "LINEZOLID",
+  "price": "13",
+  "sku": "IMP-1558"
+ },
+ {
+  "sr": 1559,
+  "name": "LINGESIC 150MG",
+  "generic": "PREGABALIN",
+  "price": "2",
+  "sku": "IMP-1559"
+ },
+ {
+  "sr": 1560,
+  "name": "LINGESIC 300MG",
+  "generic": "PREGABALIN",
+  "price": "4",
+  "sku": "IMP-1560"
+ },
+ {
+  "sr": 1561,
+  "name": "LINORMA T3 20MG",
+  "generic": "LIOTHYRONINE SODIUM",
+  "price": "11.5",
+  "sku": "IMP-1561"
+ },
+ {
+  "sr": 1562,
+  "name": "LIOFEN 10MG",
+  "generic": "BACLOFEN",
+  "price": "11",
+  "sku": "IMP-1562"
+ },
+ {
+  "sr": 1563,
+  "name": "LIOFEN XL 20MG",
+  "generic": "BACLOFEN",
+  "price": "32",
+  "sku": "IMP-1563"
+ },
+ {
+  "sr": 1564,
+  "name": "LIPIDATOR 10MG",
+  "generic": "ATORVASTATIN",
+  "price": "1",
+  "sku": "IMP-1564"
+ },
+ {
+  "sr": 1565,
+  "name": "LIPIDATOR 20MG",
+  "generic": "ATORVASTATIN",
+  "price": "1.5",
+  "sku": "IMP-1565"
+ },
+ {
+  "sr": 1566,
+  "name": "LIPIDATOR 40MG",
+  "generic": "ATORVASTATIN",
+  "price": "2.5",
+  "sku": "IMP-1566"
+ },
+ {
+  "sr": 1567,
+  "name": "LIPIDATOR 80MG",
+  "generic": "ATORVASTATIN",
+  "price": "3.5",
+  "sku": "IMP-1567"
+ },
+ {
+  "sr": 1568,
+  "name": "LIPVAS 10MG",
+  "generic": "ATORVASTATIN",
+  "price": "2.5",
+  "sku": "IMP-1568"
+ },
+ {
+  "sr": 1569,
+  "name": "LIPVAS 10MG",
+  "generic": "ATORVASTATIN",
+  "price": "2.5",
+  "sku": "IMP-1569"
+ },
+ {
+  "sr": 1570,
+  "name": "LIPVAS 20MG",
+  "generic": "ATORVASTATIN",
+  "price": "3.5",
+  "sku": "IMP-1570"
+ },
+ {
+  "sr": 1571,
+  "name": "LIPVAS 40MG",
+  "generic": "ATORVASTATIN",
+  "price": "6.5",
+  "sku": "IMP-1571"
+ },
+ {
+  "sr": 1572,
+  "name": "LIRAFIT 3ML INJ",
+  "generic": "LIRAGLUTIDE",
+  "price": "1625",
+  "sku": "IMP-1572"
+ },
+ {
+  "sr": 1573,
+  "name": "LIRCETAM  TAB",
+  "generic": "LIVETIRACETAM",
+  "price": "6",
+  "sku": "IMP-1573"
+ },
+ {
+  "sr": 1574,
+  "name": "LISPRO 10MG",
+  "generic": "Lisinopril",
+  "price": "1.5",
+  "sku": "IMP-1574"
+ },
+ {
+  "sr": 1575,
+  "name": "LISPRO 20MG",
+  "generic": "Lisinopril",
+  "price": "3.5",
+  "sku": "IMP-1575"
+ },
+ {
+  "sr": 1576,
+  "name": "LIV 52 DS TAB",
+  "generic": "HIMALAYA",
+  "price": "3",
+  "sku": "IMP-1576"
+ },
+ {
+  "sr": 1577,
+  "name": "LIV 52 TAB",
+  "generic": "HIMALAYA",
+  "price": "1.5",
+  "sku": "IMP-1577"
+ },
+ {
+  "sr": 1578,
+  "name": "LIVAFIN CREAM 10GM",
+  "generic": "AMOROLFINE",
+  "price": "160",
+  "sku": "IMP-1578"
+ },
+ {
+  "sr": 1579,
+  "name": "LIVERHEAL 52",
+  "generic": "",
+  "price": "1",
+  "sku": "IMP-1579"
+ },
+ {
+  "sr": 1580,
+  "name": "LOBATE CREAM 30GM",
+  "generic": "CLOBETASOL + MICONAZOLE + NEOMYCIN",
+  "price": "200",
+  "sku": "IMP-1580"
+ },
+ {
+  "sr": 1581,
+  "name": "LOBATE S OINT 30GM",
+  "generic": "CLOBETASOL + MICONAZOLE + NEOMYCIN",
+  "price": "188",
+  "sku": "IMP-1581"
+ },
+ {
+  "sr": 1582,
+  "name": "LOBG 0.5MG",
+  "generic": "Lobeglitazone",
+  "price": "9",
+  "sku": "IMP-1582"
+ },
+ {
+  "sr": 1583,
+  "name": "LOBIZONE 0.5MG",
+  "generic": "LOBEGLITAZONE",
+  "price": "3.5",
+  "sku": "IMP-1583"
+ },
+ {
+  "sr": 1584,
+  "name": "LODONAK 1.5MG",
+  "generic": "NALTREXONE",
+  "price": "3.5",
+  "sku": "IMP-1584"
+ },
+ {
+  "sr": 1585,
+  "name": "LODONAK 3MG",
+  "generic": "NALTREXONE",
+  "price": "5",
+  "sku": "IMP-1585"
+ }
+]

@@ -1,0 +1,386 @@
+[
+ {
+  "sku": "IMP-0465",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "CEFASIGN-500; Rx Cefuroxime Axetil Tablets IP 500 mg; 1 x 10 Tablets; strip: each film coated tablet contains Cefuroxime Axetil IP eq. to Cefuroxime 500 mg; Manufactured in India by Signature Phytochemical Industries, Selaqui, Dehradun",
+  "note": "Brand CEFASIGN, 500 mg, tablet all match. Carton+blister render with readable text. pack branded 'Signature' (Signature Phytochemical Industries, Dehradun shown as manufacturer); HAB name/logo not visible on pack",
+  "extra_reasons": [
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ]
+ },
+ {
+  "sku": "IMP-0478",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "CEFPOSIGN 200; Rx Cefpodoxime Proxetil Tablets IP; 10 x 1 x 10 Tablets; strip: each film coated tablet contains Cefpodoxime Proxetil IP eq. to Cefpodoxime 200 mg; Signature Phytochemical Industries, Dehradun",
+  "note": "Brand CEFPOSIGN, 200 mg (on strip composition), tablet all match. Real pack photo. pack branded 'Signature' (Signature Phytochemical Industries, Dehradun shown as manufacturer); HAB name/logo not visible on pack",
+  "extra_reasons": [
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ]
+ },
+ {
+  "sku": "IMP-0556",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "CITISIGN P Forte TABLETS; Rx Citicoline & Piracetam Tablets; 1 x 10 Tablets / 10 x 1 x 10 Tablets; Signature logo",
+  "note": "Brand CITISIGN P FORTE and tablet form match, but strength not visible (no mg on carton front; strip composition text unreadable). only 'Signature' logo visible; HAB name/logo not visible on pack",
+  "extra_reasons": [
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ]
+ },
+ {
+  "sku": "IMP-0599",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "CLOMISIGN-100; Rx Clomifene Citrate Tablets IP 100mg; 3 X 10 Tablets; strip: Manufactured in India by HAB Pharmaceuticals & Research Limited, Vasai; Signature logo",
+  "note": "Brand CLOMISIGN, 100 mg, tablet all match. Real pack photo; HAB Pharmaceuticals & Research Ltd named on strip.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0600",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "CLOMISIGN-50; Rx Clomifene Citrate Tablets IP 50mg; 3 X 10 Tablets; strip: HAB Pharmaceuticals & Research Limited, Vasai; Signature logo",
+  "note": "Brand CLOMISIGN, 50 mg, tablet all match. Real pack photo; HAB named on strip.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0637",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "Covimectin-12; Rx Ivermectin Tablets USP; 10 X 10 Tablets; strip: each uncoated tablet contains Ivermectin IP 12mg; Manufactured in India by HAB Pharmaceuticals & Research Limited, SIDCUL, Selaqui, Dehradun; Signature logo",
+  "note": "Brand COVIMECTIN, 12 mg (on strip), tablet all match. Real pack photo; HAB named on strip.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0663",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "Cyclodom Tablets; Rx Pantoprazole & Domperidone Tablets; 10x10 Tablets; strip: Pantoprazole Sodium Sesquihydrate IP eq. to Pantoprazole 40 mg, Domperidone IP 10 mg; Mfg. Lic. No. 48/UA/2006; Signature logo",
+  "note": "Brand CYCLODOM, plain variant, tablet match; strength (40 mg/10 mg) readable on strip. HAB name only in tiny, barely legible manufacturer text on carton side (Mfg Lic 48/UA/2006 matches HAB Dehradun licence seen on Covimectin); effectively HAB name/logo not visible on pack clearly.",
+  "extra_reasons": [
+   "Pack composition: Pantoprazole 40 mg + Domperidone 10 mg; list says PARACETAMOL & DICYCLOMINE HCL"
+  ]
+ },
+ {
+  "sku": "IMP-0672",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "Cyflox(R); Rx Ciprofloxacin Eye / Ear Drops IP; Eye / Ear Drops; 10 ml carton and bottle; Signature logo; bottle side label manufacturer text partially visible (HAB Pharma...)",
+  "note": "Pack is clearly the Ciprofloxacin Eye/Ear Drops (10 ml carton + dropper bottle), NOT the 250/500 tablets, so brand and form match. Rejected per brief because strength not visible (no 0.3% shown on carton or readable on bottle). HAB name only partially/illegibly visible on bottle side label.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0731",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "DEFLASIGN-6; Rx Deflazacort Tablets 6 mg; 10 X 10 Tablets; composition: each uncoated tablet contains Deflazacort 6 mg; Signature logo",
+  "note": "Brand DEFLASIGN, 6 mg, tablet all match. Carton render with readable text. only 'Signature' logo visible; HAB name/logo not visible on pack",
+  "extra_reasons": [
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ]
+ },
+ {
+  "sku": "IMP-1338",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "ITRASPOROX-100; Rx Itraconazole Capsules; 10 x 10 Blister Strips; HAB logo on carton; strip: Itraconazole Capsules, eq. to Itraconazole B.P. 100 mg, HAB Pharmaceuticals & Research Limited",
+  "note": "Brand matches (list typo ITRASPORAX vs pack ITRASPOROX), 100 mg, capsules. Real pack photo; HAB logo on carton and HAB named on strip.",
+  "extra_reasons": [
+   "Brand spelling: list says ITRASPORAX, pack reads ITRASPOROX"
+  ]
+ },
+ {
+  "sku": "IMP-1879",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "(Multi-9) / Hindi 'Multi-9'; Multivitamin Tablets; 10 X 10 TABLETS; side panel composition: each film coated tablet contains Vitamin A Acetate 1600 IU, Vitamin D3 200 IU, Thiamine Mononitrate 2 mg, Riboflavin 2 mg, Pyridoxine HCl 1 mg, Cyanocobalamin 1 mcg, Nicotinamide 25 mg, Folic Acid 0.5 mg, Zinc Sulphate Monohydrate USP 61.8 mg eq. to elemental Zinc 22.5 mg",
+  "note": "Lead override: no manufacturer name or logo on the pack; authenticity cannot be confirmed from the image",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2485",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "SIGNAPRED-4; Rx Methylprednisolone Tablets IP 4 mg; 10 X 10 Tablets; strip: Methylprednisolone IP 4 mg; Manufactured in India by Signature Phytochemical Industries, Selaqui, Dehradun",
+  "note": "Brand SIGNAPRED, 4 mg, tablet all match. Real pack photo. pack branded 'Signature' (Signature Phytochemical Industries, Dehradun shown as manufacturer); HAB name/logo not visible on pack",
+  "extra_reasons": [
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ]
+ },
+ {
+  "sku": "IMP-2713",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "TAMILONG 20 TABLETS; Rx Tamoxifen Citrate Tablets IP; 10 x 10 TABLETS; HAB logo on carton; strip: Tamoxifen Citrate eq. to Tamoxifen 20 mg, HAB Pharmaceuticals & Research Limited",
+  "note": "Brand TAMILONG, 20 (mg), tablet all match. Real pack photo; HAB logo on carton.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-3293",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "ZYLOMOX-500 CAPSULES; Rx Amoxycillin Capsules IP 500 mg; 10 x 15 Capsules; Signature logo",
+  "note": "Brand ZYLOMOX, 500 mg, capsules all match (list generic says CAP). Real pack photo. only 'Signature' logo visible; HAB name/logo not visible on pack",
+  "extra_reasons": [
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ]
+ },
+ {
+  "sku": "IMP-3294",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "visible_pack_text": "ZYLOMOX-CV 625 Co-amoxiclav; Rx Amoxycillin and Potassium Clavulanate Tablets IP; 20 x 1 x 6 Tablets; side: Amoxycillin Trihydrate IP eq. to Amoxycillin 500 mg, Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 125 mg; Signature logo",
+  "note": "Brand ZYLOMOX CV, 625 (500+125 mg), tablet all match. Carton render with readable text. only 'Signature' logo visible; HAB name/logo not visible on pack",
+  "extra_reasons": [
+   "Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)"
+  ]
+ },
+ {
+  "sku": "IMP-0063",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0170",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0171",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0265",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0266",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0432",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0555",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0670",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0671",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1133",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1487",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1825",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1906",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1957",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2484",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2486",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2855",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2922",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2952",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2953",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2984",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-3256",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-3276",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-3288",
+  "image_verdict": "none",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "HAB Pharmaceuticals",
+  "note": "Listed on HAB Pharmaceuticals catalogue; no image there",
+  "extra_reasons": []
+ }
+]

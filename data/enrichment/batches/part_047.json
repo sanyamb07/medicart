@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2453,
+  "name": "SEROFLO 500 CIPHALER",
+  "generic": "FLUTICASONE+ SALMETEROL",
+  "price": "730",
+  "sku": "IMP-2453"
+ },
+ {
+  "sr": 2454,
+  "name": "SEROQUIT 100MG",
+  "generic": "QUETIAPINE",
+  "price": "2.5",
+  "sku": "IMP-2454"
+ },
+ {
+  "sr": 2455,
+  "name": "SEROQUIT 25MG",
+  "generic": "QUETIAPINE",
+  "price": "1.5",
+  "sku": "IMP-2455"
+ },
+ {
+  "sr": 2456,
+  "name": "SEROQUIT 50MG",
+  "generic": "QUETIAPINE",
+  "price": "2",
+  "sku": "IMP-2456"
+ },
+ {
+  "sr": 2457,
+  "name": "SERTA 50MG",
+  "generic": "SERTRALINE",
+  "price": "12",
+  "sku": "IMP-2457"
+ },
+ {
+  "sr": 2458,
+  "name": "SERTAFINE 100MG",
+  "generic": "SERTRALINE",
+  "price": "2.25",
+  "sku": "IMP-2458"
+ },
+ {
+  "sr": 2459,
+  "name": "SERTAFINE 50MG",
+  "generic": "SERTRALINE",
+  "price": "1.5",
+  "sku": "IMP-2459"
+ },
+ {
+  "sr": 2460,
+  "name": "SERTAFOX 100MG",
+  "generic": "SERTRALINE",
+  "price": "2.5",
+  "sku": "IMP-2460"
+ },
+ {
+  "sr": 2461,
+  "name": "SERTAVAC 25MG",
+  "generic": "SERTRALINE",
+  "price": "1.5",
+  "sku": "IMP-2461"
+ },
+ {
+  "sr": 2462,
+  "name": "SETA 25MG",
+  "generic": "SERTRALINE",
+  "price": "1.25",
+  "sku": "IMP-2462"
+ },
+ {
+  "sr": 2463,
+  "name": "SETA 50MG",
+  "generic": "SERTRALINE",
+  "price": "1.5",
+  "sku": "IMP-2463"
+ },
+ {
+  "sr": 2464,
+  "name": "SETMAX 100MG",
+  "generic": "SERTRALINE",
+  "price": "2.5",
+  "sku": "IMP-2464"
+ },
+ {
+  "sr": 2465,
+  "name": "SETMAX 50MG",
+  "generic": "SERTRALINE",
+  "price": "1.5",
+  "sku": "IMP-2465"
+ },
+ {
+  "sr": 2466,
+  "name": "SETOXLIN CR 25MG",
+  "generic": "PAROXETINE",
+  "price": "5.5",
+  "sku": "IMP-2466"
+ },
+ {
+  "sr": 2467,
+  "name": "SEXFORCE 100MG ODS",
+  "generic": "SILDENAFIL CITRATE",
+  "price": "195",
+  "sku": "IMP-2467"
+ },
+ {
+  "sr": 2468,
+  "name": "SHELCAL 500MG",
+  "generic": "CALCIUM + VITAMIN D3",
+  "price": "7.5",
+  "sku": "IMP-2468"
+ },
+ {
+  "sr": 2469,
+  "name": "SHILAJIT 500MG",
+  "generic": "SHILAJIT & ASHWAGANDA",
+  "price": "8",
+  "sku": "IMP-2469"
+ },
+ {
+  "sr": 2470,
+  "name": "SHILARISE CAP",
+  "generic": "SHILAJIT & ASHWAGANDA",
+  "price": "5.5",
+  "sku": "IMP-2470"
+ },
+ {
+  "sr": 2471,
+  "name": "SHILRAZONE 500MG",
+  "generic": "ABIRATERON ACETATE",
+  "price": "80",
+  "sku": "IMP-2471"
+ },
+ {
+  "sr": 2472,
+  "name": "SHREETROPIN 10IU INJ",
+  "generic": "SOMATROPIN",
+  "price": "1570",
+  "sku": "IMP-2472"
+ },
+ {
+  "sr": 2473,
+  "name": "F",
+  "generic": "LIOTHYRONINE SODIUM",
+  "price": "7.5",
+  "sku": "IMP-2473"
+ },
+ {
+  "sr": 2474,
+  "name": "SHYTOMEL 25MCG",
+  "generic": "LIOTHYRONINE SODIUM",
+  "price": "6",
+  "sku": "IMP-2474"
+ },
+ {
+  "sr": 2475,
+  "name": "SHYTOMEL 50MCG",
+  "generic": "LIOTHYRONINE SODIUM",
+  "price": "7",
+  "sku": "IMP-2475"
+ },
+ {
+  "sr": 2476,
+  "name": "SHYTOMEL 5MCG",
+  "generic": "LIOTHYRONINE SODIUM",
+  "price": "4.5",
+  "sku": "IMP-2476"
+ },
+ {
+  "sr": 2477,
+  "name": "SHYTOMEL DUO 47MG",
+  "generic": "LEVOTHYROXINE & LIOTHYRONINE",
+  "price": "5.75",
+  "sku": "IMP-2477"
+ },
+ {
+  "sr": 2478,
+  "name": "SHYTOMEL DUO 70MG",
+  "generic": "Levothyroxine 57 & Liothyronine 13.50",
+  "price": "7.5",
+  "sku": "IMP-2478"
+ },
+ {
+  "sr": 2479,
+  "name": "SIEZTA 100MG",
+  "generic": "SILDENAFIL",
+  "price": "285",
+  "sku": "IMP-2479"
+ },
+ {
+  "sr": 2480,
+  "name": "SIGNACAFE CLASSIC ORAL POWDER",
+  "generic": "SILDENAFIL",
+  "price": "115",
+  "sku": "IMP-2480"
+ },
+ {
+  "sr": 2481,
+  "name": "SIGNACLEAR ANTI ACNE GEL",
+  "generic": "FACE SERUM",
+  "price": "90",
+  "sku": "IMP-2481"
+ },
+ {
+  "sr": 2482,
+  "name": "SIGNACLEAR TRANEXAMIC ACID 30ML",
+  "generic": "VITAMIN C",
+  "price": "105",
+  "sku": "IMP-2482"
+ },
+ {
+  "sr": 2483,
+  "name": "SIGNACLEAR VITAMIN C F/S",
+  "generic": "VITAMIN C",
+  "price": "115",
+  "sku": "IMP-2483"
+ },
+ {
+  "sr": 2484,
+  "name": "SIGNAFORCE 100MG",
+  "generic": "SILDENAFIL",
+  "price": "1.25",
+  "sku": "IMP-2484"
+ },
+ {
+  "sr": 2485,
+  "name": "SIGNAPRED 4MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "2",
+  "sku": "IMP-2485"
+ },
+ {
+  "sr": 2486,
+  "name": "SIGNAPRED 8MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "3",
+  "sku": "IMP-2486"
+ },
+ {
+  "sr": 2487,
+  "name": "SIGNAQUIN 200MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "4",
+  "sku": "IMP-2487"
+ },
+ {
+  "sr": 2488,
+  "name": "SIGPECIA 1MG",
+  "generic": "FINASTERIDE",
+  "price": "1",
+  "sku": "IMP-2488"
+ },
+ {
+  "sr": 2489,
+  "name": "SILAGRA 100MG",
+  "generic": "SILDENAFIL",
+  "price": "4",
+  "sku": "IMP-2489"
+ },
+ {
+  "sr": 2490,
+  "name": "SILARISE CAP",
+  "generic": "SHILAJIT & ASHWAGANDA",
+  "price": "6",
+  "sku": "IMP-2490"
+ },
+ {
+  "sr": 2491,
+  "name": "SILDALIP GOLD TAB",
+  "generic": "SILDENAFIL AND DAPOXETINE",
+  "price": "12",
+  "sku": "IMP-2491"
+ },
+ {
+  "sr": 2492,
+  "name": "SILDALIST 120MG TAB",
+  "generic": "SILDENAFIL+TADALAFIL",
+  "price": "6",
+  "sku": "IMP-2492"
+ },
+ {
+  "sr": 2493,
+  "name": "SILDALIST STRONG TAB",
+  "generic": "SILDENAFIL+TADALAFIL",
+  "price": "9.5",
+  "sku": "IMP-2493"
+ },
+ {
+  "sr": 2494,
+  "name": "SILDAMAX 100MG",
+  "generic": "SILDENAFIL",
+  "price": "4",
+  "sku": "IMP-2494"
+ },
+ {
+  "sr": 2495,
+  "name": "SILDAY 100MG",
+  "generic": "SILDENAFIL",
+  "price": "1.5",
+  "sku": "IMP-2495"
+ },
+ {
+  "sr": 2496,
+  "name": "SILDIGRA 100MG",
+  "generic": "SIGNACAFE CLASSIC ORAL POWDER",
+  "price": "1.5",
+  "sku": "IMP-2496"
+ },
+ {
+  "sr": 2497,
+  "name": "SILDIGRA 250MG",
+  "generic": "SILDENAFIL",
+  "price": "3",
+  "sku": "IMP-2497"
+ },
+ {
+  "sr": 2498,
+  "name": "SILDIGRA 50MG",
+  "generic": "SILDENAFIL",
+  "price": "1.25",
+  "sku": "IMP-2498"
+ },
+ {
+  "sr": 2499,
+  "name": "SILDIGRA BLACK FORCE 200MG",
+  "generic": "SILDENAFIL",
+  "price": "2.5",
+  "sku": "IMP-2499"
+ },
+ {
+  "sr": 2500,
+  "name": "SILDIGRA GOLD TAB",
+  "generic": "SILDENAFIL",
+  "price": "3",
+  "sku": "IMP-2500"
+ },
+ {
+  "sr": 2501,
+  "name": "SILDIGRA SUPER POWER",
+  "generic": "SILDENAFIL",
+  "price": "17",
+  "sku": "IMP-2501"
+ },
+ {
+  "sr": 2502,
+  "name": "SILDIGRA XL PLUS 150MG",
+  "generic": "SILDENAFIL",
+  "price": "2.5",
+  "sku": "IMP-2502"
+ }
+]

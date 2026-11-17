@@ -1,0 +1,1579 @@
+[
+ {
+  "sr": 15,
+  "sku": "IMP-0015",
+  "name": "ACCUFINE 10MG",
+  "list_generic": "ISOTRETINOIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/accufine-10mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/accufine-10mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Accufine 10mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Accufine-10-cap-1.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/accufine-10mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0015.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 19,
+  "sku": "IMP-0019",
+  "name": "ACCUFINE 5MG",
+  "list_generic": "ISOTRETINOIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/accufine-5mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/accufine-5mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Accufine 5mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/ACCUFINE-5.jpg?fit=1645%2C1993&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/accufine-5mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0019.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 89,
+  "sku": "IMP-0089",
+  "name": "AMLOHEAL 5MG",
+  "list_generic": "AMLODIPINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amloheal-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/amloheal-5/",
+  "composition_on_source": null,
+  "catalogue_name": "Amloheal 5",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Amloheal-5mg_3D-Copy-Copy.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/amloheal-5/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0089.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 101,
+  "sku": "IMP-0101",
+  "name": "AMOXYHEAL CV 625MG",
+  "list_generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amoxyheal-cv-625/",
+  "official_product_page_url": "https://www.healingpharma.in/product/amoxyheal-cv-625/",
+  "composition_on_source": null,
+  "catalogue_name": "Amoxyheal CV 625",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Amoxyheal-CV-625.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/amoxyheal-cv-625/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0101.jpeg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 121,
+  "sku": "IMP-0121",
+  "name": "ANGIOTENSIN 20MG",
+  "list_generic": "LISINOPRIL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/angiotensin-20mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/angiotensin-20mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Angiotensin 20mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Angiotensin-20-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/angiotensin-20mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0121.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 133,
+  "sku": "IMP-0133",
+  "name": "APISMART 5MG",
+  "list_generic": "APIXABAN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/apismart-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/apismart-5/",
+  "composition_on_source": null,
+  "catalogue_name": "Apismart 5",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/09/Apismart-Tablets-5-mg-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/apismart-5/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0133.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 190,
+  "sku": "IMP-0190",
+  "name": "ATENHEAL 100MG",
+  "list_generic": "ATENOLOL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atenheal-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atenheal-100/",
+  "composition_on_source": null,
+  "catalogue_name": "Atenheal 100",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/12/Atenheal-100.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atenheal-100/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0190.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 194,
+  "sku": "IMP-0194",
+  "name": "ATOMOXET 25MG",
+  "list_generic": "ATOMOXETINE  HCL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atomoxet-25mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atomoxet-25mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Atomoxet 25mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Atomoxet-25-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atomoxet-25mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0194.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 239,
+  "sku": "IMP-0239",
+  "name": "AZEETOP 100MG DT",
+  "list_generic": "AZITHROMYCIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/azeetop-100-dt/",
+  "official_product_page_url": "https://www.healingpharma.in/product/azeetop-100-dt/",
+  "composition_on_source": null,
+  "catalogue_name": "Azeetop 100 DT",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Azeetop-100-DT-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/azeetop-100-dt/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0239.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 263,
+  "sku": "IMP-0263",
+  "name": "BACLOHEAL 10MG",
+  "list_generic": "BACLOFEN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/bacloheal-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/bacloheal-10/",
+  "composition_on_source": null,
+  "catalogue_name": "Bacloheal 10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Bacloheal-10.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/bacloheal-10/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0263.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 299,
+  "sku": "IMP-0299",
+  "name": "BETABLOCK XL 25MG",
+  "list_generic": "METOPROLOL SUCCINATE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/betablock-xl-25mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/betablock-xl-25mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Betablock XL 25mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Betablock-25-XL.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/betablock-xl-25mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0299.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 380,
+  "sku": "IMP-0380",
+  "name": "BUSCOHEAL 10MG",
+  "list_generic": "HYSOCINE BUTYLBROMIDE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/buscoheal-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/buscoheal-10/",
+  "composition_on_source": null,
+  "catalogue_name": "Buscoheal 10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Buscoheal-10-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/buscoheal-10/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0380.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 448,
+  "sku": "IMP-0448",
+  "name": "CARNOTOL 500MG",
+  "list_generic": "DISULFIRAM",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/carnotol-500/",
+  "official_product_page_url": "https://www.healingpharma.in/product/carnotol-500/",
+  "composition_on_source": null,
+  "catalogue_name": "Carnotol 500",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2024/12/Carnotol-500.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/carnotol-500/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0448.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 483,
+  "sku": "IMP-0483",
+  "name": "CEFUBROOK 500MG",
+  "list_generic": "CEFUROXIME AXETIL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cefubrook-500mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cefubrook-500mg/",
+  "composition_on_source": null,
+  "catalogue_name": "CEFUBROOK 500MG",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/01/Cefubrook-500.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/cefubrook-500mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0483.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 510,
+  "sku": "IMP-0510",
+  "name": "CEPODOL 200 TAB",
+  "list_generic": "CEFPODOXIME PROXETIL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cepodol-200/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cepodol-200/",
+  "composition_on_source": null,
+  "catalogue_name": "Cepodol 200",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Cepodol-200.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/cepodol-200/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0510.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 553,
+  "sku": "IMP-0553",
+  "name": "CITACAN 20MG",
+  "list_generic": "CITALOPRAM",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/citacan-20/",
+  "official_product_page_url": "https://www.healingpharma.in/product/citacan-20/",
+  "composition_on_source": null,
+  "catalogue_name": "Citacan 20",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Citacan-20-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/citacan-20/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0553.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 558,
+  "sku": "IMP-0558",
+  "name": "CLARIFACE 500MG",
+  "list_generic": "CLARITHROMYCIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/clariface-500/",
+  "official_product_page_url": "https://www.healingpharma.in/product/clariface-500/",
+  "composition_on_source": null,
+  "catalogue_name": "Clariface 500",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Clariface-500-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/clariface-500/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0558.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 641,
+  "sku": "IMP-0641",
+  "name": "COZARTAN 100MG",
+  "list_generic": "LOSARTAN POTASSIUM",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cozartan-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cozartan-100mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Cozartan 100mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Cozartan-100-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/cozartan-100mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0641.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 644,
+  "sku": "IMP-0644",
+  "name": "COZARTAN H TAB",
+  "list_generic": "LOSARTAN POTASSIUM hcl",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cozartan-h/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cozartan-h/",
+  "composition_on_source": null,
+  "catalogue_name": "Cozartan H",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Cozartan-H-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/cozartan-h/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0644.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 685,
+  "sku": "IMP-0685",
+  "name": "DAFLOHEAL 500MG",
+  "list_generic": "MICRONIZED PURIFIED FLAVONOID FRACTION",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dafloheal-500mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dafloheal-500mg/",
+  "composition_on_source": null,
+  "catalogue_name": "DAFLOHEAL 500mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/03/Dafloheal-500_.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dafloheal-500mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0685.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 698,
+  "sku": "IMP-0698",
+  "name": "DAPASMART 5MG",
+  "list_generic": "DAPAGLIFLOZIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dapasmart-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dapasmart-5/",
+  "composition_on_source": null,
+  "catalogue_name": "Dapasmart 5",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dapasmart-5-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dapasmart-5/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0698.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 703,
+  "sku": "IMP-0703",
+  "name": "DAPOFORCE 90MG",
+  "list_generic": "DAPOXITINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dapoforce-90/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dapoforce-90/",
+  "composition_on_source": "ONLY FOR EXPORT",
+  "catalogue_name": "Dapoforce 90",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Dapoforce-90.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dapoforce-90/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0703.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 793,
+  "sku": "IMP-0793",
+  "name": "DOSTIHEAL 0.25MG",
+  "list_generic": "CABERGOLINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dostiheal-0-25/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dostiheal-0-25/",
+  "composition_on_source": null,
+  "catalogue_name": "Dostiheal 0.25",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dostiheal-0.25-new1.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dostiheal-0-25/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0793.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 814,
+  "sku": "IMP-0814",
+  "name": "DULATA 30MG",
+  "list_generic": "DULOXETINE GASTRO -RESISTANT",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dulata-30mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dulata-30mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Dulata 30mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dulata-30-new.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dulata-30mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0814.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 898,
+  "sku": "IMP-0898",
+  "name": "ESOHEAL 20MG",
+  "list_generic": "ESOMEPRAZOLE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/esoheal-20/",
+  "official_product_page_url": "https://www.healingpharma.in/product/esoheal-20/",
+  "composition_on_source": null,
+  "catalogue_name": "Esoheal 20",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Esoheal-20.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/esoheal-20/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0898.jpeg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 916,
+  "sku": "IMP-0916",
+  "name": "ETORIZOX 60MG",
+  "list_generic": "ETORICOXIB",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/etorizox-60/",
+  "official_product_page_url": "https://www.healingpharma.in/product/etorizox-60/",
+  "composition_on_source": null,
+  "catalogue_name": "Etorizox 60",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Etorizox-60mg.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/etorizox-60/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-0916.jpeg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1002,
+  "sku": "IMP-1002",
+  "name": "FEROHEAL XT TAB",
+  "list_generic": "FERROUS ASCORBATE+FOLIC ACID",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/feroheal-xt/",
+  "official_product_page_url": "https://www.healingpharma.in/product/feroheal-xt/",
+  "composition_on_source": null,
+  "catalogue_name": "Feroheal XT",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Feroheal-XT.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/feroheal-xt/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1002.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1009,
+  "sku": "IMP-1009",
+  "name": "FERTOGARD 50MG",
+  "list_generic": "CLOMIFENE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fertogard-50mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fertogard-50mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Fertogard 50mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Fertogard-50-Tab.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fertogard-50mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1009.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1063,
+  "sku": "IMP-1063",
+  "name": "FLIBAN 100MG",
+  "list_generic": "FLIBANSERIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fliban-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fliban-100/",
+  "composition_on_source": "ONLY FOR EXPORT",
+  "catalogue_name": "Fliban 100",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Fliban.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fliban-100/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1063.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1076,
+  "sku": "IMP-1076",
+  "name": "FLUCONAZ 200MG",
+  "list_generic": "FLUCONAZOLE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fluconaz-200mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fluconaz-200mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Fluconaz 200mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Fluconaz-200-Tab-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fluconaz-200mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1076.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1095,
+  "sku": "IMP-1095",
+  "name": "FLUXICAN 10MG",
+  "list_generic": "FLUOXETINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fluxican-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fluxican-10/",
+  "composition_on_source": null,
+  "catalogue_name": "Fluxican 10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/FLUXICAN-10-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fluxican-10/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1095.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1113,
+  "sku": "IMP-1113",
+  "name": "FRASIX 100 MG",
+  "list_generic": "FRUSEMIDE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/frasix-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/frasix-100/",
+  "composition_on_source": "Only For Export",
+  "catalogue_name": "Frasix 100",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/01/Frasix-100.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/frasix-100/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1113.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1137,
+  "sku": "IMP-1137",
+  "name": "GABATOP 300MG",
+  "list_generic": "GABAPENTIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/gabatop-300mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/gabatop-300mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Gabatop 300mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Gabatop-300-cap-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/gabatop-300mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1137.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1140,
+  "sku": "IMP-1140",
+  "name": "GABATOP 800MG",
+  "list_generic": "GABAPENTIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/gabatop-800mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/gabatop-800mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Gabatop 800mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Gabatop-800.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/gabatop-800mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1140.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1182,
+  "sku": "IMP-1182",
+  "name": "GLYCOHEAL 1000MG SR",
+  "list_generic": "METFORMIN HCL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/glycoheal-1000-sr/",
+  "official_product_page_url": "https://www.healingpharma.in/product/glycoheal-1000-sr/",
+  "composition_on_source": "Metformin Hydrochloride Prolonged release 1000 mg Tablets",
+  "catalogue_name": "Glycoheal 1000 SR",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Glycoheal-1000-SR.jpg?fit=1600%2C1600&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/glycoheal-1000-sr/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1182.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1219,
+  "sku": "IMP-1219",
+  "name": "HCTZIDE 25MG",
+  "list_generic": "HYDROCHLOROTHIAZIDE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/hctzide-25/",
+  "official_product_page_url": "https://www.healingpharma.in/product/hctzide-25/",
+  "composition_on_source": null,
+  "catalogue_name": "Hctzide 25",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Hctzide-25mg_3D.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/hctzide-25/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1219.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1236,
+  "sku": "IMP-1236",
+  "name": "HERPIHEAL 250MG",
+  "list_generic": "FAMCYCLOVIR",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/herpiheal-250/",
+  "official_product_page_url": "https://www.healingpharma.in/product/herpiheal-250/",
+  "composition_on_source": null,
+  "catalogue_name": "Herpiheal 250",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/02/Herpiheal-250.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/herpiheal-250/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1236.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1249,
+  "sku": "IMP-1249",
+  "name": "HIFORCE 50MG ODS",
+  "list_generic": "SILDENAFIL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/hiforce-50-ods/",
+  "official_product_page_url": "https://www.healingpharma.in/product/hiforce-50-ods/",
+  "composition_on_source": "Sildenafil Citrate 50 Mg ODS",
+  "catalogue_name": "Hiforce 50 ODS",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/01/Hiforce_50-ODS_Domestic.jpeg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/hiforce-50-ods/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1249.jpeg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1270,
+  "sku": "IMP-1270",
+  "name": "HQCHEAL 400MG",
+  "list_generic": "HYDROXYCHLOROQUINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/hqcheal-400/",
+  "official_product_page_url": "https://www.healingpharma.in/product/hqcheal-400/",
+  "composition_on_source": null,
+  "catalogue_name": "Hqcheal 400",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Hqcheal-400_3D-scaled.jpg?fit=2242%2C2560&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/hqcheal-400/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1270.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1307,
+  "sku": "IMP-1307",
+  "name": "IMMUNOSPORIN 50 CAP",
+  "list_generic": "CYCLOSPORINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/immunosporin-50/",
+  "official_product_page_url": "https://www.healingpharma.in/product/immunosporin-50/",
+  "composition_on_source": null,
+  "catalogue_name": "Immunosporin 50",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2024/09/Immunosporin-50.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/immunosporin-50/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1307.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1366,
+  "sku": "IMP-1366",
+  "name": "IVERHEAL 3MG",
+  "list_generic": "IVERMECTIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/iverheal-3mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/iverheal-3mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Iverheal 3mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Iverheal-3mg.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/iverheal-3mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1366.jpeg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1458,
+  "sku": "IMP-1458",
+  "name": "KETROHEAL DT 10MG",
+  "list_generic": "KETOROLAC TROMETHAMINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/ketroheal-10-dt/",
+  "official_product_page_url": "https://www.healingpharma.in/product/ketroheal-10-dt/",
+  "composition_on_source": null,
+  "catalogue_name": "Ketroheal 10 DT",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Ketroheal-DT-10mg.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/ketroheal-10-dt/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1458.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1509,
+  "sku": "IMP-1509",
+  "name": "LDN 1.5MG",
+  "list_generic": "NALTREXONE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/ldn-1-5-mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/ldn-1-5-mg/",
+  "composition_on_source": "ONLY FOR EXPORT",
+  "catalogue_name": "LDN 1.5 mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/01/LDN-1.5.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/ldn-1-5-mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1509.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1516,
+  "sku": "IMP-1516",
+  "name": "LEFUHEAL 20MG",
+  "list_generic": "LEFLUNOMIDE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/lefuheal-20mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/lefuheal-20mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Lefuheal 20mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Lefuheal-20-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/lefuheal-20mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1516.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1543,
+  "sku": "IMP-1543",
+  "name": "LEVOHEAL 500MG",
+  "list_generic": "LEVOFLOXACIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/levoheal-500/",
+  "official_product_page_url": "https://www.healingpharma.in/product/levoheal-500/",
+  "composition_on_source": null,
+  "catalogue_name": "Levoheal 500",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Levoheal-500-New-scaled.jpg?fit=2560%2C2560&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/levoheal-500/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1543.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1555,
+  "sku": "IMP-1555",
+  "name": "LINASMART 5MG",
+  "list_generic": "Linagliptin",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/linasmart-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/linasmart-5/",
+  "composition_on_source": null,
+  "catalogue_name": "Linasmart 5",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/12/Linasmart-5.jpg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/linasmart-5/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1555.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1566,
+  "sku": "IMP-1566",
+  "name": "LIPIDATOR 40MG",
+  "list_generic": "ATORVASTATIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/lipidator-40/",
+  "official_product_page_url": "https://www.healingpharma.in/product/lipidator-40/",
+  "composition_on_source": null,
+  "catalogue_name": "Lipidator 40",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Lipidator-40-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/lipidator-40/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1566.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1675,
+  "sku": "IMP-1675",
+  "name": "MECOBROOK PLUS",
+  "list_generic": "VITAMIN B12 / MECOBALAMIN / CYNOCOBALAMIN / METHYLCOBALAMIN + ALPHA LIPOIC ACID + VITAMIN B9 / FOLIC ACID / FOLATE + VITAMIN B6 / PYRIDOXINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/mecobrook-plus/",
+  "official_product_page_url": "https://www.healingpharma.in/product/mecobrook-plus/",
+  "composition_on_source": null,
+  "catalogue_name": "Mecobrook Plus",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Mecobrook-Plus-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/mecobrook-plus/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1675.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1754,
+  "sku": "IMP-1754",
+  "name": "MIDOSMART 2.5MG",
+  "list_generic": "MIDODRINE HCL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/midosmart-2-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/midosmart-2-5/",
+  "composition_on_source": null,
+  "catalogue_name": "Midosmart 2.5",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Midosmart-2.5_3D.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/midosmart-2-5/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1754.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1786,
+  "sku": "IMP-1786",
+  "name": "MINOXYTOP 5MG",
+  "list_generic": "MINOXIDIL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/minoxytop-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/minoxytop-5/",
+  "composition_on_source": null,
+  "catalogue_name": "Minoxytop 5",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2024/07/MINOXYTOP-5.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/minoxytop-5/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1786.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1833,
+  "sku": "IMP-1833",
+  "name": "MOMENTA 10MG",
+  "list_generic": "MOMETASONE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/momenta-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/momenta-10/",
+  "composition_on_source": null,
+  "catalogue_name": "Momenta  10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Momenta-10mg-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/momenta-10/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1833.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1873,
+  "sku": "IMP-1873",
+  "name": "MPHEAL 8MG",
+  "list_generic": "METHYLPREDNISOLONE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/mpheal-8/",
+  "official_product_page_url": "https://www.healingpharma.in/product/mpheal-8/",
+  "composition_on_source": null,
+  "catalogue_name": "Mpheal 8",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Mpheal-8mg.jpeg?fit=1004%2C1004&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/mpheal-8/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1873.jpeg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 1886,
+  "sku": "IMP-1886",
+  "name": "MUPIHEAL OINT 15GM",
+  "list_generic": "MUPIROCIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/mupiheal-ointment-15gm/",
+  "official_product_page_url": "https://www.healingpharma.in/product/mupiheal-ointment-15gm/",
+  "composition_on_source": null,
+  "catalogue_name": "Mupiheal Ointment 15gm",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Mupiheal-Ointment-15gm.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/mupiheal-ointment-15gm/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-1886.jpeg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2041,
+  "sku": "IMP-2041",
+  "name": "OLANA 10MG",
+  "list_generic": "OLANZAPINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/olana-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/olana-10/",
+  "composition_on_source": null,
+  "catalogue_name": "Olana 10",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/olana-10.jpeg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/olana-10/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2041.jpeg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2044,
+  "sku": "IMP-2044",
+  "name": "OLMEHEAL 40MG",
+  "list_generic": "OLMESARTAN MEDOXOMIL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/olmeheal-40/",
+  "official_product_page_url": "https://www.healingpharma.in/product/olmeheal-40/",
+  "composition_on_source": null,
+  "catalogue_name": "Olmeheal 40",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/10/Olmeheal-40_new.jpeg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/olmeheal-40/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2044.jpeg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2086,
+  "sku": "IMP-2086",
+  "name": "OSELTAFLU 75MG",
+  "list_generic": "OSELTAMIVIR",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/oseltaflu-75mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/oseltaflu-75mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Oseltaflu 75mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Oseltamivir-75-third-party-manufacturer-exporter-supplier-India.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/oseltaflu-75mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2086.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2179,
+  "sku": "IMP-2179",
+  "name": "PIRFEHEAL 200MG",
+  "list_generic": "Pirfenidone",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/pirfeheal-200mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/pirfeheal-200mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Pirfeheal 200mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/PIRFEHEAL-200-Tab.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/pirfeheal-200mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2179.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2216,
+  "sku": "IMP-2216",
+  "name": "PREDNIHEAL 20MG",
+  "list_generic": "PREDNISOLONE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/predniheal-20/",
+  "official_product_page_url": "https://www.healingpharma.in/product/predniheal-20/",
+  "composition_on_source": null,
+  "catalogue_name": "Predniheal 20",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Predniheal-20-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/predniheal-20/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2216.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2241,
+  "sku": "IMP-2241",
+  "name": "PREGARICA 150MG",
+  "list_generic": "PREGABALIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/pregarica-150mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/pregarica-150mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Pregarica 150mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Pregarica-150-caps-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/pregarica-150mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2241.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2244,
+  "sku": "IMP-2244",
+  "name": "PREGARICA 75MG",
+  "list_generic": "PREGABALIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/pregarica-75mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/pregarica-75mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Pregarica 75mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Pregarica-75.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/pregarica-75mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2244.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2330,
+  "sku": "IMP-2330",
+  "name": "RANIHEAL 150MG",
+  "list_generic": "RANITIDINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/raniheal-150/",
+  "official_product_page_url": "https://www.healingpharma.in/product/raniheal-150/",
+  "composition_on_source": null,
+  "catalogue_name": "Raniheal 150",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Raniheal-150.jpeg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/raniheal-150/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2330.jpeg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2388,
+  "sku": "IMP-2388",
+  "name": "RIFAXIHEAL 550MG",
+  "list_generic": "RIFAXIMIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/rifaxiheal-550/",
+  "official_product_page_url": "https://www.healingpharma.in/product/rifaxiheal-550/",
+  "composition_on_source": null,
+  "catalogue_name": "Rifaxiheal 550",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Rifaxiheal-550-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/rifaxiheal-550/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2388.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2401,
+  "sku": "IMP-2401",
+  "name": "RIZATOP 10MG",
+  "list_generic": "RIZATRIPTAN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/rizatop-10mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/rizatop-10mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Rizatop 10mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Rizatop-10-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/rizatop-10mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2401.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2421,
+  "sku": "IMP-2421",
+  "name": "ROSUFREE 20MG",
+  "list_generic": "ROSUVASTATIN CALCIUM",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/rosufree-20mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/rosufree-20mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Rosufree 20mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Rosufree-20-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/rosufree-20mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2421.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2437,
+  "sku": "IMP-2437",
+  "name": "SACUBROOK V 100MG",
+  "list_generic": "SACUBITRIL + VALSARTAN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sacubrook-v-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sacubrook-v-100/",
+  "composition_on_source": null,
+  "catalogue_name": "Sacubrook-V 100",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/04/Sacubrook-V-100mg-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sacubrook-v-100/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2437.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2454,
+  "sku": "IMP-2454",
+  "name": "SEROQUIT 100MG",
+  "list_generic": "QUETIAPINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/seroquit-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/seroquit-100mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Seroquit 100mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/SEROQUIT-100-mg-New-scaled.jpg?fit=2560%2C2560&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/seroquit-100mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2454.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2458,
+  "sku": "IMP-2458",
+  "name": "SERTAFINE 100MG",
+  "list_generic": "SERTRALINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sertafine-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sertafine-100mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Sertafine 100mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Sertafine-100-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sertafine-100mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2458.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2544,
+  "sku": "IMP-2544",
+  "name": "SLIMGAL 120MG",
+  "list_generic": "ORLISTAT",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/slimgal-120/",
+  "official_product_page_url": "https://www.healingpharma.in/product/slimgal-120/",
+  "composition_on_source": null,
+  "catalogue_name": "Slimgal 120",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/05/SlimGal-120.jpeg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/slimgal-120/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2544.jpeg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2555,
+  "sku": "IMP-2555",
+  "name": "SODIHEAL 500MG",
+  "list_generic": "SODIUM BICARBONATE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sodiheal-500/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sodiheal-500/",
+  "composition_on_source": null,
+  "catalogue_name": "Sodiheal 500",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Sodiheal-500-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sodiheal-500/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2555.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2610,
+  "sku": "IMP-2610",
+  "name": "SUMITOP 25MG",
+  "list_generic": "SUMATRIPTAN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sumitop-25mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sumitop-25mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Sumitop 25mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/SUMITOP-25MG-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sumitop-25mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2610.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2618,
+  "sku": "IMP-2618",
+  "name": "SUPER HIFORCE TAB",
+  "list_generic": "Sildenafil  & Dapoxetine",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/super-hiforce/",
+  "official_product_page_url": "https://www.healingpharma.in/product/super-hiforce/",
+  "composition_on_source": "ONLY FOR EXPORT",
+  "catalogue_name": "Super Hiforce",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Super-Hiforce.jpg?fit=2363%2C2366&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/super-hiforce/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2618.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2705,
+  "sku": "IMP-2705",
+  "name": "TADASIVA TAB",
+  "list_generic": "TADALAFIL & SILDENAFIL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tadasiva/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tadasiva/",
+  "composition_on_source": "ONLY FOR EXPORT",
+  "catalogue_name": "Tadasiva",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Tadasiva.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/tadasiva/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2705.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2725,
+  "sku": "IMP-2725",
+  "name": "TAMSUHEAL 0.4MG",
+  "list_generic": "TAMSULOSIN",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tamsuheal-0-4mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tamsuheal-0-4mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Tamsuheal 0.4mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Tamsuheal-0.4-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/tamsuheal-0-4mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2725.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2755,
+  "sku": "IMP-2755",
+  "name": "TASTYLIA 10MG ODS",
+  "list_generic": "",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tastylia-10-ods/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tastylia-10-ods/",
+  "composition_on_source": null,
+  "catalogue_name": "Tastylia 10 ODS",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Tastylia-10-ODS.jpeg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/tastylia-10-ods/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2755.jpeg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2773,
+  "sku": "IMP-2773",
+  "name": "TELMAHEAL 80MG",
+  "list_generic": "TELMISARTAN HCL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/telmaheal-80mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/telmaheal-80mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Telmaheal 80mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Telmaheal-80-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/telmaheal-80mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2773.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2799,
+  "sku": "IMP-2799",
+  "name": "TERBIFACE 500MG TAB",
+  "list_generic": "TERBINAFINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/terbiface-500mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/terbiface-500mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Terbiface 500mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Terbiface-500-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/terbiface-500mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2799.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2936,
+  "sku": "IMP-2936",
+  "name": "TOPCYNTA 100MG",
+  "list_generic": "TAPENTADOL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/topcynta-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/topcynta-100mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Topcynta 100mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Topcynta-100-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/topcynta-100mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2936.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 2945,
+  "sku": "IMP-2945",
+  "name": "TRAZOCAN 100MG",
+  "list_generic": "TRAZODONE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/trazocan-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/trazocan-100/",
+  "composition_on_source": null,
+  "catalogue_name": "Trazocan 100",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Trazocan-100-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/trazocan-100/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-2945.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 3016,
+  "sku": "IMP-3016",
+  "name": "TRYPTICAN 25MG",
+  "list_generic": "AMITRIPTYLINE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tryptican-25/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tryptican-25/",
+  "composition_on_source": null,
+  "catalogue_name": "Tryptican 25",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Tryptican-25-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/tryptican-25/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-3016.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 3038,
+  "sku": "IMP-3038",
+  "name": "URSODEC 300MG",
+  "list_generic": "URSODEOXYCHOLIC",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/ursodec-300/",
+  "official_product_page_url": "https://www.healingpharma.in/product/ursodec-300/",
+  "composition_on_source": null,
+  "catalogue_name": "Ursodec 300",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Ursodec-300-15-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/ursodec-300/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-3038.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 3058,
+  "sku": "IMP-3058",
+  "name": "VALPODIUM 200MG",
+  "list_generic": "Valproate 200mg, Valproic Acid 87mg",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/valpodium-200/",
+  "official_product_page_url": "https://www.healingpharma.in/product/valpodium-200/",
+  "composition_on_source": null,
+  "catalogue_name": "Valpodium 200",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/01/VALPODIUM-200.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/valpodium-200/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-3058.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 3066,
+  "sku": "IMP-3066",
+  "name": "VARDITRA 60MG",
+  "list_generic": "VARDENAFIL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/varditra-60/",
+  "official_product_page_url": "https://www.healingpharma.in/product/varditra-60/",
+  "composition_on_source": "ONLY FOR EXPORT",
+  "catalogue_name": "Varditra 60",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Varditra-60.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/varditra-60/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-3066.jpg",
+   "visible_pack_text": null
+  }
+ },
+ {
+  "sr": 3281,
+  "sku": "IMP-3281",
+  "name": "ZOVICLOVIR 800MG",
+  "list_generic": "ACYCLOVIR",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/zoviclovir-800mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/zoviclovir-800mg/",
+  "composition_on_source": null,
+  "catalogue_name": "Zoviclovir 800mg",
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Zoviclovir-800-3.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/zoviclovir-800mg/",
+   "local_file": "data/enrichment/images_raw/hp/IMP-3281.jpg",
+   "visible_pack_text": null
+  }
+ }
+]

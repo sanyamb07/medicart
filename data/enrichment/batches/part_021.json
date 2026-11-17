@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1134,
+  "name": "GABASIGN 600MG",
+  "generic": "GABAPENTIN",
+  "price": "5",
+  "sku": "IMP-1134"
+ },
+ {
+  "sr": 1135,
+  "name": "GABASIGN 800MG",
+  "generic": "GABAPENTIN",
+  "price": "8.5",
+  "sku": "IMP-1135"
+ },
+ {
+  "sr": 1136,
+  "name": "GABATOP 100MG",
+  "generic": "GABAPENTIN",
+  "price": "2",
+  "sku": "IMP-1136"
+ },
+ {
+  "sr": 1137,
+  "name": "GABATOP 300MG",
+  "generic": "GABAPENTIN",
+  "price": "2.75",
+  "sku": "IMP-1137"
+ },
+ {
+  "sr": 1138,
+  "name": "GABATOP 400MG",
+  "generic": "GABAPENTIN",
+  "price": "3.5",
+  "sku": "IMP-1138"
+ },
+ {
+  "sr": 1139,
+  "name": "GABATOP 600MG",
+  "generic": "GABAPENTIN",
+  "price": "4.5",
+  "sku": "IMP-1139"
+ },
+ {
+  "sr": 1140,
+  "name": "GABATOP 800MG",
+  "generic": "GABAPENTIN",
+  "price": "8.5",
+  "sku": "IMP-1140"
+ },
+ {
+  "sr": 1141,
+  "name": "GABIMAX 300MG",
+  "generic": "GABAPENTIN",
+  "price": "2.5",
+  "sku": "IMP-1141"
+ },
+ {
+  "sr": 1142,
+  "name": "GABIMAX 400MG",
+  "generic": "GABAPENTIN",
+  "price": "4.5",
+  "sku": "IMP-1142"
+ },
+ {
+  "sr": 1143,
+  "name": "GABIMAX 600MG",
+  "generic": "GABAPENTIN",
+  "price": "4.5",
+  "sku": "IMP-1143"
+ },
+ {
+  "sr": 1144,
+  "name": "GALAMER 4 TAB",
+  "generic": "GALANTAMINE",
+  "price": "21",
+  "sku": "IMP-1144"
+ },
+ {
+  "sr": 1145,
+  "name": "GALAMER 8MG",
+  "generic": "GALANTAMINE",
+  "price": "33",
+  "sku": "IMP-1145"
+ },
+ {
+  "sr": 1146,
+  "name": "GENOTROPIN 36IU 12MG",
+  "generic": "HUMAN GROWTH HORMONE",
+  "price": "15000",
+  "sku": "IMP-1146"
+ },
+ {
+  "sr": 1147,
+  "name": "GENTABAND INJ 30ML",
+  "generic": "GENTAMICIN",
+  "price": "30",
+  "sku": "IMP-1147"
+ },
+ {
+  "sr": 1148,
+  "name": "GENTACAN INJ 2ML",
+  "generic": "GENTAMICIN",
+  "price": "8",
+  "sku": "IMP-1148"
+ },
+ {
+  "sr": 1149,
+  "name": "GENTACIN CREAM 15GM",
+  "generic": "GENTAMICIN",
+  "price": "10",
+  "sku": "IMP-1149"
+ },
+ {
+  "sr": 1150,
+  "name": "GENTALAB 10ML DROP",
+  "generic": "GENTAMICIN",
+  "price": "18",
+  "sku": "IMP-1150"
+ },
+ {
+  "sr": 1151,
+  "name": "GENTALAB 2 ML",
+  "generic": "Gentamicin Sulphate",
+  "price": "46935",
+  "sku": "IMP-1151"
+ },
+ {
+  "sr": 1152,
+  "name": "GENTALAB INJ 30ML",
+  "generic": "GENTAMICIN",
+  "price": "35",
+  "sku": "IMP-1152"
+ },
+ {
+  "sr": 1153,
+  "name": "GENTAPEN EYE DROPS",
+  "generic": "GENTAMICIN",
+  "price": "12",
+  "sku": "IMP-1153"
+ },
+ {
+  "sr": 1154,
+  "name": "GENTASIGN EYE DROPS 10ML",
+  "generic": "GENTAMICIN",
+  "price": "12",
+  "sku": "IMP-1154"
+ },
+ {
+  "sr": 1155,
+  "name": "GERCIP 500MG",
+  "generic": "CIPROFLOXACIN",
+  "price": "2",
+  "sku": "IMP-1155"
+ },
+ {
+  "sr": 1156,
+  "name": "GERMAN MINOXIDIL 5% SOL 60ML",
+  "generic": "MINOXIDIL",
+  "price": "150",
+  "sku": "IMP-1156"
+ },
+ {
+  "sr": 1157,
+  "name": "GESTHEAL 200MG",
+  "generic": "PROGESTERONE SOFT",
+  "price": "9.5",
+  "sku": "IMP-1157"
+ },
+ {
+  "sr": 1158,
+  "name": "GESTOFORD 100MG",
+  "generic": "MICRONISED PROGESTERONE",
+  "price": "5.5",
+  "sku": "IMP-1158"
+ },
+ {
+  "sr": 1159,
+  "name": "GESTOFORD 100MG SG CAP",
+  "generic": "MICRONISED PROGESTERONE",
+  "price": "5.5",
+  "sku": "IMP-1159"
+ },
+ {
+  "sr": 1160,
+  "name": "GESTOFORD 200MG SG CAP",
+  "generic": "MICRONISED PROGESTERONE",
+  "price": "9",
+  "sku": "IMP-1160"
+ },
+ {
+  "sr": 1161,
+  "name": "GINETTE 35 TAB",
+  "generic": "CYPROTERONE + ETHINYLESTRADIOL",
+  "price": "18",
+  "sku": "IMP-1161"
+ },
+ {
+  "sr": 1162,
+  "name": "GLI 40MG",
+  "generic": "GLICLAZIDE",
+  "price": "2",
+  "sku": "IMP-1162"
+ },
+ {
+  "sr": 1163,
+  "name": "GLIMDA 2MG",
+  "generic": "GLIMEPIRIDE",
+  "price": "2.5",
+  "sku": "IMP-1163"
+ },
+ {
+  "sr": 1164,
+  "name": "GLIMIMORE 4MG",
+  "generic": "GLIMEPIRIDE",
+  "price": "1.5",
+  "sku": "IMP-1164"
+ },
+ {
+  "sr": 1165,
+  "name": "GLIMITH 4MG",
+  "generic": "GLIMEPIRIDE",
+  "price": "2",
+  "sku": "IMP-1165"
+ },
+ {
+  "sr": 1166,
+  "name": "GLIMP 2MG",
+  "generic": "GLIMEPIRIDE",
+  "price": "1",
+  "sku": "IMP-1166"
+ },
+ {
+  "sr": 1167,
+  "name": "GLUDEC 600MG",
+  "generic": "GLUTATHIONE + VITAMIN C",
+  "price": "215",
+  "sku": "IMP-1167"
+ },
+ {
+  "sr": 1168,
+  "name": "GLUFORMIN XL 500MG",
+  "generic": "METFORMIN HYDROCHLORIDE",
+  "price": "2",
+  "sku": "IMP-1168"
+ },
+ {
+  "sr": 1169,
+  "name": "GLUMIT 1200MG INJ",
+  "generic": "GLUTATHIONE",
+  "price": "450",
+  "sku": "IMP-1169"
+ },
+ {
+  "sr": 1170,
+  "name": "GLUTA FIT 1200MG",
+  "generic": "GLUTATHIONE",
+  "price": "340",
+  "sku": "IMP-1170"
+ },
+ {
+  "sr": 1171,
+  "name": "GLUTACAN INJ",
+  "generic": "GLUTATHIONE",
+  "price": "385",
+  "sku": "IMP-1171"
+ },
+ {
+  "sr": 1172,
+  "name": "GLUTADEE 1200MG",
+  "generic": "GLUTATHIONE",
+  "price": "350",
+  "sku": "IMP-1172"
+ },
+ {
+  "sr": 1173,
+  "name": "GLUTADEE 1200MG INJ",
+  "generic": "Glutathione",
+  "price": "250",
+  "sku": "IMP-1173"
+ },
+ {
+  "sr": 1174,
+  "name": "GLUTAENORM 1200MG INJ",
+  "generic": "GLUTATHIONE",
+  "price": "230",
+  "sku": "IMP-1174"
+ },
+ {
+  "sr": 1175,
+  "name": "GLUTAENORM 600MG INJ",
+  "generic": "GLUTATHIONE",
+  "price": "205",
+  "sku": "IMP-1175"
+ },
+ {
+  "sr": 1176,
+  "name": "GLUTIMAX 1200MG",
+  "generic": "GLUTATHIONE",
+  "price": "400",
+  "sku": "IMP-1176"
+ },
+ {
+  "sr": 1177,
+  "name": "GLUTIMAX 600MG INJ",
+  "generic": "GLUTATHIONE",
+  "price": "250",
+  "sku": "IMP-1177"
+ },
+ {
+  "sr": 1178,
+  "name": "GLYCIPHAGE 500MG",
+  "generic": "METFORMIN HCL",
+  "price": "2",
+  "sku": "IMP-1178"
+ },
+ {
+  "sr": 1179,
+  "name": "GLYCIPHAGE SR 500MG",
+  "generic": "METFORMIN HCL",
+  "price": "2.5",
+  "sku": "IMP-1179"
+ },
+ {
+  "sr": 1180,
+  "name": "GLYCITOP MR 60MG",
+  "generic": "GLICLAZIDE",
+  "price": "2.5",
+  "sku": "IMP-1180"
+ },
+ {
+  "sr": 1181,
+  "name": "GLYCOHEAL 1000MG",
+  "generic": "METFORMIN HCL",
+  "price": "1.5",
+  "sku": "IMP-1181"
+ },
+ {
+  "sr": 1182,
+  "name": "GLYCOHEAL 1000MG SR",
+  "generic": "METFORMIN HCL",
+  "price": "1.75",
+  "sku": "IMP-1182"
+ },
+ {
+  "sr": 1183,
+  "name": "GLYCOHEAL 500MG",
+  "generic": "METFORMIN HCL",
+  "price": "1.25",
+  "sku": "IMP-1183"
+ }
+]

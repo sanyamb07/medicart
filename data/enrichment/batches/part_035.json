@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1842,
+  "name": "MONOVONO 20MG",
+  "generic": "VONOPRAZAN",
+  "price": "12.5",
+  "sku": "IMP-1842"
+ },
+ {
+  "sr": 1843,
+  "name": "MONTAHEAL 10MG",
+  "generic": "MOTELUKAST",
+  "price": "2",
+  "sku": "IMP-1843"
+ },
+ {
+  "sr": 1844,
+  "name": "MONTEL 10MG",
+  "generic": "MONTELUKAST SODIUM",
+  "price": "2",
+  "sku": "IMP-1844"
+ },
+ {
+  "sr": 1845,
+  "name": "MONTYMO 10MG",
+  "generic": "MOTELUKAST",
+  "price": "2",
+  "sku": "IMP-1845"
+ },
+ {
+  "sr": 1846,
+  "name": "MOQUET 100MG",
+  "generic": "QUETIAPINE",
+  "price": "2.5",
+  "sku": "IMP-1846"
+ },
+ {
+  "sr": 1847,
+  "name": "MOREGRA STAR 100MG",
+  "generic": "SILDENAFIL",
+  "price": "2.5",
+  "sku": "IMP-1847"
+ },
+ {
+  "sr": 1848,
+  "name": "MORMOX 500MG",
+  "generic": "AMOXYCILLIN",
+  "price": "3",
+  "sku": "IMP-1848"
+ },
+ {
+  "sr": 1849,
+  "name": "MORNING PILL",
+  "generic": "LEVONORGESTREL",
+  "price": "11.5",
+  "sku": "IMP-1849"
+ },
+ {
+  "sr": 1850,
+  "name": "MORR 12.5% 60ML",
+  "generic": "MINOXIDIL TOPICAL SOLUTION",
+  "price": "1000",
+  "sku": "IMP-1850"
+ },
+ {
+  "sr": 1851,
+  "name": "MORR 7.50% SOLUTION",
+  "generic": "MINOXIDIL TOPICAL SOLUTION",
+  "price": "730",
+  "sku": "IMP-1851"
+ },
+ {
+  "sr": 1852,
+  "name": "MORR F 10% SOLUTION",
+  "generic": "MINOXIDIL TOPICAL SOLUTION",
+  "price": "950",
+  "sku": "IMP-1852"
+ },
+ {
+  "sr": 1853,
+  "name": "MORR F 5% SOLUTION",
+  "generic": "MINOXIDIL TOPICAL SOLUTION",
+  "price": "680",
+  "sku": "IMP-1853"
+ },
+ {
+  "sr": 1854,
+  "name": "MOUNJARO 2.5MG 0.5ML INJ",
+  "generic": "TIRZEPATIDE",
+  "price": "2950",
+  "sku": "IMP-1854"
+ },
+ {
+  "sr": 1855,
+  "name": "MOUNJARO 5MG 0.5ML",
+  "generic": "TIRZEPATIDE",
+  "price": "3700",
+  "sku": "IMP-1855"
+ },
+ {
+  "sr": 1856,
+  "name": "MOXCED 500MG",
+  "generic": "AMOXICILLIN",
+  "price": "3",
+  "sku": "IMP-1856"
+ },
+ {
+  "sr": 1857,
+  "name": "MOXCIDAL 500MG",
+  "generic": "AMOXICILLIN TRIHYDRATE",
+  "price": "3",
+  "sku": "IMP-1857"
+ },
+ {
+  "sr": 1858,
+  "name": "MOXI D DROP",
+  "generic": "DEXAMETHASONE + MOXIFLOXACIN",
+  "price": "16",
+  "sku": "IMP-1858"
+ },
+ {
+  "sr": 1859,
+  "name": "MOXICIP 400MG",
+  "generic": "MOXIFLOXACIN HCL",
+  "price": "24",
+  "sku": "IMP-1859"
+ },
+ {
+  "sr": 1860,
+  "name": "MOXIDER 500MG",
+  "generic": "AMOXICILLIN TRIHYDRATE",
+  "price": "2.75",
+  "sku": "IMP-1860"
+ },
+ {
+  "sr": 1861,
+  "name": "MOXIFORD 400MG",
+  "generic": "MOXIFLOXACIN",
+  "price": "15",
+  "sku": "IMP-1861"
+ },
+ {
+  "sr": 1862,
+  "name": "MOXIFORD EYE DROP",
+  "generic": "MOXIFLOXACIN",
+  "price": "20",
+  "sku": "IMP-1862"
+ },
+ {
+  "sr": 1863,
+  "name": "MOXIKEM CV 625MG",
+  "generic": "AMOXYCILLIN AND POTASSIUM CLAVULANATE",
+  "price": "7",
+  "sku": "IMP-1863"
+ },
+ {
+  "sr": 1864,
+  "name": "MOXIKIND CV 625MG",
+  "generic": "AMOXYCILLIN AND POTASSIUM CLAVULANATE",
+  "price": "16",
+  "sku": "IMP-1864"
+ },
+ {
+  "sr": 1865,
+  "name": "MOXIKIND CV DRY SYP",
+  "generic": "AMOXYCILLIN AND POTASSIUM CLAVULANATE",
+  "price": "55",
+  "sku": "IMP-1865"
+ },
+ {
+  "sr": 1866,
+  "name": "MOXINCLAV CV 625MG",
+  "generic": "AMOXYCILLIN AND POTASSIUM CLAVULANATE",
+  "price": "8.5",
+  "sku": "IMP-1866"
+ },
+ {
+  "sr": 1867,
+  "name": "MOXISTAT",
+  "generic": "MOXIFLOXACIN",
+  "price": "19",
+  "sku": "IMP-1867"
+ },
+ {
+  "sr": 1868,
+  "name": "MOZEP 4MG",
+  "generic": "PIMOZIDE",
+  "price": "9.5",
+  "sku": "IMP-1868"
+ },
+ {
+  "sr": 1869,
+  "name": "MP DOC 16MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "4",
+  "sku": "IMP-1869"
+ },
+ {
+  "sr": 1870,
+  "name": "MP DOC 4MG",
+  "generic": "Methylprednisolone",
+  "price": "2",
+  "sku": "IMP-1870"
+ },
+ {
+  "sr": 1871,
+  "name": "MP DOC 8MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "2.5",
+  "sku": "IMP-1871"
+ },
+ {
+  "sr": 1872,
+  "name": "MPHEAL 4MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "1.5",
+  "sku": "IMP-1872"
+ },
+ {
+  "sr": 1873,
+  "name": "MPHEAL 8MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "3",
+  "sku": "IMP-1873"
+ },
+ {
+  "sr": 1874,
+  "name": "MUCAINE GEL MF 200ML",
+  "generic": "ALUMINIUM HYDROXIDE-0.291GM + MAGNESIUM HYDROXIDE-98MG + OXETACAINE-10MG",
+  "price": "200",
+  "sku": "IMP-1874"
+ },
+ {
+  "sr": 1875,
+  "name": "MUCINAC 600MG",
+  "generic": "ACETYLCYSTEINE",
+  "price": "29",
+  "sku": "IMP-1875"
+ },
+ {
+  "sr": 1876,
+  "name": "MUCOLITE SR TAB",
+  "generic": "AMBROXOL HYDROCHLORIDE",
+  "price": "12",
+  "sku": "IMP-1876"
+ },
+ {
+  "sr": 1877,
+  "name": "MUCOLITE TAB",
+  "generic": "ACETYLCYSTEINE",
+  "price": "4.5",
+  "sku": "IMP-1877"
+ },
+ {
+  "sr": 1878,
+  "name": "MUCOMIX INJ 5ML",
+  "generic": "ACETYLCYSTEINE",
+  "price": "105",
+  "sku": "IMP-1878"
+ },
+ {
+  "sr": 1879,
+  "name": "MULTI 9 TAB",
+  "generic": "MULTIVITAMIN  & MULTIMINERALS",
+  "price": "2",
+  "sku": "IMP-1879"
+ },
+ {
+  "sr": 1880,
+  "name": "MULTIRICH CAP",
+  "generic": "MULTIVITAMIN  & MULTIMINERALS",
+  "price": "2",
+  "sku": "IMP-1880"
+ },
+ {
+  "sr": 1881,
+  "name": "MUPIBACT CREAM",
+  "generic": "MUPIROCIN",
+  "price": "30",
+  "sku": "IMP-1881"
+ },
+ {
+  "sr": 1882,
+  "name": "MUPICIP OINT 5GM",
+  "generic": "MUPIROCIN",
+  "price": "55",
+  "sku": "IMP-1882"
+ },
+ {
+  "sr": 1883,
+  "name": "MUPIHEAL 15GM OINT",
+  "generic": "MUPIROCIN",
+  "price": "65",
+  "sku": "IMP-1883"
+ },
+ {
+  "sr": 1884,
+  "name": "MUPIHEAL CREAM 5GM",
+  "generic": "MUPIROCIN",
+  "price": "30",
+  "sku": "IMP-1884"
+ },
+ {
+  "sr": 1885,
+  "name": "MUPIHEAL OINT 5GM",
+  "generic": "MUPIROCIN",
+  "price": "30",
+  "sku": "IMP-1885"
+ },
+ {
+  "sr": 1886,
+  "name": "MUPIHEAL OINT 15GM",
+  "generic": "MUPIROCIN",
+  "price": "70",
+  "sku": "IMP-1886"
+ },
+ {
+  "sr": 1887,
+  "name": "MYALERT 200MG",
+  "generic": "MODAFINIL",
+  "price": "2.5",
+  "sku": "IMP-1887"
+ },
+ {
+  "sr": 1888,
+  "name": "MYALERT 400MG",
+  "generic": "MODAFINIL",
+  "price": "7",
+  "sku": "IMP-1888"
+ },
+ {
+  "sr": 1889,
+  "name": "MYDRIACYL EYE DROP 10ML",
+  "generic": "TROPICAMIDE OPHTHALMIC",
+  "price": "98",
+  "sku": "IMP-1889"
+ },
+ {
+  "sr": 1890,
+  "name": "MYFORMIN 500MG",
+  "generic": "METFORMIN",
+  "price": "1",
+  "sku": "IMP-1890"
+ },
+ {
+  "sr": 1891,
+  "name": "MYFORMIN PR 1GM",
+  "generic": "METFORMIN",
+  "price": "2",
+  "sku": "IMP-1891"
+ }
+]

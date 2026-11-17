@@ -1,0 +1,82 @@
+[
+ {
+  "sku": "IMP-0016",
+  "to": "CAPSULE",
+  "evidence": "https://www.healingpharma.in/product/accufine-20mg/"
+ },
+ {
+  "sku": "IMP-1787",
+  "to": "SOLUTION",
+  "evidence": "https://www.healingpharma.in/product/minoxytop-f-5-2/"
+ },
+ {
+  "sku": "IMP-1788",
+  "to": "SOLUTION",
+  "evidence": "https://www.healingpharma.in/product/minoxytop-f-5-2/"
+ },
+ {
+  "sku": "IMP-2666",
+  "to": "CAPSULE",
+  "evidence": "https://www.healingpharma.in/product/tacroheal-1-cap/"
+ },
+ {
+  "sku": "IMP-2843",
+  "to": "CAPSULE",
+  "evidence": "https://www.healingpharma.in/product/testoheal-40mg-caps/"
+ },
+ {
+  "sku": "IMP-0580",
+  "to": "CAPSULE",
+  "evidence": "https://knollhealthcare.com/product/clindanol-300-cap-bl-2010/"
+ },
+ {
+  "sku": "IMP-0683",
+  "to": "CAPSULE",
+  "evidence": "https://knollhealthcare.com/product/dabinol-150-cap-alu-mono-10110/"
+ },
+ {
+  "sku": "IMP-2233",
+  "to": "CAPSULE",
+  "evidence": "https://knollhealthcare.com/product/pregabel-300-cap-alu-1010/"
+ },
+ {
+  "sku": "IMP-0830",
+  "to": "CAPSULE",
+  "evidence": "https://www.americanremedies.in/product/dutafox-0-5-capsules/"
+ },
+ {
+  "sku": "IMP-1095",
+  "to": "CAPSULE",
+  "evidence": "https://www.americanremedies.in/product/fluxican-10-capsules/"
+ },
+ {
+  "sku": "IMP-1096",
+  "to": "CAPSULE",
+  "evidence": "https://www.americanremedies.in/product/fluxican-20-capsules/"
+ },
+ {
+  "sku": "IMP-1097",
+  "to": "CAPSULE",
+  "evidence": "https://www.americanremedies.in/product/fluxican-60-capsules/"
+ },
+ {
+  "sku": "IMP-1341",
+  "to": "CAPSULE",
+  "evidence": "https://www.americanremedies.in/product/itrotab-100/"
+ },
+ {
+  "sku": "IMP-1342",
+  "to": "CAPSULE",
+  "evidence": "https://www.americanremedies.in/product/itrotab-200/"
+ },
+ {
+  "sku": "IMP-2055",
+  "to": "CAPSULE",
+  "evidence": "https://www.americanremedies.in/product/omeecan-20-capsules/"
+ },
+ {
+  "sku": "IMP-2235",
+  "to": "CAPSULE",
+  "evidence": "https://www.americanremedies.in/product/pregafox-300-capsules/"
+ }
+]

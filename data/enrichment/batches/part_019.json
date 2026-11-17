@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1034,
+  "name": "FINABRATE 145MG",
+  "generic": "FENOFIBRATE",
+  "price": "2.5",
+  "sku": "IMP-1034"
+ },
+ {
+  "sr": 1035,
+  "name": "FINALO TAB",
+  "generic": "FINASTERIDE",
+  "price": "5",
+  "sku": "IMP-1035"
+ },
+ {
+  "sr": 1036,
+  "name": "FIN-ASH 2.5MG TAB.",
+  "generic": "FINASTERIDE",
+  "price": "2.5",
+  "sku": "IMP-1036"
+ },
+ {
+  "sr": 1037,
+  "name": "FINASTERIDE 1MG",
+  "generic": "FINASTERIDE",
+  "price": "1",
+  "sku": "IMP-1037"
+ },
+ {
+  "sr": 1038,
+  "name": "FINASTRATE 1MG",
+  "generic": "FINASTERIDE",
+  "price": "1.75",
+  "sku": "IMP-1038"
+ },
+ {
+  "sr": 1039,
+  "name": "FINAWORTH 1MG",
+  "generic": "FINASTERIDE",
+  "price": "2",
+  "sku": "IMP-1039"
+ },
+ {
+  "sr": 1040,
+  "name": "FINAWORTH 5MG",
+  "generic": "FINASTERIDE",
+  "price": "2.5",
+  "sku": "IMP-1040"
+ },
+ {
+  "sr": 1041,
+  "name": "FINAX 1MG",
+  "generic": "FINASTERIDE",
+  "price": "10",
+  "sku": "IMP-1041"
+ },
+ {
+  "sr": 1042,
+  "name": "FINCAR 5MG",
+  "generic": "FINASTERIDE",
+  "price": "19.5",
+  "sku": "IMP-1042"
+ },
+ {
+  "sr": 1043,
+  "name": "FINJUV 1MG",
+  "generic": "FINASTERIDE",
+  "price": "7.5",
+  "sku": "IMP-1043"
+ },
+ {
+  "sr": 1044,
+  "name": "FINOBRATE 145",
+  "generic": "FENOFIBRATE",
+  "price": "2",
+  "sku": "IMP-1044"
+ },
+ {
+  "sr": 1045,
+  "name": "FINOBRATE 160MG",
+  "generic": "FENOFIBRATE",
+  "price": "2.5",
+  "sku": "IMP-1045"
+ },
+ {
+  "sr": 1046,
+  "name": "FINPECIA 1MG",
+  "generic": "FINASTERIDE",
+  "price": "8",
+  "sku": "IMP-1046"
+ },
+ {
+  "sr": 1047,
+  "name": "FINREST 1MG",
+  "generic": "FINASTERIDE",
+  "price": "1.5",
+  "sku": "IMP-1047"
+ },
+ {
+  "sr": 1048,
+  "name": "FINREST 5MG",
+  "generic": "FINASTERIDE",
+  "price": "2.75",
+  "sku": "IMP-1048"
+ },
+ {
+  "sr": 1049,
+  "name": "FINWIN 1MG",
+  "generic": "FINASTERIDE",
+  "price": "1",
+  "sku": "IMP-1049"
+ },
+ {
+  "sr": 1050,
+  "name": "FIROTAIL 227MG",
+  "generic": "FIROCOXIB",
+  "price": "130",
+  "sku": "IMP-1050"
+ },
+ {
+  "sr": 1051,
+  "name": "FLAGYL 200MG",
+  "generic": "METRONIDAZOLE",
+  "price": "1",
+  "sku": "IMP-1051"
+ },
+ {
+  "sr": 1052,
+  "name": "FLAGYL 400MG",
+  "generic": "METRONIDAZOLE",
+  "price": "2",
+  "sku": "IMP-1052"
+ },
+ {
+  "sr": 1053,
+  "name": "FLAVEHEAL MR 35 TAB",
+  "generic": "TRIMETAZIDINE",
+  "price": "4",
+  "sku": "IMP-1053"
+ },
+ {
+  "sr": 1054,
+  "name": "FLAVEHEAL OD 80 TAB",
+  "generic": "TRIMETAZIDINE",
+  "price": "1",
+  "sku": "IMP-1054"
+ },
+ {
+  "sr": 1055,
+  "name": "FLAVOCIP 200MG",
+  "generic": "FLAVOXATE",
+  "price": "19",
+  "sku": "IMP-1055"
+ },
+ {
+  "sr": 1056,
+  "name": "FLECARITE 50MG",
+  "generic": "FLECAINIDE",
+  "price": "19",
+  "sku": "IMP-1056"
+ },
+ {
+  "sr": 1057,
+  "name": "FLEXABENZ 5MG",
+  "generic": "CYCLOBENZAPRINE HCL",
+  "price": "10",
+  "sku": "IMP-1057"
+ },
+ {
+  "sr": 1058,
+  "name": "FLEXABENZ ER 15MG",
+  "generic": "CYCLOBENZAPRINE HCL",
+  "price": "18.5",
+  "sku": "IMP-1058"
+ },
+ {
+  "sr": 1059,
+  "name": "FLEXON TAB",
+  "generic": "IBUPROFEN + PARACETAMOL",
+  "price": "2",
+  "sku": "IMP-1059"
+ },
+ {
+  "sr": 1060,
+  "name": "FLEXPAS 15MG",
+  "generic": "CYCLOBENZAPRINE hYDROCHLORIDE ER",
+  "price": "5.5",
+  "sku": "IMP-1060"
+ },
+ {
+  "sr": 1061,
+  "name": "FLEXURA 400MG",
+  "generic": "METAXALONE",
+  "price": "15",
+  "sku": "IMP-1061"
+ },
+ {
+  "sr": 1062,
+  "name": "FLEXURA D TAB",
+  "generic": "DICLOFENAC+ METAXALONE",
+  "price": "20",
+  "sku": "IMP-1062"
+ },
+ {
+  "sr": 1063,
+  "name": "FLIBAN 100MG",
+  "generic": "FLIBANSERIN",
+  "price": "68",
+  "sku": "IMP-1063"
+ },
+ {
+  "sr": 1064,
+  "name": "FLOMIST NASAL SPRAY",
+  "generic": "FLUTICASONE",
+  "price": "360",
+  "sku": "IMP-1064"
+ },
+ {
+  "sr": 1065,
+  "name": "FLONIDA 1% CREAM 10GM",
+  "generic": "FLUOROURACIL",
+  "price": "105",
+  "sku": "IMP-1065"
+ },
+ {
+  "sr": 1066,
+  "name": "FLONIDA 5% CREAM 10GM",
+  "generic": "FLUOROURACIL",
+  "price": "255",
+  "sku": "IMP-1066"
+ },
+ {
+  "sr": 1067,
+  "name": "FLORICOT 100 TAB",
+  "generic": "FLUDROCORTISONE",
+  "price": "13",
+  "sku": "IMP-1067"
+ },
+ {
+  "sr": 1068,
+  "name": "FLOSOOTH AZ DUO",
+  "generic": "AZELASTINE HCLAND FLUTICASONE PROPI",
+  "price": "135",
+  "sku": "IMP-1068"
+ },
+ {
+  "sr": 1069,
+  "name": "FLOX O FLOX EYE DROP 10ML",
+  "generic": "OFLOXACIN",
+  "price": "13",
+  "sku": "IMP-1069"
+ },
+ {
+  "sr": 1070,
+  "name": "FLUCHRIST 100MG",
+  "generic": "FLUCONAZOLE",
+  "price": "4",
+  "sku": "IMP-1070"
+ },
+ {
+  "sr": 1071,
+  "name": "FLUCHRIST 150MG",
+  "generic": "FLUCONAZOLE",
+  "price": "4.5",
+  "sku": "IMP-1071"
+ },
+ {
+  "sr": 1072,
+  "name": "FLUCHRIST 200MG",
+  "generic": "FLUCONAZOLE",
+  "price": "5",
+  "sku": "IMP-1072"
+ },
+ {
+  "sr": 1073,
+  "name": "FLUCOLAB 150MG",
+  "generic": "FLUCONAZOLE",
+  "price": "4",
+  "sku": "IMP-1073"
+ },
+ {
+  "sr": 1074,
+  "name": "FLUCONAZ 100MG",
+  "generic": "FLUCONAZOLE",
+  "price": "4",
+  "sku": "IMP-1074"
+ },
+ {
+  "sr": 1075,
+  "name": "FLUCONAZ 150MG",
+  "generic": "FLUCONAZOLE",
+  "price": "4.5",
+  "sku": "IMP-1075"
+ },
+ {
+  "sr": 1076,
+  "name": "FLUCONAZ 200MG",
+  "generic": "FLUCONAZOLE",
+  "price": "6",
+  "sku": "IMP-1076"
+ },
+ {
+  "sr": 1077,
+  "name": "FLUCONAZ 400MG",
+  "generic": "FLUCONAZOLE",
+  "price": "9",
+  "sku": "IMP-1077"
+ },
+ {
+  "sr": 1078,
+  "name": "FLUCONAZ 50MG",
+  "generic": "FLUCONAZOLE",
+  "price": "3",
+  "sku": "IMP-1078"
+ },
+ {
+  "sr": 1079,
+  "name": "FLUCORT CREAM 20GM",
+  "generic": "FLUOCINOLONE ACETONIDE",
+  "price": "105",
+  "sku": "IMP-1079"
+ },
+ {
+  "sr": 1080,
+  "name": "FLUDOC 400MG",
+  "generic": "FLUCONAZOLE",
+  "price": "10.25",
+  "sku": "IMP-1080"
+ },
+ {
+  "sr": 1081,
+  "name": "FLUKA 150MG",
+  "generic": "FLUCONAZOLE",
+  "price": "7.5",
+  "sku": "IMP-1081"
+ },
+ {
+  "sr": 1082,
+  "name": "FLUMET 400MG",
+  "generic": "FLUCONAZOLE",
+  "price": "12",
+  "sku": "IMP-1082"
+ },
+ {
+  "sr": 1083,
+  "name": "FLUNIL 20MG",
+  "generic": "FLUOXETINE",
+  "price": "3.75",
+  "sku": "IMP-1083"
+ }
+]

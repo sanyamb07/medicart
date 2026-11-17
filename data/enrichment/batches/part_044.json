@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2302,
+  "name": "QL 200MG",
+  "generic": "QUETIAPINE",
+  "price": "5.5",
+  "sku": "IMP-2302"
+ },
+ {
+  "sr": 2303,
+  "name": "QL 300MG",
+  "generic": "QUETIAPINE",
+  "price": "6.5",
+  "sku": "IMP-2303"
+ },
+ {
+  "sr": 2304,
+  "name": "QL-100 MG TAB",
+  "generic": "QUETIAPINE",
+  "price": "3",
+  "sku": "IMP-2304"
+ },
+ {
+  "sr": 2305,
+  "name": "QUADRIDERM RF CREAM 5GM",
+  "generic": "BETAMETHASONE + CLOTRIMAZOLE + NEOMYCIN",
+  "price": "60",
+  "sku": "IMP-2305"
+ },
+ {
+  "sr": 2306,
+  "name": "QUALIFOL 150MG IU",
+  "generic": "UROFOLLITROPIN",
+  "price": "520",
+  "sku": "IMP-2306"
+ },
+ {
+  "sr": 2307,
+  "name": "QUETI 100MG",
+  "generic": "QUETIAPINE",
+  "price": "2.5",
+  "sku": "IMP-2307"
+ },
+ {
+  "sr": 2308,
+  "name": "QUETI 25MG",
+  "generic": "QUETIAPINE",
+  "price": "1.5",
+  "sku": "IMP-2308"
+ },
+ {
+  "sr": 2309,
+  "name": "QUETI 50MG",
+  "generic": "QUETIAPINE",
+  "price": "2",
+  "sku": "IMP-2309"
+ },
+ {
+  "sr": 2310,
+  "name": "QUININ 300MG",
+  "generic": "QUININE SULPHATE",
+  "price": "4",
+  "sku": "IMP-2310"
+ },
+ {
+  "sr": 2311,
+  "name": "QUTAN 100MG",
+  "generic": "QUETIAPINE",
+  "price": "11",
+  "sku": "IMP-2311"
+ },
+ {
+  "sr": 2312,
+  "name": "QUTAN SR 300MG",
+  "generic": "QUETIAPINE",
+  "price": "26",
+  "sku": "IMP-2312"
+ },
+ {
+  "sr": 2313,
+  "name": "QUTIPIN 100MG",
+  "generic": "QUETIAPINE",
+  "price": "10",
+  "sku": "IMP-2313"
+ },
+ {
+  "sr": 2314,
+  "name": "QUTIPIN 25MG",
+  "generic": "QUETIAPINE",
+  "price": "6.5",
+  "sku": "IMP-2314"
+ },
+ {
+  "sr": 2315,
+  "name": "QUTIPIN 50MG",
+  "generic": "QUETIAPINE",
+  "price": "8",
+  "sku": "IMP-2315"
+ },
+ {
+  "sr": 2316,
+  "name": "R CIN 300MG",
+  "generic": "RIFAMPICIN",
+  "price": "4.5",
+  "sku": "IMP-2316"
+ },
+ {
+  "sr": 2317,
+  "name": "R CIN 600MG",
+  "generic": "RIFAMPICIN",
+  "price": "8",
+  "sku": "IMP-2317"
+ },
+ {
+  "sr": 2318,
+  "name": "RABESEC 20MG",
+  "generic": "RABEPRAZOLE",
+  "price": "2.5",
+  "sku": "IMP-2318"
+ },
+ {
+  "sr": 2319,
+  "name": "RABESEC DSR CAP",
+  "generic": "DOMPERIDONE + RABEPRAZOLE",
+  "price": "3.5",
+  "sku": "IMP-2319"
+ },
+ {
+  "sr": 2320,
+  "name": "RABI 20MG",
+  "generic": "RABEPRAZOLE",
+  "price": "1.5",
+  "sku": "IMP-2320"
+ },
+ {
+  "sr": 2321,
+  "name": "RADICATE CAT 6%",
+  "generic": "SELAMECTIN",
+  "price": "410",
+  "sku": "IMP-2321"
+ },
+ {
+  "sr": 2322,
+  "name": "RADICATE DOG 12%",
+  "generic": "SELAMECTIN",
+  "price": "520",
+  "sku": "IMP-2322"
+ },
+ {
+  "sr": 2323,
+  "name": "RADINATE 100MG",
+  "generic": "ARTESUNATE",
+  "price": "12.5",
+  "sku": "IMP-2323"
+ },
+ {
+  "sr": 2324,
+  "name": "RADINATE 200MG",
+  "generic": "ARTESUNATE",
+  "price": "19.5",
+  "sku": "IMP-2324"
+ },
+ {
+  "sr": 2325,
+  "name": "RALOXIHEAL 60MG",
+  "generic": "RALOXIFENE",
+  "price": "11",
+  "sku": "IMP-2325"
+ },
+ {
+  "sr": 2326,
+  "name": "RAMIGO 5MG",
+  "generic": "RAMIPRIL",
+  "price": "1.5",
+  "sku": "IMP-2326"
+ },
+ {
+  "sr": 2327,
+  "name": "RAMIPRES 5MG",
+  "generic": "RAMIPRIL",
+  "price": "7.5",
+  "sku": "IMP-2327"
+ },
+ {
+  "sr": 2328,
+  "name": "RAMISMART 5MG",
+  "generic": "RAMIPRIL",
+  "price": "1.5",
+  "sku": "IMP-2328"
+ },
+ {
+  "sr": 2329,
+  "name": "RAMSPIN 2.5MG",
+  "generic": "RAMIPRIL",
+  "price": "1",
+  "sku": "IMP-2329"
+ },
+ {
+  "sr": 2330,
+  "name": "RANIHEAL 150MG",
+  "generic": "RANITIDINE",
+  "price": "1",
+  "sku": "IMP-2330"
+ },
+ {
+  "sr": 2331,
+  "name": "RANISH-150MG TAB",
+  "generic": "Ranitidine Hydrochloride",
+  "price": "1",
+  "sku": "IMP-2331"
+ },
+ {
+  "sr": 2332,
+  "name": "RANOHEAL 500MG",
+  "generic": "RANOLAZINE",
+  "price": "4.5",
+  "sku": "IMP-2332"
+ },
+ {
+  "sr": 2333,
+  "name": "RANOL 20MG TAB",
+  "generic": "ROPRANOLOL HYDROCHLORIDE",
+  "price": "1.5",
+  "sku": "IMP-2333"
+ },
+ {
+  "sr": 2334,
+  "name": "RANTAC 150MG",
+  "generic": "RANITIDINE",
+  "price": "1.5",
+  "sku": "IMP-2334"
+ },
+ {
+  "sr": 2335,
+  "name": "RANTAC DOM TAB",
+  "generic": "DOMPERIDONE + RANITIDINE",
+  "price": "3",
+  "sku": "IMP-2335"
+ },
+ {
+  "sr": 2336,
+  "name": "RAPACAN 1MG",
+  "generic": "SIROLIMUS",
+  "price": "41",
+  "sku": "IMP-2336"
+ },
+ {
+  "sr": 2337,
+  "name": "RASALECT 1MG",
+  "generic": "RASAGILINE",
+  "price": "16.5",
+  "sku": "IMP-2337"
+ },
+ {
+  "sr": 2338,
+  "name": "RAZIN 5MG",
+  "generic": "FLUNARIZINE",
+  "price": "1",
+  "sku": "IMP-2338"
+ },
+ {
+  "sr": 2339,
+  "name": "REACTIN 100 SR TAB",
+  "generic": "DICLOFENAC SODIUM",
+  "price": "1.5",
+  "sku": "IMP-2339"
+ },
+ {
+  "sr": 2340,
+  "name": "REACTIN 50MG",
+  "generic": "DICLOFENAC SODIUM",
+  "price": "1",
+  "sku": "IMP-2340"
+ },
+ {
+  "sr": 2341,
+  "name": "REACTIN 50MG SR",
+  "generic": "DICLOFENAC SODIUM",
+  "price": "1",
+  "sku": "IMP-2341"
+ },
+ {
+  "sr": 2342,
+  "name": "REACTIN PLUS",
+  "generic": "DICLOFENAC-50MG + PARACETAMOL-325MG",
+  "price": "1",
+  "sku": "IMP-2342"
+ },
+ {
+  "sr": 2343,
+  "name": "RECITA 10MG",
+  "generic": "ESCITALOPRAM OXALATE",
+  "price": "8.5",
+  "sku": "IMP-2343"
+ },
+ {
+  "sr": 2344,
+  "name": "RED FORCE 150MG",
+  "generic": "SILDENAFIL",
+  "price": "1.25",
+  "sku": "IMP-2344"
+ },
+ {
+  "sr": 2345,
+  "name": "RED MALEGRA 100MG",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-2345"
+ },
+ {
+  "sr": 2346,
+  "name": "REDFORCE 150MG",
+  "generic": "SILDENAFIL",
+  "price": "1.25",
+  "sku": "IMP-2346"
+ },
+ {
+  "sr": 2347,
+  "name": "REDNISOL 16MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "4",
+  "sku": "IMP-2347"
+ },
+ {
+  "sr": 2348,
+  "name": "REDNISOL A 40 VIAL",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "30",
+  "sku": "IMP-2348"
+ },
+ {
+  "sr": 2349,
+  "name": "REDOTREX 500MG",
+  "generic": "TRANEXAMIC ACID",
+  "price": "7",
+  "sku": "IMP-2349"
+ },
+ {
+  "sr": 2350,
+  "name": "REFAAGUT 400MG",
+  "generic": "RIFAXIMIN  + METRONIDAZOLE",
+  "price": "14",
+  "sku": "IMP-2350"
+ },
+ {
+  "sr": 2351,
+  "name": "REFAAGUT 550MG",
+  "generic": "RIFAXIMIN",
+  "price": "17.5",
+  "sku": "IMP-2351"
+ }
+]

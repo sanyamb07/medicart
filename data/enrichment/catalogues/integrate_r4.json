@@ -1,0 +1,313 @@
+[
+ {
+  "sku": "IMP-0016",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/accufine-20mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/accufine-20mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-0016.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Accufine-20-cap.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/accufine-20mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Isotretinoin Capsules IP 20 mg; Accufine TM; 20 mg; 1 x 10 Softgel Capsules; Healing Pharma",
+   "qa_note": "Brand ACCUFINE, 20 mg, capsule (softgel) match catalogue form Capsules."
+  }
+ },
+ {
+  "sku": "IMP-1245",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/hiforce-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/hiforce-100/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-1245.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Hiforce-100_3D.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/hiforce-100/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Sildenafil Citrate Tablets IP 100mg; HIFORCE-100; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Plain Hiforce-100 film tablet carton (not 'Soft'/chewable); brand, 100 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1782",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/minoxytop-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/minoxytop-10/",
+  "pack_size": null,
+  "review_reasons": [
+   "Carton side-panel composition text appears to read 'Each ml contains Minoxidil IP 50mg' (=5%), likely shared artwork with 5% pack; front panel and bottle clearly state 10%"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-1782.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2024/07/Minoxytop-10.jpg-scaled.jpeg?fit=2560%2C2560&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/minoxytop-10/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Minoxidil Topical Solution USP 10%; Minoxytop 10%; Lipid Technology; 60 ml bottle + carton; Healing Pharma",
+   "qa_note": "Brand MINOXYTOP, 10%, topical solution (bottle) match row 'SOL'; not tablets."
+  }
+ },
+ {
+  "sku": "IMP-1785",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/minoxytop-5-solution/",
+  "official_product_page_url": "https://www.healingpharma.in/product/minoxytop-5-solution/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-1785.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2024/07/Minoxytop-5.jpg-scaled.jpeg?fit=2560%2C2560&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/minoxytop-5-solution/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Minoxidil Topical Solution USP 5%; Minoxytop 5%; Lipid Technology; 60 ml bottle + carton; Healing Pharma",
+   "qa_note": "Brand MINOXYTOP, 5%, topical solution (bottle) match row 'SOL'; not tablets."
+  }
+ },
+ {
+  "sku": "IMP-1787",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/minoxytop-f-5-2/",
+  "official_product_page_url": "https://www.healingpharma.in/product/minoxytop-f-5-2/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-1787.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/12/Minoxidil-Finasteride-solution.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/minoxytop-f-5-2/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Minoxidil & Finasteride Topical Solution; Minoxytop F5%; Lipid Technology; 60 ml bottle + carton; Healing Pharma",
+   "qa_note": "Brand MINOXYTOP F, 5%, minoxidil + finasteride topical solution matches catalogue form Solution and list generic."
+  }
+ },
+ {
+  "sku": "IMP-1788",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/minoxytop-f-5-2/",
+  "official_product_page_url": "https://www.healingpharma.in/product/minoxytop-f-5-2/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack composition: Minoxidil & Finasteride Topical Solution; list says MINOXIDIL",
+   "Identical image to IMP-1787 (duplicate SKU for same product)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-1788.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/12/Minoxidil-Finasteride-solution.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/minoxytop-f-5-2/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Minoxidil & Finasteride Topical Solution; Minoxytop F5%; Lipid Technology; 60 ml bottle + carton; Healing Pharma",
+   "qa_note": "Brand MINOXYTOP F, 5%, minoxidil + finasteride topical solution matches catalogue form Solution. Same image file as IMP-1787 (duplicate list row)."
+  }
+ },
+ {
+  "sku": "IMP-2666",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tacroheal-1-cap/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tacroheal-1-cap/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-2666.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/12/TACROHEAL-1-New1.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/tacroheal-1-cap/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Tacrolimus Capsules IP 1 mg; TACROHEAL 1; 1 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand TACROHEAL, 1 mg, capsule match catalogue form."
+  }
+ },
+ {
+  "sku": "IMP-2843",
+  "manufacturer": "Healing Pharma India Pvt. Ltd.",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/testoheal-40mg-caps/",
+  "official_product_page_url": "https://www.healingpharma.in/product/testoheal-40mg-caps/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-2843.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/TESTOHEAL-40-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/testoheal-40mg-caps/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Testosterone Undecanoate Capsules 40 mg; TESTOHEAL; 3 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand TESTOHEAL, 40 mg, capsule (softgel) match."
+  }
+ },
+ {
+  "sku": "IMP-0580",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/clindanol-300-cap-bl-2010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/clindanol-300-cap-bl-2010/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as brand suffix '300' (no mg on front panel)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-0580.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/clindanol-300.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/clindanol-300-cap-bl-2010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Clindamycin Hydrochloride Capsules IP; Clindanol-300; 20x10 Capsules; Knoll",
+   "qa_note": "Brand CLINDANOL, strength 300 via brand suffix (no 'mg' printed; consistent with prior brand-suffix precedent), capsule match."
+  }
+ },
+ {
+  "sku": "IMP-0683",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/dabinol-150-cap-alu-mono-10110/",
+  "official_product_page_url": "https://knollhealthcare.com/product/dabinol-150-cap-alu-mono-10110/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-0683.jpg",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/DABINOL-150.jpg?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/dabinol-150-cap-alu-mono-10110/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Dabigatran Etexilate Capsules 150 mg; Dabinol-150 Capsules; 10 x 1 x 10 Capsules; Knoll",
+   "qa_note": "Brand DABINOL, 150 mg, capsule match."
+  }
+ },
+ {
+  "sku": "IMP-2233",
+  "manufacturer": "Knoll Healthcare Pvt Ltd",
+  "manufacturer_source_url": "https://knollhealthcare.com/product/pregabel-300-cap-alu-1010/",
+  "official_product_page_url": "https://knollhealthcare.com/product/pregabel-300-cap-alu-1010/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-2233.png",
+   "image_url": "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/PREGABEL-300.png?fit=426%2C426&ssl=1",
+   "page_url": "https://knollhealthcare.com/product/pregabel-300-cap-alu-1010/",
+   "source_name": "Knoll Healthcare Pvt Ltd",
+   "visible_pack_text": "Pregabalin 300 mg; Pregabel-300 Capsules; 10 x 10 Capsules; Knoll",
+   "qa_note": "Brand PREGABEL, 300 mg, capsule match."
+  }
+ },
+ {
+  "sku": "IMP-0830",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/dutafox-0-5-capsules/",
+  "official_product_page_url": "https://www.americanremedies.in/product/dutafox-0-5-capsules/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-0830.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/dutafox-0.5-.jpg",
+   "page_url": "https://www.americanremedies.in/product/dutafox-0-5-capsules/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "Dutasteride Capsules IP 0.50 mg; American Dutafox 0.5 Capsules; 10 x 10 Capsules; American Remedies",
+   "qa_note": "Brand DUTAFOX, 0.5 mg, capsule (softgel) match."
+  }
+ },
+ {
+  "sku": "IMP-1095",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/fluxican-10-capsules/",
+  "official_product_page_url": "https://www.americanremedies.in/product/fluxican-10-capsules/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-1095.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/FLuxican-10.jpg",
+   "page_url": "https://www.americanremedies.in/product/fluxican-10-capsules/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "Fluoxetine Capsules I.P. 10 Mg.; American Fluxican; 10 mg; 20 x 10 Capsules; American Remedies",
+   "qa_note": "Brand FLUXICAN, 10 mg, capsule match."
+  }
+ },
+ {
+  "sku": "IMP-1096",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/fluxican-20-capsules/",
+  "official_product_page_url": "https://www.americanremedies.in/product/fluxican-20-capsules/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-1096.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/FLuxican-20.jpg",
+   "page_url": "https://www.americanremedies.in/product/fluxican-20-capsules/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "Fluoxetine Capsules I.P. 20 Mg.; American Fluxican; 20 mg; 20 x 10 Capsules; American Remedies",
+   "qa_note": "Brand FLUXICAN, 20 mg, capsule match."
+  }
+ },
+ {
+  "sku": "IMP-1097",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/fluxican-60-capsules/",
+  "official_product_page_url": "https://www.americanremedies.in/product/fluxican-60-capsules/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-1097.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/FLuxican-60.jpg",
+   "page_url": "https://www.americanremedies.in/product/fluxican-60-capsules/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "Fluoxetine Capsules I.P. 60 Mg.; American Fluxican; 60 mg; 20 x 10 Capsules; American Remedies",
+   "qa_note": "Brand FLUXICAN, 60 mg, capsule match."
+  }
+ },
+ {
+  "sku": "IMP-1341",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/itrotab-100/",
+  "official_product_page_url": "https://www.americanremedies.in/product/itrotab-100/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-1341.jpeg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-20-at-16.39.32-1.jpeg",
+   "page_url": "https://www.americanremedies.in/product/itrotab-100/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "Itraconazole Capsules BP 100 mg; American Itrotab 100 Capsules; 1 x 10 Capsules; American Remedies",
+   "qa_note": "Brand ITROTAB, 100 mg, capsule match catalogue form (brand contains 'tab' but pack is capsules)."
+  }
+ },
+ {
+  "sku": "IMP-1342",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/itrotab-200/",
+  "official_product_page_url": "https://www.americanremedies.in/product/itrotab-200/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-1342.jpeg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-20-at-16.39.31-1.jpeg",
+   "page_url": "https://www.americanremedies.in/product/itrotab-200/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "Itraconazole Capsules BP 200 mg; American Itrotab 200 Capsules; 1 x 10 Capsules; American Remedies",
+   "qa_note": "Brand ITROTAB, 200 mg, capsule match catalogue form."
+  }
+ },
+ {
+  "sku": "IMP-2055",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/omeecan-20-capsules/",
+  "official_product_page_url": "https://www.americanremedies.in/product/omeecan-20-capsules/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-2055.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/OMEECAN-20-CAP_X7.jpg",
+   "page_url": "https://www.americanremedies.in/product/omeecan-20-capsules/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "Omeprazole Gastro-Resistant Capsules IP 20 mg; American OMEECAN 20; 20x15 Capsules; American Remedies",
+   "qa_note": "Brand OMEECAN, 20 mg, capsule (gastro-resistant) match."
+  }
+ },
+ {
+  "sku": "IMP-2235",
+  "manufacturer": "American Remedies Healthcare Private Limited",
+  "manufacturer_source_url": "https://www.americanremedies.in/product/pregafox-300-capsules/",
+  "official_product_page_url": "https://www.americanremedies.in/product/pregafox-300-capsules/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r4/IMP-2235.jpg",
+   "image_url": "https://www.americanremedies.in/wp-content/uploads/2025/05/pregafox300-tab.jpg",
+   "page_url": "https://www.americanremedies.in/product/pregafox-300-capsules/",
+   "source_name": "American Remedies Healthcare Private Limited",
+   "visible_pack_text": "Pregabalin Capsules IP 300 mg; American PREGAFOX 300 Capsules; 10 x 15 Capsules; American Remedies",
+   "qa_note": "Brand PREGAFOX, 300 mg, capsule match (image filename says 'tab' but pack is capsules)."
+  }
+ }
+]

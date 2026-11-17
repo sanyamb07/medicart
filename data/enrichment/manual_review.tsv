@@ -1,0 +1,1120 @@
+sku	name	generic	active	verification	reasons	no_source_for
+IMP-0008	ABORTAB 200MG	Mifepristone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0013	ACARBOZ 25 TAB	Acarbose	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -25	
+IMP-0015	ACCUFINE 10MG	Isotretinoin	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: approved manufacturer pack reads "softgel capsules" (Healing Pharma)	
+IMP-0016	ACCUFINE 20MG	Isotretinoin	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://www.healingpharma.in/product/accufine-20mg/	
+IMP-0017	ACCUFINE 30MG	Isotretinoin	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: approved manufacturer pack reads "softgel capsules" (Healing Pharma)	
+IMP-0018	ACCUFINE 40MG	Isotretinoin	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: approved manufacturer pack reads "softgel capsules" (Healing Pharma)	
+IMP-0019	ACCUFINE 5MG	Isotretinoin	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: approved manufacturer pack reads "softgel capsules" (Healing Pharma)	
+IMP-0020	ACCURATE ADVANCED KIT	Pregnancy Test Kit	true	NEEDS_REVIEW		
+IMP-0021	ACEMIZ 100MG	Aceclofenac	true	NEEDS_REVIEW		Aceclofenac
+IMP-0022	ACEMIZ 200MG SR	Aceclofenac	true	NEEDS_REVIEW		Aceclofenac
+IMP-0026	ACIMOL SR	Aceclofenac	true	NEEDS_REVIEW		Aceclofenac
+IMP-0050	AFMED 40MG	Afatinib	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0051	AGEFINE CREAM	L-Glutathione	true	NEEDS_REVIEW	RESEARCH Image candidate rejected by QA: Lead override for consistency: no strength printed on the pack (same rule applied to HEALVITAL CAP and AGEFINE FORTE TAB) | RESEARCH No verified manufacturer pack image found | RESEARCH Pack composition: L-Glutathione, Kojic Acid, Niacinamide and Glycolic Acid; list says L-GLUTATHIONE | RESEARCH Pack shows no strength/%; row name also has no strength - approved as plain variant, lead may override if the 'strength not visible' rule is meant to apply to strength-less rows too | RESEARCH Pack size 20 g visible; row name gives no pack size	L-glutathione
+IMP-0052	AGEFINE FORTE TAB	Alpha Lipoic Acid + L Glutathione + Vitamin	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Brand Agefine Forte and tablet form match, but no strength visible on pack (strength not visible). | RESEARCH No verified manufacturer pack image found	L Glutathione
+IMP-0053	AGOPREX TAB	Agomelatine	true	NEEDS_REVIEW		Agomelatine
+IMP-0058	ALBUREL OS 20% 100ML	Human Albumin	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Human Albumin
+IMP-0060	ALCINAC SR TAB	Aceclofenac Sustained Release	true	NEEDS_REVIEW		Aceclofenac
+IMP-0063	ALDOL 400MG	Albendazole	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found	
+IMP-0072	ALMOX CV 625MG	Amoxycillin	true	PARTIALLY_VERIFIED	AUDIT incomplete_generic: CV 625MG = amoxicillin + clavulanate; generic lists AMOXYCILLIN only	
+IMP-0081	AMERICAN STERILE WATER FOR INJ 10ML	Sterile Water	true	NEEDS_REVIEW		
+IMP-0082	AMERICANO MLV INJ	Multivitamin	true	NEEDS_REVIEW		Multivitamin
+IMP-0083	AMERICANO SR WATER FOR 15ML	Sterile Water	true	NEEDS_REVIEW		
+IMP-0102	AMOXYHEAL CV DRY SYRUP 30ML	Amoxycilin And Potassium Clavulante	true	PARTIALLY_VERIFIED	RESEARCH Included diluent ampoule is labelled as manufactured by Sunrise Pharma (diluent supplier), not Healing Pharma	
+IMP-0103	AMPOXIN 500MG	Ampicillin+Cloxacillin	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [105] | AUDIT same_name_different_price: price 5.5 vs ['6.5'] (sr [104])	Cloxacillin
+IMP-0104	AMPOXIN 500MG	Ampicillin+ Cloxacillin	true	PARTIALLY_VERIFIED	AUDIT same_name_different_price: price 6.5 vs ['5.5'] (sr [103, 105])	Cloxacillin
+IMP-0105	AMPOXIN 500MG	Ampicillin +Cloxacillin	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [103] | AUDIT same_name_different_price: price 5.5 vs ['6.5'] (sr [104])	Cloxacillin
+IMP-0106	AMRFY CREAM 30GM	Amorolfine	true	NEEDS_REVIEW		Amorolfine
+IMP-0107	AMROLSTAR CREAM 30GM	Amorolfine	true	NEEDS_REVIEW		Amorolfine
+IMP-0108	ANA ASH 1MG	Anastrozole	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0109	ANABOL TAB	Anastrozole	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: 'Anabol' is a historic methandienone (anabolic steroid) brand; listed ANASTROZOLE with no strength. If methandienone, regulatory group is anabolic_steroid_or_ped	
+IMP-0110	ANADROL MAXX	Oxymethelone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name	Oxymethelone
+IMP-0111	ANARIDEX 1MG	Anastrozole	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0112	ANARIX 10MG	Oxandrolone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Oxandrolone
+IMP-0113	ANAVAR 10MG	Oxandrolone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Oxandrolone
+IMP-0114	ANAVAR GOLD	Oxandrolone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name	Oxandrolone
+IMP-0115	ANAVAR MAXX 10MG	Oxandrolone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Oxandrolone
+IMP-0116	ANAVAR TAB	Oxandrolone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Oxandrolone
+IMP-0117	ANDROBIX 50MG TAB.	Oxymetholone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Oxymetholone
+IMP-0119	ANDROL 50MG	Oxymetholone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Oxymetholone
+IMP-0123	ANGIOTESIN 2.5MG	Lisinopril	true	PARTIALLY_VERIFIED	RESEARCH List name typo: 'ANGIOTESIN' on list; pack brand is 'Angiotensin' - suggest correcting the catalogue name | RESEARCH Pack size 30 x 10 tablets visible; row name gives no pack size	
+IMP-0124	ANNAVAIL 10MG	Oxandrolone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Oxandrolone
+IMP-0137	APPLE ASH 450MG	Chloramphenicol	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: brand 'APPLE ASH 450MG' gives no link to chloramphenicol and 450mg is not a usual chloramphenicol strength (250/500mg); true composition unknown	Chloramphenicol
+IMP-0138	APPLICAP I CAP BLISTER	Chloromycetin	true	NEEDS_REVIEW		Chloromycetin
+IMP-0139	APPOQUIL 16MG	Oclacitinib Maleate	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Oclacitinib
+IMP-0140	APPY PEN TAB	Cyproheptadine	true	NEEDS_REVIEW		Cyproheptadine
+IMP-0147	ARACHITOL 3L IU INJ	Vitamin D3	true	NEEDS_REVIEW		Cholecalciferol
+IMP-0148	ARACHITOL 6L IU INJ	Vitamin D3	true	NEEDS_REVIEW		Cholecalciferol
+IMP-0153	ARIMEE 1MG	Anastrozole	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0157	ARKACAN 100MCG	Clonidine	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-0162	ARTECAN 120MG INJ	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-0163	ARTECAN 60MG INJ	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-0164	ARTEEMAXX 100MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-0165	ARTEEMAXX 200MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-0166	ARTEEMAXX 50MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-0167	Sildamax tablet	Artemisinin	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: brand stem SILDA- (cf. SILDAMAX 100MG sr 2494 = SILDENAFIL) but generic says ARTEMISININ; true composition probably sildenafil — needs pharmacist check	Artemisinin
+IMP-0168	ARTESUNATE 100MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-0169	ARTISTAR 100MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-0170	ARTVIGIL 150MG	Armodafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet | RESEARCH No verified manufacturer pack image found	
+IMP-0171	ARTVIGIL 250MG	Armodafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet | RESEARCH No verified manufacturer pack image found	
+IMP-0172	ARTVIGIL 50MG	Armodafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0174	ASCOAIR 100MCG INHALER	Ascorbic Acid Vitamin C	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: a 100MCG metered inhaler cannot be ascorbic acid; true composition unknown	Ascorbic Acid Vitamin C
+IMP-0177	ASHWAGANDHA 500MG		true	NEEDS_REVIEW	Supplier list gives no composition | Dosage form not stated in name; assumed tablet | AUDIT missing_generic: generic column blank	
+IMP-0179	ASPADOL 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0180	ASPADOL 50MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0204	ATROCAN INJ 1ML	Amoxycilin And Potassium Clavulante	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: 1ML injection at Rs 3 named ATRO- (atropine?) listed as oral amoxicillin-clavulanate	Amoxicillin, Clavulanate
+IMP-0213	AUROGRA 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0214	AVAFORCE 100MG	Avanafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0215	AVAFORCE 200MG	Avanafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0216	AVAGRA 100MG	Avanafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0217	AVANA 100MG	Avanafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet | RESEARCH Company name/logo is not printed on the carton itself; 'Sunrise Remedies Pvt. Ltd.' appears only as a watermark/logo overlay in the image corner | RESEARCH Pack size not visible on carton	
+IMP-0218	AVANA 200MG	Avanafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0219	AVANA 50MG	Avanafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0220	AVBET 100MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-0234	AZACAN 50MG	Azathioprine	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-0250	AZIFAST GEL	Azithromycin	true	NEEDS_REVIEW		Azithromycin
+IMP-0261	B COLEX CAP	Multivitamin	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Lead override for consistency: no strength printed on the pack (same rule applied to HEALVITAL CAP and AGEFINE FORTE TAB) | RESEARCH No verified manufacturer pack image found | RESEARCH Front pack shows no strength (multivitamin combination); row name also has no strength - approved as plain variant, lead may override | RESEARCH Pack size 10 x 10 capsules visible; row name gives no pack size	
+IMP-0265	BACLOSIGN 10MG	Baclofen	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found	
+IMP-0266	BACLOSIGN 25MG	Baclofen	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found	
+IMP-0273	BANGFORCE 250MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0274	BD INSULIN SYRINGE 31G.6M	Syringe	true	NEEDS_REVIEW		
+IMP-0275	BD SYRINGE G 31 1ML	Syringe	true	NEEDS_REVIEW		
+IMP-0276	BD SYRINGE INS U-4	Syringe	true	NEEDS_REVIEW		
+IMP-0277	BD SYRINGE INSU 100 1ML	Syringe	true	NEEDS_REVIEW		
+IMP-0278	BEATON TAB	Betamethasone Sodium Phosphate	true	NEEDS_REVIEW		Betamethasone
+IMP-0281	BECOZYMC CFORTE TAB	Vitamin B	true	NEEDS_REVIEW		Vitamin B
+IMP-0289	BENOQUIN CREAM 100GM	Monobenzone	true	NEEDS_REVIEW		Monobenzone
+IMP-0290	BENOQUIN OINTMENT 30GM	Monobenzone	true	NEEDS_REVIEW		Monobenzone
+IMP-0297	BENZOCAN CREAM	Monobenzone Cream	true	NEEDS_REVIEW		Monobenzone
+IMP-0300	BETABLOCK XL 50MG	Metoprolol Succinate	true	PARTIALLY_VERIFIED	RESEARCH Pack composition: Metoprolol Succinate Extended release Tablets IP 50 mg; list says MONOBENZONE CREAM | COMPOSITION corrected from supplier list "MONOBENZONE CREAM" to "Metoprolol Succinate": Healing Pharma official product page (https://www.healingpharma.in/product/betablock-xl-50/) and pack: "Metoprolol Succinate ER 50 mg"	
+IMP-0302	BETAGEE INJ 1ML	Betamethasone	true	NEEDS_REVIEW		Betamethasone
+IMP-0303	BETAMETHASONE TAB	Betamethasone Sodium	true	NEEDS_REVIEW		Betamethasone
+IMP-0304	BETAPIX INJ 1ML	Betamethasone	true	NEEDS_REVIEW		Betamethasone
+IMP-0305	BETASTAL INJ	Betamethasone (As Sodium Phosphate) & Betamethasone (As Dipropionate)	true	NEEDS_REVIEW	RESEARCH Pack composition: Betamethasone Sodium Phosphate only (eq. to betamethasone 4 mg/ml); list says BETAMETHASONE (AS SODIUM PHOSPHATE) & BETAMETHASONE (AS DIPROPIONATE) | RESEARCH Strength only on side composition panel	Betamethasone As
+IMP-0306	BETAVERT 16MG	Betahistine	true	NEEDS_REVIEW		Betahistine
+IMP-0307	BETLYSONE TAB	Betamethasone	true	NEEDS_REVIEW		Betamethasone
+IMP-0308	BETNESOL 0.5MG	Betamethasone	true	NEEDS_REVIEW		Betamethasone
+IMP-0312	BICALUMIDE 50 TAB	Bicalumutide	true	NEEDS_REVIEW		Bicalumutide
+IMP-0317	BICOMINE 50MG	Bicalutamide	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0329	BIXIBAT 5MG	Elobixibat	true	NEEDS_REVIEW		Elobixibat
+IMP-0331	BLUEFORCE 1 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0332	BLUEFORCE 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0333	BLUEFORCE 1-25MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0334	BLUEFORCE 200MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0335	BLUEFORCE 250MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0337	BOLBEBOL 250MG INJ 1ML	Boldenone Undecylenate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Boldenone Undecylenate
+IMP-0338	BOLDABOL 250MG INJ 10ML	Boldenone Undecylenate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Boldenone Undecylenate
+IMP-0339	BOLDABOL INJ 1ML	Boldenone Undecylenate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Boldenone Undecylenate
+IMP-0340	BOLDAMAXX 400MG INJ 1ML	Boldenone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Boldenone
+IMP-0341	BOLDEBOL 250MG INJ 10ML	Boldenone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Boldenone
+IMP-0342	BONTRESS PRO HAIR SERUM	Hair Supplements	true	NEEDS_REVIEW		
+IMP-0343	BONTRESS PRO SCALP SERUM 60ML	Hair Supplements	true	NEEDS_REVIEW		
+IMP-0344	BONTRESS PRO+SCALP SERUM	Hair Supplements	true	NEEDS_REVIEW		
+IMP-0350	BROMOPRIN 2.5MG	Bimatoprost	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: 2.5MG product (no form) listed as BIMATOPROST (ophthalmic 0.01-0.03% only); BROMO- stem and 2.5mg fit bromocriptine	Bimatoprost
+IMP-0359	BUDECORT 200MG INHALER	Budesonide	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 200MG for an inhaled product — MCG expected	
+IMP-0365	BUDENOL F 400MG INHALER	Budesonide	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 400MG for an inhaled product — MCG expected | AUDIT incomplete_generic: BUDENOL F inhaler: 'F' normally = formoterol; generic lists BUDESONIDE only | RESEARCH Pack shows '400' without unit; row says 400MG - inhaler strength is per actuation (mcg), list unit likely wrong | RESEARCH Pack composition: Budesonide & Formoterol Fumarate; list says BUDESONIDE	
+IMP-0368	BULL FORCE 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0369	BULL FORCE 200MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0379	BURNHEAL CREAM 15GM	Silver Nitrate Chlorhexidine Gluconate	true	NEEDS_REVIEW		Silver Nitrate Chlorhexidine Gluconate
+IMP-0380	BUSCOHEAL 10MG	Hysocine Butylbromide	true	NEEDS_REVIEW		Hysocine Butylbromide
+IMP-0383	BUSPICAN 10MG	Buspirone	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-0401	CADCORT 100MG INJ	Lidocaine	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: CADCORT 100MG INJ — -CORT stem and 100mg strength fit hydrocortisone injection; listed LIDOCAINE	
+IMP-0403	CADOMER OINTMENT	Cadexomer Iodine	true	NEEDS_REVIEW		Cadexomer Iodine
+IMP-0404	CAL D3 INJ	Vitamin D3	true	NEEDS_REVIEW		Cholecalciferol
+IMP-0414	CALUTIDE 50MG	Bicalutamide	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0431	CANRISE D3 6L INJ 1ML	Vitamin D	true	NEEDS_REVIEW		Vitamin D
+IMP-0432	CAPTOPRIL 25MG	Captopril 25Mg	true	PARTIALLY_VERIFIED	AUDIT missing_generic: generic repeats the product name | RESEARCH No verified manufacturer pack image found	
+IMP-0437	CAREFORCE 200	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-0438	CAREFORCE SUPER ACTIVE	Sildenafil + Dapoxetine	true	PARTIALLY_VERIFIED	Dosage form not stated in name	Dapoxetine
+IMP-0440	CARIDOLL 500MG	Carisoprodol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0441	CARIDOLL 750MG	Carisoprodol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0443	CARITAP 225MG	Carisoprodol+tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0444	CARITAP DS 450MG	Carisoprodol+tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0452	CARVENOL 25MG	Carvedilol	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -25	
+IMP-0457	CASTOR OIL		true	NEEDS_REVIEW	Supplier list gives no composition | Dosage form not stated in name | AUDIT missing_generic: generic column blank	
+IMP-0458	CAVERTA 100MG	Sildenafil Citrate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0459	CAVERTA 50MG	Sildenafil Citrate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0461	CB PLEX INJ 30ML	Vitamin B	true	NEEDS_REVIEW		Vitamin B
+IMP-0463	CD GLUCOSE MONITOR KIT		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-0465	CEFASIGN 500MG	Cefuroxime Axetil	true	PARTIALLY_VERIFIED	RESEARCH Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)	
+IMP-0478	CEFPOSIGN 200MG	Cefpodoxime Proxetil	true	PARTIALLY_VERIFIED	RESEARCH Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)	
+IMP-0483	CEFUBROOK 500MG	Cefuroxime Axetil	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as '500' in brand badge (no mg unit on front)	
+IMP-0489	CENFORCE 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0490	CENFORCE 120MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0491	CENFORCE 130MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0492	CENFORCE 150MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0493	CENFORCE 200MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0494	CENFORCE 25MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0495	CENFORCE 50MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0498	CENFORCE GOLD 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0500	CENFORCE SOFT 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0501	CENFORCE-D EXTRA POWER	Sildenafil + Depoxetine	true	PARTIALLY_VERIFIED	Dosage form not stated in name	Depoxetine
+IMP-0510	CEPODOL 200 TAB	Cefpodoxime Proxetil	true	PARTIALLY_VERIFIED	RESEARCH Pack says Dispersible Tablets; row name says only TAB | RESEARCH Strength shown only as '200' in brand badge (no mg unit on front)	
+IMP-0511	CEREBROLYSIN INJ	Cerebrolysin	true	NEEDS_REVIEW		Cerebrolysin
+IMP-0512	CEREVION TAB	Cerebroprotein Hydrolysate	true	NEEDS_REVIEW		Cerebroprotein Hydrolysate
+IMP-0513	CERNOS CAP	Testosterone Undercanoate	true	NEEDS_REVIEW		Testosterone Undercanoate
+IMP-0517	CETAPHIL MOIST CREAM 80GM		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-0519	CETCIP 10MG	Cetilistat	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: CETCIP 10MG listed CETILISTAT (60/120mg only); 10mg and CET- fit cetirizine	Cetilistat
+IMP-0520	CETIGAL 120MG	Citalopram	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: CETIGAL 120MG listed CITALOPRAM (max 40mg); 120MG fits cetilistat (cf. ORLIGAL/SLIMGAL 120MG orlistat)	
+IMP-0528	CHOCOLIS 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0531	CILNIHEAL 10MG	Cilnidipine	true	NEEDS_REVIEW		Cilnidipine
+IMP-0552	CIRZOLE 1MG	Anastrozole	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0553	CITACAN 20MG	Citalopram	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-0554	CITICOHEAL 500MG	Citicoline	true	NEEDS_REVIEW		Citicoline
+IMP-0555	CITISIGN 500MG	Citicoline	true	NEEDS_REVIEW	RESEARCH No verified manufacturer pack image found	Citicoline
+IMP-0556	CITISIGN P FORTE TAB	Citicoline + Piracetam	true	NEEDS_REVIEW	RESEARCH Image candidate rejected by QA: Brand CITISIGN P FORTE and tablet form match, but strength not visible (no mg on carton front; strip composition text unreadable). only 'Signature' logo visible; HAB name/logo not visible on pack | RESEARCH No verified manufacturer pack image found | RESEARCH Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)	Citicoline, Piracetam
+IMP-0559	CLARIFOD 500MG	Clarithromycin	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -500	
+IMP-0561	CLAVAM DROPS 10ML	Amoxycillin- + Clavulanic Acid	true	NEEDS_REVIEW		Amoxicillin, Clavulanate
+IMP-0566	CLENABOL 40MG	Clenbuterol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet | AUDIT strength_unit_suspect: 40MG clenbuterol — MCG expected	Clenbuterol
+IMP-0567	CLENASH 40MCG	Clenbuterol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Clenbuterol
+IMP-0568	CLENBIX 40MCG TAB.	Clenbuterol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Clenbuterol
+IMP-0569	CLENBIX 60MCG	Clenbuterol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Clenbuterol
+IMP-0570	CLENBUT 40MCG	Clenbuterol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Clenbuterol
+IMP-0571	CLENBUT 60MCG	Clenbuterol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Clenbuterol
+IMP-0572	CLENFIT 40MG	Clenbuterol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet | AUDIT strength_unit_suspect: 40MG clenbuterol — MCG expected	Clenbuterol
+IMP-0573	CLENFIT 60MG	Clenbuterol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet | AUDIT strength_unit_suspect: 60MG clenbuterol — MCG expected	Clenbuterol
+IMP-0574	CLENSIGN 40MG	Clenbuterol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet | AUDIT strength_unit_suspect: 40MG clenbuterol — MCG expected	Clenbuterol
+IMP-0580	CLINDANOL 300MG	Clindamycin	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://knollhealthcare.com/product/clindanol-300-cap-bl-2010/ | RESEARCH Strength shown only as brand suffix '300' (no mg on front panel)	
+IMP-0585	CLOBEHEAL GM DOUBLE CREAM	Clobetasol+ Gentamicin+Miconazole+Clotrimazole	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Strength not visible: pack shows Clobetasol, Gentamicin, Miconazole & Clotrimazole Cream 15g without ingredient strengths | RESEARCH No verified manufacturer pack image found	
+IMP-0610	CLOZOTIC EAR DROP	Neomycin Beclomethasone Clotrimazole Lignocaine Hcl	true	NEEDS_REVIEW		Neomycin Beclomethasone Clotrimazole Lignocaine
+IMP-0612	COBAFAST 2500MG INJ 1ML	Methylcobalamin	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 2500MG vitamin B12 — MCG expected	
+IMP-0614	COBRA 120MG	Sildenafil Citrate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0615	COBRA 200MG	Sildenafil Citrate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0618	COLOSIG 135MG	Mebeverine Hcl	true	NEEDS_REVIEW		Mebeverine
+IMP-0622	CONJUBROOK 0.625MG	Conjugated Estrogens	true	NEEDS_REVIEW		Conjugated Estrogens
+IMP-0628	COSART H TAB	Losartan	true	PARTIALLY_VERIFIED	AUDIT incomplete_generic: 'H' variant normally = + hydrochlorothiazide; generic lists LOSARTAN only	
+IMP-0635	COVILIFE NAC 600MG	N-Acetylcysteine	true	NEEDS_REVIEW		N-acetylcysteine
+IMP-0644	COZARTAN H TAB	Losartan Potassium Hcl	true	PARTIALLY_VERIFIED	AUDIT incomplete_generic: 'H' variant; generic 'LOSARTAN POTASSIUM hcl' — HCTZ probably intended | RESEARCH Image candidate rejected by QA: Brand and tablet form match, but no strength printed anywhere on the pack (strength not visible) | RESEARCH No verified manufacturer pack image found | RESEARCH Pack composition: Losartan Potassium & Hydrochlorothiazide; list says LOSARTAN POTASSIUM hcl	
+IMP-0645	CREAMAGEL 2%	Diltiazem	true	NEEDS_REVIEW		Diltiazem
+IMP-0649	CREON 10000MG CAP	Pancreatin	true	NEEDS_REVIEW		Pancreatin
+IMP-0653	CUTRA 150MG INJ 1ML	Cut Mix Coumpound	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Cut Mix Coumpound
+IMP-0663	CYCLODOM TAB	Paracetamol & Dicyclomine Hcl	true	NEEDS_REVIEW	RESEARCH Pack composition: Pantoprazole 40 mg + Domperidone 10 mg; list says PARACETAMOL & DICYCLOMINE HCL | IDENTITY CONFLICT: list says Paracetamol + Dicyclomine; HAB Pharmaceuticals catalogue entry and pack image say Pantoprazole 40 mg + Domperidone 10 mg (https://habpharma.com). Pharmacist must confirm which product the supplier stocks before the composition or image is used.	
+IMP-0666	CYCLONIL TAB	Dicyclomine+ Paracetamol	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Brand and tablet form match, but no strength visible on pack (strength not visible). | RESEARCH No verified manufacturer pack image found	
+IMP-0669	CYCLOXAN 50MG	Cyclophosphamide	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0670	CYFLOX 250MG	Ciprofloxacin Hydrocloride	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found	
+IMP-0671	CYFLOX 500MG	Ciprofloxacin Hydrocloride	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found	
+IMP-0672	CYFLOX EYE EAR DROP	Ciprofloxacin Hydrocloride	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Pack is clearly the Ciprofloxacin Eye/Ear Drops (10 ml carton + dropper bottle), NOT the 250/500 tablets, so brand and form match. Rejected per brief because strength not visible (no 0.3% shown on carton or readable on bottle). HAB name only partially/illegibly visible on bottle side label. | RESEARCH No verified manufacturer pack image found	
+IMP-0675	CYNOPIC FORTE 500MG INJ 30ML	Cyanocobalamine	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 500MG vitamin B12 — MCG expected	
+IMP-0676	CYPROHEPTADINE TAB	Cyproheptadine Tab	true	PARTIALLY_VERIFIED	AUDIT missing_generic: generic repeats the product name	
+IMP-0678	CYTOGARD MR 35MG	Trimetazidine	true	NEEDS_REVIEW		Trimetazidine
+IMP-0679	CYTOHEAL 200MG	Misoprostol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet | RESEARCH Image candidate rejected by QA: Strength mismatch: pack is 200 mcg, row name says 200MG. Brand/form match; misoprostol is marketed as 200 mcg so the list name is very likely a unit typo - fix the list to 200MCG and re-check. | RESEARCH No verified manufacturer pack image found | RESEARCH List name strength unit (200MG) disagrees with pack (200 mcg); likely list typo	
+IMP-0680	D 50MG		true	NEEDS_REVIEW	Supplier list gives no composition | Dosage form not stated in name; assumed tablet | AUDIT missing_generic: generic column blank	
+IMP-0683	DABINOL 150MG	Dabigatran Etexilate	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://knollhealthcare.com/product/dabinol-150-cap-alu-mono-10110/	
+IMP-0685	DAFLOHEAL 500MG	Micronized Purified Flavonoid Fraction	true	NEEDS_REVIEW		Micronized Purified Flavonoid Fraction
+IMP-0686	DAFLON 500MG	Diosmin+ Hesperidine	true	NEEDS_REVIEW		Diosmin, Hesperidine
+IMP-0690	DANABIX 10MG	Methandienone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Methandienone
+IMP-0691	DANABOL 10MG	Methandienone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Methandienone
+IMP-0692	DANARIX 10MG	Methandienone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Methandienone
+IMP-0701	DAPOFORCE 30MG	Dapoxitine	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Dapoxitine
+IMP-0702	DAPOFORCE 60MG	Dapoxitine	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Dapoxitine
+IMP-0703	DAPOFORCE 90MG	Dapoxitine	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Dapoxitine
+IMP-0704	DAPOTIME 60MG	Dapoxitine	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Dapoxitine
+IMP-0705	DARDFLAM TAB	Dardflam -Diclofenac Pot Paracetamol Serratiopeptidase	true	NEEDS_REVIEW		Dardflam Diclofenac Pot Paracetamol Serratiopeptidase
+IMP-0708	DASAMED 50	Dasatinib	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-0709	DASANAT 50MG	Dasatinib	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0710	DASATRUE 50MG	Dasatinib	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0712	DDR 60MG	Dasatinib	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0713	DECA 250MG INJ 10ML	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-0714	DECA DURABOLIN 100MG INJ 1ML	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-0715	DECA DURABOLIN 50MG INJ 1ML	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-0716	DECA INSTABOLIN 100MG INJ 1ML	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-0717	DECA INSTABOLIN 50MG	Nandrolone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Nandrolone
+IMP-0718	DECABIX 250MG 10ML	Nandrolone Decanoate	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Nandrolone Decanoate
+IMP-0719	DECABIX-MAXX 10ML	Nandrolone Decanoate	true	NEEDS_REVIEW	Dosage form not stated in name	Nandrolone Decanoate
+IMP-0720	DECABIX-MAXX INJ 1ml	Nandrolone Decanoate	true	NEEDS_REVIEW		Nandrolone Decanoate
+IMP-0721	DECABOL 200MG INJ 1ML	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-0722	DECABOL 250MG INJ 10ML	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-0723	DECABOL 250MG INJ 1ML	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-0724	DECADURABOLIN 100MG INJ	Nandrolone Decanoate	true	NEEDS_REVIEW		Nandrolone Decanoate
+IMP-0725	DECADURABOLIN 25MG INJ	Nandrolone Decanoate	true	NEEDS_REVIEW		Nandrolone Decanoate
+IMP-0726	DECAMAXX 400MG INJ 1ML	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-0727	DECARIX INJ 1ML	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-0728	DECMAX 4MG	Nandrolone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | AUDIT suspected_wrong_generic: suspected: DECMAX 8MG (sr 729) is DEXAMETHASONE and 4MG is a dexamethasone strength; nandrolone is never a 4mg tablet. Listed NANDROLONE	Nandrolone
+IMP-0731	DEFLASIGN 6MG	Deflazacort	true	PARTIALLY_VERIFIED	RESEARCH Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)	
+IMP-0732	DEMELAN CREAM 20GM	Kojic Acid + Arbutamine+ Glycolic Acid	true	NEEDS_REVIEW		Kojic Acid, Arbutamine, Glycolic Acid
+IMP-0751	DHRUBH 150MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0752	DIANABOL TAB	Metandienone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Metandienone
+IMP-0753	DICHRYSTICIN DS INJ VET	Strepto Penicillin	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy	Strepto Penicillin
+IMP-0755	DICLOCAN AQ INJ	Diclofenac Sodium	true	NEEDS_REVIEW		Diclofenac
+IMP-0756	DICLOCAN AQ INJ 1ML	Diclofenac Sodium	true	NEEDS_REVIEW		Diclofenac
+IMP-0759	DICLOLAB INJ 1ML	Diclofenac Gel	true	NEEDS_REVIEW	AUDIT form_generic_conflict: INJECTION but generic says 'DICLOFENAC GEL' | AUDIT suspected_wrong_generic: suspected: injection listed as 'DICLOFENAC GEL' — form contradiction; probably diclofenac sodium injection	Diclofenac
+IMP-0760	DICLOLAB PLUS TAB	Diclofenac Gel	true	NEEDS_REVIEW	AUDIT form_generic_conflict: TABLET but generic says 'DICLOFENAC GEL' | AUDIT suspected_wrong_generic: suspected: tablet listed as 'DICLOFENAC GEL'; PLUS usually = diclofenac + paracetamol; true composition unknown	
+IMP-0768	DINOGEST TAB	Dienoestrol	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: DINOGEST = dienogest (cf. TELAGEST 2MG sr 2765); listed DIENOESTROL is a different molecule	Dienoestrol
+IMP-0769	DINOST GEL 3GM	Dinoprostone	true	NEEDS_REVIEW		Dinoprostone
+IMP-0771	DIOVAAL H TAB	Valsartan	true	PARTIALLY_VERIFIED	AUDIT incomplete_generic: 'H' variant normally = + hydrochlorothiazide; generic lists VALSARTAN only	
+IMP-0772	DISPO SYRING 5ML	Syringe	true	NEEDS_REVIEW		
+IMP-0773	DISPOVAN SYRINGE 1ML	Syringe	true	NEEDS_REVIEW		
+IMP-0774	DISPOVAN SYRINGE 2.5ML	Syringe	true	NEEDS_REVIEW		
+IMP-0775	DISPOVAN SYRINGE 2ML	Syringe	true	NEEDS_REVIEW		
+IMP-0776	DISPOVAN SYRINGE 5ML	Syringe	true	NEEDS_REVIEW		
+IMP-0782	DOBESIL 500 CAP	Calcium Dobesilate	true	NEEDS_REVIEW		Dobesilate
+IMP-0784	DOMIPEN 10MG	Domperidone	true	NEEDS_REVIEW		Domperidone
+IMP-0793	DOSTIHEAL 0.25MG	Cabergoline	true	PARTIALLY_VERIFIED	RESEARCH Carton generic line typeset as '0.2 5mg' (spacing artefact); brand line and blister read 0.25 mg	
+IMP-0795	DOSTRABIX INJ 1ML	Drostanolone Propionate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Drostanolone
+IMP-0805	DR.ODIN ALCHOL PREP PADS	70% Isopropyl Alcohol	true	NEEDS_REVIEW		
+IMP-0806	DROJUST-80MG TAB	Drotaverine Hydrochloride	true	NEEDS_REVIEW		Drotaverine
+IMP-0807	DROSREL 100MG INJ 1ML	Drostanolone Propionate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Drostanolone
+IMP-0808	DROSREL VIAL. 10ML	Drostanolone Propionate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Drostanolone
+IMP-0809	DROSTABIX 100MG 10ML	Drostanolone Propionate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Drostanolone
+IMP-0810	DROSTAWIN 100MG 10ML	Drostanolone Propionate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Drostanolone
+IMP-0811	DROSTAWIN INJ 1ML	Drostanolone Propionate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Drostanolone
+IMP-0822	DURADEC 100MG INJ	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-0823	DURADEC-100MG INJ 100MG	Nandrolone Decanoate	true	NEEDS_REVIEW		Nandrolone Decanoate
+IMP-0824	DURALAST 30MG	Dapoxetine	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Dapoxetine
+IMP-0825	DURASHER 30MG	Dapoxetine Hcl	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Dapoxetine
+IMP-0826	DURASHER 60MG	Dapoxetine Hcl	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Dapoxetine
+IMP-0827	DURATIA 30MG	Dapoxetine Hcl	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Dapoxetine
+IMP-0828	DURATIA 60MG	Dapoxetine Hcl	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Dapoxetine
+IMP-0829	DURATIA 90MG	Dapoxetine Hcl	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Dapoxetine
+IMP-0830	DUTAFOX 0.5MG	Dutasteride	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://www.americanremedies.in/product/dutafox-0-5-capsules/	
+IMP-0832	DUTANOL 0.5MG	Dutasteride	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -0.5	
+IMP-0838	DYRONIB 50MG	Dasatinib	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0839	E VITAMIN 400MG	Vitamin E	true	NEEDS_REVIEW		Vitamin E
+IMP-0840	EAZYPET MELTAB TAB	Praziquantel+ Pyrantel + Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy	
+IMP-0841	ECONORM CAP	Saccharomyces Boulardii	true	NEEDS_REVIEW		Saccharomyces Boulardii
+IMP-0847	ED TRIAL PACK		true	NEEDS_REVIEW	Supplier list gives no composition | Dosage form not stated in name | AUDIT missing_generic: generic column blank	
+IMP-0848	EFLORA CREAM 15GM	Eflornithine	true	NEEDS_REVIEW		Eflornithine
+IMP-0851	ELBION INJ	Methylcobalamin Vitamin B12	true	NEEDS_REVIEW		Methylcobalamin Vitamin B12
+IMP-0852	ELDERVIT 12INJ 2ML	Methylcobalamin	true	NEEDS_REVIEW		Cyanocobalamin
+IMP-0854	ELEFTHA 150MG INJ	Trastuzumab Lyophilized	true	NEEDS_REVIEW		Trastuzumab Lyophilized
+IMP-0872	ELTROXIN 100MG	Thyroxine	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 100MG for a thyroid hormone — almost certainly MCG	
+IMP-0877	ELYN CREAM	Eflornithine Hcl	true	NEEDS_REVIEW		Eflornithine
+IMP-0882	EN CLOFERT 50MG	Enclomiphene	true	NEEDS_REVIEW		Enclomiphene
+IMP-0884	ENCLOMISIGN 50MG	Enclomiphene	true	NEEDS_REVIEW		Enclomiphene
+IMP-0895	ES MATINIB 400MG	Imatinib Mesylate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0897	ESETALO 10MG	Escitalopram	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -10	
+IMP-0904	ESTRAHEAL 2MG	Estradiol	true	PARTIALLY_VERIFIED	RESEARCH Pack composition: Estradiol Valerate 2mg; list says ESTRADIOL	
+IMP-0908	ESZOP 1MG	Eszopiclone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0909	ESZOP 2MG	Eszopiclone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0910	ESZOP 3MG	Eszopiclone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0911	ESZOPIMAXX 6MG	Eszopiclone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0912	ESZOPINAP 3MG	Eszopiclone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0913	ETADOL 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0916	ETORIZOX 60MG	Etoricoxib	true	NEEDS_REVIEW		Etoricoxib
+IMP-0917	ETORIZOX 90MG	Etoricoxib	true	NEEDS_REVIEW		Etoricoxib
+IMP-0918	ETOSHINE 90MG	Etoricoxib	true	NEEDS_REVIEW		Etoricoxib
+IMP-0922	EUTHYROX 100MG	Levothyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 100MG for a thyroid hormone — almost certainly MCG	
+IMP-0924	EUTHYROX 25MG	Levothyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 25MG for a thyroid hormone — almost certainly MCG	
+IMP-0926	EUTHYROX 75MG	Levothyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 75MG for a thyroid hormone — almost certainly MCG	
+IMP-0927	EUTHYROX 88MG	Levothyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 88MG for a thyroid hormone — almost certainly MCG	
+IMP-0928	EUTRIG HP 10000IU INJ	Chorionic Gonadotrophin	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-0929	EUTRIG HP 5000IU INJ	Chorionic Gonadotrophin	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-0931	EUVIFOL-HP 150IU	Urofollitropin (150iu)	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Urofollitropin
+IMP-0935	EVIN 400MG SOFTGEL	Vitamin E	true	NEEDS_REVIEW		Vitamin E
+IMP-0936	EVION 600MG	Vitamin E	true	NEEDS_REVIEW		Vitamin E
+IMP-0938	EXESIN 25MG	Exemestane	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0945	EXTRA SUPER I COT	Tadalafil + Dapoxetine	true	PARTIALLY_VERIFIED	Dosage form not stated in name	Dapoxetine
+IMP-0951	EXTREME LEVIFIL SUPER POWER	Vardenafil + Dapoxetine	true	PARTIALLY_VERIFIED	Dosage form not stated in name	Dapoxetine
+IMP-0953	EXTREME VEGAFORCE 250MG	Vardenafil + Dapoxetine	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	Dapoxetine
+IMP-0956	FABISPRAY	Fabispray	true	NEEDS_REVIEW	AUDIT missing_generic: generic column repeats the brand name 'FABISPRAY'	Fabispray
+IMP-0957	FABKURE 150MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0958	FACE MASK	Face Mask	true	NEEDS_REVIEW	AUDIT missing_generic: generic repeats the product name	
+IMP-0960	FALCIART 60MG INJ	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-0961	FALCIGO 60MG INJ	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-0965	FAMONEXT 40MG	Famotidine	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [966]	
+IMP-0966	FAMONEXT 40MG	Famotidine	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [965]	
+IMP-0969	F-BENZ 222MG TAB	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy	
+IMP-0970	F-BENZ 444MG TAB	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy	
+IMP-0971	F-BENZ 500MG TAB	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy	
+IMP-0976	FEBENTEL 1000MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0977	FEBENTEL 150MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0978	FEBENTEL 222MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0979	FEBENTEL 444MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0980	FEBENTEL 500MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0984	FEMAFORD 2.5MG	Letrozole	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0985	FEMALEGRA 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0986	FEMPRO 2.5MG	Letrozole	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-0987	FENBENDAZOLE 150MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0988	FENFORCE 222MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0989	FENFORCE 444MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0990	FENFORCE 500MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0993	FENSAFE 222MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0994	FENSAFE 500MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0996	FENZE 1000MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0997	FENZE 222MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0998	FENZE 444MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-0999	FENZE 500MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-1000	FENZE 888MG TAB.	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy	
+IMP-1001	FERAVIR 200MG	Favipiravir	true	NEEDS_REVIEW		Favipiravir
+IMP-1002	FEROHEAL XT TAB	Ferrous Ascorbate+Folic Acid	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Brand, XT variant and tablet form match, but no strength printed anywhere on the pack (strength not visible) | RESEARCH No verified manufacturer pack image found	Ferrous Ascorbate
+IMP-1004	FERTIGYN HP 100000 INJ	Human Chorionic Gonadotrophin	true	NEEDS_REVIEW	AUDIT strength_unit_suspect: '100000' IU hCG — probably 10000 IU (cf. sr 1005/1006)	Human Chorionic Gonadotrophin
+IMP-1005	FERTIGYN HP 2000 INJ	Human Chorionic Gonadotrophin	true	NEEDS_REVIEW		Human Chorionic Gonadotrophin
+IMP-1006	FERTIGYN HP 5000 INJ	Human Chorionic Gonadotrophin	true	NEEDS_REVIEW		Human Chorionic Gonadotrophin
+IMP-1013	FHENA 150MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-1014	FHENA BOLUS 3GM	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name	
+IMP-1015	FILAGRA SHOT GEL	Sildenafil	true	NEEDS_REVIEW		Sildenafil
+IMP-1016	FILDENA 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1017	FILDENA 150MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1018	FILDENA 200MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1019	FILDENA 50MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1020	FILDENA CT 100MG	Sildenafil Citrate Sublingual	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1021	FILDENA CT 50MG	Sildenafil Citrate Sublingual	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1022	FILDENA DOUBLE 200MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1023	FILDENA EXTRA POWER 150MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1024	FILDENA PROFESSIONAL	Sildenafil Citrate Sublingual	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-1026	FILDENA STRONG 120MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1028	FILDENA XXX 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1029	FILITRA 40MG	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1044	FINOBRATE 145	Fenofibrate	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -145	
+IMP-1045	FINOBRATE 160MG	Fenofibrate	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -160	
+IMP-1050	FIROTAIL 227MG	Firocoxib	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Firocoxib
+IMP-1053	FLAVEHEAL MR 35 TAB	Trimetazidine	true	NEEDS_REVIEW		Trimetazidine
+IMP-1054	FLAVEHEAL OD 80 TAB	Trimetazidine	true	NEEDS_REVIEW	RESEARCH Image candidate rejected by QA: Dosage form mismatch: pack is capsules, row name says TAB. Brand and 80 mg match. | RESEARCH No verified manufacturer pack image found	Trimetazidine
+IMP-1063	FLIBAN 100MG	Flibanserin	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1068	FLOSOOTH AZ DUO	Azelastine Hcland Fluticasone Propi	true	NEEDS_REVIEW		Azelastine Hcland Fluticasone Propi
+IMP-1084	FLUOXYBIX 5MG	Fluoxymesterone	false	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Fluoxymesterone
+IMP-1085	FLUOXYBOL 5MG	Fluoxymesterone	false	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Fluoxymesterone
+IMP-1086	FLUPICARE 100MG	Flupirtine	true	NEEDS_REVIEW		Flupirtine
+IMP-1087	FLUPICARE 400MG SR	Flupirtine	true	NEEDS_REVIEW		Flupirtine
+IMP-1092	FLUTIHEAL AZ NASAL SPRAY 7ML	Fluoxetine	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: confirmed wrong: Healing Pharma lists Flutiheal AZ Nasal Spray (SKU HP0239) in category 'Anti Allergic' — not fluoxetine (an oral SSRI, no nasal form). Official page does not state the composition; probably azelastine + fluticasone (cf. FLOSOOTH AZ sr 1068) = suspected (https://www.healingpharma.in/product/flutiheal-az-nasal-spray/)	
+IMP-1095	FLUXICAN 10MG	Fluoxetine	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://www.americanremedies.in/product/fluxican-10-capsules/ | AMBIGUOUS MANUFACTURER: brand listed by both Healing Pharma and American Remedies	
+IMP-1096	FLUXICAN 20MG	Fluoxetine	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://www.americanremedies.in/product/fluxican-20-capsules/ | AMBIGUOUS MANUFACTURER: brand listed by both Healing Pharma and American Remedies	
+IMP-1097	FLUXICAN 60MG	Fluoxetine	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://www.americanremedies.in/product/fluxican-60-capsules/ | AMBIGUOUS MANUFACTURER: brand listed by both Healing Pharma and American Remedies	
+IMP-1100	FOLLIHAIR NEW TAB	Vitamin Minerals Amino Acid Grapes Seed	true	NEEDS_REVIEW		Vitamin Minerals Amino Acid Grapes Seed
+IMP-1101	FOLLIKESH NEW TAB	Vitamin Minerals Amino Acid Grapes Seed	true	NEEDS_REVIEW		Vitamin Minerals Amino Acid Grapes Seed
+IMP-1103	FORACORT 100MG INHR 120MD	Budesonide + Formoterol	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 100MG for an inhaled product — MCG expected	
+IMP-1104	FORACORT 200MG INHR 120MD	Budesonide + Formoterol	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 200MG for an inhaled product — MCG expected	
+IMP-1105	FORACORT 400MG INHALER 120MD	Budesonide + Formoterol	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 400MG for an inhaled product — MCG expected	
+IMP-1107	FORMONIDE 200MG INHALER	Budesonide + Formoterol	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 200MG for an inhaled product — MCG expected	
+IMP-1113	FRASIX 100 MG	Frusemide	true	PARTIALLY_VERIFIED	RESEARCH Brand spelled FRASIX on pack and list; list generic FRUSEMIDE = Furosemide	
+IMP-1114	FRASIX 40MG	Frusemide	true	PARTIALLY_VERIFIED	AMBIGUOUS MANUFACTURER: brand listed by both Healing Pharma and American Remedies	
+IMP-1120	FUCIDIN CREAM	Fusidic Acid	true	NEEDS_REVIEW		Fusidic Acid
+IMP-1121	FUCIDIN CREAM 5GM	Fusidic Acid	true	NEEDS_REVIEW		Fusidic Acid
+IMP-1125	FUSIGEN OINT 10GM	Sodium Fusidate	true	NEEDS_REVIEW		Fusidate
+IMP-1133	GABASIGN 400MG	Gabapentin	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found	
+IMP-1146	GENOTROPIN 36IU 12MG	Human Growth Hormone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1151	GENTALAB 2 ML	Gentamicin Sulphate	false	PARTIALLY_VERIFIED	Price ₹46935 looks like a typo (GENTALAB INJ 30ML is ₹35); inactive until the price is confirmed | Dosage form not stated in name | AUDIT price_outlier: GENTALAB 2 ML at Rs 46935 vs other gentamicin injections/drops Rs 8-35 (cf. GENTALAB INJ 30ML sr 1152 = Rs 35) — almost certainly a data-entry error	
+IMP-1161	GINETTE 35 TAB	Cyproterone + Ethinylestradiol	true	NEEDS_REVIEW		Cyproterone, Ethinyl Estradiol
+IMP-1162	GLI 40MG	Gliclazide	true	NEEDS_REVIEW		Gliclazide
+IMP-1169	GLUMIT 1200MG INJ	Glutathione	true	NEEDS_REVIEW		Glutathione
+IMP-1171	GLUTACAN INJ	Glutathione	true	NEEDS_REVIEW	RESEARCH Pack composition: Glutathione for Injection 600 mg + Vitamin C Injection IP (combipack); list says GLUTATHIONE	Glutathione
+IMP-1173	GLUTADEE 1200MG INJ	Glutathione	true	NEEDS_REVIEW		Glutathione
+IMP-1174	GLUTAENORM 1200MG INJ	Glutathione	true	NEEDS_REVIEW		Glutathione
+IMP-1175	GLUTAENORM 600MG INJ	Glutathione	true	NEEDS_REVIEW		Glutathione
+IMP-1177	GLUTIMAX 600MG INJ	Glutathione	true	NEEDS_REVIEW		Glutathione
+IMP-1180	GLYCITOP MR 60MG	Gliclazide	true	NEEDS_REVIEW		Gliclazide
+IMP-1191	GONAFIX 5000IU INJ	Chorionic Gonadotrophin	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-1192	GONAL F 300MG INJ	Folicle Stimulating Hormone	true	NEEDS_REVIEW	AUDIT strength_unit_suspect: 300MG gonadotrophin — IU expected	Folicle Stimulating Hormone
+IMP-1193	GONAMEND 75IU	Menotropin	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Menotropin
+IMP-1194	GONIN HCG 5000IU INJ	Chorionic Gonadotrophin	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-1195	GONNAPRO 25MG	Mesterolone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Mesterolone
+IMP-1196	GONNAPRO FM 5MG	Fluoxymesterone	false	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Fluoxymesterone
+IMP-1203	HALLENS SUPPO (ADULT) 3GM	Adult Glycerin Suppositories	true	NEEDS_REVIEW		Adult Glycerin Suppositories
+IMP-1208	HCGCAN 10000IU INJ	Chorionic Gonadotrophin	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-1209	HCGCAN 5000IU INJ	Chorionic Gonadotrophin	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-1213	HCQS 300MG	Hydroxychloroquine	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [1214]	
+IMP-1214	HCQS 300MG	Hydroxychloroquine	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [1213]	
+IMP-1224	HEALCLAV LB 625MG	Amoxycillin & Potassium Clavulanate	true	PARTIALLY_VERIFIED	RESEARCH Pack composition: Amoxycillin, Potassium Clavulanate and Lactic Acid Bacillus; list says AMOXYCILLIN & POTASSIUM CLAVULANATE (LAB not listed)	
+IMP-1227	HEALTROXIN 100MG	Thyroxine	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 100MG for a thyroid hormone — almost certainly MCG | AUDIT strength_unit_suspect: confirmed: Healing Pharma lists Healtroxin in mcg (12.5-150mcg); source says MG (https://www.healingpharma.in/)	
+IMP-1228	HEALTROXIN 12.5MG	Thyroxine	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 12.5MG for a thyroid hormone — almost certainly MCG	
+IMP-1229	HEALTROXIN 25MG	Thyroxine	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 25MG for a thyroid hormone — almost certainly MCG	
+IMP-1230	HEALTROXIN 50MG	Thyroxine	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 50MG for a thyroid hormone — almost certainly MCG	
+IMP-1231	HEALTROXIN 75MG	Thyroxine	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 75MG for a thyroid hormone — almost certainly MCG	
+IMP-1232	HEALVITAL CAP	Multivitamin & Multiminerals	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Brand and capsule form match, but strength not visible (no strength/composition amounts on pack). Rejected per brief rule; lead may override since a multivitamin has no single strength. | RESEARCH No verified manufacturer pack image found | RESEARCH Pack composition: Ginseng, Multivitamin & Multimineral; list says MULTIVITAMIN  & MULTIMINERALS	Multiminerals
+IMP-1237	HERTAB 250MG	Lapatinib	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1239	HETRAZAN TAB	Diethylcarbamazine	true	NEEDS_REVIEW		Diethylcarbamazine
+IMP-1242	HICK BAND GARD		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-1243	HICKSCREPE 8CM		true	NEEDS_REVIEW	Supplier list gives no composition | Dosage form not stated in name | AUDIT missing_generic: generic column blank	
+IMP-1245	HIFORCE 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1247	HIFORCE 200MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1251	HIMCOLIN OINT 30GM	Himalaya	true	NEEDS_REVIEW	AUDIT missing_generic: generic column holds manufacturer 'HIMALAYA', not ingredients	
+IMP-1258	HITEK INJ VET	Ivermectin Injection	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy	Ivermectin
+IMP-1259	HITIN-16	Betahistine	true	NEEDS_REVIEW		Betahistine
+IMP-1261	HOPEANA 1MG	Anastrozole	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1262	HPDOL 5MG	Haloperidol	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-1271	HUCOG HP 10000IU INJ	Chorionic Gonadotrophin	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-1272	HUCOG HP 2000 INJ	Chorionic Gonadotrophin	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-1273	HUCOG HP 5000IU INJ	Chorionic Gonadotrophin	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-1274	HUMA PEN ERGO II		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-1276	HUMALOG 100IU CART LISPRO 3ML	Chorionic Gonadotrophin	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | AUDIT suspected_wrong_generic: confirmed: Humalog is insulin lispro (Eli Lilly label); the name itself says LISPRO. Listed generic CHORIONIC GONADOTROPHIN is wrong (https://uspl.lilly.com/humalog/humalog.html)	Chorionic Gonadotrophin
+IMP-1283	HYDRONOL 25MG	Hydrochlorothiazide	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -25	
+IMP-1290	HYPLON 10MG	Zaleplon	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1291	HYPNITE 1MG	Eszopiclone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1292	HYPNITE 2MG	Eszopiclone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1293	HYPNITE 3MG	Eszopiclone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1298	I.V. SET ROMSONS		true	NEEDS_REVIEW	Supplier list gives no composition | Dosage form not stated in name | AUDIT missing_generic: generic column blank	
+IMP-1301	IBUPROFEN 400MG	Ibuprofen And Paracetamol	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: generic-named product IBUPROFEN 400MG listed as IBUPROFEN AND PARACETAMOL	
+IMP-1303	IMEGLYN 500MG	Imeglimin	true	NEEDS_REVIEW		Imeglimin
+IMP-1304	IMEGLYN-500 TAB	Imeglimin	true	NEEDS_REVIEW		Imeglimin
+IMP-1316	INDOSTAR-75MG TAB	Indomethacin	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -75	
+IMP-1319	INTAGESIC AMP PAINLESS	Diclofenac	true	NEEDS_REVIEW		Diclofenac
+IMP-1321	INTALON ANTISEPTIC LIQ 100ML		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-1335	ISTAVEL 50/1000MG	Sitagliptin	true	PARTIALLY_VERIFIED	AUDIT incomplete_generic: 50/1000MG = sitagliptin + metformin; generic lists SITAGLIPTIN only	
+IMP-1338	ITRASPORAX 100MG	Itraconazole	true	PARTIALLY_VERIFIED	RESEARCH Brand spelling: list says ITRASPORAX, pack reads ITRASPOROX	
+IMP-1340	ITROSTRED GEL 15GM	Itraconazole	true	NEEDS_REVIEW		Itraconazole
+IMP-1341	ITROTAB 100MG	Itraconazole	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://www.americanremedies.in/product/itrotab-100/	
+IMP-1342	ITROTAB 200MG	Itraconazole	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://www.americanremedies.in/product/itrotab-200/	
+IMP-1366	IVERHEAL 3MG	Ivermectin	true	PARTIALLY_VERIFIED	RESEARCH Pack says Dispersible Tablets (spelled 'Dispersibile'); row name does not specify DT	
+IMP-1387	IVF HMG 75MG	Menotropin	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | AUDIT strength_unit_suspect: 75MG gonadotrophin — IU expected	Menotropin
+IMP-1391	JANUMET 50/1000MG	Sitagliptin Phosphate Andmetformin Hydrochloride 50/500 Mg	true	PARTIALLY_VERIFIED	AUDIT strength_mismatch: name says 50/1000MG but generic text says '50/500 MG'	
+IMP-1397	JARDIANCE MET 12.5/1000MG	Empagliflozin Metformin	true	NEEDS_REVIEW		Empagliflozin Metformin
+IMP-1398	JARDIANCE MET 12.5/500MG	Empagliflozin Metformin	true	NEEDS_REVIEW		Empagliflozin Metformin
+IMP-1401	JGLUT 1200MG INJ	Glutathione	true	NEEDS_REVIEW		Glutathione
+IMP-1404	JOHNCLAV 1000MG DUO	Amoxycillin	true	PARTIALLY_VERIFIED	AUDIT incomplete_generic: CLAV 1000MG DUO = amoxicillin + clavulanate; generic lists AMOXYCILLIN only	
+IMP-1411	JUVFEN 50MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-1412	JUVMOD 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1414	K COR 10MG	Nicorandil	true	NEEDS_REVIEW		Nicorandil
+IMP-1416	KAMAGRA 100MG EXPORT	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1417	KAMAGRA CHEWABLE 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1419	KAMAGRA EFFERVESCENT 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1421	KAMAGRA GOLD 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1422	KAMAGRA GOLD 50MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1426	KAMAGRA POLO	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-1427	KAMAGRA POLO 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1428	KAMAGRA POLO 100MG(STR/LIM)	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1429	KAMAGRA POLO PIN/MINT	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-1430	KAMAJOY 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1431	KAMAJOY 200MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1436	K-DOC 200MG		true	NEEDS_REVIEW	Supplier list gives no composition | Dosage form not stated in name; assumed tablet | AUDIT missing_generic: generic column blank	
+IMP-1437	KEMNICOL 500MG	Chloramphenicol	true	NEEDS_REVIEW		Chloramphenicol
+IMP-1438	KENACORT 0.1% ORAL PASTE	Triamcinolone	true	NEEDS_REVIEW		Triamcinolone
+IMP-1441	KENACORT 40MG INJ 1ML	Triamcinolone	true	NEEDS_REVIEW		Triamcinolone
+IMP-1442	KENACORT 4MG	Triamcinolone	true	NEEDS_REVIEW		Triamcinolone
+IMP-1445	KETASMA TAB	Ketotifen Fumarate	true	NEEDS_REVIEW		Ketotifen
+IMP-1446	KETOCHLOR SHAMPOO VET 200ML	Ketoconazole & Chlorhexidine	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy	
+IMP-1460	KLENSMART 40MG	Clenbuterol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet | AUDIT strength_unit_suspect: 40MG clenbuterol — MCG expected	Clenbuterol
+IMP-1461	KLENSMART 60MG	Clenbuterol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet | AUDIT strength_unit_suspect: 60MG clenbuterol — MCG expected	Clenbuterol
+IMP-1462	KOJIC CREAM 25GM	Skin Lightening Cream	true	NEEDS_REVIEW		Skin Lightening
+IMP-1465	KOMEC ORAL PASTE	Ivermectin	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name	
+IMP-1471	KRRISTA POWER	Vardenafil & Dapxetine	true	PARTIALLY_VERIFIED	Dosage form not stated in name	Dapxetine
+IMP-1472	KRYXANA 200MG	Ribociclib	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1475	L CARNIBOL INJ 5ML	L-Carnitine	true	NEEDS_REVIEW		L-carnitine
+IMP-1484	LADYGRA 100MG	Sildenafil Citrate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1487	LAMIFIL TAB	Terbinafine	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found	
+IMP-1494	LAMOTRIG 100MG DT	Lamotrigine	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-1499	LANTUS SOLOSTAR INJ 3ML	Insulin Glargin	true	NEEDS_REVIEW		Insulin Glargin
+IMP-1508	L-CARNIBOL TAB	L Carnitine	true	NEEDS_REVIEW		L Carnitine
+IMP-1509	LDN 1.5MG	Naltrexone	true	PARTIALLY_VERIFIED	RESEARCH No Healing Pharma logo visible on the carton front (manufacturer taken from catalogue source)	
+IMP-1510	LDN 3MG	Naltrexone	true	PARTIALLY_VERIFIED	RESEARCH Healing Pharma logo not visible on this render; manufacturer confirmed via catalogue listing	
+IMP-1517	LENALID 5MG	Lenalidomide	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1518	LENANGIO 10MG	Lenalidomide	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1522	LENVAT 10MG	Lenvatinib	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1523	LETHYROX 100MG	Levothyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 100MG for a thyroid hormone — almost certainly MCG	
+IMP-1524	LETHYROX 125MG	Levothyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 125MG for a thyroid hormone — almost certainly MCG	
+IMP-1525	LETHYROX 150MG	Levothyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 150MG for a thyroid hormone — almost certainly MCG	
+IMP-1526	LETHYROX 25MG	Levothyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [1527] | AUDIT strength_unit_suspect: 25MG for a thyroid hormone — almost certainly MCG	
+IMP-1527	LETHYROX 25MG	Levothyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [1526] | AUDIT strength_unit_suspect: 25MG for a thyroid hormone — almost certainly MCG	
+IMP-1528	LETHYROX 50MG	Levothyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 50MG for a thyroid hormone — almost certainly MCG	
+IMP-1529	LETHYROX 75MG	Levothyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 75MG for a thyroid hormone — almost certainly MCG	
+IMP-1530	LETHYROX 88MG	Levothyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 88MG for a thyroid hormone — almost certainly MCG	
+IMP-1531	LETHYROX-125MG	Levothyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 125MG for a thyroid hormone — almost certainly MCG	
+IMP-1532	LETROHEAL 2.5MG	Letrozole	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1533	LETRONOL 2.5MG	Letrozole	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1534	LEUCORIN 15MG	Leuprolide Acetate	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | AUDIT suspected_wrong_generic: suspected: LEUCORIN 15MG at Rs 17 listed LEUPROLIDE ACETATE (depot injection only); 15mg tablet fits leucovorin (folinic acid)	Leuprolide
+IMP-1535	LEUPRO Q 11.25MG	Leuprolide Acetate	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Leuprolide
+IMP-1536	LEVERATAM 750MG	Levocetirizine	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: 750MG is a levetiracetam strength (levocetirizine is 5mg); listed LEVOCETIRIZINE	
+IMP-1561	LINORMA T3 20MG	Liothyronine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 20MG for a thyroid hormone — almost certainly MCG	
+IMP-1568	LIPVAS 10MG	Atorvastatin	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [1569]	
+IMP-1569	LIPVAS 10MG	Atorvastatin	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [1568]	
+IMP-1573	LIRCETAM TAB	Livetiracetam	true	PARTIALLY_VERIFIED	AUDIT db_mismatch: name DB 'LIRCETAM TAB' vs source 'LIRCETAM  TAB'	
+IMP-1576	LIV 52 DS TAB	Himalaya	true	NEEDS_REVIEW	AUDIT missing_generic: generic column holds manufacturer 'HIMALAYA', not ingredients	
+IMP-1577	LIV 52 TAB	Himalaya	true	NEEDS_REVIEW	AUDIT missing_generic: generic column holds manufacturer 'HIMALAYA', not ingredients	
+IMP-1578	LIVAFIN CREAM 10GM	Amorolfine	true	NEEDS_REVIEW		Amorolfine
+IMP-1579	LIVERHEAL 52		true	NEEDS_REVIEW	Supplier list gives no composition | Dosage form not stated in name | AUDIT missing_generic: generic column blank	
+IMP-1582	LOBG 0.5MG	Lobeglitazone	true	NEEDS_REVIEW		Lobeglitazone
+IMP-1583	LOBIZONE 0.5MG	Lobeglitazone	true	NEEDS_REVIEW		Lobeglitazone
+IMP-1600	LOVEGRA 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1614	L-RG9 TAB		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-1615	LUBIC JELLY	Lubricating Jelly	true	NEEDS_REVIEW		Lubricating Jelly
+IMP-1616	LULICONAZ CREAM 20GM	Luliconazole	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Brand, cream form and 20 g pack size match, but no drug concentration (e.g. 1% w/w) is shown anywhere on tube or carton - strength not visible. Rejected per brief rule; lead may override since the row name gives only pack size (20GM), which matches. | RESEARCH No verified manufacturer pack image found	
+IMP-1619	LUPI FSH 75 AMP	Urofollitropin	true	NEEDS_REVIEW		Urofollitropin
+IMP-1620	LUPI HCG 10000IU INJ	Chorionic Gonadotrophin	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-1621	LUPI HCG 2000 AMP	Chorionic Gonadotrophin	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-1622	LUPI HCG 5000IU INJ	Chorionic Gonadotrophin	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-1623	LUPI HMG 150 AMPS	Menotrophin	true	NEEDS_REVIEW		Menotrophin
+IMP-1624	LUPI HMG 75 AMP	Menotrophin	true	NEEDS_REVIEW		Menotrophin
+IMP-1626	LUPIHALER TAB		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-1628	LUPIRTIN CAP	Flupirtine	true	NEEDS_REVIEW		Flupirtine
+IMP-1631	LUPORAL CAP	Tegafur & Uracil	true	NEEDS_REVIEW		Tegafur, Uracil
+IMP-1639	MACPLATIN TAB	Cyproheptadine	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: MACPLATIN name suggests a platinum drug (carboplatin brand name); listed CYPROHEPTADINE; true composition unknown	
+IMP-1643	MALEGRA 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1644	MALEGRA 100MG EFFERVESCENT	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1645	MALEGRA 200MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1646	MALEGRA 25MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1647	MALEGRA 50MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1652	MALEGRA PRO 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1653	MALEGRA PRO 50MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1654	MALINATE 100MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-1655	MAMOFEN 10MG	Tamoxifen	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1656	MAMOFEN 20MG	Tamoxifen	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1657	MANFORCE 50	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-1659	MASTARIX INJ 1ML	Drostanolone Propionate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Drostanolone
+IMP-1660	MASTERBOL 150MG INJ 1ML	Drostanolone Propionate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Drostanolone
+IMP-1661	MASTERON INJ 10ML	Drostanolone Propionate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Drostanolone
+IMP-1662	MASTERON INJ 1ML	Drostanolone Propionate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Drostanolone
+IMP-1663	MATERNA HCG 5000IU INJ	Chorionic Gonadotrophin	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-1675	MECOBROOK PLUS	Vitamin B12 / Mecobalamin / Cynocobalamin / Methylcobalamin + Alpha Lipoic Acid + Vitamin B9 / Folic Acid / Folate + Vitamin B6 / Pyridoxine	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Brand incl. Plus and capsule form match, but no strength printed anywhere on the pack (strength not visible) | RESEARCH No verified manufacturer pack image found	Cyanocobalamin, Vitamin B9, Folate, Vitamin B6, Pyridoxine
+IMP-1676	MECODER OD TAB	Vitamin B12 / Mecobalamin / Cynocobalamin / Methylcobalamin	true	NEEDS_REVIEW		Cyanocobalamin
+IMP-1677	MECOEDGE 2500MG INJ 1ML	Methylcobalamin	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 2500MG vitamin B12 — MCG expected	
+IMP-1678	MEDITAM 20MG	Tamoxifen	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1684	MEFPEN SPAS TAB	Mefenamic Acid Dicyclomine Hcl	true	NEEDS_REVIEW		Mefenamic Acid Dicyclomine
+IMP-1685	MEGALIS 10MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1686	MEGALIS 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1687	MEGETROL 160 MG	Megestrol Acetate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1688	MEGTE 40MG	Megestrol Acetate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1700	MENOCTYL 40MG	Otilonium Bromide	true	NEEDS_REVIEW		Otilonium Bromide
+IMP-1703	MERCUROCHROME LOTION 100ML		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-1709	MESTERONUM 25MG	Mesteronum	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Mesteronum
+IMP-1716	METHANDIENONE 10MG	Methandienone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Methandienone
+IMP-1724	METNI 16MG	Methylprednisolone	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -16	
+IMP-1725	METNI 4MG	Methylprednisolone	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -4	
+IMP-1726	METNI 8MG	Methylprednisolone	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -8	
+IMP-1736	METOTRIP 20MG	Metoprolol	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: METOTRIP 3MG/5MG (sr 1737/1738) are MELATONIN; 20MG is a melatonin strength (cf. SLEEPOSE 20MG) but not a standard metoprolol strength; listed METOPROLOL	
+IMP-1753	MICOGEL CREAM	Metronidazole	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: MICOGEL name suggests miconazole; listed METRONIDAZOLE	
+IMP-1755	MIENTA TAB	Boswellia Serrata Extract	true	NEEDS_REVIEW		Boswellia Serrata Extract
+IMP-1767	MINOSIGN 100MG	Minoxidil	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: oral minoxidil is 2.5-10mg; MINOSIGN 100MG fits minocycline	
+IMP-1768	MINOSIGN 50MG TAB.	Minoxidil	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: oral minoxidil is 2.5-10mg; MINOSIGN 50MG fits minocycline	
+IMP-1782	MINOXYTOP 10% SOL	Minoxidil	true	PARTIALLY_VERIFIED	RESEARCH Carton side-panel composition text appears to read 'Each ml contains Minoxidil IP 50mg' (=5%), likely shared artwork with 5% pack; front panel and bottle clearly state 10%	
+IMP-1787	MINOXYTOP F 5 %	Minoxidil + Finasteride	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to SOLUTION: manufacturer catalogue https://www.healingpharma.in/product/minoxytop-f-5-2/	
+IMP-1788	MINOXYTOP F 5%	Minoxidil	true	PARTIALLY_VERIFIED	AUDIT incomplete_generic: confirmed: Healing Pharma lists Minoxytop F 5% as 'Minoxidil 5% & Finasteride 0.1% Topical Solution'; source lists MINOXIDIL only (cf. sr 1787) (https://www.healingpharma.in/product/minoxytop-f-5-2/) | DOSAGE FORM corrected from TABLET (assumed by import) to SOLUTION: manufacturer catalogue https://www.healingpharma.in/product/minoxytop-f-5-2/	
+IMP-1806	MK-677 10 MG		false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Supplier list gives no composition | Dosage form not stated in name; assumed tablet | AUDIT missing_generic: generic column blank	
+IMP-1807	MODA PLUS 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1808	MODAFINIL 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1809	MODAFRESH 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1810	MODAHEAL 100MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1811	MODAHEAL 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1812	MODALERT 100MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1813	MODALERT 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1814	MODANIL 100MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1815	MODANIL 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1816	MODAPLUS 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1818	MODASAFE 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1819	MODASAFE 300MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1820	MODASAFE A 250MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1821	MODASMART 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1822	MODASMART 400MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1823	MODKEM 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1825	MODVIGIL 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet | RESEARCH No verified manufacturer pack image found	
+IMP-1828	MOLNULEE 200MG CAP.	Molnupiravir	true	NEEDS_REVIEW		Molnupiravir
+IMP-1829	MOLNUVID 200MG	Molnupiravir	true	NEEDS_REVIEW	RESEARCH Dosage form on pack is capsules; row name has no form - confirm listing says capsules	Molnupiravir
+IMP-1830	MOLNUVIR 200MG	Molnupiravir	true	NEEDS_REVIEW		Molnupiravir
+IMP-1831	MOLSUN 200MG	Molnupiravir	true	NEEDS_REVIEW		Molnupiravir
+IMP-1832	MOMATE CREAM 20GM	Memantine Hydrocloride	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: Momate (Glenmark) is mometasone furoate 0.1% cream; listed MEMANTINE (oral only). No official Glenmark page found in 3 searches	Memantine
+IMP-1833	MOMENTA 10MG	Mometasone	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: confirmed wrong: Healing Pharma lists Momenta 10 (SKU HP0482) under 'Psychotropic' — not mometasone (a topical/nasal steroid; no 10mg tablet). Composition not stated on the page; memantine is suspected (https://www.healingpharma.in/product/momenta-10/) | RESEARCH No verified manufacturer pack image found | RESEARCH Pack composition: Memantine Hydrochloride 10 mg; list says MOMETASONE | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	Mometasone
+IMP-1847	MOREGRA STAR 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1855	MOUNJARO 5MG 0.5ML	Tirzepatide	true	NEEDS_REVIEW		Tirzepatide
+IMP-1874	MUCAINE GEL MF 200ML	Aluminium Hydroxide-0.291Gm + Magnesium Hydroxide-98Mg + Oxetacaine-10Mg	true	NEEDS_REVIEW		Aluminium Hydroxide, Magnesium Hydroxide, Oxetacaine
+IMP-1876	MUCOLITE SR TAB	Ambroxol Hydrochloride	true	NEEDS_REVIEW		Ambroxol
+IMP-1877	MUCOLITE TAB	Acetylcysteine	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: Mucolite (Dr Reddy's) is ambroxol (sibling MUCOLITE SR sr 1876 = AMBROXOL); listed ACETYLCYSTEINE. No official page found	
+IMP-1879	MULTI 9 TAB	Multivitamin & Multiminerals	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Lead override: no manufacturer name or logo on the pack; authenticity cannot be confirmed from the image | RESEARCH No verified manufacturer pack image found	Multiminerals
+IMP-1887	MYALERT 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1888	MYALERT 400MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1895	MYTERA 250MG	Abiraterone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1896	MYTERA 500MG	Abiraterone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1899	NADIBACT CREAM 10GM	Nadifloxacin	true	NEEDS_REVIEW		Nadifloxacin
+IMP-1900	NADROLIN INJ 1ML	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-1903	NAILROX(NAIL LACQUER) 5ML	Ciclopirox	true	NEEDS_REVIEW		Ciclopirox
+IMP-1906	NALSIGN 50MG	Naltrexone	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found	
+IMP-1909	NALTIVIA 50MG	Naltrexone	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-1912	NANDRIX INJ 1ML	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-1913	NANDROLIN 100MG INJ 10ML	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-1914	NANDROLIN 100MG INJ 1ML	Nandrolone	true	NEEDS_REVIEW		Nandrolone
+IMP-1925	NATTOKINASE VEGGIE CAP	Dietary Supplement	true	NEEDS_REVIEW		
+IMP-1930	NEBIVOL 5MG	Nebivolol Hcl	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -5	
+IMP-1933	NEBULIZER KIT		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-1934	NEEDLE 24 NO.	Needle	true	NEEDS_REVIEW		
+IMP-1935	NEEDLE DISPOVAN 18NO	Needle	true	NEEDS_REVIEW		
+IMP-1936	NEEDLE DISPOVAN 23NO	Needle	true	NEEDS_REVIEW		
+IMP-1957	NEURO SELIRON 300MG	Pregabalin	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found	
+IMP-1958	NEUROBION FORTE TAB	Vitamin B1 B6 B12	true	NEEDS_REVIEW		Vitamin B1 B6 B12
+IMP-1959	NEUROLAB INJ	Vitamin B1 B6 B12	true	NEEDS_REVIEW		Vitamin B1 B6 B12
+IMP-1960	NEUROPEN TAB	Vitamin B1 B2 B6 And B12	true	NEEDS_REVIEW		Vitamin B1 B2 B6
+IMP-1969	NICERBIUM TAB	Nicergoline	true	NEEDS_REVIEW		Nicergoline
+IMP-1971	NICLOBEST 500MG	Niclosamide	true	NEEDS_REVIEW		Niclosamide
+IMP-1972	NICLOCHRIST 500MG	Niclosamide	true	NEEDS_REVIEW		Niclosamide
+IMP-1973	NICLOSIG 500MG	Niclosamide	true	NEEDS_REVIEW		Niclosamide
+IMP-1974	NICODUCE OD 100MG	Nicorandil	true	NEEDS_REVIEW		Nicorandil
+IMP-1979	NIKORAN OD 10MG	Nicorandil	true	NEEDS_REVIEW		Nicorandil
+IMP-1980	NIKORAN-OD-20 TAB.	Nicorandil	true	NEEDS_REVIEW		Nicorandil
+IMP-1983	NINLIB 200MG	Nilotinib	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-1987	NITRO G 2.6MG	Nitroglycerin	true	PARTIALLY_VERIFIED	RESEARCH Pack is Controlled Release tablets; row name does not say CR (2.6 mg nitroglycerin is a CR-only strength)	
+IMP-1991	NITROROIN 100MG	Nitroglycerin	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: 100MG nitroglycerin does not exist (oral GTN 2.6/6.4mg); 100MG fits nitrofurantoin	
+IMP-1998	NOLCEE TAB	Vitamin C	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Strength not visible; pack is the 'Nolcee+' (Plus) variant, not plain Nolcee as in row name | RESEARCH No verified manufacturer pack image found | RESEARCH Pack composition: Vitamin C, Sodium Ascorbate & Zinc Citrate (chewable); list says VITAMIN C	
+IMP-1999	NOOSANTA 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2000	NOOSANTA 200MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2001	NOOSANTA 200MG 1*10	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2002	NOOSANTA 250MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2003	NOOSANTA GEL	Tapentadol	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: no topical tapentadol product is known; gel listed as TAPENTADOL	Tapentadol
+IMP-2004	NORDITROPIN NORDIFLEX 15MG	Human Growth Hormone	true	NEEDS_REVIEW		Human Growth Hormone
+IMP-2007	NORSAFE 400MG	Norfloxacin	true	NEEDS_REVIEW		Norfloxacin
+IMP-2008	NORSUNATE 100MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-2009	NORSUNATE 200MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-2010	NORSUNATE 50MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-2012	NORTROP 25MG	Nortriptyline	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [2013]	
+IMP-2013	NORTROP 25MG	Nortriptyline	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [2012]	
+IMP-2014	NORWAYS TAB	Idebenone	true	NEEDS_REVIEW		Idebenone
+IMP-2020	NS 250ML		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-2021	NUDICLO INJ 1ML	Diclofenac	true	NEEDS_REVIEW		Diclofenac
+IMP-2022	NULIFE MEDITCH PULS OXY	Pulse Oxymeter Medtech	true	NEEDS_REVIEW		
+IMP-2028	OCLAPET 5.4MG	Oclacitinib	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Oclacitinib
+IMP-2038	OL TAP 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2040	OL TAP 200MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2041	OLANA 10MG	Olanzapine	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-2042	OLANA 5MG TAB	Olanzapine	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-2047	OLMO 40MG TAB	Olmesartan Medoxomil	true	PARTIALLY_VERIFIED	RESEARCH Pack composition: Olmesartan Medoxomil Tablets IP; list says OFLOXACIN - list generic should be corrected to OLMESARTAN MEDOXOMIL 40 mg | RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -40 | COMPOSITION corrected from supplier list "OFLOXACIN" to "Olmesartan Medoxomil": Knoll Healthcare official catalogue (https://knollhealthcare.com/product/olmo-40-tab-alu-2010/) and pack: "Olmesartan Medoxomil Tablets IP"	
+IMP-2048	OLMO H TAB	Hydrochlorothiazide + Olmesartan Medoxomil	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Strength not visible (no mg values for olmesartan or HCTZ on front panel); brand, form and composition otherwise match | RESEARCH No verified manufacturer pack image found	
+IMP-2049	OLNEE-5	Olanzapine	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -5 | RESEARCH Pack is orally disintegrating tablets (ODT); row/list do not state ODT	
+IMP-2055	OMEECAN 20MG	Omeprazole	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://www.americanremedies.in/product/omeecan-20-capsules/	
+IMP-2067	OMRON-6161 B.P	Blood Pressure Monitoring	true	NEEDS_REVIEW		
+IMP-2077	OPIPTRIP 50MG	Opipramol Dihydrochloride	true	NEEDS_REVIEW		Opipramol
+IMP-2079	ORCERIN CAP	Diacerein	true	NEEDS_REVIEW		Diacerein
+IMP-2083	ORNI 500MG TAB	Ornidazole	true	NEEDS_REVIEW		Ornidazole
+IMP-2085	ORS PROLYTE POWDER	Oral Rehydration Salts	true	NEEDS_REVIEW		Oral Rehydration Salts
+IMP-2090	OSMEGA 500MG	Omega-3 Fatty Acid	true	NEEDS_REVIEW		Omega Fatty Acid
+IMP-2091	OSMEGA CAP	Omega-3 Fatty Acid	true	NEEDS_REVIEW		Omega Fatty Acid
+IMP-2092	OSTALMIV 75MG	Sodium Alendronate	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: alendronate is 35/70mg; OSTALMIV 75MG fits oseltamivir 75mg	
+IMP-2095	OTRIVIN OXY FAST RELIEF	Oxymetazoline	true	NEEDS_REVIEW		Oxymetazoline
+IMP-2097	OXADROL 10MG	Oxandrolone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Oxandrolone
+IMP-2103	OXYTHOL 50MG	Oxymethalone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Oxymethalone
+IMP-2110	PAHFIL 20MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2111	PAINOSOMA 350MG	Carisoprodol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2112	PALNAT 75 21CAP	Palbociclib	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-2114	PANACUR 150MG	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Febendazole
+IMP-2115	PANACUR 3.0 VET	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name	Febendazole
+IMP-2124	PARABOL 76.5MG INJ.	Trenbolone Hexahydrobenzylcarbonate 76.5 Mg/ml)	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Trenbolone Hexahydrobenzylcarbonate
+IMP-2125	PARABOL INJ 1ML	Trenbolone Hexahydrobenzylcarbonate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Trenbolone Hexahydrobenzylcarbonate
+IMP-2129	PARAXIN 500MG	Chloramphenicol	true	NEEDS_REVIEW		Chloramphenicol
+IMP-2130	PARI 30MG TAB		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-2138	PAZONAT 200MG	Pazopanib	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2145	PENTRAL 400MG	Pentoxifylline Prolonged Release	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): 400	
+IMP-2154	PETMECTIN INJ 50ML	Ivermectin	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy	Ivermectin
+IMP-2155	PETMEDIN 5 MG TABLET	Pimobendan	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy	Pimobendan
+IMP-2165	PHYSIOGEL CREAM		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-2169	PILOCAR 2% DROP		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-2170	PIM 800MG	Piracetam	true	NEEDS_REVIEW		Piracetam
+IMP-2176	PIRASMART 800MG	Piracetam	true	NEEDS_REVIEW		Piracetam
+IMP-2177	PIRCETAM 800MG	Piracetam	true	NEEDS_REVIEW	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -800	Piracetam
+IMP-2178	PIRETAM 1200MG	Piracetam	true	NEEDS_REVIEW		Piracetam
+IMP-2184	PLACENTREX CREAM	Placenta Extract	true	NEEDS_REVIEW		Placenta Extract
+IMP-2185	PLACENTREX GEL	Placenta Extract	true	NEEDS_REVIEW		Placenta Extract
+IMP-2194	POXET 30GM	Dapoxetine	true	NEEDS_REVIEW	Dosage form not stated in name | AUDIT strength_unit_suspect: '30GM' dapoxetine — probably 30MG	Dapoxetine
+IMP-2195	POXET 60MG	Dapoxetine	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Dapoxetine
+IMP-2196	POXET 90MG	Dapoxetine	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Dapoxetine
+IMP-2205	PRAZICORS 600MG	Praziquantel	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Lead override: manufacturer name/logo not visible and drug name misspelt (Parziquantel) on pack; authenticity doubtful | RESEARCH No verified manufacturer pack image found | RESEARCH Knoll name/logo NOT visible on pack - shows a different 'C' monogram logo; manufacturer branding unconfirmed on image | RESEARCH Pack misspells generic as 'Parziquantel' (praziquantel)	
+IMP-2233	PREGABEL 300MG	Pregabalin	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://knollhealthcare.com/product/pregabel-300-cap-alu-1010/	
+IMP-2235	PREGAFOX 300MG	Pregabalin	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://www.americanremedies.in/product/pregafox-300-capsules/	
+IMP-2239	PREGAKEM CARD		true	NEEDS_REVIEW	Supplier list gives no composition | Dosage form not stated in name | AUDIT missing_generic: generic column blank	
+IMP-2245	PREGARICA NT	Pregabalin + Nortriptyline	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Brand Pregarica NT and tablet form match, but no strength visible on pack (strength not visible). | RESEARCH No verified manufacturer pack image found	
+IMP-2249	PREMARIN 0.3MG	Conjugated Estrogens	true	NEEDS_REVIEW		Conjugated Estrogens
+IMP-2250	PREMARIN 0.625MG	Conjugated Estrogens	true	NEEDS_REVIEW		Conjugated Estrogens
+IMP-2251	PREMARIN VAGINAL CREAM 14GM	Conjugated Estrogens	true	NEEDS_REVIEW		Conjugated Estrogens
+IMP-2253	PREVENTION KIT	First Aid Kit	true	NEEDS_REVIEW		
+IMP-2254	PRIFEN 500MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-2257	PRIMAQUINE 15MG TAB		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-2258	PRIMBOL INJ	Methenolone Enanthate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Methenolone Enanthate
+IMP-2259	PRIMOBIX INJ 10ML	Methenolone Enanthate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Methenolone Enanthate
+IMP-2260	PRIMOBOL INJ 10ML	Methenolone Enanthate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Methenolone Enanthate
+IMP-2261	PRIMOBOL INJ 1ML	Methenolone Enanthate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Methenolone Enanthate
+IMP-2262	PRIMOBOLON 100MG INJ 10ML	Methenolone Enanthate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Methenolone Enanthate
+IMP-2264	PRIMORIX INJ 1ML	Methenolone Enanthate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Methenolone Enanthate
+IMP-2267	PROGESTONE-100MG CAP.	Progesterone	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -100	
+IMP-2268	PROGLOB 5GM	Human Normal Immunoglobulin	true	NEEDS_REVIEW	Dosage form not stated in name	Human Normal Immunoglobulin
+IMP-2269	PROGUHEAL 100MG	Proguanil	true	NEEDS_REVIEW		Proguanil
+IMP-2281	PROSOMA 350MG	Carisoprodol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2282	PROSTACEL 500MG INJ	Alprostadil	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: alprostadil 500MG injection — probably 500MCG	
+IMP-2286	PROVILBOL TAB	Mesterolone	true	NEEDS_REVIEW		Mesterolone
+IMP-2287	PROVIRONUM TAB	Mesterolone	true	NEEDS_REVIEW		Mesterolone
+IMP-2294	PUBERGEN JO 7500 IU INJ	Human Chorionic Gonadotrophin-7500iu	true	NEEDS_REVIEW		Human Chorionic Gonadotrophin
+IMP-2295	PUBERGREN HP 10000IU INJ	Chorionic Gonadotrophin Inj	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-2296	PUBERGREN HP 2000IU INJ	Chorionic Gonadotrophin Inj	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-2297	PUBERGREN HP 5000 INJ	Chorionic Gonadotrophin Inj	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-2298	PUBERGREN HP NU 10000IU INJ	Chorionic Gonadotrophin Inj	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-2299	PUREGRAF 150IU INJ	Chorionic Gonadotrophin Inj	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-2300	PURETRIG HP 5000IU INJ	Chorionic Gonadotrophin Inj	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-2306	QUALIFOL 150MG IU	Urofollitropin	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | AUDIT strength_unit_suspect: 150MG gonadotrophin — IU expected	Urofollitropin
+IMP-2321	RADICATE CAT 6%	Selamectin	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Selamectin
+IMP-2322	RADICATE DOG 12%	Selamectin	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Selamectin
+IMP-2323	RADINATE 100MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-2324	RADINATE 200MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-2330	RANIHEAL 150MG	Ranitidine	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as '150' in brand badge (no mg unit on front)	
+IMP-2338	RAZIN 5MG	Flunarizine	true	NEEDS_REVIEW		Flunarizine
+IMP-2344	RED FORCE 150MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2345	RED MALEGRA 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2346	REDFORCE 150MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2357	RELIPOIETIN 2000	Erythropoietin	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-2358	RELIPOIETIN 4000	Erythropoietin	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-2359	RELITEST-M VIAL.	Testosterone Mix Compound	true	NEEDS_REVIEW	AUDIT price_outlier: testosterone mix vial at Rs 2 (similar injectables Rs 65-850)	Testosterone Mix Compound
+IMP-2363	RENOCEL 10000IU	Recombinant Human Erythropoietin	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Recombinant Human Erythropoietin
+IMP-2364	RENOCEL 2000IU	Recombinant Human Erythropoietin	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Recombinant Human Erythropoietin
+IMP-2365	RENOCEL 4000IU	Recombinant Human Erythropoietin	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Recombinant Human Erythropoietin
+IMP-2367	RENOCRIT 4000IU	Erythropoietin	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Erythropoietin
+IMP-2370	RESTASIS 0.05MG	Cyclosporine	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: RESTASIS is a 0.05% ciclosporin eye emulsion, not 0.05MG; form set to DROPS	
+IMP-2371	RESTFINE TAB	Melatonin	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Strength not visible on pack (no mg value anywhere on carton/blister) | RESEARCH No verified manufacturer pack image found | RESEARCH Pack is mouth dissolving tablets	
+IMP-2378	REXIGO 120MG 10TAB	Relugolix	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2390	RIPPEDBOL 150MG INJ 1ML	Testosterone & Drostanolone & Trenbol Compound	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Drostanolone, Trenbol Compound
+IMP-2393	RISCAN 2MG	Risperidone	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-2402	ROBICAN 500MG	Methocarmabol	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-2404	ROCKBON PTH 750MCG NEEDL	Teriparatide	true	NEEDS_REVIEW		Teriparatide
+IMP-2407	ROLON 250MG INJ 1ML	Nandrolone Decanoate	true	NEEDS_REVIEW		Nandrolone Decanoate
+IMP-2408	ROLONABOL 100 MG BOX	Nandrolone Decanoate	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Nandrolone Decanoate
+IMP-2425	ROXIKEM 150MG	Roxithromycin	true	NEEDS_REVIEW		Roxithromycin
+IMP-2427	RTSUNATE 100MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-2428	RTSUNATE 200MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-2429	RTSUNATE 50MG	Artesunate	true	NEEDS_REVIEW		Artesunate
+IMP-2430	RUPACET TAB	Rupatadine	true	NEEDS_REVIEW		Rupatadine
+IMP-2439	SACUFOX V 100MG	Sacubitril + Valsartan	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): 100 (combined sacubitril/valsartan strength; per-component mg not on front)	
+IMP-2440	SACUFOX V 50MG	Sacubitril + Valsartan	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): 50 (combined sacubitril/valsartan strength; per-component mg not on front)	
+IMP-2443	SCARHEAL GEL	Allantoin, Extractum Cepae, And Heparin,,	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Brand and gel form match, but no ingredient strengths/concentrations are visible on tube or carton - strength not visible. Rejected per brief rule; lead may override (row name has no strength either). | RESEARCH No verified manufacturer pack image found	Extractum Cepae, Heparin
+IMP-2450	SEROFLO 125MG INHALER	Fluticasone+ Salmeterol	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 125MG for an inhaled product — MCG expected	
+IMP-2451	SEROFLO 250MG CIPHALER	Fluticasone+ Salmeterol	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 250MG for an inhaled product — MCG expected	
+IMP-2452	SEROFLO 250MG INHALER	Fluticasone+ Salmeterol	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 250MG for an inhaled product — MCG expected	
+IMP-2469	SHILAJIT 500MG	Shilajit & Ashwaganda	true	NEEDS_REVIEW		Shilajit, Ashwaganda
+IMP-2470	SHILARISE CAP	Shilajit & Ashwaganda	true	NEEDS_REVIEW		Shilajit, Ashwaganda
+IMP-2471	SHILRAZONE 500MG	Abirateron Acetate	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Abirateron
+IMP-2473	F	Liothyronine Sodium	true	PARTIALLY_VERIFIED	AUDIT placeholder_name: name 'F' is not a product name (generic 'LIOTHYRONINE SODIUM', price 7.5)	
+IMP-2477	SHYTOMEL DUO 47MG	Levothyroxine & Liothyronine	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 47MG for a thyroid hormone — almost certainly MCG | AUDIT strength_unit_suspect: levothyroxine+liothyronine '47MG' — microgram product	
+IMP-2478	SHYTOMEL DUO 70MG	Levothyroxine 57 & Liothyronine 13.50	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 70MG for a thyroid hormone — almost certainly MCG | AUDIT strength_unit_suspect: levothyroxine+liothyronine '70MG' — microgram product	
+IMP-2479	SIEZTA 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2481	SIGNACLEAR ANTI ACNE GEL	Face Serum	true	NEEDS_REVIEW	AUDIT missing_generic: generic column says 'FACE SERUM' (not an ingredient)	Face Serum
+IMP-2482	SIGNACLEAR TRANEXAMIC ACID 30ML	Vitamin C	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: name says TRANEXAMIC ACID 30ML, generic says VITAMIN C	
+IMP-2484	SIGNAFORCE 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet | RESEARCH No verified manufacturer pack image found	
+IMP-2485	SIGNAPRED 4MG	Methylprednisolone	true	PARTIALLY_VERIFIED	RESEARCH Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)	
+IMP-2486	SIGNAPRED 8MG	Methylprednisolone	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found	
+IMP-2489	SILAGRA 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2490	SILARISE CAP	Shilajit & Ashwaganda	true	NEEDS_REVIEW		Shilajit, Ashwaganda
+IMP-2494	SILDAMAX 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2495	SILDAY 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2496	SILDIGRA 100MG	Signacafe Classic Oral Powder	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: generic column holds another product's name ('SIGNACAFE CLASSIC ORAL POWDER', = sr 2480). Sibling rows SILDIGRA 50/250MG are SILDENAFIL; probably sildenafil 100mg	Signacafe Classic Oral Powder
+IMP-2497	SILDIGRA 250MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2498	SILDIGRA 50MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2499	SILDIGRA BLACK FORCE 200MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2501	SILDIGRA SUPER POWER	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-2509	SILVITRA 120MG	Sildenafil + Verdenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	Verdenafil
+IMP-2534	SLEEPIREST 20MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-2535	SLEEPIREST 7.5MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-2547	SNOVITRA 20MG	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2548	SNOVITRA 40MG	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2551	SNOVITRA XL 60MG	Verdenafil	true	NEEDS_REVIEW		Verdenafil
+IMP-2556	SOFRAMYCIN CREAM 30GM	Framycetin	true	NEEDS_REVIEW		Framycetin
+IMP-2557	SOMADOL 350MG	Carisoprodol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2560	SORANIB 200MG	Sorafenib	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2561	SORBITRATE 5MG	Sotalol Hydrochloride	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: Sorbitrate (Abbott) is isosorbide dinitrate 5mg; listed SOTALOL. Only retail listings found, no official Abbott page	
+IMP-2566	SPASMOHEAL TAB	Drotaverine + Mefenamic Acid	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Brand and tablet form match, but no strength readable on pack (strength not visible). | RESEARCH No verified manufacturer pack image found	Drotaverine
+IMP-2576	STABLON TAB	Tianeptine	true	NEEDS_REVIEW		Tianeptine
+IMP-2578	STANO 50MG INJ 10ML	Stanozolol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Stanozolol
+IMP-2579	STANO 50MG INJ 1ML	Stanozolol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Stanozolol
+IMP-2580	STANOBIX 100MG 10ML	Stanozolol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Stanozolol
+IMP-2581	STANOBIX 10MG TAB.	Stanozolol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Stanozolol
+IMP-2582	STANOFIT 50MG INJ 10ML	Stanozolol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Stanozolol
+IMP-2583	STANORIX 10MG	Stanozolol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Stanozolol
+IMP-2584	STANORIX INJ 1ML	Stanozolol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Stanozolol
+IMP-2585	STAZNOR 10 MG	Stanozolol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Stanozolol
+IMP-2587	STENAGRA 100MG	Sildenafil & Dapoxetine	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	Dapoxetine
+IMP-2590	STROCIT 250MG INJ 2ML	Citicoline	true	NEEDS_REVIEW		Citicoline
+IMP-2591	STROSUN 500MG	Anastrozole	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | AUDIT suspected_wrong_generic: suspected: anastrozole is only 1mg; STROSUN 500MG cannot be anastrozole; true composition unknown	
+IMP-2592	STUD 10000	Lidocaine	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-2594	STUD 5000	Lidocaine	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-2600	SUHAGRA 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2601	SUHAGRA 25MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2602	SUHAGRA 50MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2603	SUHAGRA FORCE 50MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2618	SUPER HIFORCE TAB	Sildenafil & Dapoxetine	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Brand and tablet form match, but no strength printed anywhere on the pack (strength not visible) | RESEARCH No verified manufacturer pack image found	Dapoxetine
+IMP-2621	SUPER KRRISTA	Tadalafil & Dapoxetine	true	PARTIALLY_VERIFIED	Dosage form not stated in name	Dapoxetine
+IMP-2626	SUPER SOMA 350MG	Carisoprodol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2627	SUPER SOMA 500MG	Carisoprodol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2631	SUPER TADASH	Tadalafil & Dapoxetine	true	PARTIALLY_VERIFIED	Dosage form not stated in name	Dapoxetine
+IMP-2632	SUPER VARDITRA TAB	Tadalafil & Dapoxetine	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: VARDITRA 40/60MG (sr 3065/3066) is VARDENAFIL; SUPER VARDITRA listed TADALAFIL & DAPOXETINE (expected vardenafil + dapoxetine) | RESEARCH Image candidate rejected by QA: Brand and tablet form match, but no strength shown on the pack - strength not visible. Composition also differs from the list (see extra reason). | RESEARCH No verified manufacturer pack image found | RESEARCH Pack composition: Vardenafil (printed 'Verdenafil') & Dapoxetine; list says TADALAFIL & DAPOXETINE	Dapoxetine
+IMP-2637	SUPER ZUDENA	Udenafil & Dapoxetine	true	NEEDS_REVIEW	Dosage form not stated in name	Udenafil, Dapoxetine
+IMP-2639	SUSTAMIX INJ 1ML	Testosterone Mic Compound	true	NEEDS_REVIEW		Testosterone Mic Compound
+IMP-2640	SUSTAMIX PRO INJ	Testosterone Mic Compound	true	NEEDS_REVIEW		Testosterone Mic Compound
+IMP-2649	SYLIS ORAL POWER 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2650	SYMBICORT TURBUHALER 160MG	Budesonide+ Formoterol	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 160MG for an inhaled product — MCG expected	
+IMP-2651	SYMBICORT TURBUHALER 320MG	Budesonide+ Formoterol	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 320MG for an inhaled product — MCG expected	
+IMP-2655	SYRING 3ML	Syring	true	NEEDS_REVIEW		
+IMP-2666	TACROHEAL 1MG	Tacrolimus	true	PARTIALLY_VERIFIED	DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://www.healingpharma.in/product/tacroheal-1-cap/	
+IMP-2669	TADACIP 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2670	TADADAY 60MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2671	TADAFLO 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2672	TADAFLO 5MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2673	TADAGA SUPER 60MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2674	TADAGRA 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2675	TADAGRA ST 40MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2676	TADAGRA ST 60MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2677	TADALISTA 10MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2678	TADALISTA 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2679	TADALISTA 40MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2680	TADALISTA 5MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2681	TADALISTA 60MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2682	TADALISTA CT 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2683	TADALISTA PROFESSIONAL	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-2685	TADALIX SX 20	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-2686	TADANOVA 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2687	TADANOVA 40MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2688	TADANOVA 60MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2689	TADANOVA 80MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2690	TADANOVA BLACK 80MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2691	TADAPOX 20/60MG	Tadalafil & Dapoxetine	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	Dapoxetine
+IMP-2693	TADAREEN 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2694	TADAREEN 40MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2695	TADARISE 10MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2697	TADARISE 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2698	TADARISE 20MG EFFERVESCENT	Tadalafil Effervescent	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2699	TADARISE 40MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2700	TADARISE 5MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2701	TADARISE 60MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2702	TADARISE 80MG BLACK	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2704	TADARISE PRO 40MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2705	TADASIVA TAB	Tadalafil & Sildenafil	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Pack is the 'Extra Power 150' variant (Sildenafil 100 mg + Tadalafil 20 mg); row name TADASIVA TAB does not specify Extra Power, so the image cannot be confirmed as the plain variant | RESEARCH No verified manufacturer pack image found	
+IMP-2706	TADASOFT 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2707	TADASOFT 40MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2708	TADAUP 5MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2709	TADAUP 80MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2710	TADORA 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2713	TAMILONG 20MG	Tamoxifen	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2714	TAMOBIX 20MG	Tamoxifen	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2715	TAMODEX 10MG	Tamoxifen	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2716	TAMODEX 20MG	Tamoxifen	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2717	TAMOVAC 10MG	Tamoxifen	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2718	TAMOVAC 20MG	Tamoxifen	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2719	TAMOXICAN 10MG	Tamoxifen	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet | RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-2720	TAMOXICAN 20MG	Tamoxifen	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet | RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-2721	TAMOXOL 10MG	Tamoxifen	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2722	TAMOXOL 20MG	Tamoxifen	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2725	TAMSUHEAL 0.4MG	Tamsulosin	true	PARTIALLY_VERIFIED	RESEARCH Pack says Modified Release Tablets; row name does not specify MR (standard form for tamsulosin 0.4 mg)	
+IMP-2726	TAMSUHEAL D TAB	Dutasteride+Tamsulosin	true	PARTIALLY_VERIFIED	RESEARCH Image candidate rejected by QA: Brand Tamsuheal D and tablet form match, but no strength visible on pack (strength not visible). | RESEARCH No verified manufacturer pack image found	
+IMP-2727	TAP 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2728	TAP 200MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2729	TAP ASH 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2730	TAP ASH 200MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2731	TAPADAY 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2732	TAPADAY 200MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2733	TAPADAY GOLD 250MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2734	TAPADAY O 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2735	TAPAL 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2737	TAPANDA 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2738	TAPANDA 200MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2739	TAPANDA MAX 250MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2740	TAPDOL 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2741	TAPDOL 200MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2742	TAPDOL 50MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2743	TAPEASE NASAL SPRAY	Tapentadol	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: nasal spray listed as TAPENTADOL (oral-only opioid); composition unverified	
+IMP-2744	TAPEASE NS 225MG	Tapentadol	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: nasal spray (NS) listed as TAPENTADOL (oral-only opioid); composition unverified	
+IMP-2745	TAPENDOL 200MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2746	TAPFINE 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2749	TAPNITE 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2750	TAPRISE NAS SPRAY	Tapentadol	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: nasal spray listed as TAPENTADOL (oral-only opioid); composition unverified	
+IMP-2751	TAPSMART 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2752	TAPSMART 200MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2753	TAPWHITE DIAMOND 250MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2754	TASTYLIA 10MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2755	TASTYLIA 10MG ODS		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank | RESEARCH List generic is blank; pack composition: Tadalafil 10 mg	
+IMP-2756	TASTYLIA 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2758	TASTYLIA 5MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2759	TAZOPOL 4.5GM INJ	Piperacillin 4Gm + Tazobactum	true	NEEDS_REVIEW		Piperacillin, Tazobactum
+IMP-2762	T-BACT OIT		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-2763	TCYPION 250MG	Testosterone Cypionate,	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Testosterone Cypionate
+IMP-2765	TELAGEST 2MG	Dienogest	true	NEEDS_REVIEW		Dienogest
+IMP-2766	TELKONOL 80MG	Telmisartan Hcl	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): -80	
+IMP-2790	TENTEX FORTE TAB	Himalaya	true	NEEDS_REVIEW	AUDIT missing_generic: generic column holds manufacturer 'HIMALAYA', not ingredients	
+IMP-2822	TESTOBIX E MAXX 10ML	Testosterone Enanthate	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-2823	TESTOBIX MIX INJ 10ML	Testosterone Propionate	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: 'MIX' blend listed as single ester TESTOSTERONE PROPIONATE	
+IMP-2825	TESTOBLESS 40MG	Testosterone Undecanoate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2826	TESTOBLESS GEL 5GM	Testosterone Undecanoate	true	NEEDS_REVIEW		Testosterone Undecanoate
+IMP-2827	TESTOBLISS 40MG	Testosterone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2828	TESTOBOL 50MG INJ	Testosterone Base	true	NEEDS_REVIEW		Testosterone Base
+IMP-2834	TESTOBOON CP 300MG	Testosterone Cypionate	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Testosterone Cypionate
+IMP-2839	TESTOBOON PP 100MG 1ML	Testosterone Propionate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2842	TESTOBOON PP 100MG INJ 20ML	Testosterone Undecanoate	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: TESTOBOON PP 100MG 1ML/10ML (sr 2839-2841) are TESTOSTERONE PROPIONATE; this 20ML pack is listed as UNDECANOATE	
+IMP-2843	TESTOHEAL 40MG	Testosterone Undecanoate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet | DOSAGE FORM corrected from TABLET (assumed by import) to CAPSULE: manufacturer catalogue https://www.healingpharma.in/product/testoheal-40mg-caps/	
+IMP-2844	TESTOHEAL GEL 5GM	Testosterone Undecanoate	true	NEEDS_REVIEW		Testosterone Undecanoate
+IMP-2851	TESTORIGHT 40MG	Testosterone Undecanoate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2855	TESTOSIGN 40MG	Testosterone Undecanoate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet | RESEARCH No verified manufacturer pack image found	
+IMP-2856	TESTOSIGN GEL	Testosterone Undecanoate	true	NEEDS_REVIEW		Testosterone Undecanoate
+IMP-2864	THALITERO 100MG	Thalidomide	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2865	THEALIFE TAB	L-Theanine	true	NEEDS_REVIEW		L-theanine
+IMP-2870	THROMBOPHOB OINT 30GM	Benzyl Nicotinate + Heparin	true	NEEDS_REVIEW		Benzyl Nicotinate, Heparin
+IMP-2871	THYCAD 100MG	Thalidomide	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2872	THYRONORM 100MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 100MG for a thyroid hormone — almost certainly MCG	
+IMP-2873	THYRONORM 112MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [2874] | AUDIT strength_unit_suspect: 112MG for a thyroid hormone — almost certainly MCG	
+IMP-2874	THYRONORM 112MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [2873] | AUDIT strength_unit_suspect: 112MG for a thyroid hormone — almost certainly MCG	
+IMP-2875	THYRONORM 125MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 125MG for a thyroid hormone — almost certainly MCG	
+IMP-2876	THYRONORM 137MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 137MG for a thyroid hormone — almost certainly MCG	
+IMP-2877	THYRONORM 150MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 150MG for a thyroid hormone — almost certainly MCG	
+IMP-2878	THYRONORM 200MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 200MG for a thyroid hormone — almost certainly MCG	
+IMP-2879	THYRONORM 25MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 25MG for a thyroid hormone — almost certainly MCG	
+IMP-2880	THYRONORM 75MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 75MG for a thyroid hormone — almost certainly MCG	
+IMP-2881	THYRONORM 88MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 88MG for a thyroid hormone — almost certainly MCG	
+IMP-2882	THYRORISE 200MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 200MG for a thyroid hormone — almost certainly MCG	
+IMP-2883	THYRORISE 88MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 88MG for a thyroid hormone — almost certainly MCG	
+IMP-2884	THYROTAG 100MG	Levothyroxine	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 100MG for a thyroid hormone — almost certainly MCG	
+IMP-2885	THYROTAG 25MG	Levothyroxine	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 25MG for a thyroid hormone — almost certainly MCG	
+IMP-2887	THYROX 150MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 150MG for a thyroid hormone — almost certainly MCG	
+IMP-2888	THYROX 200MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 200MG for a thyroid hormone — almost certainly MCG	
+IMP-2889	THYROX 50MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 50MG for a thyroid hormone — almost certainly MCG	
+IMP-2890	THYROX 62.5MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 62.5MG for a thyroid hormone — almost certainly MCG	
+IMP-2892	THYROXINOL 125MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 125MG for a thyroid hormone — almost certainly MCG | RESEARCH Pack strength is 125 mcg; row name says 125MG - list unit error, correct row to 125MCG	
+IMP-2893	THYROXINOL 150MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 150MG for a thyroid hormone — almost certainly MCG | RESEARCH Pack strength is 150 mcg; row name says 150MG - list unit error, correct row to 150MCG	
+IMP-2894	THYROXINOL 75MG	Thyroxine Sodium	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 75MG for a thyroid hormone — almost certainly MCG | RESEARCH Pack strength is 75 mcg; row name says 75MG - list unit error, correct row to 75MCG	
+IMP-2895	TIAPREX 50MG	Tiapride	true	NEEDS_REVIEW		Tiapride
+IMP-2896	TIATAN 12.5MG	Tianeptine	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Tianeptine
+IMP-2897	TIATAN 50MG	Tianeptine	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Tianeptine
+IMP-2899	TIMOLET EYE DROP 5ML	Timolol	true	NEEDS_REVIEW		Timolol
+IMP-2905	TIPANAT 20MG	Trifluridine And Tipiracil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2910	TLS H TAB	Telmisartan+Hcl	true	PARTIALLY_VERIFIED	AUDIT incomplete_generic: generic 'TELMISARTAN+HCL' — 'HCL' probably means hydrochlorothiazide (TLS H)	
+IMP-2917	TOFANOL OINT 2% 10GM	Tofacitinib 2% Ointment	true	NEEDS_REVIEW		Tofacitinib
+IMP-2921	TOFI 50MG	Tofisopam	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Tofisopam
+IMP-2922	TOFICALM 100MG	Tofisopam	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | RESEARCH No verified manufacturer pack image found	Tofisopam
+IMP-2923	TOFIDAXIN 50MG	Tofisopam	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Tofisopam
+IMP-2924	TOFIFRESH 100MG	Tofisopam	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Tofisopam
+IMP-2925	TOFISO 100MG	Tofisopam	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Tofisopam
+IMP-2926	TOFISO 50MG	Tofisopam	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Tofisopam
+IMP-2927	TOFISTRIP 100MG	Tofisopam	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Tofisopam
+IMP-2928	TOFISTRIP 50MG	Tofisopam	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Tofisopam
+IMP-2929	TOFYPEACE 100MG	Tofisopam	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Tofisopam
+IMP-2930	TOFYPEACE 50MG	Tofisopam	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Tofisopam
+IMP-2931	TOLPERITAS 150 TABLET	Tolperisone	true	NEEDS_REVIEW		Tolperisone
+IMP-2936	TOPCYNTA 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2940	T-PANDA 200MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-2945	TRAZOCAN 100MG	Trazodone	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-2946	TRAZOCAN 50MG	Trazodone	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-2952	TRAZOSIG 100MG	Trazodone Hcl	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found	
+IMP-2953	TRAZOSIG 50MG	Trazodone Hcl	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found	
+IMP-2956	TREN A 100MG AMP	Trenbolone Acetate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Trenbolone
+IMP-2957	TREN A 100MG INJ 10ML	Trenbolone Acetate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Trenbolone
+IMP-2958	TREN E 200MG INJ 10ML	Trenbolone Enanthate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Trenbolone Enanthate
+IMP-2959	TREN E 200MG INJ 1ML	Trenbolone Enanthate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Trenbolone Enanthate
+IMP-2960	TRENABIX A INJ 10ML	Trenbolone Acetate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Trenbolone
+IMP-2961	TRENABOL INJ 10ML	Trenbolone Acetate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Trenbolone
+IMP-2962	TRENABOL INJ 1ML	Trenbolone Acetate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Trenbolone
+IMP-2963	TRENANTHATE 200MG	Trenbolone Enanthate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Trenbolone Enanthate
+IMP-2965	TRENBOLON INJ 10ML	Trenbolone Enanthate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Trenbolone Enanthate
+IMP-2966	TRENBOLON INJ 1ML	Trenbolone Enanthate	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Trenbolone Enanthate
+IMP-2967	TRENRA MIX 150MG INJ 1ML	Trenbolone Mix Component	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Trenbolone Mix Component
+IMP-2984	TRETOIN 0.1% GEL	Tretinoin	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found	
+IMP-2987	TRICLABEND 250MG	Triclabendazole	true	PARTIALLY_VERIFIED	AUDIT same_name_different_price: price 27 vs ['18'] (sr [2988])	
+IMP-2988	TRICLABEND 250MG	Triclabendazole	true	PARTIALLY_VERIFIED	AUDIT same_name_different_price: price 18 vs ['27'] (sr [2987])	
+IMP-2997	TRIMEZEN MR TAB	Trimetazidine	true	NEEDS_REVIEW		Trimetazidine
+IMP-2999	TRIMZOLE DS TAB	Sulphamethoxazole- + Co-Trimethoprim	true	NEEDS_REVIEW		Sulfamethoxazole, Co-trimethoprim
+IMP-3001	TRIPSOOTH 25MG TAB.	Amitriptyline	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [3002]	
+IMP-3002	TRIPSOOTH 25MG TAB.	Amitriptyline	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [3001]	
+IMP-3012	TRULICITY 0.75/0.05ML	Dulaglutide	true	NEEDS_REVIEW		Dulaglutide
+IMP-3015	TRYPTICAN 10MG	Amitriptyline	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-3016	TRYPTICAN 25MG	Amitriptyline	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-3020	TURINABOL TAB	4-chlorodehydromethyltestosterone	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Chlorodehydromethyltestosterone
+IMP-3021	TYDOL 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3022	TYDOL 50MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3023	TYNEPT TAB	Tianeptine	true	NEEDS_REVIEW		Tianeptine
+IMP-3024	TYPENDOL 100MG RED	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3025	TYPENTA 100MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3026	TYPENTA 150MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3027	TYPENTA 200MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3028	UDAFORCE 100MG	Udenafil	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Udenafil
+IMP-3029	UDAFORCE 200MG	Udenafil	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Udenafil
+IMP-3034	URIHEAL 100MG	Nitrofurantion	true	PARTIALLY_VERIFIED	RESEARCH List generic misspelt NITROFURANTION (pack: Nitrofurantoin)	
+IMP-3040	UV LUBE EYE DROP 10ML	Chloroquine	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: lubricant eye drop (probably carboxymethylcellulose) listed as CHLOROQUINE, which has no ophthalmic form; no manufacturer page found	Chloroquine
+IMP-3050	VALCLOVIR 1000MG	Valacyclovir	true	PARTIALLY_VERIFIED	RESEARCH Healing Pharma logo not visible on this render; manufacturer confirmed via catalogue listing	
+IMP-3054	VALIF 20MG	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3058	VALPODIUM 200MG	Valproate 200Mg, Valproic Acid 87Mg	true	PARTIALLY_VERIFIED	RESEARCH No verified manufacturer pack image found | RESEARCH Pack composition: Sodium Valproate IP 200 mg only; list says Valproate 200mg, Valproic Acid 87mg | RESEARCH Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image	
+IMP-3059	VALPODIUM 500 CR	Controlled-Release Tablets Of Sodium Valproate And Valproic Acid	true	PARTIALLY_VERIFIED	RESEARCH Strength shown only as numeric brand suffix (no unit printed on front panel): 500 | AMBIGUOUS MANUFACTURER: brand listed by both Healing Pharma and American Remedies	
+IMP-3062	VALZAAR H TAB	Valsartan	true	PARTIALLY_VERIFIED	AUDIT incomplete_generic: 'H' variant normally = + hydrochlorothiazide; generic lists VALSARTAN only	
+IMP-3063	VANLID 250MG	Varenicline	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: varenicline is never 250MG; true composition unknown (price Rs 140)	
+IMP-3064	VARDEGRA 20MG	Varenicline	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | AUDIT suspected_wrong_generic: suspected: VARDE- stem and 20MG fit vardenafil (varenicline is 0.5/1mg); listed VARENICLINE	
+IMP-3065	VARDITRA 40MG	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3066	VARDITRA 60MG	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3072	VARNITOP 1MG	Varenicline	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [3073]	
+IMP-3073	VARNITOP 1MG	Varenicline	true	PARTIALLY_VERIFIED	AUDIT exact_duplicate: same name+generic+price as sr [3072]	
+IMP-3078	VEGA 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3079	VEGA EXTRA 120MG	Sildenafil Citrate	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3082	VEGA FORCE 100MG	Sildenafil+dapoxetine	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	Dapoxetine
+IMP-3093	VENTAB DXT 100MG	Desvenlafaxine	true	PARTIALLY_VERIFIED	AUDIT same_name_different_price: price 26 vs ['32'] (sr [3094])	
+IMP-3094	VENTAB DXT 100MG	Desvenlafaxine	true	PARTIALLY_VERIFIED	AUDIT same_name_different_price: price 32 vs ['26'] (sr [3093])	
+IMP-3097	VERMISOL 50MG	Levamisole	true	NEEDS_REVIEW		Levamisole
+IMP-3098	VERTIFORD 16 TAB	Betahistine	true	NEEDS_REVIEW		Betahistine
+IMP-3099	VERTIFORD 24MG	Betahistine	true	NEEDS_REVIEW		Betahistine
+IMP-3100	VERTIN 16MG DT	Betahistine Hcl	true	NEEDS_REVIEW		Betahistine
+IMP-3102	VIAGRA 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3103	VIAGRA 50MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3105	VIDALISTA 10MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3106	VIDALISTA 2.5MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3107	VIDALISTA 20MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3108	VIDALISTA 40MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3109	VIDALISTA 5MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3110	VIDALISTA 60MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3111	VIDALISTA 80MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3112	VIDALISTA 80MG BLACK	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3113	VIDALISTA BLACK 80MG	Tadalafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3117	VIGORE 100MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3118	VIGORE 50MG	Sildenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3123	VILAFINIL 200MG	Modafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3128	VILITRA 10MG	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3129	VILITRA 20MG	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3130	VILITRA 40MG	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3131	VILITRA 60MG	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3132	VILITRA 80MG	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3133	VIROASH 25MG	Mesterolone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Mesterolone
+IMP-3135	VIROPACE 25MG	Mesterolone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Mesterolone
+IMP-3143	VITARA V 40MG	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3144	VITBION FORTE TAB	Vitamin B12	true	NEEDS_REVIEW		Cyanocobalamin
+IMP-3145	VITCOFOL C INJ	Combipack Of Vitamin B Folic Acid & Niacinamide	true	NEEDS_REVIEW		Combipack Of Vitamin B Folic Acid, Niacinamide
+IMP-3153	VOMISTOP 10MG	Domperidone	true	NEEDS_REVIEW		Domperidone
+IMP-3154	VONOSTRUM 20MG	Voriconazole	true	NEEDS_REVIEW	AUDIT suspected_wrong_generic: suspected: voriconazole has no 20mg tablet; VONO- stem and 20MG fit vonoprazan (cf. MONOVONO 20MG, LUPIVON 20MG)	
+IMP-3167	WAKLERT 150MG	Armodafinil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3168	WALCOBAL AMP 1500MG 1ML	Methylcobalamin	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 1500MG vitamin B12 — MCG expected	
+IMP-3169	WALCOBAL AMP 2500MG 1ML	Methylcobalamin	true	PARTIALLY_VERIFIED	AUDIT strength_unit_suspect: 2500MG vitamin B12 — MCG expected	
+IMP-3170	WELLSTAB	Tianeptine	true	NEEDS_REVIEW	Dosage form not stated in name	Tianeptine
+IMP-3171	WELLSTAB ER 37.5MG	Tianeptine	true	NEEDS_REVIEW		Tianeptine
+IMP-3172	WHOO P 7MG ODS 1BOX		true	NEEDS_REVIEW	Supplier list gives no composition | AUDIT missing_generic: generic column blank	
+IMP-3173	WINSTROL 10MG	Stanozolol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it | Dosage form not stated in name; assumed tablet	Stanozolol
+IMP-3174	WINVOL INJ 10ML	Stanozolol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Stanozolol
+IMP-3175	WINVOL INJ 1ML	Stanozolol	false	NEEDS_REVIEW	REGULATORY: not approved for human use in India; inactive until a pharmacist reviews it	Stanozolol
+IMP-3176	WORMCHRIST 1000MG	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Febendazole
+IMP-3177	WORMCHRIST 150MG	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Febendazole
+IMP-3178	WORMCHRIST 222MG	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Febendazole
+IMP-3179	WORMCHRIST 444MG	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Febendazole
+IMP-3180	WORMCHRIST 500MG	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Febendazole
+IMP-3182	WORMENTEL 1000MG	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Febendazole
+IMP-3183	WORMENTEL 150MG	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Febendazole
+IMP-3184	WORMENTEL 222MG	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Febendazole
+IMP-3185	WORMENTEL 444MG	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Febendazole
+IMP-3186	WORMENTEL 500MG	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Febendazole
+IMP-3187	WORMENTEL 888MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-3190	WORMISTAR 222MG	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Febendazole
+IMP-3191	WORMISTAR 444MG	Febendazole	true	NEEDS_REVIEW	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	Febendazole
+IMP-3202	XELUCIP 120MG	Relugolix	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3207	XMALON 25MG	Exemestane	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3209	XTANE 25MG	Exemestane Tab	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3212	YASMIN TAB	Drospirenone + Ethinylestradiol	true	NEEDS_REVIEW		Drospirenone, Ethinyl Estradiol
+IMP-3218	ZAPSIGN 10MG	Zaleplon	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3224	ZHEWITRA 20MG	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3226	ZHEWITRA 60MG	Vardenafil Hcl	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3227	ZHEWITRA SOFT 20	Vardenafil	true	PARTIALLY_VERIFIED	Dosage form not stated in name	
+IMP-3228	ZHEWITRA SOFT 20MG	Vardenafil Hcl	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3232	ZINCO POWER TAB	Vitamins Minerals Zinc With Grape Seed	true	NEEDS_REVIEW		Vitamins Minerals Zinc, Grape Seed
+IMP-3243	ZIVERDO KIT SET	Ivermectin + Zinc Acetate+ Doxycycline	true	NEEDS_REVIEW		
+IMP-3244	ZIYAB 150MG	Fenbendazole	true	PARTIALLY_VERIFIED	Veterinary product: confirm it may be sold by this pharmacy | Dosage form not stated in name; assumed tablet	
+IMP-3245	ZOCAN EYE DROP 5ML	Fluconazole	true	NEEDS_REVIEW		Fluconazole
+IMP-3248	ZOCON AS KIT	Fluconazole,Azithromycin & Secnidazole	true	NEEDS_REVIEW		
+IMP-3256	ZOP 7.5MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | RESEARCH No verified manufacturer pack image found	Zopiclone
+IMP-3257	ZOP 7.5MG WHITE	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3258	ZOPANDA 10MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3259	ZOPANDA 20MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3260	ZOPANDA MAX 25MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3261	ZOPFRESH 10MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3262	ZOPFRESH 20MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3263	ZOPFRESH 7.5MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3264	ZOPFRESH E 6MG	Eszopiclone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3265	ZOPIASH 25MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3266	ZOPICON TAB INTAS	Zopiclone	true	NEEDS_REVIEW		Zopiclone
+IMP-3267	ZOPIDAILY 10MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3268	ZOPIDAILY 7.5MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3269	ZOPIMAX 25MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3270	ZOPIMAXX 20MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | AUDIT same_name_different_price: price 3.5 vs ['6'] (sr [3271])	Zopiclone
+IMP-3271	ZOPIMAXX 20MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | AUDIT same_name_different_price: price 6 vs ['3.5'] (sr [3270])	Zopiclone
+IMP-3272	ZOPIMINI 3.75MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3273	ZOPINAP 10MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3274	ZOPINAP 7.5 MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3275	ZOPIRISE 7.5MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3276	ZOPISIGN 10MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet | RESEARCH No verified manufacturer pack image found	Zopiclone
+IMP-3277	ZOPISIGN 7.5MG	Zopiclone	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Zopiclone
+IMP-3283	ZUBI-D3 INJ.	Cholecalciferol	true	NEEDS_REVIEW		Cholecalciferol
+IMP-3285	ZUBIVOLT 75MG	Tapentadol	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3286	ZUDENA 100MG	Udenafil	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Udenafil
+IMP-3287	ZUDENA 200MG	Udenafil	true	NEEDS_REVIEW	Dosage form not stated in name; assumed tablet	Udenafil
+IMP-3288	ZUNESTAR 2MG	Eszopiclone	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet | RESEARCH No verified manufacturer pack image found	
+IMP-3290	ZYHCG HP 10000IU INJ	Chorionic Gonadotrophin Inj	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-3291	ZYHCG HP 5000IU INJ	Chorionic Gonadotrophin Inj	true	NEEDS_REVIEW		Chorionic Gonadotrophin
+IMP-3293	ZYLOMOX 500MG	Amoxycillin Cap	true	PARTIALLY_VERIFIED	RESEARCH Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)	
+IMP-3294	ZYLOMOX CV 625MG	Amoxycilin And Potassium Clavulante	true	PARTIALLY_VERIFIED	RESEARCH Pack names/shows Signature Phytochemical Industries (manufacturer); HAB Pharmaceuticals lists it on its own catalogue (marketer)	
+IMP-3296	ZYPLON 10MG	Zaleplon	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet	
+IMP-3297	ZYPLON 20MG	Zaleplon	true	PARTIALLY_VERIFIED	Dosage form not stated in name; assumed tablet

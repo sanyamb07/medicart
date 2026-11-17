@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 934,
+  "name": "EVIMECTIN A TAB",
+  "generic": "IVERMECTIN+ALBENDAZOLE",
+  "price": "7.5",
+  "sku": "IMP-0934"
+ },
+ {
+  "sr": 935,
+  "name": "EVIN 400MG SOFTGEL",
+  "generic": "Vitamin E",
+  "price": "2",
+  "sku": "IMP-0935"
+ },
+ {
+  "sr": 936,
+  "name": "EVION 600MG",
+  "generic": "Vitamin E",
+  "price": "5",
+  "sku": "IMP-0936"
+ },
+ {
+  "sr": 937,
+  "name": "EXERMET 500MG SR",
+  "generic": "METFORMIN",
+  "price": "2.5",
+  "sku": "IMP-0937"
+ },
+ {
+  "sr": 938,
+  "name": "EXESIN 25MG",
+  "generic": "EXEMESTANE",
+  "price": "26",
+  "sku": "IMP-0938"
+ },
+ {
+  "sr": 939,
+  "name": "EXO AZI 500MG",
+  "generic": "AZITHROMYCIN",
+  "price": "9",
+  "sku": "IMP-0939"
+ },
+ {
+  "sr": 940,
+  "name": "EXOTIC PLUS EAR DROP 10ML",
+  "generic": "NEOMYCIN,BECLOMETHASONE,CLOTRIMAZOLE AND LIGNOCAINE",
+  "price": "25",
+  "sku": "IMP-0940"
+ },
+ {
+  "sr": 941,
+  "name": "EXOTINE CR 12.5MG",
+  "generic": "PAROXETINE",
+  "price": "2",
+  "sku": "IMP-0941"
+ },
+ {
+  "sr": 942,
+  "name": "EXOTINE CR 25MG",
+  "generic": "PAROXETINE",
+  "price": "4.5",
+  "sku": "IMP-0942"
+ },
+ {
+  "sr": 943,
+  "name": "EXTRA SUPER AVANA TAB",
+  "generic": "AVANAFIL & DAPOXETINE",
+  "price": "93",
+  "sku": "IMP-0943"
+ },
+ {
+  "sr": 944,
+  "name": "EXTRA SUPER FILANA TAB",
+  "generic": "AVANAFIL & DAPOXETINE",
+  "price": "96",
+  "sku": "IMP-0944"
+ },
+ {
+  "sr": 945,
+  "name": "EXTRA SUPER I COT",
+  "generic": "TADALAFIL + DAPOXETINE",
+  "price": "14",
+  "sku": "IMP-0945"
+ },
+ {
+  "sr": 946,
+  "name": "EXTRA SUPER P FORCE TAB",
+  "generic": "SILDENAFIL & DAPOXETINE",
+  "price": "20",
+  "sku": "IMP-0946"
+ },
+ {
+  "sr": 947,
+  "name": "EXTRA SUPER TADARISE TAB",
+  "generic": "TADALAFIL AND DAPOXETINE",
+  "price": "12.5",
+  "sku": "IMP-0947"
+ },
+ {
+  "sr": 948,
+  "name": "EXTRA SUPER VEGAFORCE TAB",
+  "generic": "SILDENAFIL & DAPOXETINE",
+  "price": "14",
+  "sku": "IMP-0948"
+ },
+ {
+  "sr": 949,
+  "name": "EXTRA SUPER VIDALISTA TAB",
+  "generic": "TADALAFIL AND DAPOXETINE",
+  "price": "13",
+  "sku": "IMP-0949"
+ },
+ {
+  "sr": 950,
+  "name": "EXTRA SUPER ZHEWITRA TAB",
+  "generic": "VARDENAFIL AND DAPOXETINE",
+  "price": "31",
+  "sku": "IMP-0950"
+ },
+ {
+  "sr": 951,
+  "name": "EXTREME LEVIFIL SUPER POWER",
+  "generic": "VARDENAFIL + DAPOXETINE",
+  "price": "29",
+  "sku": "IMP-0951"
+ },
+ {
+  "sr": 952,
+  "name": "EXTREME SUPER FILANA TAB",
+  "generic": "AVANAFIL & DAPOXETINE",
+  "price": "51",
+  "sku": "IMP-0952"
+ },
+ {
+  "sr": 953,
+  "name": "EXTREME VEGAFORCE 250MG",
+  "generic": "VARDENAFIL + DAPOXETINE",
+  "price": "17",
+  "sku": "IMP-0953"
+ },
+ {
+  "sr": 954,
+  "name": "EZEMORE 10MG",
+  "generic": "EZETIMIBE",
+  "price": "2.5",
+  "sku": "IMP-0954"
+ },
+ {
+  "sr": 955,
+  "name": "F PECIA",
+  "generic": "FINASTERIDE",
+  "price": "4.5",
+  "sku": "IMP-0955"
+ },
+ {
+  "sr": 956,
+  "name": "FABISPRAY",
+  "generic": "FABISPRAY",
+  "price": "690",
+  "sku": "IMP-0956"
+ },
+ {
+  "sr": 957,
+  "name": "FABKURE 150MG",
+  "generic": "FENBENDAZOLE",
+  "price": "2",
+  "sku": "IMP-0957"
+ },
+ {
+  "sr": 958,
+  "name": "FACE MASK",
+  "generic": "FACE MASK",
+  "price": "3",
+  "sku": "IMP-0958"
+ },
+ {
+  "sr": 959,
+  "name": "FACECLIN GEL 20GM",
+  "generic": "CLINDAMYCIN + NICOTINAMIDE",
+  "price": "158",
+  "sku": "IMP-0959"
+ },
+ {
+  "sr": 960,
+  "name": "FALCIART 60MG INJ",
+  "generic": "ARTESUNATE",
+  "price": "25",
+  "sku": "IMP-0960"
+ },
+ {
+  "sr": 961,
+  "name": "FALCIGO 60MG INJ",
+  "generic": "ARTESUNATE",
+  "price": "130",
+  "sku": "IMP-0961"
+ },
+ {
+  "sr": 962,
+  "name": "FALCIMEF TAB",
+  "generic": "MEFLOQUINE HCL",
+  "price": "27",
+  "sku": "IMP-0962"
+ },
+ {
+  "sr": 963,
+  "name": "FAMOCID 40MG",
+  "generic": "FAMOTIDINE",
+  "price": "1",
+  "sku": "IMP-0963"
+ },
+ {
+  "sr": 964,
+  "name": "FAMONEXT 20MG",
+  "generic": "FAMOTIDINE",
+  "price": "1",
+  "sku": "IMP-0964"
+ },
+ {
+  "sr": 965,
+  "name": "FAMONEXT 40MG",
+  "generic": "FAMOTIDINE",
+  "price": "1",
+  "sku": "IMP-0965"
+ },
+ {
+  "sr": 966,
+  "name": "FAMONEXT 40MG",
+  "generic": "Famotidine",
+  "price": "1",
+  "sku": "IMP-0966"
+ },
+ {
+  "sr": 967,
+  "name": "FANIT 20MG",
+  "generic": "FAMOTIDINE",
+  "price": "1",
+  "sku": "IMP-0967"
+ },
+ {
+  "sr": 968,
+  "name": "FANIT 40MG",
+  "generic": "FAMOTIDINE",
+  "price": "1",
+  "sku": "IMP-0968"
+ },
+ {
+  "sr": 969,
+  "name": "F-BENZ 222MG TAB",
+  "generic": "FENBENDAZOLE",
+  "price": "4",
+  "sku": "IMP-0969"
+ },
+ {
+  "sr": 970,
+  "name": "F-BENZ 444MG TAB",
+  "generic": "FENBENDAZOLE",
+  "price": "6.5",
+  "sku": "IMP-0970"
+ },
+ {
+  "sr": 971,
+  "name": "F-BENZ 500MG TAB",
+  "generic": "FENBENDAZOLE",
+  "price": "7.5",
+  "sku": "IMP-0971"
+ },
+ {
+  "sr": 972,
+  "name": "FCN 150MG",
+  "generic": "FLUCONAZOLE",
+  "price": "9.5",
+  "sku": "IMP-0972"
+ },
+ {
+  "sr": 973,
+  "name": "FCN 200MG",
+  "generic": "FLUCONAZOLE",
+  "price": "8",
+  "sku": "IMP-0973"
+ },
+ {
+  "sr": 974,
+  "name": "FCN 400MG",
+  "generic": "FLUCONAZOLE",
+  "price": "10.5",
+  "sku": "IMP-0974"
+ },
+ {
+  "sr": 975,
+  "name": "FE- PLUS 15 TAB",
+  "generic": "ASCORBIC ACID+ ELEMENTAL IRON + FOLIC ACID+ METHYLCOBALAMIN",
+  "price": "12.5",
+  "sku": "IMP-0975"
+ },
+ {
+  "sr": 976,
+  "name": "FEBENTEL 1000MG",
+  "generic": "FENBENDAZOLE",
+  "price": "11",
+  "sku": "IMP-0976"
+ },
+ {
+  "sr": 977,
+  "name": "FEBENTEL 150MG",
+  "generic": "FENBENDAZOLE",
+  "price": "2.5",
+  "sku": "IMP-0977"
+ },
+ {
+  "sr": 978,
+  "name": "FEBENTEL 222MG",
+  "generic": "FENBENDAZOLE",
+  "price": "3.5",
+  "sku": "IMP-0978"
+ },
+ {
+  "sr": 979,
+  "name": "FEBENTEL 444MG",
+  "generic": "FENBENDAZOLE",
+  "price": "6",
+  "sku": "IMP-0979"
+ },
+ {
+  "sr": 980,
+  "name": "FEBENTEL 500MG",
+  "generic": "FENBENDAZOLE",
+  "price": "7",
+  "sku": "IMP-0980"
+ },
+ {
+  "sr": 981,
+  "name": "FEBUSTAT 40MG",
+  "generic": "FEBUXOSTAT",
+  "price": "18",
+  "sku": "IMP-0981"
+ },
+ {
+  "sr": 982,
+  "name": "FEBUTOP 40MG",
+  "generic": "FEBUXOSTAT",
+  "price": "2.5",
+  "sku": "IMP-0982"
+ },
+ {
+  "sr": 983,
+  "name": "FEBUZA 40MG",
+  "generic": "FEBUXOSTAT",
+  "price": "2",
+  "sku": "IMP-0983"
+ }
+]

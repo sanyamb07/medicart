@@ -1,0 +1,62 @@
+[
+ {
+  "sku": "IMP-0585",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/clobeheal-gm-double-15g/",
+  "official_product_page_url": "https://www.healingpharma.in/product/clobeheal-gm-double-15g/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Strength not visible: pack shows Clobetasol, Gentamicin, Miconazole & Clotrimazole Cream 15g without ingredient strengths",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1235",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/heppra-500-levetiracetam/",
+  "official_product_page_url": "https://www.healingpharma.in/product/heppra-500-levetiracetam/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r3/IMP-1235.png?fit=2000%2C2000&ssl=1",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Heppra-500.png?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/heppra-500-levetiracetam/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Levetiracetam Tablets IP 500 mg; Heppra 500 mg; 10x10 Tablets; Healing Pharma",
+   "qa_note": "Lead visual check"
+  }
+ },
+ {
+  "sku": "IMP-1849",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/morning-pill-levonorgestrel-tablets/",
+  "official_product_page_url": "https://www.healingpharma.in/product/morning-pill-levonorgestrel-tablets/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r3/IMP-1849.jpg?fit=1000%2C1000&ssl=1",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Morning-Pill-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/morning-pill-levonorgestrel-tablets/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Levonorgestrel Tablets IP 1.5 mg; Morning Pill; 1 Tablet; Healing Pharma",
+   "qa_note": "Lead visual check"
+  }
+ },
+ {
+  "sku": "IMP-2756",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tastylia-20/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tastylia-20/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/r3/IMP-2756.jpg?fit=2000%2C2000&ssl=1",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Tastylia-20.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/tastylia-20/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Tadalafil Tablets IP 20 mg; Tastylia 20; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Lead visual check; manufacturer catalogue title says Oral Strips but the pack image is the tablet"
+  }
+ }
+]

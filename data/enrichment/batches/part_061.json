@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 3176,
+  "name": "WORMCHRIST 1000MG",
+  "generic": "FEBENDAZOLE",
+  "price": "12",
+  "sku": "IMP-3176"
+ },
+ {
+  "sr": 3177,
+  "name": "WORMCHRIST 150MG",
+  "generic": "FEBENDAZOLE",
+  "price": "2",
+  "sku": "IMP-3177"
+ },
+ {
+  "sr": 3178,
+  "name": "WORMCHRIST 222MG",
+  "generic": "FEBENDAZOLE",
+  "price": "3.5",
+  "sku": "IMP-3178"
+ },
+ {
+  "sr": 3179,
+  "name": "WORMCHRIST 444MG",
+  "generic": "FEBENDAZOLE",
+  "price": "6.5",
+  "sku": "IMP-3179"
+ },
+ {
+  "sr": 3180,
+  "name": "WORMCHRIST 500MG",
+  "generic": "FEBENDAZOLE",
+  "price": "7",
+  "sku": "IMP-3180"
+ },
+ {
+  "sr": 3181,
+  "name": "WORMEECLEAN 250MG TAB",
+  "generic": "PYRANTEL PAMOATE",
+  "price": "4",
+  "sku": "IMP-3181"
+ },
+ {
+  "sr": 3182,
+  "name": "WORMENTEL 1000MG",
+  "generic": "FEBENDAZOLE",
+  "price": "12",
+  "sku": "IMP-3182"
+ },
+ {
+  "sr": 3183,
+  "name": "WORMENTEL 150MG",
+  "generic": "FEBENDAZOLE",
+  "price": "2",
+  "sku": "IMP-3183"
+ },
+ {
+  "sr": 3184,
+  "name": "WORMENTEL 222MG",
+  "generic": "FEBENDAZOLE",
+  "price": "4",
+  "sku": "IMP-3184"
+ },
+ {
+  "sr": 3185,
+  "name": "WORMENTEL 444MG",
+  "generic": "FEBENDAZOLE",
+  "price": "7",
+  "sku": "IMP-3185"
+ },
+ {
+  "sr": 3186,
+  "name": "WORMENTEL 500MG",
+  "generic": "FEBENDAZOLE",
+  "price": "7.25",
+  "sku": "IMP-3186"
+ },
+ {
+  "sr": 3187,
+  "name": "WORMENTEL 888MG",
+  "generic": "Fenbendazole",
+  "price": "11",
+  "sku": "IMP-3187"
+ },
+ {
+  "sr": 3188,
+  "name": "WORMIASH 100MG TAB.",
+  "generic": "MEBENDAZOLE",
+  "price": "2",
+  "sku": "IMP-3188"
+ },
+ {
+  "sr": 3189,
+  "name": "WORMIASH 500MG TAB.",
+  "generic": "MEBENDAZOLE",
+  "price": "6",
+  "sku": "IMP-3189"
+ },
+ {
+  "sr": 3190,
+  "name": "WORMISTAR 222MG",
+  "generic": "FEBENDAZOLE",
+  "price": "3.5",
+  "sku": "IMP-3190"
+ },
+ {
+  "sr": 3191,
+  "name": "WORMISTAR 444MG",
+  "generic": "FEBENDAZOLE",
+  "price": "6.5",
+  "sku": "IMP-3191"
+ },
+ {
+  "sr": 3192,
+  "name": "WOXXAKEM 100MG",
+  "generic": "FLUOXAMINE",
+  "price": "6.5",
+  "sku": "IMP-3192"
+ },
+ {
+  "sr": 3193,
+  "name": "WOXXAKEM 50MG",
+  "generic": "FLUOXAMINE",
+  "price": "3.5",
+  "sku": "IMP-3193"
+ },
+ {
+  "sr": 3194,
+  "name": "WYOSAFE 5MG TAB",
+  "generic": "PREDNISOLONE DISPERSIBLE",
+  "price": "1",
+  "sku": "IMP-3194"
+ },
+ {
+  "sr": 3195,
+  "name": "WYSOLONE 10MG",
+  "generic": "PREDNISOLONE",
+  "price": "1.5",
+  "sku": "IMP-3195"
+ },
+ {
+  "sr": 3196,
+  "name": "WYSOLONE 5MG",
+  "generic": "PREDNISOLONE",
+  "price": "1",
+  "sku": "IMP-3196"
+ },
+ {
+  "sr": 3197,
+  "name": "WYSOSAFE 10MG",
+  "generic": "PREDNISOLONE",
+  "price": "1",
+  "sku": "IMP-3197"
+ },
+ {
+  "sr": 3198,
+  "name": "XABCLOT 20MG",
+  "generic": "RIVAROXABAN",
+  "price": "4",
+  "sku": "IMP-3198"
+ },
+ {
+  "sr": 3199,
+  "name": "XAPAVIR 50MG TAB",
+  "generic": "DOLUTEGRAVIR",
+  "price": "21",
+  "sku": "IMP-3199"
+ },
+ {
+  "sr": 3200,
+  "name": "XARELTO 15MG",
+  "generic": "RIVAROXABAN TAB",
+  "price": "64",
+  "sku": "IMP-3200"
+ },
+ {
+  "sr": 3201,
+  "name": "XARELTO 20MG",
+  "generic": "RIVAROXABAN TAB",
+  "price": "63",
+  "sku": "IMP-3201"
+ },
+ {
+  "sr": 3202,
+  "name": "XELUCIP 120MG",
+  "generic": "RELUGOLIX",
+  "price": "238",
+  "sku": "IMP-3202"
+ },
+ {
+  "sr": 3203,
+  "name": "XEPAR 20MG",
+  "generic": "PAROXETINE HCI TAB",
+  "price": "6",
+  "sku": "IMP-3203"
+ },
+ {
+  "sr": 3204,
+  "name": "XEPAR 30MG",
+  "generic": "PAROXETINE HCI TAB",
+  "price": "10",
+  "sku": "IMP-3204"
+ },
+ {
+  "sr": 3205,
+  "name": "XEPAR 40MG",
+  "generic": "PAROXETINE HCI TAB",
+  "price": "11",
+  "sku": "IMP-3205"
+ },
+ {
+  "sr": 3206,
+  "name": "XIGDUO XR 10/1000MG",
+  "generic": "DAPAGLIFLOZIN + METFORMIN",
+  "price": "58",
+  "sku": "IMP-3206"
+ },
+ {
+  "sr": 3207,
+  "name": "XMALON 25MG",
+  "generic": "EXEMESTANE",
+  "price": "21",
+  "sku": "IMP-3207"
+ },
+ {
+  "sr": 3208,
+  "name": "XMET 250MG",
+  "generic": "METFORMIN HYDROCHLORIDE",
+  "price": "1.5",
+  "sku": "IMP-3208"
+ },
+ {
+  "sr": 3209,
+  "name": "XTANE 25MG",
+  "generic": "EXEMESTANE TAB",
+  "price": "31",
+  "sku": "IMP-3209"
+ },
+ {
+  "sr": 3210,
+  "name": "XYLOCAINE 2% INJ",
+  "generic": "Lidocaine",
+  "price": "28",
+  "sku": "IMP-3210"
+ },
+ {
+  "sr": 3211,
+  "name": "XYLOCAINE 5% OINT 30GM",
+  "generic": "LIDOCAINE",
+  "price": "55",
+  "sku": "IMP-3211"
+ },
+ {
+  "sr": 3212,
+  "name": "YASMIN TAB",
+  "generic": "DROSPIRENONE + ETHINYLESTRADIOL",
+  "price": "27",
+  "sku": "IMP-3212"
+ },
+ {
+  "sr": 3213,
+  "name": "YDRO 200MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "4",
+  "sku": "IMP-3213"
+ },
+ {
+  "sr": 3214,
+  "name": "YDRO 400MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "7",
+  "sku": "IMP-3214"
+ },
+ {
+  "sr": 3215,
+  "name": "YOGUT CAP",
+  "generic": "PRE & PROBIOTIC",
+  "price": "18",
+  "sku": "IMP-3215"
+ },
+ {
+  "sr": 3216,
+  "name": "ZAHA EYE DROP 0.1%",
+  "generic": "AZITHROMYCIN",
+  "price": "140",
+  "sku": "IMP-3216"
+ },
+ {
+  "sr": 3217,
+  "name": "ZAHA EYE DROP 3ML",
+  "generic": "AZITHROMYCIN",
+  "price": "155",
+  "sku": "IMP-3217"
+ },
+ {
+  "sr": 3218,
+  "name": "ZAPSIGN 10MG",
+  "generic": "ZALEPLON",
+  "price": "3.5",
+  "sku": "IMP-3218"
+ },
+ {
+  "sr": 3219,
+  "name": "ZBD PLUS TAB",
+  "generic": "ALBENDAZOLE + IVERMECTIN",
+  "price": "3.5",
+  "sku": "IMP-3219"
+ },
+ {
+  "sr": 3220,
+  "name": "ZENICOOL 120MG",
+  "generic": "ORLISTAT",
+  "price": "8",
+  "sku": "IMP-3220"
+ },
+ {
+  "sr": 3221,
+  "name": "ZEP CR 200MG",
+  "generic": "CARBAMAZEPINE",
+  "price": "2.5",
+  "sku": "IMP-3221"
+ },
+ {
+  "sr": 3222,
+  "name": "ZEPTOL CR 200MG",
+  "generic": "CARBAMAZEPINE",
+  "price": "2.5",
+  "sku": "IMP-3222"
+ },
+ {
+  "sr": 3223,
+  "name": "ZETIHEAL TAB",
+  "generic": "EZETIMIBE",
+  "price": "2.5",
+  "sku": "IMP-3223"
+ },
+ {
+  "sr": 3224,
+  "name": "ZHEWITRA 20MG",
+  "generic": "VARDENAFIL",
+  "price": "7",
+  "sku": "IMP-3224"
+ },
+ {
+  "sr": 3225,
+  "name": "ZHEWITRA 20MG ORAL JELLY",
+  "generic": "VARDENAFIL",
+  "price": "110",
+  "sku": "IMP-3225"
+ }
+]

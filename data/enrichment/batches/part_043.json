@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2246,
+  "name": "PREGAZEAL 300MG",
+  "generic": "PREGABALIN",
+  "price": "3.5",
+  "sku": "IMP-2246"
+ },
+ {
+  "sr": 2247,
+  "name": "PREGCIA 300MG",
+  "generic": "PREGABALIN",
+  "price": "3",
+  "sku": "IMP-2247"
+ },
+ {
+  "sr": 2248,
+  "name": "PREGICA 300MG",
+  "generic": "PREGABALIN",
+  "price": "3.5",
+  "sku": "IMP-2248"
+ },
+ {
+  "sr": 2249,
+  "name": "PREMARIN 0.3MG",
+  "generic": "CONJUGATED ESTROGENS",
+  "price": "28",
+  "sku": "IMP-2249"
+ },
+ {
+  "sr": 2250,
+  "name": "PREMARIN 0.625MG",
+  "generic": "CONJUGATED ESTROGENS",
+  "price": "36",
+  "sku": "IMP-2250"
+ },
+ {
+  "sr": 2251,
+  "name": "PREMARIN VAGINAL CREAM 14GM",
+  "generic": "CONJUGATED ESTROGENS",
+  "price": "440",
+  "sku": "IMP-2251"
+ },
+ {
+  "sr": 2252,
+  "name": "PRESLONE 5MG",
+  "generic": "PREDNISOLONE",
+  "price": "1",
+  "sku": "IMP-2252"
+ },
+ {
+  "sr": 2253,
+  "name": "PREVENTION KIT",
+  "generic": "FIRST AID KIT",
+  "price": "300",
+  "sku": "IMP-2253"
+ },
+ {
+  "sr": 2254,
+  "name": "PRIFEN 500MG",
+  "generic": "FENBENDAZOLE",
+  "price": "7",
+  "sku": "IMP-2254"
+ },
+ {
+  "sr": 2255,
+  "name": "PRILOX CREAM",
+  "generic": "LIDOCAINE+ PRILOCAINE",
+  "price": "550",
+  "sku": "IMP-2255"
+ },
+ {
+  "sr": 2256,
+  "name": "PRIMAPEXOLE 1MG",
+  "generic": "PRAMIPEXOLE",
+  "price": "8",
+  "sku": "IMP-2256"
+ },
+ {
+  "sr": 2257,
+  "name": "PRIMAQUINE 15MG TAB",
+  "generic": "",
+  "price": "2.5",
+  "sku": "IMP-2257"
+ },
+ {
+  "sr": 2263,
+  "name": "PRIMONT-N TAB",
+  "generic": "NORETHISTERONE",
+  "price": "12",
+  "sku": "IMP-2263"
+ },
+ {
+  "sr": 2265,
+  "name": "PROCHLOROMETIL MD",
+  "generic": "PROCHLORPERAZINE MALEATE",
+  "price": "2",
+  "sku": "IMP-2265"
+ },
+ {
+  "sr": 2266,
+  "name": "PRODEP-60MG CAP",
+  "generic": "FLUOXETINE",
+  "price": "10",
+  "sku": "IMP-2266"
+ },
+ {
+  "sr": 2267,
+  "name": "PROGESTONE-100MG CAP.",
+  "generic": "Progesterone",
+  "price": "5.5",
+  "sku": "IMP-2267"
+ },
+ {
+  "sr": 2268,
+  "name": "PROGLOB 5GM",
+  "generic": "Human Normal Immunoglobulin",
+  "price": "7875",
+  "sku": "IMP-2268"
+ },
+ {
+  "sr": 2269,
+  "name": "PROGUHEAL 100MG",
+  "generic": "PROGUANIL",
+  "price": "2",
+  "sku": "IMP-2269"
+ },
+ {
+  "sr": 2270,
+  "name": "PROGYDOL 2MG",
+  "generic": "ESTRADIOL VALERATE",
+  "price": "3.5",
+  "sku": "IMP-2270"
+ },
+ {
+  "sr": 2271,
+  "name": "PROGYFINE SR 200MG TAB.",
+  "generic": "PROGESTERONE",
+  "price": "9",
+  "sku": "IMP-2271"
+ },
+ {
+  "sr": 2272,
+  "name": "PROGYNOVA 1MG",
+  "generic": "ESTRADIOL VALERATE",
+  "price": "12",
+  "sku": "IMP-2272"
+ },
+ {
+  "sr": 2273,
+  "name": "PROGYNOVA 2MG",
+  "generic": "ESTRADIOL VALERATE",
+  "price": "17.5",
+  "sku": "IMP-2273"
+ },
+ {
+  "sr": 2274,
+  "name": "PROMARGAN 2MG INJ",
+  "generic": "PROMETHAZINE",
+  "price": "5",
+  "sku": "IMP-2274"
+ },
+ {
+  "sr": 2275,
+  "name": "PROMINAD 100MG",
+  "generic": "CANAGLIFLOZIN",
+  "price": "51",
+  "sku": "IMP-2275"
+ },
+ {
+  "sr": 2276,
+  "name": "PROMTRIZ 25MG",
+  "generic": "PROMETHAZINE",
+  "price": "2",
+  "sku": "IMP-2276"
+ },
+ {
+  "sr": 2277,
+  "name": "PRONIR 300MG",
+  "generic": "CEFDINIR",
+  "price": "16.5",
+  "sku": "IMP-2277"
+ },
+ {
+  "sr": 2278,
+  "name": "PROPYSALIC NF OINT 20GM",
+  "generic": "CLOBETASOL + SALICYLIC ACID",
+  "price": "165",
+  "sku": "IMP-2278"
+ },
+ {
+  "sr": 2279,
+  "name": "PROSCALPIN 1MG",
+  "generic": "FINASTERIDE",
+  "price": "1",
+  "sku": "IMP-2279"
+ },
+ {
+  "sr": 2280,
+  "name": "PROSCARE 5MG",
+  "generic": "FINASTERIDE",
+  "price": "2.5",
+  "sku": "IMP-2280"
+ },
+ {
+  "sr": 2281,
+  "name": "PROSOMA 350MG",
+  "generic": "CARISOPRODOL",
+  "price": "2",
+  "sku": "IMP-2281"
+ },
+ {
+  "sr": 2282,
+  "name": "PROSTACEL 500MG INJ",
+  "generic": "ALPROSTADIL",
+  "price": "2200",
+  "sku": "IMP-2282"
+ },
+ {
+  "sr": 2283,
+  "name": "PROVANOL 20MG",
+  "generic": "PROPRANOLOL",
+  "price": "3",
+  "sku": "IMP-2283"
+ },
+ {
+  "sr": 2284,
+  "name": "PROVANOL SR 40MG",
+  "generic": "PROPRANOLOL",
+  "price": "8",
+  "sku": "IMP-2284"
+ },
+ {
+  "sr": 2285,
+  "name": "PROVANOL SR 80MG",
+  "generic": "PROPRANOLOL",
+  "price": "7",
+  "sku": "IMP-2285"
+ },
+ {
+  "sr": 2286,
+  "name": "PROVILBOL TAB",
+  "generic": "MESTEROLONE",
+  "price": "21",
+  "sku": "IMP-2286"
+ },
+ {
+  "sr": 2287,
+  "name": "PROVIRONUM TAB",
+  "generic": "MESTEROLONE",
+  "price": "46.5",
+  "sku": "IMP-2287"
+ },
+ {
+  "sr": 2288,
+  "name": "PROZOLE P TAB",
+  "generic": "PANTOPRAZOLE",
+  "price": "1.75",
+  "sku": "IMP-2288"
+ },
+ {
+  "sr": 2289,
+  "name": "PRUCOLPRIDE 1MG",
+  "generic": "PRUCALOPRIDE",
+  "price": "6.5",
+  "sku": "IMP-2289"
+ },
+ {
+  "sr": 2290,
+  "name": "PRUCOLPRIDE 2MG",
+  "generic": "PRUCALOPRIDE",
+  "price": "7.5",
+  "sku": "IMP-2290"
+ },
+ {
+  "sr": 2291,
+  "name": "PRUVICT 2MG",
+  "generic": "PRUCALOPRIDE",
+  "price": "32",
+  "sku": "IMP-2291"
+ },
+ {
+  "sr": 2292,
+  "name": "PRYMAQIN 7.5 TAB",
+  "generic": "PRIMAQUINE",
+  "price": "2.5",
+  "sku": "IMP-2292"
+ },
+ {
+  "sr": 2293,
+  "name": "PSYCOMER 50 SR TAB",
+  "generic": "AMITRIPTYLINE",
+  "price": "2.75",
+  "sku": "IMP-2293"
+ },
+ {
+  "sr": 2294,
+  "name": "PUBERGEN JO 7500 IU INJ",
+  "generic": "HUMAN CHORIONIC GONADOTROPHIN-7500IU",
+  "price": "480",
+  "sku": "IMP-2294"
+ },
+ {
+  "sr": 2295,
+  "name": "PUBERGREN HP 10000IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN INJ",
+  "price": "535",
+  "sku": "IMP-2295"
+ },
+ {
+  "sr": 2296,
+  "name": "PUBERGREN HP 2000IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN INJ",
+  "price": "200",
+  "sku": "IMP-2296"
+ },
+ {
+  "sr": 2297,
+  "name": "PUBERGREN HP 5000 INJ",
+  "generic": "CHORIONIC GONADOTROPHIN INJ",
+  "price": "270",
+  "sku": "IMP-2297"
+ },
+ {
+  "sr": 2298,
+  "name": "PUBERGREN HP NU 10000IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN INJ",
+  "price": "480",
+  "sku": "IMP-2298"
+ },
+ {
+  "sr": 2299,
+  "name": "PUREGRAF 150IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN INJ",
+  "price": "480",
+  "sku": "IMP-2299"
+ },
+ {
+  "sr": 2300,
+  "name": "PURETRIG HP 5000IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN INJ",
+  "price": "200",
+  "sku": "IMP-2300"
+ },
+ {
+  "sr": 2301,
+  "name": "Q SIZ SR 400MG",
+  "generic": "QUETIAPINE",
+  "price": "13",
+  "sku": "IMP-2301"
+ }
+]

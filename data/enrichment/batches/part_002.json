@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 160,
+  "name": "ARPIZOL 5MG",
+  "generic": "ARIPIRAZOLE",
+  "price": "9",
+  "sku": "IMP-0160"
+ },
+ {
+  "sr": 161,
+  "name": "ARRENO CAP",
+  "generic": "ASPIRIN + DIPYRIDAMOLE",
+  "price": "3.5",
+  "sku": "IMP-0161"
+ },
+ {
+  "sr": 162,
+  "name": "ARTECAN 120MG INJ",
+  "generic": "ARTESUNATE",
+  "price": "40",
+  "sku": "IMP-0162"
+ },
+ {
+  "sr": 163,
+  "name": "ARTECAN 60MG INJ",
+  "generic": "ARTESUNATE",
+  "price": "30",
+  "sku": "IMP-0163"
+ },
+ {
+  "sr": 164,
+  "name": "ARTEEMAXX 100MG",
+  "generic": "ARTESUNATE",
+  "price": "9",
+  "sku": "IMP-0164"
+ },
+ {
+  "sr": 165,
+  "name": "ARTEEMAXX 200MG",
+  "generic": "ARTESUNATE",
+  "price": "16",
+  "sku": "IMP-0165"
+ },
+ {
+  "sr": 166,
+  "name": "ARTEEMAXX 50MG",
+  "generic": "ARTESUNATE",
+  "price": "6",
+  "sku": "IMP-0166"
+ },
+ {
+  "sr": 167,
+  "name": "Sildamax tablet",
+  "generic": "ARTEMISININ",
+  "price": "5.5",
+  "sku": "IMP-0167"
+ },
+ {
+  "sr": 168,
+  "name": "ARTESUNATE 100MG",
+  "generic": "ARTESUNATE",
+  "price": "9",
+  "sku": "IMP-0168"
+ },
+ {
+  "sr": 169,
+  "name": "ARTISTAR 100MG",
+  "generic": "ARTESUNATE",
+  "price": "9",
+  "sku": "IMP-0169"
+ },
+ {
+  "sr": 170,
+  "name": "ARTVIGIL 150MG",
+  "generic": "ARMODAFINIL",
+  "price": "9",
+  "sku": "IMP-0170"
+ },
+ {
+  "sr": 171,
+  "name": "ARTVIGIL 250MG",
+  "generic": "ARMODAFINIL",
+  "price": "15",
+  "sku": "IMP-0171"
+ },
+ {
+  "sr": 172,
+  "name": "ARTVIGIL 50MG",
+  "generic": "ARMODAFINIL",
+  "price": "3.5",
+  "sku": "IMP-0172"
+ },
+ {
+  "sr": 173,
+  "name": "ARZEP SPRAY 10ML",
+  "generic": "AZELASTINE",
+  "price": "420",
+  "sku": "IMP-0173"
+ },
+ {
+  "sr": 174,
+  "name": "ASCOAIR 100MCG INHALER",
+  "generic": "ASCORBIC ACID VITAMIN C",
+  "price": "100",
+  "sku": "IMP-0174"
+ },
+ {
+  "sr": 175,
+  "name": "ASCORBIC ACID INJ 2ML",
+  "generic": "ASCORBIC ACID",
+  "price": "5",
+  "sku": "IMP-0175"
+ },
+ {
+  "sr": 176,
+  "name": "ASCORCAN INJ",
+  "generic": "ASCORBIC ACID",
+  "price": "30",
+  "sku": "IMP-0176"
+ },
+ {
+  "sr": 177,
+  "name": "ASHWAGANDHA 500MG",
+  "generic": "",
+  "price": "7.5",
+  "sku": "IMP-0177"
+ },
+ {
+  "sr": 178,
+  "name": "ASKLEROL 3% INJ",
+  "generic": "POLIDOCANOL",
+  "price": "140",
+  "sku": "IMP-0178"
+ },
+ {
+  "sr": 179,
+  "name": "ASPADOL 100MG",
+  "generic": "TAPENTADOL",
+  "price": "13",
+  "sku": "IMP-0179"
+ },
+ {
+  "sr": 180,
+  "name": "ASPADOL 50MG",
+  "generic": "TAPENTADOL",
+  "price": "7.5",
+  "sku": "IMP-0180"
+ },
+ {
+  "sr": 181,
+  "name": "ASPADOL ER 150MG",
+  "generic": "TAPENTADOL",
+  "price": "17",
+  "sku": "IMP-0181"
+ },
+ {
+  "sr": 182,
+  "name": "ASPADOL ER 200MG",
+  "generic": "TAPENTADOL",
+  "price": "21",
+  "sku": "IMP-0182"
+ },
+ {
+  "sr": 183,
+  "name": "ASTHAFEN TAB",
+  "generic": "SALBUTAMOL",
+  "price": "6",
+  "sku": "IMP-0183"
+ },
+ {
+  "sr": 184,
+  "name": "ASTHALIN 2MG",
+  "generic": "SALBUTAMOL",
+  "price": "1",
+  "sku": "IMP-0184"
+ },
+ {
+  "sr": 185,
+  "name": "ASTHALIN 4MG",
+  "generic": "SALBUTAMOL",
+  "price": "1",
+  "sku": "IMP-0185"
+ },
+ {
+  "sr": 186,
+  "name": "ASTHALIN INHR 200MD",
+  "generic": "SALBUTAMOL",
+  "price": "145",
+  "sku": "IMP-0186"
+ },
+ {
+  "sr": 187,
+  "name": "ASTHALIN RES 2.5ML",
+  "generic": "SALBUTAMOL",
+  "price": "6.5",
+  "sku": "IMP-0187"
+ },
+ {
+  "sr": 188,
+  "name": "ATARAX 25MG",
+  "generic": "HYDROXYZINE HCL",
+  "price": "5.5",
+  "sku": "IMP-0188"
+ },
+ {
+  "sr": 189,
+  "name": "ATARISE 25MG",
+  "generic": "HYDROXYZINE HCL",
+  "price": "2",
+  "sku": "IMP-0189"
+ },
+ {
+  "sr": 190,
+  "name": "ATENHEAL 100MG",
+  "generic": "ATENOLOL",
+  "price": "1",
+  "sku": "IMP-0190"
+ },
+ {
+  "sr": 191,
+  "name": "ATENHEAL 50MG",
+  "generic": "ATENOLOL",
+  "price": "1",
+  "sku": "IMP-0191"
+ },
+ {
+  "sr": 192,
+  "name": "ATLURA 40MG",
+  "generic": "LURASIDONE HYDROCHLORIDE",
+  "price": "14.5",
+  "sku": "IMP-0192"
+ },
+ {
+  "sr": 193,
+  "name": "ATOMOXET 10MG",
+  "generic": "ATOMOXETINE  HCL",
+  "price": "2.5",
+  "sku": "IMP-0193"
+ },
+ {
+  "sr": 194,
+  "name": "ATOMOXET 25MG",
+  "generic": "ATOMOXETINE  HCL",
+  "price": "5.25",
+  "sku": "IMP-0194"
+ },
+ {
+  "sr": 195,
+  "name": "ATOMOXET 40MG",
+  "generic": "ATOMOXETINE  HCL",
+  "price": "6.5",
+  "sku": "IMP-0195"
+ },
+ {
+  "sr": 196,
+  "name": "ATORBEST 10",
+  "generic": "ATORVASTATIN",
+  "price": "2",
+  "sku": "IMP-0196"
+ },
+ {
+  "sr": 197,
+  "name": "ATORBEST 20MG",
+  "generic": "ATORVASTATIN",
+  "price": "3",
+  "sku": "IMP-0197"
+ },
+ {
+  "sr": 198,
+  "name": "ATORLIP 20MG",
+  "generic": "ATORVASTATIN",
+  "price": "12",
+  "sku": "IMP-0198"
+ },
+ {
+  "sr": 199,
+  "name": "ATORVAFINE 10MG",
+  "generic": "ATORVASTATIN",
+  "price": "1",
+  "sku": "IMP-0199"
+ },
+ {
+  "sr": 200,
+  "name": "ATORVAFINE 20MG",
+  "generic": "ATORVASTATIN",
+  "price": "1.5",
+  "sku": "IMP-0200"
+ },
+ {
+  "sr": 201,
+  "name": "ATORVAFINE 40MG",
+  "generic": "ATORVASTATIN",
+  "price": "2",
+  "sku": "IMP-0201"
+ },
+ {
+  "sr": 202,
+  "name": "ATOXIT 25MG",
+  "generic": "ATOMEXITINE",
+  "price": "5",
+  "sku": "IMP-0202"
+ },
+ {
+  "sr": 203,
+  "name": "ATOXIT 40MG",
+  "generic": "ATOMEXITINE",
+  "price": "6",
+  "sku": "IMP-0203"
+ },
+ {
+  "sr": 204,
+  "name": "ATROCAN INJ 1ML",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "3",
+  "sku": "IMP-0204"
+ },
+ {
+  "sr": 205,
+  "name": "AUGEMENTIN 1000MG DUO",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "49",
+  "sku": "IMP-0205"
+ },
+ {
+  "sr": 206,
+  "name": "AUGMENTIN (R) 1000MG DUO",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "54",
+  "sku": "IMP-0206"
+ },
+ {
+  "sr": 207,
+  "name": "AUGMENTIN 625MG",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "17",
+  "sku": "IMP-0207"
+ },
+ {
+  "sr": 208,
+  "name": "AUGMENTIN DDS SUSP 30ML",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "60",
+  "sku": "IMP-0208"
+ },
+ {
+  "sr": 209,
+  "name": "AUGMENTIN DUO 625 TAB",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "17",
+  "sku": "IMP-0209"
+ }
+]

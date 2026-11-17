@@ -1,0 +1,1907 @@
+[
+ {
+  "sr": 160,
+  "sku": "IMP-0160",
+  "name": "ARPIZOL 5MG",
+  "manufacturer": "Sun Pharmaceutical Industries Ltd.",
+  "manufacturer_source_url": "https://sunpharma.com/india-products/",
+  "official_product_page_url": "https://sunpharma.com/india-products/",
+  "composition_on_source": "ARIPIPRAZOLE 5 MG (listing row: 'ARPIZOL 5 MG TABLET 10 | ARIPIPRAZOLE | 5 MG | TABLET')",
+  "strength": "5 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Official Sun Pharma India product list row matches. List generic 'ARIPIRAZOLE' is a misspelling of ARIPIPRAZOLE.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Sun Pharma India product list is a table with no product images; no official pack image found."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image",
+   "Generic name misspelled in source list (ARIPIRAZOLE -> ARIPIPRAZOLE)"
+  ],
+  "sources_consulted": [
+   "https://sunpharma.com/india-products/",
+   "https://www.cphi-online.com/product/arpizol-5/ (not used as source)"
+  ]
+ },
+ {
+  "sr": 161,
+  "sku": "IMP-0161",
+  "name": "ARRENO CAP",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings attribute ARRENO (aspirin 25 mg + dipyridamole 200 mg ER capsule) to Intas; no official Intas page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed on official site"
+  ],
+  "sources_consulted": [
+   "web search: Arreno; site search intaspharma.com (no results)"
+  ]
+ },
+ {
+  "sr": 162,
+  "sku": "IMP-0162",
+  "name": "ARTECAN 120MG INJ",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Marketplace listings attribute ARTECAN artesunate injection to American Remedies; not confirmed on an official site.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed (no official website found)"
+  ],
+  "sources_consulted": [
+   "web search: Artecan artesunate injection (results only IndiaMART/marketplaces)"
+  ]
+ },
+ {
+  "sr": 163,
+  "sku": "IMP-0163",
+  "name": "ARTECAN 60MG INJ",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "As SR 162 (60 mg strength). Not confirmed on an official site.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed"
+  ],
+  "sources_consulted": [
+   "web search: Artecan artesunate injection"
+  ]
+ },
+ {
+  "sr": 164,
+  "sku": "IMP-0164",
+  "name": "ARTEEMAXX 100MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Only an IndiaMART listing for ARTEEMAXX 200 mg artesunate tablets; no manufacturer named or official site found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "web search: Arteemaxx artesunate"
+  ]
+ },
+ {
+  "sr": 165,
+  "sku": "IMP-0165",
+  "name": "ARTEEMAXX 200MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Only an IndiaMART listing for ARTEEMAXX 200 mg artesunate tablets; no manufacturer named or official site found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "web search: Arteemaxx artesunate"
+  ]
+ },
+ {
+  "sr": 166,
+  "sku": "IMP-0166",
+  "name": "ARTEEMAXX 50MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Only an IndiaMART listing for ARTEEMAXX 200 mg artesunate tablets; no manufacturer named or official site found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown"
+  ],
+  "sources_consulted": [
+   "web search: Arteemaxx artesunate"
+  ]
+ },
+ {
+  "sr": 167,
+  "sku": "IMP-0167",
+  "name": "Sildamax tablet",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "NOT RESEARCHED: the web search for this row was rejected by the user mid-task. List pairs brand 'Sildamax' (name suggests sildenafil) with generic ARTEMISININ - likely a wrong-generic row.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Not researched."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not researched - web search rejected by user; re-run when allowed",
+   "Suspected wrong generic (brand name suggests sildenafil, list says artemisinin)"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 168,
+  "sku": "IMP-0168",
+  "name": "ARTESUNATE 100MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Row is a generic name (ARTESUNATE 100MG) with no brand; manufacturer cannot be determined.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Generic-name row, no brand - cannot attribute manufacturer"
+  ],
+  "sources_consulted": [
+   "n/a (no brand to research)"
+  ]
+ },
+ {
+  "sr": 169,
+  "sku": "IMP-0169",
+  "name": "ARTISTAR 100MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "NOT RESEARCHED: the web search for this row was rejected by the user mid-task. ARTISTAR 100MG artesunate - not researched.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Not researched."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Not researched - web search rejected by user; re-run when allowed"
+  ],
+  "sources_consulted": []
+ },
+ {
+  "sr": 170,
+  "sku": "IMP-0170",
+  "name": "ARTVIGIL 150MG",
+  "manufacturer": "HAB Pharmaceuticals & Research Ltd.",
+  "manufacturer_source_url": "https://habpharma.com/product/artvigil-150-tab/",
+  "official_product_page_url": "https://habpharma.com/product/artvigil-150-tab/",
+  "composition_on_source": "ARTVIGIL 150 TAB (ARMODAFINIL 150MG)",
+  "strength": "150 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Official habpharma.com product entry matches; pack size not stated.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official product entry has no image."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image",
+   "Pack size not stated",
+   "Armodafinil is a controlled/psychotropic product - flag per user decision"
+  ],
+  "sources_consulted": [
+   "https://habpharma.com/product/artvigil-150-tab/",
+   "https://habpharma.com/wp-json/wc/store/products?search=vigil (official HAB Pharmaceuticals site product listing)"
+  ]
+ },
+ {
+  "sr": 171,
+  "sku": "IMP-0171",
+  "name": "ARTVIGIL 250MG",
+  "manufacturer": "HAB Pharmaceuticals & Research Ltd.",
+  "manufacturer_source_url": "https://habpharma.com/product/artvigil-250-tab/",
+  "official_product_page_url": "https://habpharma.com/product/artvigil-250-tab/",
+  "composition_on_source": "ARTVIGIL 250 TAB (ARMODAFINIL 250MG)",
+  "strength": "250 mg",
+  "dosage_form": "TABLET",
+  "pack_size": null,
+  "composition_matches_list": true,
+  "composition_note": "Official habpharma.com product entry matches; pack size not stated.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official product entry has no image."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image",
+   "Pack size not stated",
+   "Armodafinil is a controlled/psychotropic product - flag per user decision"
+  ],
+  "sources_consulted": [
+   "https://habpharma.com/product/artvigil-250-tab/",
+   "https://habpharma.com/wp-json/wc/store/products?search=vigil (official HAB Pharmaceuticals site product listing)"
+  ]
+ },
+ {
+  "sr": 172,
+  "sku": "IMP-0172",
+  "name": "ARTVIGIL 50MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "HAB Pharmaceuticals' official site lists only ARTVIGIL 150 and 250 tablets; no 50 mg found. Strength unconfirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "ARTVIGIL 50MG not found on HAB official site - possible non-existent strength",
+   "Controlled/psychotropic product"
+  ],
+  "sources_consulted": [
+   "https://habpharma.com/wp-json/wc/store/products?search=vigil (official HAB Pharmaceuticals site product listing)"
+  ]
+ },
+ {
+  "sr": 173,
+  "sku": "IMP-0173",
+  "name": "ARZEP SPRAY 10ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings conflict (Zydus/Cadila vs German Remedies) for ARZEP azelastine 0.1% nasal spray; no official page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed; conflicting attributions"
+  ],
+  "sources_consulted": [
+   "web search: Arzep azelastine; site search zyduslife.com (no results)"
+  ]
+ },
+ {
+  "sr": 174,
+  "sku": "IMP-0174",
+  "name": "ASCOAIR 100MCG INHALER",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": false,
+  "composition_note": "Retail listings show ASCOAIR inhaler as SALBUTAMOL 100 mcg (Glenmark), not ascorbic acid as the list says. Not confirmed on an official Glenmark page.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Likely WRONG GENERIC in list (salbutamol vs ascorbic acid)",
+   "Manufacturer unconfirmed on official site"
+  ],
+  "sources_consulted": [
+   "web search: Ascoair inhaler (retailer listings only)"
+  ]
+ },
+ {
+  "sr": 175,
+  "sku": "IMP-0175",
+  "name": "ASCORBIC ACID INJ 2ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Row is a generic name (ASCORBIC ACID INJ 2ML) with no brand; manufacturer cannot be determined.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Generic-name row, no brand"
+  ],
+  "sources_consulted": [
+   "n/a (no brand to research)"
+  ]
+ },
+ {
+  "sr": 176,
+  "sku": "IMP-0176",
+  "name": "ASCORCAN INJ",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Marketplace listings attribute ASCORCAN ascorbic acid injection (500 mg) to American Remedies; no official site found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed"
+  ],
+  "sources_consulted": [
+   "web search: Ascorcan injection; American Remedies official site (not found)"
+  ]
+ },
+ {
+  "sr": 177,
+  "sku": "IMP-0177",
+  "name": "ASHWAGANDHA 500MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Row 'ASHWAGANDHA 500MG' has no brand and an empty generic; herbal product, manufacturer cannot be determined.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "No brand, empty generic in list",
+   "Herbal/ayurvedic - classify"
+  ],
+  "sources_consulted": [
+   "n/a (no brand to research)"
+  ]
+ },
+ {
+  "sr": 178,
+  "sku": "IMP-0178",
+  "name": "ASKLEROL 3% INJ",
+  "manufacturer": "Samarth Life Sciences Pvt. Ltd.",
+  "manufacturer_source_url": "https://samarthlife.com/all-products",
+  "official_product_page_url": "https://samarthlife.com/all-products",
+  "composition_on_source": "ASKLEROL 60 INJ 1x2 AMP | POLIDOCANOL | INJECTION | 3% | 2 X 2 ML AMP (official product list row)",
+  "strength": "3% (60 mg/2 ml)",
+  "dosage_form": "INJECTION",
+  "pack_size": "2 x 2 ml ampoules",
+  "composition_matches_list": true,
+  "composition_note": "Official Samarth product list matches POLIDOCANOL 3% injection. List also has a plain 'ASKLEROL' entry not inspected.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Official product list is a table without pack images."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image",
+   "Confirm list price (Rs 140) unit vs 2-ampoule pack"
+  ],
+  "sources_consulted": [
+   "https://samarthlife.com/all-products"
+  ]
+ },
+ {
+  "sr": 179,
+  "sku": "IMP-0179",
+  "name": "ASPADOL 100MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No official manufacturer for ASPADOL found; only B2B/export marketplace listings. Tapentadol is controlled.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown",
+   "Controlled substance (tapentadol)",
+   "Brand appears mainly on export/marketplace sites - verify legitimacy"
+  ],
+  "sources_consulted": [
+   "web search: Aspadol tapentadol manufacturer (marketplaces only)"
+  ]
+ },
+ {
+  "sr": 180,
+  "sku": "IMP-0180",
+  "name": "ASPADOL 50MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No official manufacturer for ASPADOL found; only B2B/export marketplace listings. Tapentadol is controlled.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown",
+   "Controlled substance (tapentadol)",
+   "Brand appears mainly on export/marketplace sites - verify legitimacy"
+  ],
+  "sources_consulted": [
+   "web search: Aspadol tapentadol manufacturer (marketplaces only)"
+  ]
+ },
+ {
+  "sr": 181,
+  "sku": "IMP-0181",
+  "name": "ASPADOL ER 150MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No official manufacturer for ASPADOL found; only B2B/export marketplace listings. Tapentadol is controlled.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown",
+   "Controlled substance (tapentadol)",
+   "Brand appears mainly on export/marketplace sites - verify legitimacy"
+  ],
+  "sources_consulted": [
+   "web search: Aspadol tapentadol manufacturer (marketplaces only)"
+  ]
+ },
+ {
+  "sr": 182,
+  "sku": "IMP-0182",
+  "name": "ASPADOL ER 200MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No official manufacturer for ASPADOL found; only B2B/export marketplace listings. Tapentadol is controlled.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown",
+   "Controlled substance (tapentadol)",
+   "Brand appears mainly on export/marketplace sites - verify legitimacy"
+  ],
+  "sources_consulted": [
+   "web search: Aspadol tapentadol manufacturer (marketplaces only)"
+  ]
+ },
+ {
+  "sr": 183,
+  "sku": "IMP-0183",
+  "name": "ASTHAFEN TAB",
+  "manufacturer": "Torrent Pharmaceuticals Ltd. (marketer)",
+  "manufacturer_source_url": "https://torrentpharma.com/assets/2516_d38d400a9d.pdf",
+  "official_product_page_url": "https://torrentpharma.com/assets/2516_d38d400a9d.pdf",
+  "composition_on_source": "ASTHAFEN TABLET (Ketotifen Fumarate Tablets I.P.): each uncoated tablet contains Ketotifen fumarate I.P. eq. to Ketotifen base 1 mg",
+  "strength": "1 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "Blister strip of 10 tablets",
+  "composition_matches_list": false,
+  "composition_note": "WRONG GENERIC IN LIST: list says SALBUTAMOL, official Torrent PI says KETOTIFEN 1 mg.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Only PI PDFs on torrentpharma.com; no pack image."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "List generic SALBUTAMOL is wrong; product is ketotifen 1 mg",
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://torrentpharma.com/assets/2516_d38d400a9d.pdf",
+   "https://torrentpharma.com/assets/2516_99c80969dc.pdf"
+  ]
+ },
+ {
+  "sr": 184,
+  "sku": "IMP-0184",
+  "name": "ASTHALIN 2MG",
+  "manufacturer": "Cipla Limited (ASTHALIN brand owner; tablet strength not listed on official site)",
+  "manufacturer_source_url": "https://www.ciplamed.com/product-index/asthalin-inhaler",
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "ciplamed.com lists ASTHALIN Inhaler, Respules, Rotacaps, AX/DX syrups (all salbutamol/levosalbutamol family) but no page for ASTHALIN 2 mg tablets was found; strength/form not confirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official tablet page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "ASTHALIN 2 mg tablet not found on Cipla official site; brand family only",
+   "No image"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/asthalin-inhaler",
+   "https://www.ciplamed.com/product-index/asthalin-tablets (404)"
+  ]
+ },
+ {
+  "sr": 185,
+  "sku": "IMP-0185",
+  "name": "ASTHALIN 4MG",
+  "manufacturer": "Cipla Limited (ASTHALIN brand owner; tablet strength not listed on official site)",
+  "manufacturer_source_url": "https://www.ciplamed.com/product-index/asthalin-inhaler",
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "ciplamed.com lists ASTHALIN Inhaler, Respules, Rotacaps, AX/DX syrups (all salbutamol/levosalbutamol family) but no page for ASTHALIN 4 mg tablets was found; strength/form not confirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official tablet page or image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "ASTHALIN 4 mg tablet not found on Cipla official site; brand family only",
+   "No image"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/asthalin-inhaler",
+   "https://www.ciplamed.com/product-index/asthalin-tablets (404)"
+  ]
+ },
+ {
+  "sr": 186,
+  "sku": "IMP-0186",
+  "name": "ASTHALIN INHR 200MD",
+  "manufacturer": "Cipla Limited",
+  "manufacturer_source_url": "https://www.ciplamed.com/product-index/asthalin-inhaler",
+  "official_product_page_url": "https://www.ciplamed.com/product-index/asthalin-inhaler",
+  "composition_on_source": "Each actuation delivers: Salbutamol Sulphate IP equivalent to Salbutamol IP 100 mcg; suspended in propellant 134a",
+  "strength": "100 mcg/actuation",
+  "dosage_form": "INHALER",
+  "pack_size": "Canister containing 200 metered doses",
+  "composition_matches_list": true,
+  "composition_note": "ciplamed.com (Cipla's official HCP portal) product page; 200 MD matches list '200MD'.",
+  "official_description": "ASTHALIN Inhaler contains salbutamol sulphate, a selective beta-2 adrenoreceptor agonist providing short-acting bronchodilation; inhalation aerosol.",
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "ciplamed product page shows only placeholder images; no official pack photo."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/asthalin-inhaler"
+  ]
+ },
+ {
+  "sr": 187,
+  "sku": "IMP-0187",
+  "name": "ASTHALIN RES 2.5ML",
+  "manufacturer": "Cipla Limited",
+  "manufacturer_source_url": "https://www.ciplamed.com/product-index/asthalin-respules",
+  "official_product_page_url": "https://www.ciplamed.com/product-index/asthalin-respules",
+  "composition_on_source": "Each 2.5 ml respule contains: Salbutamol Sulphate IP equivalent to Salbutamol IP 2.5 mg; normal saline q.s.",
+  "strength": "2.5 mg/2.5 ml",
+  "dosage_form": "RESPULES (nebuliser solution)",
+  "pack_size": "Pack of 5 strips x 4 unit-dose vials of 2.5 ml (20 respules)",
+  "composition_matches_list": true,
+  "composition_note": "Matches list 'ASTHALIN RES 2.5ML' / SALBUTAMOL.",
+  "official_description": "ASTHALIN Respules contain salbutamol sulphate and are indicated in the treatment of asthma and bronchospasm; solution for inhalation via a nebulizer.",
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "ciplamed product page shows only placeholder images."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image",
+   "List price (Rs 6.5) presumably per respule; pack is 20 respules"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/asthalin-respules"
+  ]
+ },
+ {
+  "sr": 188,
+  "sku": "IMP-0188",
+  "name": "ATARAX 25MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "ATARAX (hydroxyzine) in India is associated with Dr. Reddy's (job posting only); no official product page found.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed on official product page"
+  ],
+  "sources_consulted": [
+   "web search site:drreddys.com Atarax (only a careers page)"
+  ]
+ },
+ {
+  "sr": 189,
+  "sku": "IMP-0189",
+  "name": "ATARISE 25MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atarise-25/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atarise-25/",
+  "composition_on_source": "Hydroxyzine Hydrochloride Tablets IP 25 mg (from pack image on official page; page text: 'Atarise 25 (Hydroxyzine) Tablet')",
+  "strength": "25 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "20 x 15 tablets (box); strip of 15",
+  "composition_matches_list": true,
+  "composition_note": "Matches list generic HYDROXYZINE HCL.",
+  "official_description": "Atarise 25 mg Tablet is an antihistaminic medicine. In allergy, it works by blocking the activity of a chemical messenger (histamine), which alleviates allergy symptoms such as itching, swelling and rashes.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Atarise-25-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atarise-25/",
+   "local_file": "data/enrichment/images_raw/IMP-0189.jpg",
+   "visible_pack_text": "Rx Hydroxyzine Hydrochloride Tablets IP 25 mg / Atarise 25 Tablets / 20 x 15 Tablets / Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Official Healing Pharma product image (WordPress CDN i0.wp.com serving healingpharma.in uploads). Pack does not show the actual manufacturing site; Healing Pharma is the marketer."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image candidate pending pharmacist approval",
+   "Actual manufacturing site not stated on page"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/atarise-25/",
+   "https://www.healingpharma.in/wp-json/wc/store/products (official site product listing API)"
+  ]
+ },
+ {
+  "sr": 190,
+  "sku": "IMP-0190",
+  "name": "ATENHEAL 100MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atenheal-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atenheal-100/",
+  "composition_on_source": "Atenolol IP 100mg",
+  "strength": "100 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "20 x 14 tablets (box); strip of 14",
+  "composition_matches_list": true,
+  "composition_note": "Page text states 'Atenolol IP 100mg'; matches list generic ATENOLOL.",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/12/Atenheal-100.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atenheal-100/",
+   "local_file": "data/enrichment/images_raw/IMP-0190.jpg",
+   "visible_pack_text": "Rx Atenolol Tablets IP 100 mg / Atenheal 100 / 20 x 14 Tablets / Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Official Healing Pharma product image (WordPress CDN i0.wp.com serving healingpharma.in uploads). Pack does not show the actual manufacturing site; Healing Pharma is the marketer."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image candidate pending pharmacist approval",
+   "Actual manufacturing site not stated on page"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/atenheal-100/",
+   "https://www.healingpharma.in/wp-json/wc/store/products (official site product listing API)"
+  ]
+ },
+ {
+  "sr": 191,
+  "sku": "IMP-0191",
+  "name": "ATENHEAL 50MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atenheal-50/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atenheal-50/",
+  "composition_on_source": "Atenolol Tablets IP 50 mg (from pack image on official page; page has no composition text)",
+  "strength": "50 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "20 x 14 tablets (box); strip of 14",
+  "composition_matches_list": true,
+  "composition_note": "Composition read only from the official pack image (page body text is empty); matches ATENOLOL.",
+  "official_description": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Atenheal-50-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atenheal-50/",
+   "local_file": "data/enrichment/images_raw/IMP-0191.jpg",
+   "visible_pack_text": "Rx Atenolol Tablets IP 50 mg / Atenheal 50 / 20 x 14 Tablets / Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Official Healing Pharma product image (WordPress CDN i0.wp.com serving healingpharma.in uploads). Pack does not show the actual manufacturing site; Healing Pharma is the marketer."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image candidate pending pharmacist approval",
+   "Actual manufacturing site not stated on page",
+   "Composition confirmed only from official pack image, not page text"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/atenheal-50/",
+   "https://www.healingpharma.in/wp-json/wc/store/products (official site product listing API)"
+  ]
+ },
+ {
+  "sr": 192,
+  "sku": "IMP-0192",
+  "name": "ATLURA 40MG",
+  "manufacturer": "Torrent Pharmaceuticals Ltd. (marketer, per PI 'MARKETED BY TORRENT PHARMACEUTICALS LTD.')",
+  "manufacturer_source_url": "https://torrentpharma.com/assets/2768_22c545c566.pdf",
+  "official_product_page_url": "https://torrentpharma.com/assets/2768_22c545c566.pdf",
+  "composition_on_source": "ATLURA 40: Each film coated tablet contains Lurasidone Hydrochloride 40 mg",
+  "strength": "40 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "Blister pack of 10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Official Torrent prescribing-information PDF (torrentpharma.com) covers ATLURA 40/80; matches list.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "Only a text PI PDF found on torrentpharma.com; no official pack image."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image",
+   "Source is a PI PDF; manufacturing site not stated in extracted text"
+  ],
+  "sources_consulted": [
+   "https://torrentpharma.com/assets/2768_22c545c566.pdf"
+  ]
+ },
+ {
+  "sr": 193,
+  "sku": "IMP-0193",
+  "name": "ATOMOXET 10MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atomoxet-10mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atomoxet-10mg/",
+  "composition_on_source": "Atomoxetine 10 mg (pack image: 'Atomoxetine Tablets 10 mg'; page text names Atomoxetine)",
+  "strength": "10 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "10 x 10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Matches list generic ATOMOXETINE HCL.",
+  "official_description": "Atomoxetine is used to treat attention-deficit hyperactivity disorder (ADHD) as part of a total treatment plan. It is thought to work by restoring the balance of certain natural substances (neurotransmitters) in the brain.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Atomoxet-10mg-new.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atomoxet-10mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0193.jpg",
+   "visible_pack_text": "Atomoxetine Tablets 10 mg / Atomoxet-10 / 10 x 10 Tablets / Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Official Healing Pharma product image (WordPress CDN i0.wp.com serving healingpharma.in uploads). Pack does not show the actual manufacturing site; Healing Pharma is the marketer."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image candidate pending pharmacist approval",
+   "Actual manufacturing site not stated on page"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/atomoxet-10mg/",
+   "https://www.healingpharma.in/wp-json/wc/store/products (official site product listing API)"
+  ]
+ },
+ {
+  "sr": 194,
+  "sku": "IMP-0194",
+  "name": "ATOMOXET 25MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atomoxet-25mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atomoxet-25mg/",
+  "composition_on_source": "Atomoxetine 25 mg (pack image: 'Atomoxetine Tablets 25 mg'; page text names Atomoxetine)",
+  "strength": "25 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "20 x 10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Matches list generic ATOMOXETINE HCL.",
+  "official_description": "Atomoxet 25mg Tablet is used in the treatment of attention deficit hyperactivity disorder (ADHD). Atomoxet (Atomoxetine) regulates the activity of certain chemical messengers in the brain. It is a non-stimulant drug.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Atomoxet-25-new.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atomoxet-25mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0194.jpg",
+   "visible_pack_text": "Atomoxetine Tablets 25 mg / Atomoxet-25 / 20 x 10 tablets / Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Official Healing Pharma product image (WordPress CDN i0.wp.com serving healingpharma.in uploads). Pack does not show the actual manufacturing site; Healing Pharma is the marketer."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image candidate pending pharmacist approval",
+   "Actual manufacturing site not stated on page"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/atomoxet-25mg/",
+   "https://www.healingpharma.in/wp-json/wc/store/products (official site product listing API)"
+  ]
+ },
+ {
+  "sr": 195,
+  "sku": "IMP-0195",
+  "name": "ATOMOXET 40MG",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atomoxet-40mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atomoxet-40mg/",
+  "composition_on_source": "Atomoxetine 40 mg (pack image: 'Rx Atomoxetine Hydrochloride Tablets 40 mg'; page text names Atomoxetine)",
+  "strength": "40 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "20 x 10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "Matches list generic ATOMOXETINE HCL.",
+  "official_description": "Atomoxet 40mg Tablet is used in the treatment of attention deficit hyperactivity disorder (ADHD). Atomoxet (Atomoxetine) regulates the activity of certain chemical messengers in the brain. It is a non-stimulant drug.",
+  "image": {
+   "status": "candidate",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Atomoxet-40-new.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atomoxet-40mg/",
+   "local_file": "data/enrichment/images_raw/IMP-0195.jpg",
+   "visible_pack_text": "Rx Atomoxetine Hydrochloride Tablets 40 mg / Atomoxet-40 / 20 x 10 tablets / Healing Pharma",
+   "checks": {
+    "brand": true,
+    "strength": true,
+    "form": true,
+    "pack": true
+   },
+   "pixel_size": "1000x1000",
+   "notes": "Official Healing Pharma product image (WordPress CDN i0.wp.com serving healingpharma.in uploads). Pack does not show the actual manufacturing site; Healing Pharma is the marketer."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "Image candidate pending pharmacist approval",
+   "Actual manufacturing site not stated on page"
+  ],
+  "sources_consulted": [
+   "https://www.healingpharma.in/product/atomoxet-40mg/",
+   "https://www.healingpharma.in/wp-json/wc/store/products (official site product listing API)"
+  ]
+ },
+ {
+  "sr": 196,
+  "sku": "IMP-0196",
+  "name": "ATORBEST 10",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings attribute ATORBEST to Cadila Pharmaceuticals (one says Tetcadila); not on cadilapharma.com search.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed"
+  ],
+  "sources_consulted": [
+   "web search: Atorbest; site search cadilapharma.com (no match)"
+  ]
+ },
+ {
+  "sr": 197,
+  "sku": "IMP-0197",
+  "name": "ATORBEST 20MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "As SR 196.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed"
+  ],
+  "sources_consulted": [
+   "web search: Atorbest; site search cadilapharma.com (no match)"
+  ]
+ },
+ {
+  "sr": 198,
+  "sku": "IMP-0198",
+  "name": "ATORLIP 20MG",
+  "manufacturer": "Cipla Limited",
+  "manufacturer_source_url": "https://www.ciplamed.com/product-index/atorlip-tablets",
+  "official_product_page_url": "https://www.ciplamed.com/product-index/atorlip-tablets",
+  "composition_on_source": "ATORLIP-20: Each film-coated tablet contains Atorvastatin Calcium equivalent to Atorvastatin 20 mg",
+  "strength": "20 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "Strip of 10 tablets",
+  "composition_matches_list": true,
+  "composition_note": "ciplamed.com ATORLIP Tablets PI covers 5/10/20/40/80 mg; 20 mg matches list.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "ciplamed product page shows only placeholder images."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image"
+  ],
+  "sources_consulted": [
+   "https://www.ciplamed.com/product-index/atorlip-tablets"
+  ]
+ },
+ {
+  "sr": 199,
+  "sku": "IMP-0199",
+  "name": "ATORVAFINE 10MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings attribute ATORVAFINE to Morepen (Dr. Morepen); not found on morepen.com.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed"
+  ],
+  "sources_consulted": [
+   "web search: Atorvafine; site search morepen.com (no results)"
+  ]
+ },
+ {
+  "sr": 200,
+  "sku": "IMP-0200",
+  "name": "ATORVAFINE 20MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings attribute ATORVAFINE to Morepen (Dr. Morepen); not found on morepen.com.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed"
+  ],
+  "sources_consulted": [
+   "web search: Atorvafine; site search morepen.com (no results)"
+  ]
+ },
+ {
+  "sr": 201,
+  "sku": "IMP-0201",
+  "name": "ATORVAFINE 40MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "Retail listings attribute ATORVAFINE to Morepen (Dr. Morepen); not found on morepen.com.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unconfirmed"
+  ],
+  "sources_consulted": [
+   "web search: Atorvafine; site search morepen.com (no results)"
+  ]
+ },
+ {
+  "sr": 202,
+  "sku": "IMP-0202",
+  "name": "ATOXIT 25MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No official source for ATOXIT. One IndiaMART listing confusingly links 'Atoxit 40' to Healing Pharma's 'Atomoxet' - Healing's official site has no Atoxit. Do NOT merge with Atomoxet rows. List generic 'ATOMEXITINE' is a misspelling of atomoxetine.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown",
+   "Possible confusion/duplicate with ATOMOXET (SR 194/195) - pharmacist check",
+   "Generic misspelled"
+  ],
+  "sources_consulted": [
+   "web search: Atoxit atomoxetine",
+   "https://www.healingpharma.in/wp-json/wc/store/products (no Atoxit)"
+  ]
+ },
+ {
+  "sr": 203,
+  "sku": "IMP-0203",
+  "name": "ATOXIT 40MG",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": null,
+  "composition_note": "No official source for ATOXIT. One IndiaMART listing confusingly links 'Atoxit 40' to Healing Pharma's 'Atomoxet' - Healing's official site has no Atoxit. Do NOT merge with Atomoxet rows. List generic 'ATOMEXITINE' is a misspelling of atomoxetine.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Manufacturer unknown",
+   "Possible confusion/duplicate with ATOMOXET (SR 194/195) - pharmacist check",
+   "Generic misspelled"
+  ],
+  "sources_consulted": [
+   "web search: Atoxit atomoxetine",
+   "https://www.healingpharma.in/wp-json/wc/store/products (no Atoxit)"
+  ]
+ },
+ {
+  "sr": 204,
+  "sku": "IMP-0204",
+  "name": "ATROCAN INJ 1ML",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "composition_on_source": null,
+  "strength": null,
+  "dosage_form": null,
+  "pack_size": null,
+  "composition_matches_list": false,
+  "composition_note": "Marketplace listings describe ATROCAN as ATROPINE SULPHATE injection 0.6 mg/ml (American Remedies), NOT amoxicillin+clavulanate as the list says. Unconfirmed on an official site.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "No official manufacturer image found."
+  },
+  "verification_status": "NEEDS_REVIEW",
+  "review_reasons": [
+   "Likely WRONG GENERIC in list (atropine vs amoxicillin+clavulanate) - needs pharmacist check",
+   "Manufacturer unconfirmed"
+  ],
+  "sources_consulted": [
+   "web search: American Remedies Atrocan (IndiaMART listings only)"
+  ]
+ },
+ {
+  "sr": 205,
+  "sku": "IMP-0205",
+  "name": "AUGEMENTIN 1000MG DUO",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India)",
+  "manufacturer_source_url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "official_product_page_url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "composition_on_source": "AUGMENTIN 1g DUO: each film-coated tablet contains Amoxycillin Trihydrate IP eq. to Amoxycillin 875 mg + Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 125 mg",
+  "strength": "875 mg + 125 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "Aluminium strips (count not stated in PI)",
+  "composition_matches_list": true,
+  "composition_note": "Official product name is 'AUGMENTIN 1g DUO' (875+125). List name 'AUGEMENTIN' is misspelled; list generic spelling 'AMOXYCILIN AND POTASSIUM CLAVULANTE' is misspelled.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "GSK India publishes PI PDFs only; no official pack image found."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image",
+   "Brand misspelled in list (AUGEMENTIN)",
+   "Possible duplicate of SR 206 AUGMENTIN (R) 1000MG DUO (different price 49 vs 54)"
+  ],
+  "sources_consulted": [
+   "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+   "https://india-pharma.gsk.com/en-in/products/prescribing-information-tab/"
+  ]
+ },
+ {
+  "sr": 206,
+  "sku": "IMP-0206",
+  "name": "AUGMENTIN (R) 1000MG DUO",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India)",
+  "manufacturer_source_url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "official_product_page_url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "composition_on_source": "AUGMENTIN 1g DUO: each film-coated tablet contains Amoxycillin Trihydrate IP eq. to Amoxycillin 875 mg + Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 125 mg",
+  "strength": "875 mg + 125 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "Aluminium strips (count not stated in PI)",
+  "composition_matches_list": true,
+  "composition_note": "Official product name 'AUGMENTIN 1g DUO' (875+125 mg). Generic spelling in list misspelled.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "GSK India publishes PI PDFs only; no official pack image found."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image",
+   "Possible duplicate of SR 205 (price 54 vs 49)"
+  ],
+  "sources_consulted": [
+   "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+   "https://india-pharma.gsk.com/en-in/products/prescribing-information-tab/"
+  ]
+ },
+ {
+  "sr": 207,
+  "sku": "IMP-0207",
+  "name": "AUGMENTIN 625MG",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India)",
+  "manufacturer_source_url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "official_product_page_url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "composition_on_source": "AUGMENTIN 625 DUO: each film-coated tablet contains Amoxycillin Trihydrate IP eq. to Amoxycillin 500 mg + Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 125 mg",
+  "strength": "500 mg + 125 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "Aluminium strips (count not stated in PI)",
+  "composition_matches_list": true,
+  "composition_note": "GSK India's 625 tablet is 'AUGMENTIN 625 DUO'; list name lacks 'DUO'. Assumed same product - confirm.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "GSK India publishes PI PDFs only; no official pack image found."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image",
+   "List name lacks 'DUO'; possible duplicate of SR 209 AUGMENTIN DUO 625 TAB (same price 17)"
+  ],
+  "sources_consulted": [
+   "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+   "https://india-pharma.gsk.com/en-in/products/prescribing-information-tab/"
+  ]
+ },
+ {
+  "sr": 208,
+  "sku": "IMP-0208",
+  "name": "AUGMENTIN DDS SUSP 30ML",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India)",
+  "manufacturer_source_url": "https://india-pharma.gsk.com/media/mpchixmp/augmentin-dds.pdf",
+  "official_product_page_url": "https://india-pharma.gsk.com/media/mpchixmp/augmentin-dds.pdf",
+  "composition_on_source": "Each 5 mL reconstituted suspension: Amoxycillin Trihydrate IP eq. to Amoxycillin 400 mg + Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 57 mg; combipack with ampoule/vial of 30 mL sterile purified water",
+  "strength": "457 mg/5 mL",
+  "dosage_form": "POWDER FOR ORAL SUSPENSION",
+  "pack_size": "Bottle in carton (combipack with 30 mL water for reconstitution)",
+  "composition_matches_list": true,
+  "composition_note": "Official GSK India PI 'AUGMENTIN DDS'. List says 30ML; PI states 30 mL diluent - reconstituted volume not confirmed.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "PI PDF only; no official pack image."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image",
+   "Confirm 30 ml presentation"
+  ],
+  "sources_consulted": [
+   "https://india-pharma.gsk.com/media/mpchixmp/augmentin-dds.pdf"
+  ]
+ },
+ {
+  "sr": 209,
+  "sku": "IMP-0209",
+  "name": "AUGMENTIN DUO 625 TAB",
+  "manufacturer": "GlaxoSmithKline Pharmaceuticals Limited (India)",
+  "manufacturer_source_url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "official_product_page_url": "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+  "composition_on_source": "AUGMENTIN 625 DUO: each film-coated tablet contains Amoxycillin Trihydrate IP eq. to Amoxycillin 500 mg + Potassium Clavulanate Diluted IP eq. to Clavulanic Acid 125 mg",
+  "strength": "500 mg + 125 mg",
+  "dosage_form": "TABLET",
+  "pack_size": "Aluminium strips (count not stated in PI)",
+  "composition_matches_list": true,
+  "composition_note": "Matches 'AUGMENTIN 625 DUO'.",
+  "official_description": null,
+  "image": {
+   "status": "none",
+   "image_url": null,
+   "page_url": null,
+   "local_file": null,
+   "visible_pack_text": null,
+   "checks": {
+    "brand": null,
+    "strength": null,
+    "form": null,
+    "pack": null
+   },
+   "pixel_size": null,
+   "notes": "GSK India publishes PI PDFs only; no official pack image found."
+  },
+  "verification_status": "PARTIALLY_VERIFIED",
+  "review_reasons": [
+   "No official image",
+   "Possible duplicate of SR 207 AUGMENTIN 625MG (same price 17)"
+  ],
+  "sources_consulted": [
+   "https://india-pharma.gsk.com/media/3wpapw52/augmentin-duo-tablets.pdf",
+   "https://india-pharma.gsk.com/en-in/products/prescribing-information-tab/"
+  ]
+ }
+]

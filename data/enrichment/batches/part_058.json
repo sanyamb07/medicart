@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 3023,
+  "name": "TYNEPT TAB",
+  "generic": "TIANEPTINE",
+  "price": "11",
+  "sku": "IMP-3023"
+ },
+ {
+  "sr": 3024,
+  "name": "TYPENDOL 100MG RED",
+  "generic": "TAPENTADOL",
+  "price": "11",
+  "sku": "IMP-3024"
+ },
+ {
+  "sr": 3025,
+  "name": "TYPENTA 100MG",
+  "generic": "TAPENTADOL",
+  "price": "9",
+  "sku": "IMP-3025"
+ },
+ {
+  "sr": 3026,
+  "name": "TYPENTA 150MG",
+  "generic": "TAPENTADOL",
+  "price": "17",
+  "sku": "IMP-3026"
+ },
+ {
+  "sr": 3027,
+  "name": "TYPENTA 200MG",
+  "generic": "TAPENTADOL",
+  "price": "17.5",
+  "sku": "IMP-3027"
+ },
+ {
+  "sr": 3028,
+  "name": "UDAFORCE 100MG",
+  "generic": "UDENAFIL",
+  "price": "35.5",
+  "sku": "IMP-3028"
+ },
+ {
+  "sr": 3029,
+  "name": "UDAFORCE 200MG",
+  "generic": "UDENAFIL",
+  "price": "98",
+  "sku": "IMP-3029"
+ },
+ {
+  "sr": 3030,
+  "name": "UNIDEP SR 300MG",
+  "generic": "BUPROPION EXTENDED",
+  "price": "14",
+  "sku": "IMP-3030"
+ },
+ {
+  "sr": 3031,
+  "name": "UNWANTED 21 DAYS",
+  "generic": "LEVONORGESTREL",
+  "price": "3",
+  "sku": "IMP-3031"
+ },
+ {
+  "sr": 3032,
+  "name": "UNWANTED 72MG",
+  "generic": "LEVONORGESTREL",
+  "price": "100",
+  "sku": "IMP-3032"
+ },
+ {
+  "sr": 3033,
+  "name": "URENONE 25",
+  "generic": "EPLERENONE",
+  "price": "11.5",
+  "sku": "IMP-3033"
+ },
+ {
+  "sr": 3034,
+  "name": "URIHEAL 100MG",
+  "generic": "NITROFURANTION",
+  "price": "3",
+  "sku": "IMP-3034"
+ },
+ {
+  "sr": 3035,
+  "name": "URIMAX 0.4MG",
+  "generic": "TAMSULOSIN HYDROCHLORIDE",
+  "price": "12.5",
+  "sku": "IMP-3035"
+ },
+ {
+  "sr": 3036,
+  "name": "URIRON TAB",
+  "generic": "NITROFURANTOIN",
+  "price": "3.5",
+  "sku": "IMP-3036"
+ },
+ {
+  "sr": 3037,
+  "name": "URIVRON TAB",
+  "generic": "NITROFURANTOIN",
+  "price": "3.5",
+  "sku": "IMP-3037"
+ },
+ {
+  "sr": 3038,
+  "name": "URSODEC 300MG",
+  "generic": "URSODEOXYCHOLIC",
+  "price": "13.5",
+  "sku": "IMP-3038"
+ },
+ {
+  "sr": 3039,
+  "name": "URSOLID 300MG",
+  "generic": "URSODEOXYCHOLIC",
+  "price": "14.5",
+  "sku": "IMP-3039"
+ },
+ {
+  "sr": 3040,
+  "name": "UV LUBE EYE DROP 10ML",
+  "generic": "CHLOROQUINE",
+  "price": "238",
+  "sku": "IMP-3040"
+ },
+ {
+  "sr": 3041,
+  "name": "V MEET GEL 20GM",
+  "generic": "TRETINOIN",
+  "price": "55",
+  "sku": "IMP-3041"
+ },
+ {
+  "sr": 3042,
+  "name": "VALACLOVIR 1000MG",
+  "generic": "VALACYCLOVIR",
+  "price": "31",
+  "sku": "IMP-3042"
+ },
+ {
+  "sr": 3043,
+  "name": "VALACVIR 1000MG",
+  "generic": "VALACYCLOVIR",
+  "price": "30.5",
+  "sku": "IMP-3043"
+ },
+ {
+  "sr": 3044,
+  "name": "VALACVIR 500MG",
+  "generic": "VALACYCLOVIR",
+  "price": "15.5",
+  "sku": "IMP-3044"
+ },
+ {
+  "sr": 3045,
+  "name": "VALAFORCE 500MG",
+  "generic": "VALACYCLOVIR",
+  "price": "17.5",
+  "sku": "IMP-3045"
+ },
+ {
+  "sr": 3046,
+  "name": "VALASHER 500MG",
+  "generic": "VALACYCLOVIR",
+  "price": "15.5",
+  "sku": "IMP-3046"
+ },
+ {
+  "sr": 3047,
+  "name": "VALASUN 500MG",
+  "generic": "VALACYCLOVIR",
+  "price": "16",
+  "sku": "IMP-3047"
+ },
+ {
+  "sr": 3048,
+  "name": "VALCIVIR 1GM",
+  "generic": "VALACYCLOVIR",
+  "price": "90",
+  "sku": "IMP-3048"
+ },
+ {
+  "sr": 3049,
+  "name": "VALCIVIR 500MG",
+  "generic": "VALACYCLOVIR",
+  "price": "55",
+  "sku": "IMP-3049"
+ },
+ {
+  "sr": 3050,
+  "name": "VALCLOVIR 1000MG",
+  "generic": "VALACYCLOVIR",
+  "price": "32",
+  "sku": "IMP-3050"
+ },
+ {
+  "sr": 3051,
+  "name": "VALCLOVIR 500MG",
+  "generic": "VALACYCLOVIR",
+  "price": "17",
+  "sku": "IMP-3051"
+ },
+ {
+  "sr": 3052,
+  "name": "VALCUBIT 200MG",
+  "generic": "SACUBITRIL + VALSARTAN",
+  "price": "24",
+  "sku": "IMP-3052"
+ },
+ {
+  "sr": 3053,
+  "name": "VALCUBIT 50MG",
+  "generic": "SACUBITRIL + VALSARTAN",
+  "price": "7",
+  "sku": "IMP-3053"
+ },
+ {
+  "sr": 3054,
+  "name": "VALIF 20MG",
+  "generic": "VARDENAFIL",
+  "price": "8.5",
+  "sku": "IMP-3054"
+ },
+ {
+  "sr": 3055,
+  "name": "VALIF ORAL JELLY",
+  "generic": "VARDENAFIL",
+  "price": "160",
+  "sku": "IMP-3055"
+ },
+ {
+  "sr": 3056,
+  "name": "VALOVERA 200MG",
+  "generic": "VALACYCLOVIR",
+  "price": "15.5",
+  "sku": "IMP-3056"
+ },
+ {
+  "sr": 3057,
+  "name": "VALOVERA 500MG",
+  "generic": "VALACYCLOVIR",
+  "price": "15.5",
+  "sku": "IMP-3057"
+ },
+ {
+  "sr": 3058,
+  "name": "VALPODIUM 200MG",
+  "generic": "Valproate 200mg, Valproic Acid 87mg",
+  "price": "2",
+  "sku": "IMP-3058"
+ },
+ {
+  "sr": 3059,
+  "name": "VALPODIUM 500 CR",
+  "generic": "CONTROLLED-RELEASE TABLETS OF SODIUM VALPROATE AND VALPROIC ACID",
+  "price": "4.5",
+  "sku": "IMP-3059"
+ },
+ {
+  "sr": 3060,
+  "name": "VALPROL CR 500MG",
+  "generic": "SODIUM VALPROATE + VALPROIC ACID",
+  "price": "7.5",
+  "sku": "IMP-3060"
+ },
+ {
+  "sr": 3061,
+  "name": "VALSABROOK 80MG",
+  "generic": "VALSARTAN",
+  "price": "2.5",
+  "sku": "IMP-3061"
+ },
+ {
+  "sr": 3062,
+  "name": "VALZAAR H TAB",
+  "generic": "VALSARTAN",
+  "price": "19.5",
+  "sku": "IMP-3062"
+ },
+ {
+  "sr": 3063,
+  "name": "VANLID 250MG",
+  "generic": "VARENICLINE",
+  "price": "140",
+  "sku": "IMP-3063"
+ },
+ {
+  "sr": 3064,
+  "name": "VARDEGRA 20MG",
+  "generic": "VARENICLINE",
+  "price": "4.5",
+  "sku": "IMP-3064"
+ },
+ {
+  "sr": 3065,
+  "name": "VARDITRA 40MG",
+  "generic": "VARDENAFIL",
+  "price": "9",
+  "sku": "IMP-3065"
+ },
+ {
+  "sr": 3066,
+  "name": "VARDITRA 60MG",
+  "generic": "VARDENAFIL",
+  "price": "11",
+  "sku": "IMP-3066"
+ },
+ {
+  "sr": 3067,
+  "name": "VARENICHAMP 1MG",
+  "generic": "VARENICLINE",
+  "price": "43",
+  "sku": "IMP-3067"
+ },
+ {
+  "sr": 3068,
+  "name": "VARNISMART 0.5MG",
+  "generic": "VARENICLINE",
+  "price": "24.5",
+  "sku": "IMP-3068"
+ },
+ {
+  "sr": 3069,
+  "name": "VARNISMART 1MG",
+  "generic": "VARENICLINE",
+  "price": "43",
+  "sku": "IMP-3069"
+ },
+ {
+  "sr": 3070,
+  "name": "VARNISMART-0.5 TAB",
+  "generic": "VARENICLINE",
+  "price": "24.5",
+  "sku": "IMP-3070"
+ },
+ {
+  "sr": 3071,
+  "name": "VARNITOP 0.5MG",
+  "generic": "VARENICLINE",
+  "price": "22",
+  "sku": "IMP-3071"
+ },
+ {
+  "sr": 3072,
+  "name": "VARNITOP 1MG",
+  "generic": "VARENICLINE",
+  "price": "52",
+  "sku": "IMP-3072"
+ }
+]

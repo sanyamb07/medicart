@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1334,
+  "name": "ISTAVEL 100MG",
+  "generic": "SITAGLIPTIN",
+  "price": "13",
+  "sku": "IMP-1334"
+ },
+ {
+  "sr": 1335,
+  "name": "ISTAVEL 50/1000MG",
+  "generic": "SITAGLIPTIN",
+  "price": "10",
+  "sku": "IMP-1335"
+ },
+ {
+  "sr": 1336,
+  "name": "ITRASHOOT 100MG",
+  "generic": "ITRACONAZOLE",
+  "price": "4.5",
+  "sku": "IMP-1336"
+ },
+ {
+  "sr": 1337,
+  "name": "ITRASHOOT 200MG",
+  "generic": "ITRACONAZOLE",
+  "price": "7.5",
+  "sku": "IMP-1337"
+ },
+ {
+  "sr": 1338,
+  "name": "ITRASPORAX 100MG",
+  "generic": "ITRACONAZOLE",
+  "price": "4",
+  "sku": "IMP-1338"
+ },
+ {
+  "sr": 1339,
+  "name": "ITRASPOROX 200MG",
+  "generic": "ITRACONAZOLE",
+  "price": "6.5",
+  "sku": "IMP-1339"
+ },
+ {
+  "sr": 1340,
+  "name": "ITROSTRED GEL 15GM",
+  "generic": "ITRACONAZOLE",
+  "price": "25",
+  "sku": "IMP-1340"
+ },
+ {
+  "sr": 1341,
+  "name": "ITROTAB 100MG",
+  "generic": "ITRACONAZOLE",
+  "price": "5.5",
+  "sku": "IMP-1341"
+ },
+ {
+  "sr": 1342,
+  "name": "ITROTAB 200MG",
+  "generic": "ITRACONAZOLE",
+  "price": "9",
+  "sku": "IMP-1342"
+ },
+ {
+  "sr": 1343,
+  "name": "IVADIB 7.5MG",
+  "generic": "IVABRIDINE",
+  "price": "9",
+  "sku": "IMP-1343"
+ },
+ {
+  "sr": 1344,
+  "name": "IVAENORM 12MG",
+  "generic": "IVERMECTIN",
+  "price": "2",
+  "sku": "IMP-1344"
+ },
+ {
+  "sr": 1345,
+  "name": "IVAENORM 3MG",
+  "generic": "IVERMECTIN",
+  "price": "1.5",
+  "sku": "IMP-1345"
+ },
+ {
+  "sr": 1346,
+  "name": "IVAENORM 6MG",
+  "generic": "IVERMECTIN",
+  "price": "1.5",
+  "sku": "IMP-1346"
+ },
+ {
+  "sr": 1347,
+  "name": "IVANORM 12MG",
+  "generic": "IVERMECTIN",
+  "price": "2",
+  "sku": "IMP-1347"
+ },
+ {
+  "sr": 1348,
+  "name": "IVASMART 5MG",
+  "generic": "IVABRADINE",
+  "price": "4",
+  "sku": "IMP-1348"
+ },
+ {
+  "sr": 1349,
+  "name": "IVASMART 7.5MG",
+  "generic": "IVABRADINE",
+  "price": "6.5",
+  "sku": "IMP-1349"
+ },
+ {
+  "sr": 1350,
+  "name": "IVECOP 12MG",
+  "generic": "IVERMECTIN",
+  "price": "25",
+  "sku": "IMP-1350"
+ },
+ {
+  "sr": 1351,
+  "name": "IVECOP 6MG",
+  "generic": "IVERMECTIN",
+  "price": "13",
+  "sku": "IMP-1351"
+ },
+ {
+  "sr": 1352,
+  "name": "IVEJUV 12MG",
+  "generic": "IVERMECTIN",
+  "price": "12.5",
+  "sku": "IMP-1352"
+ },
+ {
+  "sr": 1353,
+  "name": "IVEJUV 6MG",
+  "generic": "IVERMECTIN",
+  "price": "10",
+  "sku": "IMP-1353"
+ },
+ {
+  "sr": 1354,
+  "name": "IVER ASH 12MG",
+  "generic": "IVERMECTIN",
+  "price": "1.25",
+  "sku": "IMP-1354"
+ },
+ {
+  "sr": 1355,
+  "name": "IVERASH 6MG",
+  "generic": "IVERMECTIN",
+  "price": "1",
+  "sku": "IMP-1355"
+ },
+ {
+  "sr": 1356,
+  "name": "IVERCHRIST 12MG",
+  "generic": "IVERMECTIN",
+  "price": "1.25",
+  "sku": "IMP-1356"
+ },
+ {
+  "sr": 1357,
+  "name": "IVERCIAA CREAM",
+  "generic": "IVERMECTIN",
+  "price": "75",
+  "sku": "IMP-1357"
+ },
+ {
+  "sr": 1358,
+  "name": "IVERFAST 12MG",
+  "generic": "IVERMECTIN",
+  "price": "20.5",
+  "sku": "IMP-1358"
+ },
+ {
+  "sr": 1359,
+  "name": "IVERFORD 12MG",
+  "generic": "IVERMECTIN",
+  "price": "1.5",
+  "sku": "IMP-1359"
+ },
+ {
+  "sr": 1360,
+  "name": "IVERFORD 6MG",
+  "generic": "IVERMECTIN",
+  "price": "1.5",
+  "sku": "IMP-1360"
+ },
+ {
+  "sr": 1361,
+  "name": "IVERFRESH 12MG",
+  "generic": "IVERMECTIN",
+  "price": "1.25",
+  "sku": "IMP-1361"
+ },
+ {
+  "sr": 1362,
+  "name": "IVERGUARD 12MG",
+  "generic": "IVERMECTIN",
+  "price": "1.5",
+  "sku": "IMP-1362"
+ },
+ {
+  "sr": 1363,
+  "name": "IVERGUARD 15MG",
+  "generic": "IVERMECTIN",
+  "price": "2.5",
+  "sku": "IMP-1363"
+ },
+ {
+  "sr": 1364,
+  "name": "IVERGUARD 6MG TAB.",
+  "generic": "IVERMECTIN",
+  "price": "1.25",
+  "sku": "IMP-1364"
+ },
+ {
+  "sr": 1365,
+  "name": "IVERHEAL 12MG",
+  "generic": "IVERMECTIN",
+  "price": "2.5",
+  "sku": "IMP-1365"
+ },
+ {
+  "sr": 1366,
+  "name": "IVERHEAL 3MG",
+  "generic": "IVERMECTIN",
+  "price": "1.5",
+  "sku": "IMP-1366"
+ },
+ {
+  "sr": 1367,
+  "name": "IVERHEAL 6MG",
+  "generic": "IVERMECTIN",
+  "price": "2",
+  "sku": "IMP-1367"
+ },
+ {
+  "sr": 1368,
+  "name": "IVERHUMAN 12MG",
+  "generic": "IVERMECTIN",
+  "price": "1.25",
+  "sku": "IMP-1368"
+ },
+ {
+  "sr": 1369,
+  "name": "IVERHUMAN 6MG",
+  "generic": "IVERMECTIN",
+  "price": "1.5",
+  "sku": "IMP-1369"
+ },
+ {
+  "sr": 1370,
+  "name": "IVERHUMAN CREAM 1% 30GM",
+  "generic": "IVERMECTIN",
+  "price": "85",
+  "sku": "IMP-1370"
+ },
+ {
+  "sr": 1371,
+  "name": "IVERJOHN 12MG",
+  "generic": "IVERMECTIN",
+  "price": "2",
+  "sku": "IMP-1371"
+ },
+ {
+  "sr": 1372,
+  "name": "IVERJOHN 3MG",
+  "generic": "IVERMECTIN",
+  "price": "1.5",
+  "sku": "IMP-1372"
+ },
+ {
+  "sr": 1373,
+  "name": "IVERJOHN 6MG",
+  "generic": "IVERMECTIN",
+  "price": "1.5",
+  "sku": "IMP-1373"
+ },
+ {
+  "sr": 1374,
+  "name": "IVERLAST 12MG",
+  "generic": "IVERMECTIN",
+  "price": "7",
+  "sku": "IMP-1374"
+ },
+ {
+  "sr": 1375,
+  "name": "IVERLAST 3MG",
+  "generic": "Ivermectin",
+  "price": "1",
+  "sku": "IMP-1375"
+ },
+ {
+  "sr": 1376,
+  "name": "IVERMAXX 20 TAB",
+  "generic": "IVERMECTIN",
+  "price": "3",
+  "sku": "IMP-1376"
+ },
+ {
+  "sr": 1377,
+  "name": "IVERMECTOL 12MG",
+  "generic": "IVERMECTIN",
+  "price": "36",
+  "sku": "IMP-1377"
+ },
+ {
+  "sr": 1378,
+  "name": "IVERQUEST STAR 12MG DT",
+  "generic": "IVERMECTIN",
+  "price": "1.25",
+  "sku": "IMP-1378"
+ },
+ {
+  "sr": 1379,
+  "name": "IVERSAFE 12MG",
+  "generic": "IVERMECTIN",
+  "price": "2",
+  "sku": "IMP-1379"
+ },
+ {
+  "sr": 1380,
+  "name": "IVERSIGN 3MG",
+  "generic": "IVERMECTIN",
+  "price": "1.5",
+  "sku": "IMP-1380"
+ },
+ {
+  "sr": 1381,
+  "name": "IVERSUN 12MG",
+  "generic": "IVERMECTIN",
+  "price": "1.5",
+  "sku": "IMP-1381"
+ },
+ {
+  "sr": 1382,
+  "name": "IVERSUN 6MG",
+  "generic": "IVERMECTIN",
+  "price": "1",
+  "sku": "IMP-1382"
+ },
+ {
+  "sr": 1383,
+  "name": "IVERTIFF CREAM",
+  "generic": "IVERMECTIN",
+  "price": "75",
+  "sku": "IMP-1383"
+ }
+]

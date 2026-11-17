@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 260,
+  "name": "AZTOR 20MG",
+  "generic": "ATORVASTATIN",
+  "price": "12",
+  "sku": "IMP-0260"
+ },
+ {
+  "sr": 261,
+  "name": "B COLEX CAP",
+  "generic": "MULTIVITAMIN",
+  "price": "3",
+  "sku": "IMP-0261"
+ },
+ {
+  "sr": 262,
+  "name": "BACLOF OD 20MG",
+  "generic": "BACLOFEN",
+  "price": "15",
+  "sku": "IMP-0262"
+ },
+ {
+  "sr": 263,
+  "name": "BACLOHEAL 10MG",
+  "generic": "BACLOFEN",
+  "price": "1",
+  "sku": "IMP-0263"
+ },
+ {
+  "sr": 264,
+  "name": "BACLOHEAL 25MG",
+  "generic": "BACLOFEN",
+  "price": "1.5",
+  "sku": "IMP-0264"
+ },
+ {
+  "sr": 265,
+  "name": "BACLOSIGN 10MG",
+  "generic": "BACLOFEN",
+  "price": "1",
+  "sku": "IMP-0265"
+ },
+ {
+  "sr": 266,
+  "name": "BACLOSIGN 25MG",
+  "generic": "BACLOFEN",
+  "price": "1.25",
+  "sku": "IMP-0266"
+ },
+ {
+  "sr": 267,
+  "name": "BACSTOL 200MG",
+  "generic": "TRIMETHOPRIM",
+  "price": "14",
+  "sku": "IMP-0267"
+ },
+ {
+  "sr": 268,
+  "name": "BACSTOL TAB",
+  "generic": "TRIMETHOPRIM",
+  "price": "10",
+  "sku": "IMP-0268"
+ },
+ {
+  "sr": 269,
+  "name": "BACTRIM DS TAB",
+  "generic": "TRIMETHOPRIM AND SULPHAMETHOXAZOLE",
+  "price": "2.5",
+  "sku": "IMP-0269"
+ },
+ {
+  "sr": 270,
+  "name": "BANDY 400MG",
+  "generic": "ALBENDAZOLE",
+  "price": "8",
+  "sku": "IMP-0270"
+ },
+ {
+  "sr": 271,
+  "name": "BANDY PLUS SUSPENSION",
+  "generic": "ALBENDAZOLE AND IVERMECTIN",
+  "price": "30",
+  "sku": "IMP-0271"
+ },
+ {
+  "sr": 272,
+  "name": "BANDY PLUS TAB",
+  "generic": "ALBENDAZOLE AND IVERMECTIN",
+  "price": "25",
+  "sku": "IMP-0272"
+ },
+ {
+  "sr": 273,
+  "name": "BANGFORCE 250MG",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-0273"
+ },
+ {
+  "sr": 274,
+  "name": "BD INSULIN SYRINGE 31G.6M",
+  "generic": "SYRINGE",
+  "price": "10",
+  "sku": "IMP-0274"
+ },
+ {
+  "sr": 275,
+  "name": "BD SYRINGE G 31 1ML",
+  "generic": "SYRINGE",
+  "price": "105",
+  "sku": "IMP-0275"
+ },
+ {
+  "sr": 276,
+  "name": "BD SYRINGE INS U-4",
+  "generic": "SYRINGE",
+  "price": "10",
+  "sku": "IMP-0276"
+ },
+ {
+  "sr": 277,
+  "name": "BD SYRINGE INSU 100 1ML",
+  "generic": "SYRINGE",
+  "price": "10",
+  "sku": "IMP-0277"
+ },
+ {
+  "sr": 278,
+  "name": "BEATON TAB",
+  "generic": "BETAMETHASONE SODIUM PHOSPHATE",
+  "price": "0.5",
+  "sku": "IMP-0278"
+ },
+ {
+  "sr": 279,
+  "name": "BECLATE INHALER 200MD",
+  "generic": "BECLOMETHASONE DIPROPIONATE",
+  "price": "510",
+  "sku": "IMP-0279"
+ },
+ {
+  "sr": 280,
+  "name": "BECOSULES CAP",
+  "generic": "B-complex boost, Vitamin C",
+  "price": "3",
+  "sku": "IMP-0280"
+ },
+ {
+  "sr": 281,
+  "name": "BECOZYMC CFORTE TAB",
+  "generic": "VITAMIN B",
+  "price": "2",
+  "sku": "IMP-0281"
+ },
+ {
+  "sr": 282,
+  "name": "BELOC TR 80MG",
+  "generic": "PROPRANOLOL HCL",
+  "price": "2",
+  "sku": "IMP-0282"
+ },
+ {
+  "sr": 283,
+  "name": "BEMPETOL EZ TAB",
+  "generic": "BEMPEDOIC ACID",
+  "price": "17",
+  "sku": "IMP-0283"
+ },
+ {
+  "sr": 284,
+  "name": "BEMPIDOC EZ TAB",
+  "generic": "BEMPEDOIC ACID",
+  "price": "23",
+  "sku": "IMP-0284"
+ },
+ {
+  "sr": 285,
+  "name": "BEMPOTOL 180MG",
+  "generic": "BEMPEDOIC ACID",
+  "price": "22",
+  "sku": "IMP-0285"
+ },
+ {
+  "sr": 286,
+  "name": "BEMPOTOL EZ TAB",
+  "generic": "BEMPEDOIC ACID",
+  "price": "17",
+  "sku": "IMP-0286"
+ },
+ {
+  "sr": 287,
+  "name": "BEMPOTOL TAB",
+  "generic": "BEMPEDOIC",
+  "price": "21",
+  "sku": "IMP-0287"
+ },
+ {
+  "sr": 288,
+  "name": "BENCID TAB",
+  "generic": "PROBENECID",
+  "price": "6.5",
+  "sku": "IMP-0288"
+ },
+ {
+  "sr": 289,
+  "name": "BENOQUIN CREAM 100GM",
+  "generic": "MONOBENZONE",
+  "price": "3420",
+  "sku": "IMP-0289"
+ },
+ {
+  "sr": 290,
+  "name": "BENOQUIN OINTMENT 30GM",
+  "generic": "MONOBENZONE",
+  "price": "610",
+  "sku": "IMP-0290"
+ },
+ {
+  "sr": 291,
+  "name": "BENZ PEARLS CAP",
+  "generic": "BENZONATATE",
+  "price": "8",
+  "sku": "IMP-0291"
+ },
+ {
+  "sr": 292,
+  "name": "BENZAC AC 2.5 GEL",
+  "generic": "BENZOYL PEROXIDE",
+  "price": "100",
+  "sku": "IMP-0292"
+ },
+ {
+  "sr": 293,
+  "name": "BENZAC AC 2.5 GEL 30GM",
+  "generic": "BENZOYL PEROXIDE",
+  "price": "100",
+  "sku": "IMP-0293"
+ },
+ {
+  "sr": 294,
+  "name": "BENZAC AC 5% GEL 20GM",
+  "generic": "BENZOYL PEROXIDE",
+  "price": "220",
+  "sku": "IMP-0294"
+ },
+ {
+  "sr": 295,
+  "name": "BENZO 2.5% GEL 30GM",
+  "generic": "BENZOYL PEROXIDE",
+  "price": "35",
+  "sku": "IMP-0295"
+ },
+ {
+  "sr": 296,
+  "name": "BENZO 5% GEL 30GM",
+  "generic": "BENZOYL PEROXIDE",
+  "price": "50",
+  "sku": "IMP-0296"
+ },
+ {
+  "sr": 297,
+  "name": "BENZOCAN CREAM",
+  "generic": "MONOBENZONE CREAM",
+  "price": "200",
+  "sku": "IMP-0297"
+ },
+ {
+  "sr": 298,
+  "name": "BETABLOCK XL 100MG",
+  "generic": "METOPROLOL SUCCINATE",
+  "price": "2.5",
+  "sku": "IMP-0298"
+ },
+ {
+  "sr": 299,
+  "name": "BETABLOCK XL 25MG",
+  "generic": "METOPROLOL SUCCINATE",
+  "price": "1.5",
+  "sku": "IMP-0299"
+ },
+ {
+  "sr": 300,
+  "name": "BETABLOCK XL 50MG",
+  "generic": "MONOBENZONE CREAM",
+  "price": "1.5",
+  "sku": "IMP-0300"
+ },
+ {
+  "sr": 301,
+  "name": "BETACARD 25MG",
+  "generic": "ATENOLOL",
+  "price": "3",
+  "sku": "IMP-0301"
+ },
+ {
+  "sr": 302,
+  "name": "BETAGEE INJ 1ML",
+  "generic": "BETAMETHASONE",
+  "price": "6.5",
+  "sku": "IMP-0302"
+ },
+ {
+  "sr": 303,
+  "name": "BETAMETHASONE TAB",
+  "generic": "BETAMETHASONE SODIUM",
+  "price": "1",
+  "sku": "IMP-0303"
+ },
+ {
+  "sr": 304,
+  "name": "BETAPIX INJ 1ML",
+  "generic": "BETAMETHASONE",
+  "price": "5",
+  "sku": "IMP-0304"
+ },
+ {
+  "sr": 305,
+  "name": "BETASTAL INJ",
+  "generic": "BETAMETHASONE (AS SODIUM PHOSPHATE) & BETAMETHASONE (AS DIPROPIONATE)",
+  "price": "4",
+  "sku": "IMP-0305"
+ },
+ {
+  "sr": 306,
+  "name": "BETAVERT 16MG",
+  "generic": "BETAHISTINE",
+  "price": "15.5",
+  "sku": "IMP-0306"
+ },
+ {
+  "sr": 307,
+  "name": "BETLYSONE TAB",
+  "generic": "BETAMETHASONE",
+  "price": "0.5",
+  "sku": "IMP-0307"
+ },
+ {
+  "sr": 308,
+  "name": "BETNESOL 0.5MG",
+  "generic": "BETAMETHASONE",
+  "price": "1",
+  "sku": "IMP-0308"
+ },
+ {
+  "sr": 309,
+  "name": "BETNOVATE CREAM 20GM",
+  "generic": "BETAMETHASONE VALERATE CREAM",
+  "price": "20",
+  "sku": "IMP-0309"
+ }
+]

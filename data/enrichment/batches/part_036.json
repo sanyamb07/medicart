@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1892,
+  "name": "MYOSPAZ FORTE TAB",
+  "generic": "CHLORZOXAZONE+ DICLOFENAC + PARACETAMOL",
+  "price": "30",
+  "sku": "IMP-1892"
+ },
+ {
+  "sr": 1893,
+  "name": "MYPOD 200MG",
+  "generic": "CEFPODOXIME",
+  "price": "8",
+  "sku": "IMP-1893"
+ },
+ {
+  "sr": 1894,
+  "name": "MYSOLINE 250MG",
+  "generic": "PRIMIDONE",
+  "price": "11",
+  "sku": "IMP-1894"
+ },
+ {
+  "sr": 1895,
+  "name": "MYTERA 250MG",
+  "generic": "ABIRATERONE",
+  "price": "46",
+  "sku": "IMP-1895"
+ },
+ {
+  "sr": 1896,
+  "name": "MYTERA 500MG",
+  "generic": "ABIRATERONE",
+  "price": "125",
+  "sku": "IMP-1896"
+ },
+ {
+  "sr": 1897,
+  "name": "MYTERA 500MG TAB",
+  "generic": "ABIRATERONE",
+  "price": "84",
+  "sku": "IMP-1897"
+ },
+ {
+  "sr": 1898,
+  "name": "MYTRIACYL EYE DROP 10ML",
+  "generic": "TROPICAMIDE OPHTHALMIC",
+  "price": "100",
+  "sku": "IMP-1898"
+ },
+ {
+  "sr": 1899,
+  "name": "NADIBACT CREAM 10GM",
+  "generic": "NADIFLOXACIN",
+  "price": "110",
+  "sku": "IMP-1899"
+ },
+ {
+  "sr": 1900,
+  "name": "NADROLIN INJ 1ML",
+  "generic": "NANDROLONE",
+  "price": "85",
+  "sku": "IMP-1900"
+ },
+ {
+  "sr": 1901,
+  "name": "NAILROX CREAM",
+  "generic": "CICLOPIROX",
+  "price": "190",
+  "sku": "IMP-1901"
+ },
+ {
+  "sr": 1902,
+  "name": "NAILROX SOL 5ML",
+  "generic": "CICLOPIROX",
+  "price": "275",
+  "sku": "IMP-1902"
+ },
+ {
+  "sr": 1903,
+  "name": "NAILROX(NAIL LACQUER) 5ML",
+  "generic": "CICLOPIROX",
+  "price": "270",
+  "sku": "IMP-1903"
+ },
+ {
+  "sr": 1904,
+  "name": "NALCIP 50MG",
+  "generic": "NALTREXONE",
+  "price": "45",
+  "sku": "IMP-1904"
+ },
+ {
+  "sr": 1905,
+  "name": "NALKEM 50MG",
+  "generic": "NALTREXONE",
+  "price": "45",
+  "sku": "IMP-1905"
+ },
+ {
+  "sr": 1906,
+  "name": "NALSIGN 50MG",
+  "generic": "NALTREXONE",
+  "price": "56",
+  "sku": "IMP-1906"
+ },
+ {
+  "sr": 1907,
+  "name": "NALTIMA 50MG",
+  "generic": "NALTREXONE",
+  "price": "78",
+  "sku": "IMP-1907"
+ },
+ {
+  "sr": 1908,
+  "name": "NALTISON 50MG",
+  "generic": "NALTREXONE",
+  "price": "45",
+  "sku": "IMP-1908"
+ },
+ {
+  "sr": 1909,
+  "name": "NALTIVIA 50MG",
+  "generic": "NALTREXONE",
+  "price": "45",
+  "sku": "IMP-1909"
+ },
+ {
+  "sr": 1910,
+  "name": "NALTRUST 25MG",
+  "generic": "NALTREXONE",
+  "price": "35",
+  "sku": "IMP-1910"
+ },
+ {
+  "sr": 1911,
+  "name": "NALTRUST BP",
+  "generic": "NALTREXONE",
+  "price": "28",
+  "sku": "IMP-1911"
+ },
+ {
+  "sr": 1912,
+  "name": "NANDRIX INJ 1ML",
+  "generic": "NANDROLONE",
+  "price": "85",
+  "sku": "IMP-1912"
+ },
+ {
+  "sr": 1913,
+  "name": "NANDROLIN 100MG INJ 10ML",
+  "generic": "NANDROLONE",
+  "price": "820",
+  "sku": "IMP-1913"
+ },
+ {
+  "sr": 1914,
+  "name": "NANDROLIN 100MG INJ 1ML",
+  "generic": "NANDROLONE",
+  "price": "85",
+  "sku": "IMP-1914"
+ },
+ {
+  "sr": 1915,
+  "name": "NAPASPEED 500MG",
+  "generic": "NAPROXEN",
+  "price": "6.5",
+  "sku": "IMP-1915"
+ },
+ {
+  "sr": 1916,
+  "name": "NAPRA D 250MG",
+  "generic": "DOMPERIDONE + NAPROXEN",
+  "price": "7.5",
+  "sku": "IMP-1916"
+ },
+ {
+  "sr": 1917,
+  "name": "NAPRA D 500MG",
+  "generic": "DOMPERIDONE + NAPROXEN",
+  "price": "10",
+  "sku": "IMP-1917"
+ },
+ {
+  "sr": 1918,
+  "name": "NAPROHEAL 500MG",
+  "generic": "NAPROXEN",
+  "price": "5.5",
+  "sku": "IMP-1918"
+ },
+ {
+  "sr": 1919,
+  "name": "NAPROLET 500MG",
+  "generic": "NAPROXEN",
+  "price": "5",
+  "sku": "IMP-1919"
+ },
+ {
+  "sr": 1920,
+  "name": "NAPROSYN 500MG",
+  "generic": "NAPROXEN",
+  "price": "8",
+  "sku": "IMP-1920"
+ },
+ {
+  "sr": 1921,
+  "name": "NASOMIST DROP SPRAY 20ML",
+  "generic": "SODIUM CHLORIDE",
+  "price": "55",
+  "sku": "IMP-1921"
+ },
+ {
+  "sr": 1922,
+  "name": "NASOMIST XP DROP 10ML",
+  "generic": "SODIUM CHLORIDE",
+  "price": "40",
+  "sku": "IMP-1922"
+ },
+ {
+  "sr": 1923,
+  "name": "NATACIN EYE DROPS 5ML",
+  "generic": "NATAMYCIN",
+  "price": "110",
+  "sku": "IMP-1923"
+ },
+ {
+  "sr": 1924,
+  "name": "NATAMET 5% EYE DROP",
+  "generic": "NATAMYCIN",
+  "price": "110",
+  "sku": "IMP-1924"
+ },
+ {
+  "sr": 1925,
+  "name": "NATTOKINASE VEGGIE CAP",
+  "generic": "DIETARY SUPPLEMENT",
+  "price": "4.5",
+  "sku": "IMP-1925"
+ },
+ {
+  "sr": 1926,
+  "name": "NATUROGEST GEL 1.35G",
+  "generic": "PROGESTERONE-",
+  "price": "165",
+  "sku": "IMP-1926"
+ },
+ {
+  "sr": 1927,
+  "name": "NEBIMAX 10MG",
+  "generic": "NEBIVOLOL HCL",
+  "price": "7",
+  "sku": "IMP-1927"
+ },
+ {
+  "sr": 1928,
+  "name": "NEBIMAX 2.5MG",
+  "generic": "NEBIVOLOL HCL",
+  "price": "3",
+  "sku": "IMP-1928"
+ },
+ {
+  "sr": 1929,
+  "name": "NEBIMAX 5MG",
+  "generic": "NEBIVOLOL HCL",
+  "price": "3.5",
+  "sku": "IMP-1929"
+ },
+ {
+  "sr": 1930,
+  "name": "NEBIVOL 5MG",
+  "generic": "NEBIVOLOL HCL",
+  "price": "3",
+  "sku": "IMP-1930"
+ },
+ {
+  "sr": 1931,
+  "name": "NEBQUEST 5MG TAB",
+  "generic": "NEBIVOLOL HCL",
+  "price": "3",
+  "sku": "IMP-1931"
+ },
+ {
+  "sr": 1932,
+  "name": "NEBULA 2.5MG",
+  "generic": "NEBIVOLOL",
+  "price": "9",
+  "sku": "IMP-1932"
+ },
+ {
+  "sr": 1933,
+  "name": "NEBULIZER KIT",
+  "generic": "",
+  "price": "160",
+  "sku": "IMP-1933"
+ },
+ {
+  "sr": 1934,
+  "name": "NEEDLE 24 NO.",
+  "generic": "NEEDLE",
+  "price": "1",
+  "sku": "IMP-1934"
+ },
+ {
+  "sr": 1935,
+  "name": "NEEDLE DISPOVAN 18NO",
+  "generic": "NEEDLE",
+  "price": "2.5",
+  "sku": "IMP-1935"
+ },
+ {
+  "sr": 1936,
+  "name": "NEEDLE DISPOVAN 23NO",
+  "generic": "NEEDLE",
+  "price": "3",
+  "sku": "IMP-1936"
+ },
+ {
+  "sr": 1937,
+  "name": "NEFTAS 50 MG TAB",
+  "generic": "NITROFURANTOIN",
+  "price": "7",
+  "sku": "IMP-1937"
+ },
+ {
+  "sr": 1938,
+  "name": "NEMOCID TAB",
+  "generic": "PYRANTEL PAMOATE",
+  "price": "4.5",
+  "sku": "IMP-1938"
+ },
+ {
+  "sr": 1939,
+  "name": "NEOMYCIN CREAM",
+  "generic": "BACITRACIN+ NEOMYCIN + POLYMYXIN B",
+  "price": "10",
+  "sku": "IMP-1939"
+ },
+ {
+  "sr": 1940,
+  "name": "NEOROF 1% INJ",
+  "generic": "PROPOFOL INJ",
+  "price": "65",
+  "sku": "IMP-1940"
+ },
+ {
+  "sr": 1941,
+  "name": "NEOROF 1% INJ 50ML",
+  "generic": "PROPOFOL INJ",
+  "price": "160",
+  "sku": "IMP-1941"
+ }
+]

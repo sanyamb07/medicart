@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2661,
+  "name": "T3BIX 25MCG",
+  "generic": "LIOTHYRONINE SODIUM",
+  "price": "3.5",
+  "sku": "IMP-2661"
+ },
+ {
+  "sr": 2662,
+  "name": "TABLODEP 25MG",
+  "generic": "LAMOTRIGINE",
+  "price": "2",
+  "sku": "IMP-2662"
+ },
+ {
+  "sr": 2663,
+  "name": "TABLODEP 50MG",
+  "generic": "LAMOTRIGINE",
+  "price": "2.5",
+  "sku": "IMP-2663"
+ },
+ {
+  "sr": 2664,
+  "name": "TABLODEP DT 100MG",
+  "generic": "LAMOTRIGINE",
+  "price": "3.75",
+  "sku": "IMP-2664"
+ },
+ {
+  "sr": 2665,
+  "name": "TACROHEAL 0.1% 10GM",
+  "generic": "TACROLIMUS",
+  "price": "95",
+  "sku": "IMP-2665"
+ },
+ {
+  "sr": 2666,
+  "name": "TACROHEAL 1MG",
+  "generic": "TACROLIMUS",
+  "price": "6.5",
+  "sku": "IMP-2666"
+ },
+ {
+  "sr": 2667,
+  "name": "TACROZ OINT 20GM",
+  "generic": "TACROLIMUS",
+  "price": "265",
+  "sku": "IMP-2667"
+ },
+ {
+  "sr": 2668,
+  "name": "TAD 600MG/4ML",
+  "generic": "Glutathione",
+  "price": "560",
+  "sku": "IMP-2668"
+ },
+ {
+  "sr": 2669,
+  "name": "TADACIP 20MG",
+  "generic": "TADALAFIL",
+  "price": "5.5",
+  "sku": "IMP-2669"
+ },
+ {
+  "sr": 2670,
+  "name": "TADADAY 60MG",
+  "generic": "TADALAFIL",
+  "price": "3.25",
+  "sku": "IMP-2670"
+ },
+ {
+  "sr": 2671,
+  "name": "TADAFLO 20MG",
+  "generic": "TADALAFIL",
+  "price": "58",
+  "sku": "IMP-2671"
+ },
+ {
+  "sr": 2672,
+  "name": "TADAFLO 5MG",
+  "generic": "TADALAFIL",
+  "price": "24",
+  "sku": "IMP-2672"
+ },
+ {
+  "sr": 2673,
+  "name": "TADAGA SUPER 60MG",
+  "generic": "TADALAFIL",
+  "price": "4.5",
+  "sku": "IMP-2673"
+ },
+ {
+  "sr": 2674,
+  "name": "TADAGRA 20MG",
+  "generic": "TADALAFIL",
+  "price": "2",
+  "sku": "IMP-2674"
+ },
+ {
+  "sr": 2675,
+  "name": "TADAGRA ST 40MG",
+  "generic": "TADALAFIL",
+  "price": "3",
+  "sku": "IMP-2675"
+ },
+ {
+  "sr": 2676,
+  "name": "TADAGRA ST 60MG",
+  "generic": "TADALAFIL",
+  "price": "4",
+  "sku": "IMP-2676"
+ },
+ {
+  "sr": 2677,
+  "name": "TADALISTA 10MG",
+  "generic": "TADALAFIL",
+  "price": "1.5",
+  "sku": "IMP-2677"
+ },
+ {
+  "sr": 2678,
+  "name": "TADALISTA 20MG",
+  "generic": "TADALAFIL",
+  "price": "2",
+  "sku": "IMP-2678"
+ },
+ {
+  "sr": 2679,
+  "name": "TADALISTA 40MG",
+  "generic": "TADALAFIL",
+  "price": "3",
+  "sku": "IMP-2679"
+ },
+ {
+  "sr": 2680,
+  "name": "TADALISTA 5MG",
+  "generic": "TADALAFIL",
+  "price": "1.5",
+  "sku": "IMP-2680"
+ },
+ {
+  "sr": 2681,
+  "name": "TADALISTA 60MG",
+  "generic": "TADALAFIL",
+  "price": "4.5",
+  "sku": "IMP-2681"
+ },
+ {
+  "sr": 2682,
+  "name": "TADALISTA CT 20MG",
+  "generic": "TADALAFIL",
+  "price": "2",
+  "sku": "IMP-2682"
+ },
+ {
+  "sr": 2683,
+  "name": "TADALISTA PROFESSIONAL",
+  "generic": "TADALAFIL",
+  "price": "2.5",
+  "sku": "IMP-2683"
+ },
+ {
+  "sr": 2684,
+  "name": "TADALISTA SUPER ACTIVE TAB",
+  "generic": "TADALAFIL",
+  "price": "2.5",
+  "sku": "IMP-2684"
+ },
+ {
+  "sr": 2685,
+  "name": "TADALIX SX 20",
+  "generic": "TADALAFIL",
+  "price": "6.5",
+  "sku": "IMP-2685"
+ },
+ {
+  "sr": 2686,
+  "name": "TADANOVA 20MG",
+  "generic": "TADALAFIL",
+  "price": "1.5",
+  "sku": "IMP-2686"
+ },
+ {
+  "sr": 2687,
+  "name": "TADANOVA 40MG",
+  "generic": "TADALAFIL",
+  "price": "2.5",
+  "sku": "IMP-2687"
+ },
+ {
+  "sr": 2688,
+  "name": "TADANOVA 60MG",
+  "generic": "TADALAFIL",
+  "price": "3.5",
+  "sku": "IMP-2688"
+ },
+ {
+  "sr": 2689,
+  "name": "TADANOVA 80MG",
+  "generic": "TADALAFIL",
+  "price": "4.5",
+  "sku": "IMP-2689"
+ },
+ {
+  "sr": 2690,
+  "name": "TADANOVA BLACK 80MG",
+  "generic": "TADALAFIL",
+  "price": "4.5",
+  "sku": "IMP-2690"
+ },
+ {
+  "sr": 2691,
+  "name": "TADAPOX 20/60MG",
+  "generic": "TADALAFIL & DAPOXETINE",
+  "price": "11.5",
+  "sku": "IMP-2691"
+ },
+ {
+  "sr": 2692,
+  "name": "TADAPOX TAB",
+  "generic": "TADALAFIL & DAPOXETINE",
+  "price": "12",
+  "sku": "IMP-2692"
+ },
+ {
+  "sr": 2693,
+  "name": "TADAREEN 20MG",
+  "generic": "TADALAFIL",
+  "price": "1.5",
+  "sku": "IMP-2693"
+ },
+ {
+  "sr": 2694,
+  "name": "TADAREEN 40MG",
+  "generic": "TADALAFIL",
+  "price": "1.5",
+  "sku": "IMP-2694"
+ },
+ {
+  "sr": 2695,
+  "name": "TADARISE 10MG",
+  "generic": "TADALAFIL",
+  "price": "1.5",
+  "sku": "IMP-2695"
+ },
+ {
+  "sr": 2696,
+  "name": "TADARISE 2.5MG TAB",
+  "generic": "TADALAFIL",
+  "price": "1.5",
+  "sku": "IMP-2696"
+ },
+ {
+  "sr": 2697,
+  "name": "TADARISE 20MG",
+  "generic": "TADALAFIL",
+  "price": "2",
+  "sku": "IMP-2697"
+ },
+ {
+  "sr": 2698,
+  "name": "TADARISE 20MG EFFERVESCENT",
+  "generic": "TADALAFIL EFFERVESCENT",
+  "price": "11",
+  "sku": "IMP-2698"
+ },
+ {
+  "sr": 2699,
+  "name": "TADARISE 40MG",
+  "generic": "TADALAFIL",
+  "price": "3",
+  "sku": "IMP-2699"
+ },
+ {
+  "sr": 2700,
+  "name": "TADARISE 5MG",
+  "generic": "TADALAFIL",
+  "price": "1",
+  "sku": "IMP-2700"
+ },
+ {
+  "sr": 2701,
+  "name": "TADARISE 60MG",
+  "generic": "TADALAFIL",
+  "price": "4",
+  "sku": "IMP-2701"
+ },
+ {
+  "sr": 2702,
+  "name": "TADARISE 80MG BLACK",
+  "generic": "TADALAFIL",
+  "price": "5",
+  "sku": "IMP-2702"
+ },
+ {
+  "sr": 2703,
+  "name": "TADARISE ORAL JELLY",
+  "generic": "TADALAFIL",
+  "price": "55",
+  "sku": "IMP-2703"
+ },
+ {
+  "sr": 2704,
+  "name": "TADARISE PRO 40MG",
+  "generic": "TADALAFIL",
+  "price": "3.5",
+  "sku": "IMP-2704"
+ },
+ {
+  "sr": 2705,
+  "name": "TADASIVA TAB",
+  "generic": "TADALAFIL & SILDENAFIL",
+  "price": "5.5",
+  "sku": "IMP-2705"
+ },
+ {
+  "sr": 2706,
+  "name": "TADASOFT 20MG",
+  "generic": "TADALAFIL",
+  "price": "2",
+  "sku": "IMP-2706"
+ },
+ {
+  "sr": 2707,
+  "name": "TADASOFT 40MG",
+  "generic": "TADALAFIL",
+  "price": "3.5",
+  "sku": "IMP-2707"
+ },
+ {
+  "sr": 2708,
+  "name": "TADAUP 5MG",
+  "generic": "TADALAFIL",
+  "price": "1",
+  "sku": "IMP-2708"
+ },
+ {
+  "sr": 2709,
+  "name": "TADAUP 80MG",
+  "generic": "TADALAFIL",
+  "price": "4",
+  "sku": "IMP-2709"
+ },
+ {
+  "sr": 2710,
+  "name": "TADORA 20MG",
+  "generic": "TADALAFIL",
+  "price": "4",
+  "sku": "IMP-2710"
+ }
+]

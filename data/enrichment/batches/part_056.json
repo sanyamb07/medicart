@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2911,
+  "name": "TOBA DM EYE DROP",
+  "generic": "TOBRAMYCIN+ DEXAMETHASONE",
+  "price": "25",
+  "sku": "IMP-2911"
+ },
+ {
+  "sr": 2912,
+  "name": "TOBRA D DROP 10ML",
+  "generic": "TOBRAMYCIN+ DEXAMETHASONE",
+  "price": "18",
+  "sku": "IMP-2912"
+ },
+ {
+  "sr": 2913,
+  "name": "TOBRA EYE /EAR DROPS 10ML",
+  "generic": "TOBRAMYCIN+ DEXAMETHASONE",
+  "price": "18",
+  "sku": "IMP-2913"
+ },
+ {
+  "sr": 2914,
+  "name": "TOFAJAK 5MG",
+  "generic": "TOFACITINIB",
+  "price": "18",
+  "sku": "IMP-2914"
+ },
+ {
+  "sr": 2915,
+  "name": "TOFAKAY 5MG",
+  "generic": "TOFACITINIB",
+  "price": "9",
+  "sku": "IMP-2915"
+ },
+ {
+  "sr": 2916,
+  "name": "TOFAKEY 5MG",
+  "generic": "TOFACITINIB",
+  "price": "9",
+  "sku": "IMP-2916"
+ },
+ {
+  "sr": 2917,
+  "name": "TOFANOL OINT 2% 10GM",
+  "generic": "TOFACITINIB 2% OINTMENT",
+  "price": "280",
+  "sku": "IMP-2917"
+ },
+ {
+  "sr": 2918,
+  "name": "TOFASE 5MG",
+  "generic": "TOFACITINIB",
+  "price": "4",
+  "sku": "IMP-2918"
+ },
+ {
+  "sr": 2919,
+  "name": "TOFASIG TAB",
+  "generic": "TOFACITINIB",
+  "price": "7.5",
+  "sku": "IMP-2919"
+ },
+ {
+  "sr": 2920,
+  "name": "TOFASOOTH 5MG",
+  "generic": "TOFACITINIB",
+  "price": "7.5",
+  "sku": "IMP-2920"
+ },
+ {
+  "sr": 2921,
+  "name": "TOFI 50MG",
+  "generic": "TOFISOPAM",
+  "price": "7",
+  "sku": "IMP-2921"
+ },
+ {
+  "sr": 2922,
+  "name": "TOFICALM 100MG",
+  "generic": "TOFISOPAM",
+  "price": "21.5",
+  "sku": "IMP-2922"
+ },
+ {
+  "sr": 2923,
+  "name": "TOFIDAXIN 50MG",
+  "generic": "TOFISOPAM",
+  "price": "6.5",
+  "sku": "IMP-2923"
+ },
+ {
+  "sr": 2924,
+  "name": "TOFIFRESH 100MG",
+  "generic": "TOFISOPAM",
+  "price": "10",
+  "sku": "IMP-2924"
+ },
+ {
+  "sr": 2925,
+  "name": "TOFISO 100MG",
+  "generic": "TOFISOPAM",
+  "price": "11",
+  "sku": "IMP-2925"
+ },
+ {
+  "sr": 2926,
+  "name": "TOFISO 50MG",
+  "generic": "TOFISOPAM",
+  "price": "7",
+  "sku": "IMP-2926"
+ },
+ {
+  "sr": 2927,
+  "name": "TOFISTRIP 100MG",
+  "generic": "TOFISOPAM",
+  "price": "17",
+  "sku": "IMP-2927"
+ },
+ {
+  "sr": 2928,
+  "name": "TOFISTRIP 50MG",
+  "generic": "TOFISOPAM",
+  "price": "11",
+  "sku": "IMP-2928"
+ },
+ {
+  "sr": 2929,
+  "name": "TOFYPEACE 100MG",
+  "generic": "TOFISOPAM",
+  "price": "14",
+  "sku": "IMP-2929"
+ },
+ {
+  "sr": 2930,
+  "name": "TOFYPEACE 50MG",
+  "generic": "TOFISOPAM",
+  "price": "9",
+  "sku": "IMP-2930"
+ },
+ {
+  "sr": 2931,
+  "name": "TOLPERITAS 150 TABLET",
+  "generic": "TOLPERISONE",
+  "price": "14",
+  "sku": "IMP-2931"
+ },
+ {
+  "sr": 2932,
+  "name": "TOPAHEAL 100MG",
+  "generic": "TOPIRAMATE",
+  "price": "3.5",
+  "sku": "IMP-2932"
+ },
+ {
+  "sr": 2933,
+  "name": "TOPAHEAL 25MG",
+  "generic": "TOPIRAMATE",
+  "price": "1.5",
+  "sku": "IMP-2933"
+ },
+ {
+  "sr": 2934,
+  "name": "TOPAHEAL 50MG",
+  "generic": "TOPIRAMATE",
+  "price": "2.5",
+  "sku": "IMP-2934"
+ },
+ {
+  "sr": 2935,
+  "name": "TOPAZ 50MG",
+  "generic": "TOPIRAMATE",
+  "price": "12",
+  "sku": "IMP-2935"
+ },
+ {
+  "sr": 2936,
+  "name": "TOPCYNTA 100MG",
+  "generic": "TAPENTADOL",
+  "price": "10.5",
+  "sku": "IMP-2936"
+ },
+ {
+  "sr": 2937,
+  "name": "TOPIROL 25MG",
+  "generic": "TOPIRAMATE",
+  "price": "9",
+  "sku": "IMP-2937"
+ },
+ {
+  "sr": 2938,
+  "name": "TOPLAP GEL",
+  "generic": "LIDOCAINE+ PRILOCAINE-",
+  "price": "670",
+  "sku": "IMP-2938"
+ },
+ {
+  "sr": 2939,
+  "name": "TORSEHEAL 10MG",
+  "generic": "TORASEMIDE",
+  "price": "1.5",
+  "sku": "IMP-2939"
+ },
+ {
+  "sr": 2940,
+  "name": "T-PANDA 200MG",
+  "generic": "TAPENTADOL",
+  "price": "17",
+  "sku": "IMP-2940"
+ },
+ {
+  "sr": 2941,
+  "name": "TRANCYP 10MG",
+  "generic": "TRANYLCYPROMINE",
+  "price": "8",
+  "sku": "IMP-2941"
+ },
+ {
+  "sr": 2942,
+  "name": "TRANEXAHEAL 500 TAB",
+  "generic": "TRANEXAMIC",
+  "price": "7",
+  "sku": "IMP-2942"
+ },
+ {
+  "sr": 2943,
+  "name": "TRAVATAN DROP 2.5ML",
+  "generic": "TRAVOPROST",
+  "price": "750",
+  "sku": "IMP-2943"
+ },
+ {
+  "sr": 2944,
+  "name": "TRAZINE H TAB",
+  "generic": "TRIFLUOPERAZINE+ TRIHEXYPHENIDYL",
+  "price": "1.5",
+  "sku": "IMP-2944"
+ },
+ {
+  "sr": 2945,
+  "name": "TRAZOCAN 100MG",
+  "generic": "TRAZODONE",
+  "price": "3",
+  "sku": "IMP-2945"
+ },
+ {
+  "sr": 2946,
+  "name": "TRAZOCAN 50MG",
+  "generic": "TRAZODONE",
+  "price": "2",
+  "sku": "IMP-2946"
+ },
+ {
+  "sr": 2947,
+  "name": "TRAZODONE 100MG",
+  "generic": "TRAZODONE HCL",
+  "price": "3",
+  "sku": "IMP-2947"
+ },
+ {
+  "sr": 2948,
+  "name": "TRAZOKEM 100MG",
+  "generic": "TRAZODONE HCL",
+  "price": "3",
+  "sku": "IMP-2948"
+ },
+ {
+  "sr": 2949,
+  "name": "TRAZOKEM 25MG",
+  "generic": "TRAZODONE HCL",
+  "price": "1.5",
+  "sku": "IMP-2949"
+ },
+ {
+  "sr": 2950,
+  "name": "TRAZOKEM 50MG",
+  "generic": "TRAZODONE HCL",
+  "price": "2",
+  "sku": "IMP-2950"
+ },
+ {
+  "sr": 2951,
+  "name": "TRAZONIL 50MG",
+  "generic": "TRAZODONE HCL",
+  "price": "8",
+  "sku": "IMP-2951"
+ },
+ {
+  "sr": 2952,
+  "name": "TRAZOSIG 100MG",
+  "generic": "TRAZODONE HCL",
+  "price": "3.5",
+  "sku": "IMP-2952"
+ },
+ {
+  "sr": 2953,
+  "name": "TRAZOSIG 50MG",
+  "generic": "TRAZODONE HCL",
+  "price": "2",
+  "sku": "IMP-2953"
+ },
+ {
+  "sr": 2954,
+  "name": "TRELEGY ELLIPTA",
+  "generic": "FLUTICASONE &UMECLIDINIUM &VILANTEROL",
+  "price": "2680",
+  "sku": "IMP-2954"
+ },
+ {
+  "sr": 2955,
+  "name": "TREMIDON TAB",
+  "generic": "PRIMIDONE",
+  "price": "11",
+  "sku": "IMP-2955"
+ },
+ {
+  "sr": 2964,
+  "name": "TRENAXA SR 750MG",
+  "generic": "TRANEXAMIC ACID",
+  "price": "16",
+  "sku": "IMP-2964"
+ },
+ {
+  "sr": 2968,
+  "name": "TRENTAL 400MG",
+  "generic": "PENTOXIFYLLINE",
+  "price": "4.25",
+  "sku": "IMP-2968"
+ },
+ {
+  "sr": 2969,
+  "name": "TRETIGEL 0.025% 20GM",
+  "generic": "TRETINOIN",
+  "price": "32",
+  "sku": "IMP-2969"
+ },
+ {
+  "sr": 2970,
+  "name": "TRETIGEL 0.1% 20GM",
+  "generic": "TRETINOIN",
+  "price": "35",
+  "sku": "IMP-2970"
+ },
+ {
+  "sr": 2971,
+  "name": "TRETIHEAL 0.01% CREAM 20GM",
+  "generic": "TRETINOIN",
+  "price": "35",
+  "sku": "IMP-2971"
+ }
+]

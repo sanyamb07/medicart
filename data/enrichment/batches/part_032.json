@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1690,
+  "name": "MELACARE FORTE CREAM 25GM",
+  "generic": "HYDROQUINONE + MOMETASONE + TRETINOIN",
+  "price": "280",
+  "sku": "IMP-1690"
+ },
+ {
+  "sr": 1691,
+  "name": "MELAFINE CREAM 15GM",
+  "generic": "HYDROQUINONE + MOMETASONE + TRETINOIN",
+  "price": "30",
+  "sku": "IMP-1691"
+ },
+ {
+  "sr": 1692,
+  "name": "MELALITE 15 CREAM 30GM",
+  "generic": "HYDROQUINONE  + OCTINOXATE + BENZOPHENONE",
+  "price": "170",
+  "sku": "IMP-1692"
+ },
+ {
+  "sr": 1693,
+  "name": "MELALITE FORTE CREAM 30GM",
+  "generic": "HYDROQUINONE",
+  "price": "140",
+  "sku": "IMP-1693"
+ },
+ {
+  "sr": 1694,
+  "name": "MELAMET CREAM",
+  "generic": "HYDROQUINONE + MOMETASONE + TRETINOIN",
+  "price": "30",
+  "sku": "IMP-1694"
+ },
+ {
+  "sr": 1695,
+  "name": "MELAQUICK 3MG",
+  "generic": "MELATONIN",
+  "price": "2",
+  "sku": "IMP-1695"
+ },
+ {
+  "sr": 1696,
+  "name": "MELONEX ORAL SUS 10ML",
+  "generic": "Meloxicam",
+  "price": "70",
+  "sku": "IMP-1696"
+ },
+ {
+  "sr": 1697,
+  "name": "MELONEX ORAL SUS 15ML",
+  "generic": "MELOXICAM",
+  "price": "70",
+  "sku": "IMP-1697"
+ },
+ {
+  "sr": 1698,
+  "name": "MELORISE 15MG",
+  "generic": "MELOXICAM",
+  "price": "4",
+  "sku": "IMP-1698"
+ },
+ {
+  "sr": 1699,
+  "name": "MELORISE 7.5MG",
+  "generic": "MELOXICAM",
+  "price": "3",
+  "sku": "IMP-1699"
+ },
+ {
+  "sr": 1700,
+  "name": "MENOCTYL 40MG",
+  "generic": "OTILONIUM BROMIDE",
+  "price": "13",
+  "sku": "IMP-1700"
+ },
+ {
+  "sr": 1701,
+  "name": "MEP 4MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "1.75",
+  "sku": "IMP-1701"
+ },
+ {
+  "sr": 1702,
+  "name": "MEPRESSO D 40MG INJ",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "55",
+  "sku": "IMP-1702"
+ },
+ {
+  "sr": 1703,
+  "name": "MERCUROCHROME LOTION 100ML",
+  "generic": "",
+  "price": "35",
+  "sku": "IMP-1703"
+ },
+ {
+  "sr": 1704,
+  "name": "MESACOL SUPPOSITORY",
+  "generic": "MESALAZINE",
+  "price": "19",
+  "sku": "IMP-1704"
+ },
+ {
+  "sr": 1705,
+  "name": "MESATIS 800MG SR",
+  "generic": "MESALAMINE",
+  "price": "6.5",
+  "sku": "IMP-1705"
+ },
+ {
+  "sr": 1706,
+  "name": "MESAZED 1200MG",
+  "generic": "MESALAMINE",
+  "price": "10.5",
+  "sku": "IMP-1706"
+ },
+ {
+  "sr": 1707,
+  "name": "MESLACARE 1200MG",
+  "generic": "MESALAMINE",
+  "price": "16",
+  "sku": "IMP-1707"
+ },
+ {
+  "sr": 1708,
+  "name": "MESLACARE 400MG",
+  "generic": "MESALAMINE",
+  "price": "6",
+  "sku": "IMP-1708"
+ },
+ {
+  "sr": 1709,
+  "name": "MESTERONUM 25MG",
+  "generic": "MESTERONUM",
+  "price": "16.5",
+  "sku": "IMP-1709"
+ },
+ {
+  "sr": 1710,
+  "name": "METATOP NASAL SPRAY",
+  "generic": "MOMETASONE FUROATE",
+  "price": "490",
+  "sku": "IMP-1710"
+ },
+ {
+  "sr": 1711,
+  "name": "METFOR 500MG",
+  "generic": "METFORMIN HCL",
+  "price": "1.5",
+  "sku": "IMP-1711"
+ },
+ {
+  "sr": 1712,
+  "name": "METFORD 1000 SR",
+  "generic": "METFORMIN HCL",
+  "price": "1.5",
+  "sku": "IMP-1712"
+ },
+ {
+  "sr": 1713,
+  "name": "METFORM SR 1000MG",
+  "generic": "METFORMIN HCL",
+  "price": "2",
+  "sku": "IMP-1713"
+ },
+ {
+  "sr": 1714,
+  "name": "METGEM ER 500MG",
+  "generic": "METFORMIN",
+  "price": "2",
+  "sku": "IMP-1714"
+ },
+ {
+  "sr": 1715,
+  "name": "METGY 200MG",
+  "generic": "METRONIDAZOLE",
+  "price": "1",
+  "sku": "IMP-1715"
+ },
+ {
+  "sr": 1717,
+  "name": "METHIMEZ 5MG",
+  "generic": "METHIMAZOLE",
+  "price": "16.5",
+  "sku": "IMP-1717"
+ },
+ {
+  "sr": 1718,
+  "name": "METHIMZOLE 5 MG",
+  "generic": "METHIMAZOLE",
+  "price": "3",
+  "sku": "IMP-1718"
+ },
+ {
+  "sr": 1719,
+  "name": "METHOQUEST 2.5MG",
+  "generic": "METHOTREXATE",
+  "price": "2",
+  "sku": "IMP-1719"
+ },
+ {
+  "sr": 1720,
+  "name": "METHOTREX 5MG",
+  "generic": "METHOTREXATE",
+  "price": "2",
+  "sku": "IMP-1720"
+ },
+ {
+  "sr": 1721,
+  "name": "METHY BLUE INJ",
+  "generic": "METHYLENE BLUE INJ",
+  "price": "86",
+  "sku": "IMP-1721"
+ },
+ {
+  "sr": 1722,
+  "name": "METHYLORA 4MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "2",
+  "sku": "IMP-1722"
+ },
+ {
+  "sr": 1723,
+  "name": "METNEY 400MG",
+  "generic": "METRONIDAZOLE",
+  "price": "1.5",
+  "sku": "IMP-1723"
+ },
+ {
+  "sr": 1724,
+  "name": "METNI 16MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "5",
+  "sku": "IMP-1724"
+ },
+ {
+  "sr": 1725,
+  "name": "METNI 4MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "2",
+  "sku": "IMP-1725"
+ },
+ {
+  "sr": 1726,
+  "name": "METNI 8MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "3",
+  "sku": "IMP-1726"
+ },
+ {
+  "sr": 1727,
+  "name": "METODER 50MG",
+  "generic": "METOPROLOL",
+  "price": "1",
+  "sku": "IMP-1727"
+ },
+ {
+  "sr": 1728,
+  "name": "METODER 50MG TAB",
+  "generic": "METOPROLOL",
+  "price": "1.5",
+  "sku": "IMP-1728"
+ },
+ {
+  "sr": 1729,
+  "name": "METODER XL 50MG",
+  "generic": "METOPROLOL SUCCINATE",
+  "price": "1.25",
+  "sku": "IMP-1729"
+ },
+ {
+  "sr": 1730,
+  "name": "METONYL 400MG",
+  "generic": "METRONIDAZOLE",
+  "price": "1.5",
+  "sku": "IMP-1730"
+ },
+ {
+  "sr": 1731,
+  "name": "METOPOL 100MG XL",
+  "generic": "METOPROLOL",
+  "price": "2",
+  "sku": "IMP-1731"
+ },
+ {
+  "sr": 1732,
+  "name": "METOPRO 25MG",
+  "generic": "METOPROLOL",
+  "price": "1.5",
+  "sku": "IMP-1732"
+ },
+ {
+  "sr": 1733,
+  "name": "METOPROL XL 25MG",
+  "generic": "METOPROLOL",
+  "price": "1.5",
+  "sku": "IMP-1733"
+ },
+ {
+  "sr": 1734,
+  "name": "METOPROL XL 50MG",
+  "generic": "METOPROLOL",
+  "price": "2.5",
+  "sku": "IMP-1734"
+ },
+ {
+  "sr": 1735,
+  "name": "METOPROLOL 50MG",
+  "generic": "METOPROLOL",
+  "price": "5",
+  "sku": "IMP-1735"
+ },
+ {
+  "sr": 1736,
+  "name": "METOTRIP 20MG",
+  "generic": "METOPROLOL",
+  "price": "6.5",
+  "sku": "IMP-1736"
+ },
+ {
+  "sr": 1737,
+  "name": "METOTRIP 3MG",
+  "generic": "MELATONIN",
+  "price": "3",
+  "sku": "IMP-1737"
+ },
+ {
+  "sr": 1738,
+  "name": "METOTRIP 5MG",
+  "generic": "MELATONIN",
+  "price": "4",
+  "sku": "IMP-1738"
+ },
+ {
+  "sr": 1739,
+  "name": "METROFRESH 400MG",
+  "generic": "METRONIDAZOLE",
+  "price": "1",
+  "sku": "IMP-1739"
+ },
+ {
+  "sr": 1740,
+  "name": "METROGYL ER TAB",
+  "generic": "METRONIDAZOLE",
+  "price": "7",
+  "sku": "IMP-1740"
+ }
+]

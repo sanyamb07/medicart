@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 465,
+  "name": "CEFASIGN 500MG",
+  "generic": "CEFUROXIME AXETIL",
+  "price": "13",
+  "sku": "IMP-0465"
+ },
+ {
+  "sr": 466,
+  "name": "CEFASYN 250MG",
+  "generic": "CEFUROXIME",
+  "price": "11",
+  "sku": "IMP-0466"
+ },
+ {
+  "sr": 467,
+  "name": "CEFASYN 500MG",
+  "generic": "CEFUROXIME",
+  "price": "20.5",
+  "sku": "IMP-0467"
+ },
+ {
+  "sr": 468,
+  "name": "CEFDINIR 300MG",
+  "generic": "CEFDINIR",
+  "price": "62",
+  "sku": "IMP-0468"
+ },
+ {
+  "sr": 469,
+  "name": "CEFIX 100MG",
+  "generic": "CEFIXIME",
+  "price": "5",
+  "sku": "IMP-0469"
+ },
+ {
+  "sr": 470,
+  "name": "CEFIX 200MG",
+  "generic": "CEFIXIME",
+  "price": "7",
+  "sku": "IMP-0470"
+ },
+ {
+  "sr": 471,
+  "name": "CEFLOX 250MG",
+  "generic": "CIPROPRXACIN HCL",
+  "price": "1.5",
+  "sku": "IMP-0471"
+ },
+ {
+  "sr": 472,
+  "name": "CEFLOX 500MG",
+  "generic": "CIPROPRXACIN HCL",
+  "price": "2.5",
+  "sku": "IMP-0472"
+ },
+ {
+  "sr": 473,
+  "name": "CEFLOX DEE DROP",
+  "generic": "CIPROFLOXACIN + DEXAMETHASONE",
+  "price": "10",
+  "sku": "IMP-0473"
+ },
+ {
+  "sr": 474,
+  "name": "CEFLOX EYE DROP 10ML",
+  "generic": "CIPROFLOXACIN+ ZINC SULFATE + CHLORPHENIRAMINE / CHLORPHENAMINE",
+  "price": "12",
+  "sku": "IMP-0474"
+ },
+ {
+  "sr": 475,
+  "name": "CEFLOX TZ TAB",
+  "generic": "CIPROFLOXACIN + TINIDAZOLE",
+  "price": "3",
+  "sku": "IMP-0475"
+ },
+ {
+  "sr": 476,
+  "name": "CEFODER 200MG",
+  "generic": "CEFPODOXIME PROXETIL",
+  "price": "9",
+  "sku": "IMP-0476"
+ },
+ {
+  "sr": 477,
+  "name": "CEFOLAC 100 ORAL SUS",
+  "generic": "CEFIXIME",
+  "price": "121",
+  "sku": "IMP-0477"
+ },
+ {
+  "sr": 478,
+  "name": "CEFPOSIGN 200MG",
+  "generic": "CEFPODOXIME PROXETIL",
+  "price": "7.5",
+  "sku": "IMP-0478"
+ },
+ {
+  "sr": 479,
+  "name": "CEFRINE CAP",
+  "generic": "CEFDINIR",
+  "price": "30",
+  "sku": "IMP-0479"
+ },
+ {
+  "sr": 480,
+  "name": "CEFTAVAG 1GM INJ",
+  "generic": "CEFTRIAXONE",
+  "price": "28",
+  "sku": "IMP-0480"
+ },
+ {
+  "sr": 481,
+  "name": "CEFTAZ 1000MG INJ",
+  "generic": "CEFTAZIDIME",
+  "price": "75",
+  "sku": "IMP-0481"
+ },
+ {
+  "sr": 482,
+  "name": "CEFUBROOK 250MG",
+  "generic": "CEFUROXIME AXETIL",
+  "price": "7.25",
+  "sku": "IMP-0482"
+ },
+ {
+  "sr": 483,
+  "name": "CEFUBROOK 500MG",
+  "generic": "CEFUROXIME AXETIL",
+  "price": "13.5",
+  "sku": "IMP-0483"
+ },
+ {
+  "sr": 484,
+  "name": "CEFYDOC O 400MG",
+  "generic": "CEFIXIME",
+  "price": "11.5",
+  "sku": "IMP-0484"
+ },
+ {
+  "sr": 485,
+  "name": "CELEHEAL 100MG",
+  "generic": "CELECOXIB",
+  "price": "1.75",
+  "sku": "IMP-0485"
+ },
+ {
+  "sr": 486,
+  "name": "CELEHEAL 200MG",
+  "generic": "CELECOXIB",
+  "price": "2",
+  "sku": "IMP-0486"
+ },
+ {
+  "sr": 487,
+  "name": "CELPLAT 50MG INJ",
+  "generic": "CISPLATIN INJ",
+  "price": "275",
+  "sku": "IMP-0487"
+ },
+ {
+  "sr": 488,
+  "name": "CEN QUINE 250MG",
+  "generic": "CHLOROQUINE PHOSPHATE",
+  "price": "1.5",
+  "sku": "IMP-0488"
+ },
+ {
+  "sr": 489,
+  "name": "CENFORCE 100MG",
+  "generic": "SILDENAFIL",
+  "price": "1.25",
+  "sku": "IMP-0489"
+ },
+ {
+  "sr": 490,
+  "name": "CENFORCE 120MG",
+  "generic": "SILDENAFIL",
+  "price": "1.75",
+  "sku": "IMP-0490"
+ },
+ {
+  "sr": 491,
+  "name": "CENFORCE 130MG",
+  "generic": "SILDENAFIL",
+  "price": "2.5",
+  "sku": "IMP-0491"
+ },
+ {
+  "sr": 492,
+  "name": "CENFORCE 150MG",
+  "generic": "SILDENAFIL",
+  "price": "1.75",
+  "sku": "IMP-0492"
+ },
+ {
+  "sr": 493,
+  "name": "CENFORCE 200MG",
+  "generic": "SILDENAFIL",
+  "price": "2.25",
+  "sku": "IMP-0493"
+ },
+ {
+  "sr": 494,
+  "name": "CENFORCE 25MG",
+  "generic": "SILDENAFIL",
+  "price": "1",
+  "sku": "IMP-0494"
+ },
+ {
+  "sr": 495,
+  "name": "CENFORCE 50MG",
+  "generic": "SILDENAFIL",
+  "price": "1",
+  "sku": "IMP-0495"
+ },
+ {
+  "sr": 496,
+  "name": "CENFORCE D TAB",
+  "generic": "SILDENAFIL + DEPOXETINE",
+  "price": "11",
+  "sku": "IMP-0496"
+ },
+ {
+  "sr": 497,
+  "name": "CENFORCE FM TAB",
+  "generic": "SILDENAFIL",
+  "price": "1.5",
+  "sku": "IMP-0497"
+ },
+ {
+  "sr": 498,
+  "name": "CENFORCE GOLD 100MG",
+  "generic": "SILDENAFIL",
+  "price": "1.75",
+  "sku": "IMP-0498"
+ },
+ {
+  "sr": 499,
+  "name": "CENFORCE PROFESSIONAL TAB",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-0499"
+ },
+ {
+  "sr": 500,
+  "name": "CENFORCE SOFT 100MG",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-0500"
+ },
+ {
+  "sr": 501,
+  "name": "CENFORCE-D EXTRA POWER",
+  "generic": "SILDENAFIL + DEPOXETINE",
+  "price": "9.5",
+  "sku": "IMP-0501"
+ },
+ {
+  "sr": 502,
+  "name": "CENOFI AMFY KIT",
+  "generic": "MIFEPRISTONE & MISOPROSTOL",
+  "price": "45",
+  "sku": "IMP-0502"
+ },
+ {
+  "sr": 503,
+  "name": "CENPRIM DS TAB",
+  "generic": "SULPHAMETHOXAZOLE & TRIMETHOPRIM",
+  "price": "2.5",
+  "sku": "IMP-0503"
+ },
+ {
+  "sr": 504,
+  "name": "CEPHADEX 250MG",
+  "generic": "CEPHALEXIN",
+  "price": "4.5",
+  "sku": "IMP-0504"
+ },
+ {
+  "sr": 505,
+  "name": "CEPHADEX 250MG DT",
+  "generic": "CEPHALEXIN",
+  "price": "4",
+  "sku": "IMP-0505"
+ },
+ {
+  "sr": 506,
+  "name": "CEPHADEX 500MG",
+  "generic": "CEPHALEXIN",
+  "price": "6.5",
+  "sku": "IMP-0506"
+ },
+ {
+  "sr": 507,
+  "name": "CEPHANOID 500MG",
+  "generic": "CEPHALEXIN",
+  "price": "6.5",
+  "sku": "IMP-0507"
+ },
+ {
+  "sr": 508,
+  "name": "CEPHAXIN 250MG CAP",
+  "generic": "CEPHALEXIN",
+  "price": "4",
+  "sku": "IMP-0508"
+ },
+ {
+  "sr": 509,
+  "name": "CEPHAXIN 500MG",
+  "generic": "CEPHALEXIN",
+  "price": "6",
+  "sku": "IMP-0509"
+ },
+ {
+  "sr": 510,
+  "name": "CEPODOL 200 TAB",
+  "generic": "CEFPODOXIME PROXETIL",
+  "price": "7",
+  "sku": "IMP-0510"
+ },
+ {
+  "sr": 511,
+  "name": "CEREBROLYSIN INJ",
+  "generic": "CEREBROLYSIN",
+  "price": "930",
+  "sku": "IMP-0511"
+ },
+ {
+  "sr": 512,
+  "name": "CEREVION TAB",
+  "generic": "CEREBROPROTEIN HYDROLYSATE",
+  "price": "19",
+  "sku": "IMP-0512"
+ },
+ {
+  "sr": 513,
+  "name": "CERNOS CAP",
+  "generic": "TESTOSTERONE UNDERCANOATE",
+  "price": "18",
+  "sku": "IMP-0513"
+ },
+ {
+  "sr": 514,
+  "name": "CERNOS DEPOT 1000MG INJ 4ML",
+  "generic": "TESTOSTERONE",
+  "price": "690",
+  "sku": "IMP-0514"
+ }
+]

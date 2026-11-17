@@ -1,0 +1,3883 @@
+[
+ {
+  "sku": "IMP-0015",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/accufine-10mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/accufine-10mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0015.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Accufine-10-cap-1.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/accufine-10mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Accufine; Isotretinoin Capsules IP 10 mg; 10 mg; 1 x 10 Softgel Capsules; Healing Pharma",
+   "qa_note": "Brand, strength 10 mg and capsule form match; real carton+blister render"
+  }
+ },
+ {
+  "sku": "IMP-0017",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/accufine-30mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/accufine-30mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0017.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Accufine-30-cap.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/accufine-30mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Accufine 30 mg; Isotretinoin Capsules IP 30 mg; 1 x 10 Softgel Capsules; Healing Pharma",
+   "qa_note": "Brand, 30mg strength and capsule form match."
+  }
+ },
+ {
+  "sku": "IMP-0018",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/accufine-40mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/accufine-40mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0018.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Accufine-40-cap.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/accufine-40mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Isotretinoin Capsules IP 40 mg; Accufine 40 mg; 1 x 10 Softgel Capsules",
+   "qa_note": "Brand Accufine, 40 mg, capsule pack render match."
+  }
+ },
+ {
+  "sku": "IMP-0019",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/accufine-5mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/accufine-5mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0019.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/ACCUFINE-5.jpg?fit=1645%2C1993&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/accufine-5mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Accufine; Isotretinoin Capsules IP 5 mg; 5 mg; 1 x 10 Softgel Capsules; Healing Pharma",
+   "qa_note": "Brand, strength 5 mg and capsule form match"
+  }
+ },
+ {
+  "sku": "IMP-0052",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/agefine-forte/",
+  "official_product_page_url": "https://www.healingpharma.in/product/agefine-forte/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand Agefine Forte and tablet form match, but no strength visible on pack (strength not visible).",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0066",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/algreat-180/",
+  "official_product_page_url": "https://www.healingpharma.in/product/algreat-180/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0066.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Algreat-180.jpg?fit=1676%2C1610&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/algreat-180/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Fexofenadine Hydrochloride Tablets I.P.; Algreat 180mg; Non-Sleepy; 10 Tablets",
+   "qa_note": "Brand, 180mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0089",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amloheal-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/amloheal-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0089.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Amloheal-5mg_3D-Copy-Copy.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/amloheal-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Amloheal 5 mg; Amlodipine Tablets I.P. 5mg; 10 x 30 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 5 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0099",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amoxyheal-cv-1000/",
+  "official_product_page_url": "https://www.healingpharma.in/product/amoxyheal-cv-1000/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0099.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Amoxyheal-CV-1000-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/amoxyheal-cv-1000/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Amoxyheal-CV 1000; Amoxycillin and Potassium Clavulanate Tablets IP 1000 mg (875 mg + 125 mg); 1x6 Tablets; Healing Pharma",
+   "qa_note": "Brand, 1000mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0100",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amoxyheal-cv-375/",
+  "official_product_page_url": "https://www.healingpharma.in/product/amoxyheal-cv-375/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0100.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Amoxyheal-CV-375.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/amoxyheal-cv-375/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Amoxycillin and Potassium Clavulanate Tablets IP 375 mg; Amoxyheal-CV 375; 1 x 10 Tablets",
+   "qa_note": "Brand Amoxyheal-CV, 375 mg, tablets match."
+  }
+ },
+ {
+  "sku": "IMP-0101",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amoxyheal-cv-625/",
+  "official_product_page_url": "https://www.healingpharma.in/product/amoxyheal-cv-625/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0101.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Amoxyheal-CV-625.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/amoxyheal-cv-625/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Amoxyheal-CV 625; Amoxycillin and Potassium Clavulanate Tablets IP 625 mg; 1 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 625 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0111",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/anaridex-1mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/anaridex-1mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0111.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Anaridex-1mg-new.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/anaridex-1mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Anaridex 1mg; Anastrozole Tablets IP 1mg; 1X10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 1mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0120",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/angiotensin-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/angiotensin-10/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0120.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Angiotensin-10-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/angiotensin-10/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Lisinopril Tablets IP 10mg; Angiotensin-10; 30 x 10 Tablets",
+   "qa_note": "Brand, 10mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0121",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/angiotensin-20mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/angiotensin-20mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0121.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Angiotensin-20-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/angiotensin-20mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Angiotensin-20; Lisinopril Tablets IP 20mg; 3 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 20 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0122",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/angiotensin-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/angiotensin-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0122.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Angiotensin-5-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/angiotensin-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Angiotensin-5; Lisinopril Tablets IP 5mg; 30 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 5mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0132",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/apismart-2-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/apismart-2-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0132.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/09/Apismart-Tablets-2.5-mg-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/apismart-2-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Apixaban Tablets 2.5 mg; Apismart 2.5 mg; 10x10 Tablets",
+   "qa_note": "Brand, 2.5 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0133",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/apismart-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/apismart-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0133.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/09/Apismart-Tablets-5-mg-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/apismart-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Apismart 5 mg; Apixaban Tablets 5 mg; 10x10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 5 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0157",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0189",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atarise-25/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atarise-25/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0189.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Atarise-25-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atarise-25/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Hydroxyzine Hydrochloride Tablets IP 25 mg; Atarise 25 Tablets; 20 x 15 Tablets",
+   "qa_note": "Brand, 25 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0190",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atenheal-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atenheal-100/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0190.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/12/Atenheal-100.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atenheal-100/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Atenheal 100; Atenolol Tablets IP 100 mg; 20 x 14 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 100 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0191",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atenheal-50/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atenheal-50/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0191.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Atenheal-50-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atenheal-50/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Atenheal 50; Atenolol Tablets IP 50 mg; 20 x 14 Tablets; Healing Pharma",
+   "qa_note": "Brand, 50mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0193",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atomoxet-10mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atomoxet-10mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0193.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Atomoxet-10mg-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atomoxet-10mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Atomoxetine Tablets 10 mg; Atomoxet-10; 10 x 10 Tablets",
+   "qa_note": "Brand, 10 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0194",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atomoxet-25mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atomoxet-25mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0194.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Atomoxet-25-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atomoxet-25mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Atomoxet-25; Atomoxetine Tablets 25 mg; 20 x 10 tablets; Healing Pharma",
+   "qa_note": "Brand, strength 25 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0195",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/atomoxet-40mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/atomoxet-40mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0195.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Atomoxet-40-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/atomoxet-40mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Atomoxet-40; Atomoxetine Hydrochloride Tablets 40 mg; 20 x 10 tablets; Healing Pharma",
+   "qa_note": "Brand, 40mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0234",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0239",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/azeetop-100-dt/",
+  "official_product_page_url": "https://www.healingpharma.in/product/azeetop-100-dt/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0239.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Azeetop-100-DT-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/azeetop-100-dt/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Azeetop 100 DT; Azithromycin Dispersible Tablets 100mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 100 mg, dispersible tablet (DT) match"
+  }
+ },
+ {
+  "sku": "IMP-0240",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/azeetop-1gm/",
+  "official_product_page_url": "https://www.healingpharma.in/product/azeetop-1gm/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0240.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Azeetop-1gm-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/azeetop-1gm/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Azeetop-1g; Azithromycin Tablets IP 1g; 10 x 1 Tablet; Healing Pharma",
+   "qa_note": "Brand, 1g strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0241",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/azeetop-500mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/azeetop-500mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0241.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/AZEETOP-500-1.jpg?fit=2165%2C2165&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/azeetop-500mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Azithromycin Tablets IP 500 mg; AZEETOP-500; 500 mg; 20 x 5 Tablets",
+   "qa_note": "Brand, 500 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0263",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/bacloheal-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/bacloheal-10/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0263.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Bacloheal-10.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/bacloheal-10/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Bacloheal 10; Baclofen Tablets IP 10 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 10 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0264",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/bacloheal-25/",
+  "official_product_page_url": "https://www.healingpharma.in/product/bacloheal-25/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0264.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Bacloheal-25.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/bacloheal-25/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Bacloheal 25; Baclofen Tablets IP 25 mg; 10 X 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 25mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0298",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/betablock-xl-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/betablock-xl-100mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0298.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Betablock-100-XL.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/betablock-xl-100mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Metoprolol Succinate Extended Release Tablets IP 100 mg; Betablock XL-100; 3 x 10 Tablets",
+   "qa_note": "Brand Betablock XL (row says XL), 100 mg, ER tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0299",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/betablock-xl-25mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/betablock-xl-25mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0299.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Betablock-25-XL.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/betablock-xl-25mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Betablock XL-25; Metoprolol Succinate Extended Release Tablets IP 25 mg; 3X10 Tablets; Healing Pharma",
+   "qa_note": "Brand incl. XL, strength 25 mg, ER tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0300",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/betablock-xl-50mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/betablock-xl-50mg/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack composition: Metoprolol Succinate Extended release Tablets IP 50 mg; list says MONOBENZONE CREAM"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0300.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Betablock-50-XL.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/betablock-xl-50mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Betablock XL-50; Metoprolol Succinate Extended release Tablets IP 50 mg; 3 x 10 tablets; Healing Pharma",
+   "qa_note": "Brand Betablock XL, 50mg strength and ER tablet form match the row name."
+  }
+ },
+ {
+  "sku": "IMP-0371",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/buproban-150mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/buproban-150mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0371.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Buproban-150-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/buproban-150mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Bupropion Hydrochloride Extended Release Tablets USP 150mg; BUPROBAN-150; 3 X 10 Tablets",
+   "qa_note": "Brand, 150mg, tablet match (ER tablet; row name has no form)."
+  }
+ },
+ {
+  "sku": "IMP-0380",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/buscoheal-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/buscoheal-10/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0380.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Buscoheal-10-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/buscoheal-10/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Buscoheal-10; Hyoscine Butylbromide Tablets IP 10mg; 10 x 10 Tablet; Healing Pharma",
+   "qa_note": "Brand, strength 10 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0383",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0447",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cronotol-250/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cronotol-250/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0447.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Carnotol-250.jpeg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/cronotol-250/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Disulfiram Tablets I.P. 250 mg; Carnotol - 250; 20x10 Tablets",
+   "qa_note": "Brand, 250 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0448",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/carnotol-500/",
+  "official_product_page_url": "https://www.healingpharma.in/product/carnotol-500/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0448.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2024/12/Carnotol-500.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/carnotol-500/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Carnotol-500; Disulfiram Tablets IP 500 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 500 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0455",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/carvismart-3-125/",
+  "official_product_page_url": "https://www.healingpharma.in/product/carvismart-3-125/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0455.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/CARVISMART-3.125-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/carvismart-3-125/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Carvismart 3.125; Carvedilol Tablets IP 3.125 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 3.125mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0482",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cefubrook-250mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cefubrook-250mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0482.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/01/Cefubrook-250.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/cefubrook-250mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Cefuroxime Axetil Tablets I.P.; Cefubrook 250; 1x10 Tablets",
+   "qa_note": "Brand, 250, tablet match (strength shown as 250 on brand badge)."
+  }
+ },
+ {
+  "sku": "IMP-0483",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cefubrook-500mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cefubrook-500mg/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as '500' in brand badge (no mg unit on front)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0483.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/01/Cefubrook-500.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/cefubrook-500mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Cefubrook 500; Cefuroxime Axetil Tablets I.P.; 1x10 Tablets; Healing Pharma",
+   "qa_note": "Brand and strength (500 on brand line) and tablet match; unit 'mg' not printed on front but 500 strength clearly shown"
+  }
+ },
+ {
+  "sku": "IMP-0485",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/celeheal-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/celeheal-100mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0485.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Celeheal-100-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/celeheal-100mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "CELEHEAL 100; Celecoxib Capsules 100mg; 10 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand, 100mg strength and capsule form match."
+  }
+ },
+ {
+  "sku": "IMP-0486",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/celeheal-200mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/celeheal-200mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0486.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Celeheal-200-cap-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/celeheal-200mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Celecoxib Capsules 200mg; CELEHEAL 200; 10 x 10 Capsules",
+   "qa_note": "Brand, 200mg, capsule match."
+  }
+ },
+ {
+  "sku": "IMP-0510",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cepodol-200/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cepodol-200/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack says Dispersible Tablets; row name says only TAB",
+   "Strength shown only as '200' in brand badge (no mg unit on front)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0510.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Cepodol-200.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/cepodol-200/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Cepodol 200; Cefpodoxime Proxetil Dispersible Tablets; 10x10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 200 (brand badge), tablet form match"
+  }
+ },
+ {
+  "sku": "IMP-0523",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cetriheal/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cetriheal/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0523.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Cetriheal-tab.jpg?fit=1617%2C1617&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/cetriheal/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "CETRIHEAL; Cetirizine Hydrochloride Tablets IP 10mg; 20 x 15 Tablets; Healing Pharma",
+   "qa_note": "Brand and tablet form match; row has no strength and pack is the plain variant (10mg)."
+  }
+ },
+ {
+  "sku": "IMP-0531",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cilniheal-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cilniheal-10/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0531.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Cilniheal-10-new.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/cilniheal-10/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Cilnidipine Tablets IP 10 mg; Cilniheal-10; C10; 20 x 10 Tablets",
+   "qa_note": "Brand, 10 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0553",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0554",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/citicoheal-500/",
+  "official_product_page_url": "https://www.healingpharma.in/product/citicoheal-500/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0554.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Citicoheal-500-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/citicoheal-500/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Citicoheal-500; Citicoline Tablets IP 500 mg; 1 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 500mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0557",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/clariface-250/",
+  "official_product_page_url": "https://www.healingpharma.in/product/clariface-250/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0557.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Clariface-250-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/clariface-250/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Clarithromycin Tablets IP 250 mg; Clariface 250; 1x4 Tablets",
+   "qa_note": "Brand, 250 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0558",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/clariface-500/",
+  "official_product_page_url": "https://www.healingpharma.in/product/clariface-500/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0558.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Clariface-500-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/clariface-500/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Clariface 500; Clarithromycin Tablets IP 500 mg; 1x4 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 500 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0604",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/clopidrill-75/",
+  "official_product_page_url": "https://www.healingpharma.in/product/clopidrill-75/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0604.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Clopidrill-75-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/clopidrill-75/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Clopidrill 75 Tablets; Clopidogrel Tablets IP 75 mg; 10 x 15 Tablets; Healing Pharma",
+   "qa_note": "Brand, 75mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0616",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/colchiheal-0-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/colchiheal-0-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0616.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Colchiheal-0.5-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/colchiheal-0-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Colchicine Tablets IP 0.5mg; Colchiheal 0.5; 10 x 10 Tablets",
+   "qa_note": "Brand, 0.5mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0641",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cozartan-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cozartan-100mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0641.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Cozartan-100-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/cozartan-100mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Cozartan-100; Losartan Potassium Tablets IP 100mg; 3 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 100 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0642",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cozartan-25mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cozartan-25mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0642.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Cozartan-25-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/cozartan-25mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "COZARTAN-25; Losartan Potassium Tablets IP 25mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 25mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0643",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cozartan-50mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cozartan-50mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0643.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Cozartan-50-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/cozartan-50mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Losartan Potassium Tablets IP 50mg; COZARTAN-50; 10x10 Tablets",
+   "qa_note": "Brand, 50mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0644",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cozartan-h/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cozartan-h/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand and tablet form match, but no strength printed anywhere on the pack (strength not visible)",
+   "No verified manufacturer pack image found",
+   "Pack composition: Losartan Potassium & Hydrochlorothiazide; list says LOSARTAN POTASSIUM hcl"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0666",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cyclonil/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cyclonil/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand and tablet form match, but no strength visible on pack (strength not visible).",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0679",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/cytoheal-200/",
+  "official_product_page_url": "https://www.healingpharma.in/product/cytoheal-200/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Strength mismatch: pack is 200 mcg, row name says 200MG. Brand/form match; misoprostol is marketed as 200 mcg so the list name is very likely a unit typo - fix the list to 200MCG and re-check.",
+   "No verified manufacturer pack image found",
+   "List name strength unit (200MG) disagrees with pack (200 mcg); likely list typo"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-0685",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dafloheal-500mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dafloheal-500mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0685.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/03/Dafloheal-500_.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dafloheal-500mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Dafloheal 500mg; Micronized Purified Flavonoid Fraction Tablets 500mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 500 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0688",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dalaheal-300/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dalaheal-300/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0688.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dalaheal-300-new-1.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dalaheal-300/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Dalaheal 300; Clindamycin Capsules IP 300 mg; 1 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand, 300mg strength and capsule form match."
+  }
+ },
+ {
+  "sku": "IMP-0697",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dapasmart-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dapasmart-10/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0697.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dapasmart-10-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dapasmart-10/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Dapagliflozin Tablets 10 mg; Dapasmart 10 mg; 1 x 10 Tablets",
+   "qa_note": "Brand, 10 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0698",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dapasmart-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dapasmart-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0698.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dapasmart-5-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dapasmart-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Dapasmart 5mg; Dapagliflozin Tablets 5 mg; 1 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 5 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0701",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dapoforce-30/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dapoforce-30/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0701.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/09/Dapoforce-30.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dapoforce-30/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Dapoforce 30; Dapoxetine Tablets 30mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 30mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0702",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dapoforce-60/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dapoforce-60/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0702.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Dapoforce-60.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dapoforce-60/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Dapoxetine Tablets 60 mg; Dapoforce 60; 10 x 10 Tablets",
+   "qa_note": "Brand, 60 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0703",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dapoforce-90/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dapoforce-90/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0703.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Dapoforce-90.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dapoforce-90/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Dapoforce 90; Dapoxetine Tablets 90 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 90 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0705",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dardflam-tab/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dardflam-tab/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0705.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dardflam-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dardflam-tab/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Dardflam; Diclofenac Potassium, Paracetamol and Serratiopeptidase Tablets; side panel: Diclofenac Potassium IP 50 mg, Paracetamol IP 325 mg, Serratiopeptidase IP 15 mg; 48x10 Tablets; Healing Pharma",
+   "qa_note": "Brand and tablet form match; row has no strength, pack is plain Dardflam with strengths readable on side panel (50/325/15 mg)."
+  }
+ },
+ {
+  "sku": "IMP-0757",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dicloheal-super/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dicloheal-super/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0757.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dicloheal-Super-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dicloheal-super/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Diclofenac and Paracetamol Tablet; Dicloheal super; side panel: Each uncoated tablet contains Diclofenac Sodium IP 50mg, Paracetamol IP 325mg; 50 x 10 Tablets",
+   "qa_note": "Brand Dicloheal Super (row says SUPER), tablet; strength 50mg/325mg visible on side panel."
+  }
+ },
+ {
+  "sku": "IMP-0793",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dostiheal-0-25/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dostiheal-0-25/",
+  "pack_size": null,
+  "review_reasons": [
+   "Carton generic line typeset as '0.2 5mg' (spacing artefact); brand line and blister read 0.25 mg"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0793.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dostiheal-0.25-new1.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dostiheal-0-25/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Dostiheal-0.25; Cabergoline Tablet IP 0.2 5mg (carton, spacing artefact); blister: Cabergoline Tablets IP 0.25 mg; 1 x 4 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 0.25 mg (brand line + blister), tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0794",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dostiheal-0-50mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dostiheal-0-50mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0794.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dostiheal-0.50mg-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dostiheal-0-50mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Dostiheal-0.50; Cabergoline Tablets IP 0.5 mg; 1 x 4 Tablets; Healing Pharma",
+   "qa_note": "Brand, 0.5mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0813",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dulata-20mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dulata-20mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0813.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dulata-20mg-new.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dulata-20mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Duloxetine Gastro-Resistant Tablets IP 20 mg; Dulata-20; 20 x 10 Tablets",
+   "qa_note": "Brand, 20 mg, GR tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0814",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dulata-30mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dulata-30mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0814.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dulata-30-new.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dulata-30mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Dulata-30; Duloxetine Gastro-Resistant Tablets IP 30 mg; 20 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 30 mg match; gastro-resistant tablet consistent with list generic"
+  }
+ },
+ {
+  "sku": "IMP-0815",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dulata-60mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dulata-60mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0815.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dulata-60-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dulata-60mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Dulata-60; Duloxetine Gastro-Resistant Tablets IP 60 mg; 20 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 60mg strength match; gastro-resistant tablet consistent with list generic."
+  }
+ },
+ {
+  "sku": "IMP-0831",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/dutaheal-0-5mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/dutaheal-0-5mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0831.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Dutaheal-0.5-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/dutaheal-0-5mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Dutasteride Tablets 0.5 mg; Dutaheal 0.5mg; 10x10 Tablets",
+   "qa_note": "Brand, 0.5 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0898",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/esoheal-20/",
+  "official_product_page_url": "https://www.healingpharma.in/product/esoheal-20/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0898.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Esoheal-20.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/esoheal-20/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Esoheal 20; Esomeprazole 20mg; 10X15 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 20 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0899",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/esoheal-40/",
+  "official_product_page_url": "https://www.healingpharma.in/product/esoheal-40/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0899.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Esoheal-40.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/esoheal-40/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Esoheal 40; Esomeprazole 40mg; 10X15 Tablets; Healing Pharma",
+   "qa_note": "Brand, 40mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0904",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/estraheal-2/",
+  "official_product_page_url": "https://www.healingpharma.in/product/estraheal-2/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack composition: Estradiol Valerate 2mg; list says ESTRADIOL"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0904.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Estraheal-2-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/estraheal-2/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Estradiol Valerate 2mg Tablets; Estraheal 2mg; 1 x 28 Tablets",
+   "qa_note": "Brand, 2mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-0916",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/etorizox-60/",
+  "official_product_page_url": "https://www.healingpharma.in/product/etorizox-60/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0916.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Etorizox-60mg.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/etorizox-60/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Etorizox 60; Etoricoxib Tablets I.P. 60 mg.; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 60 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-0917",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/etorizox-90/",
+  "official_product_page_url": "https://www.healingpharma.in/product/etorizox-90/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0917.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Etorizox-90mg.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/etorizox-90/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Etorizox 90; Etoricoxib Tablets I.P. 90 mg.; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 90mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-0982",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/febutop-40/",
+  "official_product_page_url": "https://www.healingpharma.in/product/febutop-40/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-0982.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Febutop-40-Tab.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/febutop-40/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Febuxostat Tablets 40 mg; Febutop 40; 3x10 Tablets",
+   "qa_note": "Brand, 40 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1002",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/feroheal-xt/",
+  "official_product_page_url": "https://www.healingpharma.in/product/feroheal-xt/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand, XT variant and tablet form match, but no strength printed anywhere on the pack (strength not visible)",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1007",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fertogard-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fertogard-100mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1007.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Fertogard-100-Tab.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fertogard-100mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Fertogard 100; Clomifene Tablets IP 100 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 100mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1008",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fertogard-25/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fertogard-25/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1008.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Fertogard-25-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fertogard-25/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Clomifene Tablets IP 25 mg; FERTOGARD-25; 10 X 10 TABLETS",
+   "qa_note": "Brand, 25 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1009",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fertogard-50mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fertogard-50mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1009.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Fertogard-50-Tab.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fertogard-50mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Fertogard 50; Clomifene Tablets IP 50 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 50 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1053",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/flaveheal-mr-35/",
+  "official_product_page_url": "https://www.healingpharma.in/product/flaveheal-mr-35/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1053.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Flaveheal-MR-35-Tab.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/flaveheal-mr-35/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Flaveheal MR 35 Tablets; Trimetazidine Modified Release Tablets 35 mg; 20x10 Tablets; Healing Pharma",
+   "qa_note": "Brand Flaveheal MR, 35mg strength and MR tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1054",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/flaveheal-od-80/",
+  "official_product_page_url": "https://www.healingpharma.in/product/flaveheal-od-80/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Dosage form mismatch: pack is capsules, row name says TAB. Brand and 80 mg match.",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1063",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fliban-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fliban-100/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1063.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Fliban.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fliban-100/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Fliban; Flibanserin Tablets 100mg; 4 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 100 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1074",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fluconaz-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fluconaz-100/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1074.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Fluconaz-100-Tab.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fluconaz-100/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Fluconaz-100mg; Fluconazole Tablets I.P.; 1 x 4 Tablets; Healing Pharma",
+   "qa_note": "Brand, 100mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1075",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fluconaz-150mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fluconaz-150mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1075.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Fluconaz-150-Tab.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fluconaz-150mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Fluconazole Tablets I.P.; Fluconaz-150mg; 1 x 4 Tablets",
+   "qa_note": "Brand, 150mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1076",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fluconaz-200mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fluconaz-200mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1076.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Fluconaz-200-Tab-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fluconaz-200mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Fluconaz-200mg; Fluconazole Tablets I.P.; 1 x 4 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 200 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1077",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fluconaz-400mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fluconaz-400mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1077.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/FLUCONAZ-400-Tab.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fluconaz-400mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Fluconaz-400mg; Fluconazole Tablets I.P. 400 mg; 1 Tablet; Healing Pharma",
+   "qa_note": "Brand, 400mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1078",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fluconaz-50mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fluconaz-50mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1078.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Fluconaz-50-Tab.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fluconaz-50mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Fluconazole Tablets I.P.; Fluconaz-50mg; 1X4 Tablets",
+   "qa_note": "Brand, 50mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1095",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fluxican-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fluxican-10/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1095.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/FLUXICAN-10-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fluxican-10/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Fluxican; Fluoxetine Capsules I.P. 10 Mg; 10 mg; 20 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand, strength 10 mg, capsule form match"
+  }
+ },
+ {
+  "sku": "IMP-1096",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fluxican-20/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fluxican-20/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1096.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/FLUXICAN-20.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fluxican-20/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Fluxican 20 mg; Fluoxetine Capsules IP 20 mg; 10 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand and 20mg strength match; pack is capsules (row name has no form)."
+  }
+ },
+ {
+  "sku": "IMP-1097",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/fluxican-60/",
+  "official_product_page_url": "https://www.healingpharma.in/product/fluxican-60/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1097.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Fluxican-60-1.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/fluxican-60/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Fluoxetine Capsules I.P. 60 mg; Fluxican 60; 10 x 10 Capsules",
+   "qa_note": "Brand, 60 mg, capsule match."
+  }
+ },
+ {
+  "sku": "IMP-1113",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/frasix-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/frasix-100/",
+  "pack_size": null,
+  "review_reasons": [
+   "Brand spelled FRASIX on pack and list; list generic FRUSEMIDE = Furosemide"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1113.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/01/Frasix-100.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/frasix-100/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Frasix 100; Furosemide Tablets BP; side panel: each uncoated tablet contains Furosemide BP 100mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 100 mg, tablet match (carton-only render)"
+  }
+ },
+ {
+  "sku": "IMP-1114",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/frasix-40/",
+  "official_product_page_url": "https://www.healingpharma.in/product/frasix-40/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1114.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Frasix-40.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/frasix-40/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Frasix 40; Frusemide Tablet 40mg.; 50 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 40mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1136",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/gabatop-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/gabatop-100mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1136.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Gabatop-100.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/gabatop-100mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Gabapentin Capsules IP 100mg; GABATOP-100; 3 x 10 Capsules",
+   "qa_note": "Brand, 100mg, capsule match."
+  }
+ },
+ {
+  "sku": "IMP-1137",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/gabatop-300mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/gabatop-300mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1137.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Gabatop-300-cap-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/gabatop-300mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Gabatop-300; Gabapentin Capsules IP 300mg; 3 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand, strength 300 mg match; capsule form"
+  }
+ },
+ {
+  "sku": "IMP-1138",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/gabatop-400mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/gabatop-400mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1138.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Gabatop-400-cap-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/gabatop-400mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "GABATOP-400; Gabapentin Capsules IP 400mg; 3 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand and 400mg strength match; pack is capsules (row name has no form)."
+  }
+ },
+ {
+  "sku": "IMP-1139",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/gabatop-600mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/gabatop-600mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1139.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Gabatop-600-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/gabatop-600mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "GABAPENTIN TABLETS IP 600mg; GABATOP - 600; 3 x 10 Tablets",
+   "qa_note": "Brand, 600mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1140",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/gabatop-800mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/gabatop-800mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1140.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Gabatop-800.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/gabatop-800mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Gabatop-800; Gabapentin Tablets IP 800mg; 3 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 800 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1157",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/gestheal-200/",
+  "official_product_page_url": "https://www.healingpharma.in/product/gestheal-200/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1157.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Gestheal-200-1.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/gestheal-200/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Gestheal 200mg; Progesterone Soft Gelatin Capsules 200 mg; 1 x 10 Capsules; For Oral/Vaginal/Rectal use; Healing Pharma",
+   "qa_note": "Brand and 200mg strength match; soft gelatin capsules consistent with list generic."
+  }
+ },
+ {
+  "sku": "IMP-1180",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/glycitop-mr-60/",
+  "official_product_page_url": "https://www.healingpharma.in/product/glycitop-mr-60/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1180.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Glycitop-MR-60-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/glycitop-mr-60/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Gliclazide Modified Release Tablets 60mg; Glycitop-MR 60; 10 x 10 Tablets",
+   "qa_note": "Brand Glycitop-MR (row says MR), 60mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1182",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/glycoheal-1000-sr/",
+  "official_product_page_url": "https://www.healingpharma.in/product/glycoheal-1000-sr/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1182.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Glycoheal-1000-SR.jpg?fit=1600%2C1600&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/glycoheal-1000-sr/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Glycoheal 1000 SR; Metformin Hydrochloride Prolonged Release Tablets IP 1000mg; 20 X 10 Tablets; Healing Pharma",
+   "qa_note": "Brand incl. SR, strength 1000 mg, prolonged-release tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1183",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/glycoheal-500-2/",
+  "official_product_page_url": "https://www.healingpharma.in/product/glycoheal-500-2/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1183.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/GLYCOHEAL-500-25-x-10-Tablets.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/glycoheal-500-2/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Glycoheal 500; Metformin Hydrochloride Tablets I.P. 500 mg; 25 x 20 Tablets; Healing Pharma",
+   "qa_note": "Brand, 500mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1218",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/hctzide-12-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/hctzide-12-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1218.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Hctzide-12.5mg.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/hctzide-12-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Hydrochlorothiazide 12.5mg Tablets; Hctzide 12.5mg; 10 x 10 Tablets",
+   "qa_note": "Brand, 12.5mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1219",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/hctzide-25/",
+  "official_product_page_url": "https://www.healingpharma.in/product/hctzide-25/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1219.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Hctzide-25mg_3D.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/hctzide-25/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Hctzide 25mg; Hydrochlorothiazide 25mg Tablets; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 25 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1224",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/healclav-lb-625/",
+  "official_product_page_url": "https://www.healingpharma.in/product/healclav-lb-625/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack composition: Amoxycillin, Potassium Clavulanate and Lactic Acid Bacillus; list says AMOXYCILLIN & POTASSIUM CLAVULANATE (LAB not listed)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1224.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Healclav-LB-625.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/healclav-lb-625/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "HEALCLAV LB 625 Tablets; Amoxycillin, Potassium Clavulanate and Lactic Acid Bacillus Tablets; 1 X 6 Tablets; Healing Pharma",
+   "qa_note": "Brand Healclav LB, 625 strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1232",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/healvital-softgel/",
+  "official_product_page_url": "https://www.healingpharma.in/product/healvital-softgel/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand and capsule form match, but strength not visible (no strength/composition amounts on pack). Rejected per brief rule; lead may override since a multivitamin has no single strength.",
+   "No verified manufacturer pack image found",
+   "Pack composition: Ginseng, Multivitamin & Multimineral; list says MULTIVITAMIN  & MULTIMINERALS"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1236",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/herpiheal-250/",
+  "official_product_page_url": "https://www.healingpharma.in/product/herpiheal-250/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1236.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/02/Herpiheal-250.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/herpiheal-250/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Herpiheal 250; Famciclovir Tablets IP 250mg; 1 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 250 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1241",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/hibose-50mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/hibose-50mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1241.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/HIBOSE-50-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/hibose-50mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Hibose-50; Acarbose Tablets IP 50mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 50mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1247",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/hiforce-200/",
+  "official_product_page_url": "https://www.healingpharma.in/product/hiforce-200/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1247.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Hiforce-200.jpg?fit=2363%2C2366&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/hiforce-200/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Sildenafil Citrate Tablets 200 mg; HIFORCE-200; 10 x 10 Tablets",
+   "qa_note": "Brand, 200 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1249",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/hiforce-50-ods/",
+  "official_product_page_url": "https://www.healingpharma.in/product/hiforce-50-ods/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1249.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/01/Hiforce_50-ODS_Domestic.jpeg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/hiforce-50-ods/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Hiforce 50 ODS; Sildenafil Orally Disintegrating Strips; pouch: each orally disintegrating strip contains Sildenafil Citrate IP eq. to Sildenafil 50 mg; 1 x 10 Strips; Healing Pharma",
+   "qa_note": "Brand, strength 50 mg, ODS (orally disintegrating strip) form match"
+  }
+ },
+ {
+  "sku": "IMP-1262",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1269",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/hqcheal-200/",
+  "official_product_page_url": "https://www.healingpharma.in/product/hqcheal-200/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1269.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/HQCHeal-200-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/hqcheal-200/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Hydroxychloroquine Sulfate Tablet I.P.; Hqcheal 200; 10 x 10 Tablet",
+   "qa_note": "Brand, 200 (on brand badge), tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1270",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/hqcheal-400/",
+  "official_product_page_url": "https://www.healingpharma.in/product/hqcheal-400/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1270.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Hqcheal-400_3D-scaled.jpg?fit=2242%2C2560&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/hqcheal-400/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Hqcheal 400; Hydroxychloroquine Tablets IP 400 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 400 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1286",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/hylazine-25/",
+  "official_product_page_url": "https://www.healingpharma.in/product/hylazine-25/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1286.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Hylazine-25-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/hylazine-25/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Hylazine 25; Hydralazine Tablets BP 25 mg; 10 x 15 Tablets; Healing Pharma",
+   "qa_note": "Brand, 25mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1306",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/immunosporin-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/immunosporin-100/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1306.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2024/09/Immunosporin-100.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/immunosporin-100/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Cyclosporine Capsules 100 mg; Immunosporin 100; 1 x 10 Capsules",
+   "qa_note": "Brand, 100 mg, capsule match."
+  }
+ },
+ {
+  "sku": "IMP-1307",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/immunosporin-50/",
+  "official_product_page_url": "https://www.healingpharma.in/product/immunosporin-50/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1307.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2024/09/Immunosporin-50.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/immunosporin-50/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Immunosporin 50; Cyclosporine Capsules 50 mg; 1 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand, strength 50 mg, capsule match"
+  }
+ },
+ {
+  "sku": "IMP-1348",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/ivasmart-5mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/ivasmart-5mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1348.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Ivasmart-5-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/ivasmart-5mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Ivasmart 5mg; Ivabradine Tablets 5mg; 10 X 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 5mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1349",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/ivasmart-7-5mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/ivasmart-7-5mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1349.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Ivasmart-7.5-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/ivasmart-7-5mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Ivabradine Tablets 7.5mg; Ivasmart 7.5mg; 10 x 10 tablets",
+   "qa_note": "Brand, 7.5mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1366",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/iverheal-3mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/iverheal-3mg/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack says Dispersible Tablets (spelled 'Dispersibile'); row name does not specify DT"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1366.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Iverheal-3mg.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/iverheal-3mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Iverheal 3; Ivermectin Dispersibile Tablets 3 mg; 3 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 3 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1367",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/iverheal-6mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/iverheal-6mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1367.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Iverheal-6-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/iverheal-6mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Iverheal 6; Ivermectin Tablets USP 6 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 6mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1451",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/ketoforce-200/",
+  "official_product_page_url": "https://www.healingpharma.in/product/ketoforce-200/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1451.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Ketoforce-200-Tab.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/ketoforce-200/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Ketoconazole Tablets I.P.; Ketoforce 200; 10 x 10 Tablets",
+   "qa_note": "Brand, 200 (brand badge), tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1458",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/ketroheal-10-dt/",
+  "official_product_page_url": "https://www.healingpharma.in/product/ketroheal-10-dt/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1458.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Ketroheal-DT-10mg.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/ketroheal-10-dt/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Ketroheal DT 10mg; Ketorolac Tromethamine Dispersible Tablets 10mg; 10x15 Tablets; Healing Pharma",
+   "qa_note": "Brand incl. DT, strength 10 mg, dispersible tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1478",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/labeta-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/labeta-100/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1478.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Labeta-100-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/labeta-100/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Labeta 100; Labetalol Hydrochloride Tablets IP 100mg; 20 X 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 100mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1494",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1509",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/ldn-1-5-mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/ldn-1-5-mg/",
+  "pack_size": null,
+  "review_reasons": [
+   "No Healing Pharma logo visible on the carton front (manufacturer taken from catalogue source)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1509.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/01/LDN-1.5.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/ldn-1-5-mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "LDN; Low Dose Naltrexone 1.5; Naltrexone HCL Capsules 1.5 mg; 30 Capsules; Immediate Release",
+   "qa_note": "Brand LDN, strength 1.5 mg, capsule form match"
+  }
+ },
+ {
+  "sku": "IMP-1510",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/ldn-3-mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/ldn-3-mg/",
+  "pack_size": null,
+  "review_reasons": [
+   "Healing Pharma logo not visible on this render; manufacturer confirmed via catalogue listing"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1510.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/01/LDN-3.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/ldn-3-mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "LDN; Low Dose Naltrexone 3; Naltrexone HCL Capsules 3 mg; 30 Capsules Immediate Release",
+   "qa_note": "Brand LDN, 3mg strength match; capsules (row name has no form)."
+  }
+ },
+ {
+  "sku": "IMP-1511",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/ldn-4-5-mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/ldn-4-5-mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1511.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/01/LDN-4.5.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/ldn-4-5-mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Low Dose Naltrexone 4.5; Naltrexone HCL Capsules 4.5 mg; LDN; 30 Capsules Immediate Release",
+   "qa_note": "Brand LDN (Low Dose Naltrexone), 4.5 mg, capsule match."
+  }
+ },
+ {
+  "sku": "IMP-1516",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/lefuheal-20mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/lefuheal-20mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1516.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Lefuheal-20-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/lefuheal-20mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Lefuheal-20; Leflunomide Tablets IP 20 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 20 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1532",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/letroheal-2-5mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/letroheal-2-5mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1532.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Letroheal-2.5mg-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/letroheal-2-5mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Letroheal; Letrozole Tablets IP 2.5 mg; 3x10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 2.5mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1542",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/levoheal-250/",
+  "official_product_page_url": "https://www.healingpharma.in/product/levoheal-250/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1542.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Levoheal-250-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/levoheal-250/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Levofloxacin Tablets I.P. 250 mg; Levoheal 250; 10 x 10 Tablet",
+   "qa_note": "Brand, 250 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1543",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/levoheal-500/",
+  "official_product_page_url": "https://www.healingpharma.in/product/levoheal-500/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1543.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Levoheal-500-New-scaled.jpg?fit=2560%2C2560&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/levoheal-500/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Levoheal 500; Levofloxacin Tablets I.P. 500 mg; 10 x 10 Tablet; Healing Pharma",
+   "qa_note": "Brand, strength 500 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1548",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/lexaheal-10mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/lexaheal-10mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1548.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Lexaheal-10-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/lexaheal-10mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Lexaheal-10 Tablet; Escitalopram Tablets IP 10 mg; 20 X 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 10mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1549",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/lexaheal-20mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/lexaheal-20mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1549.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Lexaheal-20-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/lexaheal-20mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Escitalopram Tablets IP 20 mg; Lexaheal-20 Tablet; 20 X 10 Tablets",
+   "qa_note": "Brand, 20 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1555",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/linasmart-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/linasmart-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1555.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/12/Linasmart-5.jpg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/linasmart-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Linasmart 5; Linagliptin Tablets 5 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 5 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1564",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/lipidator-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/lipidator-10/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1564.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Lipidator-10-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/lipidator-10/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Lipidator 10 Tablets; Atorvastatin Tablets IP 10 mg; 3x10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 10mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1565",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/lipidator-20/",
+  "official_product_page_url": "https://www.healingpharma.in/product/lipidator-20/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1565.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Lipidator-20-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/lipidator-20/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Atorvastatin Tablets IP 20 mg; Lipidator 20 Tablets; 3x10 Tablets",
+   "qa_note": "Brand, 20 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1566",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/lipidator-40/",
+  "official_product_page_url": "https://www.healingpharma.in/product/lipidator-40/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1566.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Lipidator-40-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/lipidator-40/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Lipidator 40 Tablets; Atorvastatin Tablets IP 40mg; 3x10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 40 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1567",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/lipidator-80/",
+  "official_product_page_url": "https://www.healingpharma.in/product/lipidator-80/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1567.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Lipidator-80-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/lipidator-80/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Lipidator 80 Tablets; Atorvastatin Tablets IP 80 mg; 3x10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 80mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1616",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/luliconaz-20gm/",
+  "official_product_page_url": "https://www.healingpharma.in/product/luliconaz-20gm/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand, cream form and 20 g pack size match, but no drug concentration (e.g. 1% w/w) is shown anywhere on tube or carton - strength not visible. Rejected per brief rule; lead may override since the row name gives only pack size (20GM), which matches.",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1675",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/mecobrook-plus/",
+  "official_product_page_url": "https://www.healingpharma.in/product/mecobrook-plus/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand incl. Plus and capsule form match, but no strength printed anywhere on the pack (strength not visible)",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1687",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/megetrol-160/",
+  "official_product_page_url": "https://www.healingpharma.in/product/megetrol-160/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1687.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/01/Megetrol-160.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/megetrol-160/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Megetrol-160; Megestrol Tablets IP 160mg; 1x10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 160mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1720",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/methotrex-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/methotrex-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1720.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Methotrex_5_3D.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/methotrex-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Methotrexate Tablets IP 5 mg; Methotrex 5; 10x10 Tablets",
+   "qa_note": "Brand, 5 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1754",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/midosmart-2-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/midosmart-2-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1754.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Midosmart-2.5_3D.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/midosmart-2-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Midosmart 2.5; Midodrine Hydrochloride Tablets USP 2.5 mg; 1x10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 2.5 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1783",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/minoxytop-10mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/minoxytop-10mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1783.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Minoxytop-10-mg.jpg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/minoxytop-10mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Minoxytop-10; Minoxidil Tablets IP 10 mg; 5 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 10mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1784",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/minoxytop-2-5-tab/",
+  "official_product_page_url": "https://www.healingpharma.in/product/minoxytop-2-5-tab/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1784.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/04/Minoxytop-2.5.jpeg?fit=1600%2C1600&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/minoxytop-2-5-tab/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Minoxidil Tablets IP 2.5 mg; Minoxytop 2.5; 5x10 Tablets",
+   "qa_note": "Brand, 2.5 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1786",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/minoxytop-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/minoxytop-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1786.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2024/07/MINOXYTOP-5.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/minoxytop-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Minoxytop; Minoxidil Tablets IP 5 mg; 5x10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 5 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1810",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/modaheal-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/modaheal-100mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1810.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Modaheal-100-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/modaheal-100mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "MODAHEAL 100; Modafinil Tablets USP 100mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 100mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1811",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/modaheal-200mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/modaheal-200mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1811.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Modaheal-200-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/modaheal-200mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Modafinil Tablets USP 200mg; MODAHEAL 200; 10 x 10 Tablets",
+   "qa_note": "Brand, 200mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1833",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Pack composition: Memantine Hydrochloride 10 mg; list says MOMETASONE",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1843",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/montaheal-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/montaheal-10/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1843.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Montaheal-10_10x15-tab_3D-scaled.jpg?fit=2560%2C2412&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/montaheal-10/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Montaheal-10; Montelukast Tablets IP 10 mg; 10 x 15 Tablets; Healing Pharma",
+   "qa_note": "Brand, 10mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-1872",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/mpheal-4/",
+  "official_product_page_url": "https://www.healingpharma.in/product/mpheal-4/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1872.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Mpheal-4mg.jpeg?fit=1004%2C1004&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/mpheal-4/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Methylprednisolone Tablets IP 4 mg; MPHEAL-4; 10 x 10 Tablets",
+   "qa_note": "Brand, 4 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-1873",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/mpheal-8/",
+  "official_product_page_url": "https://www.healingpharma.in/product/mpheal-8/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1873.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Mpheal-8mg.jpeg?fit=1004%2C1004&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/mpheal-8/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "MPHEAL-8; Methylprednisolone Tablets IP 8 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 8 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-1883",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/mupiheal-ointment-15gm/",
+  "official_product_page_url": "https://www.healingpharma.in/product/mupiheal-ointment-15gm/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1883.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Mupiheal-Ointment-15gm.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/mupiheal-ointment-15gm/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Mupiheal; Mupirocin Ointment IP 2% w/w; 15g; with Aluminium Tube; Healing Pharma",
+   "qa_note": "Brand, ointment form and 15g size match; strength 2% w/w visible."
+  }
+ },
+ {
+  "sku": "IMP-1885",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/mupiheal-ointment-5gm/",
+  "official_product_page_url": "https://www.healingpharma.in/product/mupiheal-ointment-5gm/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1885.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Mupiheal-Ointment-5gm.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/mupiheal-ointment-5gm/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Mupirocin Ointment IP 2%w/w; Mupiheal; 5g (tube and carton)",
+   "qa_note": "Brand, ointment form, 2% w/w and 5g pack match."
+  }
+ },
+ {
+  "sku": "IMP-1886",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/mupiheal-ointment-15gm/",
+  "official_product_page_url": "https://www.healingpharma.in/product/mupiheal-ointment-15gm/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1886.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Mupiheal-Ointment-15gm.jpeg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/mupiheal-ointment-15gm/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Mupiheal; Mupirocin Ointment IP 2%w/w; 15g; with Aluminium Tube; Healing Pharma",
+   "qa_note": "Brand, ointment form and 15 g pack match row (OINT 15GM); strength 2% w/w visible"
+  }
+ },
+ {
+  "sku": "IMP-1909",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-1918",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/naproheal-500/",
+  "official_product_page_url": "https://www.healingpharma.in/product/naproheal-500/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-1918.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/NAPROHEAL-500.jpg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/naproheal-500/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Naproxen Tablets 500 mg; Naproheal 500 mg; 10 x 15 Tablets",
+   "qa_note": "Brand, 500 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2041",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2042",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2043",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/olmeheal-20/",
+  "official_product_page_url": "https://www.healingpharma.in/product/olmeheal-20/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2043.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/10/Olmeheal-20-New.jpeg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/olmeheal-20/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Olmesartan Medoxomil Tablets IP 20mg; OLMEHEAL 20; 10 X 15 TABLETS",
+   "qa_note": "Brand, 20mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2044",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/olmeheal-40/",
+  "official_product_page_url": "https://www.healingpharma.in/product/olmeheal-40/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2044.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/10/Olmeheal-40_new.jpeg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/olmeheal-40/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Olmeheal 40; Olmesartan Medoxomil Tablets IP 40mg; 10 X 15 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 40 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2060",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/omforce-20/",
+  "official_product_page_url": "https://www.healingpharma.in/product/omforce-20/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2060.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/05/Omforce-20-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/omforce-20/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Omforce-20; Omeprazole Capsules IP 20 mg; 20 Strips of 20 Capsules Each; Healing Pharma",
+   "qa_note": "Brand and 20mg strength match; capsules (row name has no form)."
+  }
+ },
+ {
+  "sku": "IMP-2070",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/ondaheal-md-4/",
+  "official_product_page_url": "https://www.healingpharma.in/product/ondaheal-md-4/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2070.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/ONDAHEAL-MD-4-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/ondaheal-md-4/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Ondansetron Orally Disintegrating Tablets IP; Ondaheal MD 4; Strawberry Flavour; 10 x 10 Tablets",
+   "qa_note": "Brand Ondaheal MD (row says MD), 4 (badge), orally disintegrating tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2086",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/oseltaflu-75mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/oseltaflu-75mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2086.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Oseltamivir-75-third-party-manufacturer-exporter-supplier-India.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/oseltaflu-75mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Oseltaflu 75mg; Oseltamivir Capsules; 10 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand, strength 75 mg, capsule match"
+  }
+ },
+ {
+  "sku": "IMP-2119",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/pantodice-40/",
+  "official_product_page_url": "https://www.healingpharma.in/product/pantodice-40/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2119.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Pantodice-40-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/pantodice-40/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Pantodice-40; Pantoprazole Gastro-Resistant Tablets IP; 20x15 Tablets; Healing Pharma",
+   "qa_note": "Brand, 40 strength (in brand name) and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-2149",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/permiforce-cream-30gm/",
+  "official_product_page_url": "https://www.healingpharma.in/product/permiforce-cream-30gm/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2149.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Permiforce-Cream-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/permiforce-cream-30gm/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Permethrin 5%w/w Cream; Permiforce Cream 5%; 30g (tube and carton)",
+   "qa_note": "Brand, cream form, 5% w/w, 30g pack match."
+  }
+ },
+ {
+  "sku": "IMP-2179",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/pirfeheal-200mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/pirfeheal-200mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2179.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/PIRFEHEAL-200-Tab.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/pirfeheal-200mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Pirfeheal 200; Pirfenidone Tablets IP 200 mg; 3x10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 200 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2209",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/prazobrook-xl-2-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/prazobrook-xl-2-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2209.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/12/Prazobrook-XL-2.5.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/prazobrook-xl-2-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Prazobrook XL 2.5; Prazosin Hydrochloride Sustained Release Tablets; 10 x 30 Tablets; Healing Pharma",
+   "qa_note": "Brand Prazobrook XL, 2.5 strength (in brand name) and SR tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-2215",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/predniheal-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/predniheal-10/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2215.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Predniheal-10-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/predniheal-10/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Prednisolone Tablets IP 10mg; Predniheal 10mg; 50X10 Tablets",
+   "qa_note": "Brand, 10mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2216",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/predniheal-20/",
+  "official_product_page_url": "https://www.healingpharma.in/product/predniheal-20/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2216.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Predniheal-20-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/predniheal-20/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Predniheal 20; Prednisolone Tablets IP 20mg; 50X10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 20 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2217",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/predniheal-40/",
+  "official_product_page_url": "https://www.healingpharma.in/product/predniheal-40/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2217.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Predniheal-40.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/predniheal-40/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Predniheal 40; Prednisolone 40 MG; 50X10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 40mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-2218",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/predniheal-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/predniheal-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2218.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Predniheal-5-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/predniheal-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Prednisolone Tablets IP 5mg; Predniheal 5mg; 50X10 Tablets",
+   "qa_note": "Brand, 5mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2241",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/pregarica-150mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/pregarica-150mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2241.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Pregarica-150-caps-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/pregarica-150mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Pregarica 150; Pregabalin Capsules IP 150mg; 3 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand, strength 150 mg, capsule match"
+  }
+ },
+ {
+  "sku": "IMP-2242",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/pregarica-300mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/pregarica-300mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2242.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Pregarica-300.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/pregarica-300mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "PREGARICA 300; Pregabalin Capsules IP 300mg; 3 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand and 300mg strength match; capsules (row name has no form)."
+  }
+ },
+ {
+  "sku": "IMP-2243",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/pregarica-50/",
+  "official_product_page_url": "https://www.healingpharma.in/product/pregarica-50/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2243.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/PREGARICA-50-New-scaled.jpg?fit=2560%2C2560&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/pregarica-50/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Pregabalin Capsules IP 50mg; PREGARICA 50; 10 x 10 Capsules",
+   "qa_note": "Brand, 50mg, capsule match."
+  }
+ },
+ {
+  "sku": "IMP-2244",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/pregarica-75mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/pregarica-75mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2244.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Pregarica-75.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/pregarica-75mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Pregarica 75; Pregabalin Capsules IP 75mg; 3 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand, strength 75 mg, capsule match"
+  }
+ },
+ {
+  "sku": "IMP-2245",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/pregarica-nt/",
+  "official_product_page_url": "https://www.healingpharma.in/product/pregarica-nt/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand Pregarica NT and tablet form match, but no strength visible on pack (strength not visible).",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2325",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/raloxiheal-60/",
+  "official_product_page_url": "https://www.healingpharma.in/product/raloxiheal-60/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2325.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/01/Raloxiheal-60.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/raloxiheal-60/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Raloxifene Hydrochloride Tablets IP 60 mg; Raloxiheal; 60 mg; 10x10 Tablets",
+   "qa_note": "Brand, 60 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2330",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/raniheal-150/",
+  "official_product_page_url": "https://www.healingpharma.in/product/raniheal-150/",
+  "pack_size": null,
+  "review_reasons": [
+   "Strength shown only as '150' in brand badge (no mg unit on front)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2330.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Raniheal-150.jpeg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/raniheal-150/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Raniheal 150; Ranitidine Tablets IP; 20 x 30 Tablets; Healing Pharma (blister: Ranitidine Tablets IP, Raniheal 150)",
+   "qa_note": "Brand, strength 150 (brand badge), tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2332",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/ranoheal-500/",
+  "official_product_page_url": "https://www.healingpharma.in/product/ranoheal-500/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2332.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Ranoheal-500-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/ranoheal-500/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "RANOHEAL-500; Ranolazine Sustained Release Tablets; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 500 strength (in brand name) and SR tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-2387",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/rifaxiheal-400/",
+  "official_product_page_url": "https://www.healingpharma.in/product/rifaxiheal-400/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2387.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Rifaxiheal-400-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/rifaxiheal-400/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Rifaximin Tablets 400mg; Rifaxiheal 400; 1 x 10 Tablets",
+   "qa_note": "Brand, 400mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2388",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/rifaxiheal-550/",
+  "official_product_page_url": "https://www.healingpharma.in/product/rifaxiheal-550/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2388.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Rifaxiheal-550-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/rifaxiheal-550/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Rifaxiheal 550; Rifaximin Tablets 550 mg; 1 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 550 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2393",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2398",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/rivarox-20mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/rivarox-20mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2398.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Rivasmart-20.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/rivarox-20mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Rivaroxaban Tablets 20 mg; Rivasmart 20MG; 10 x 14 Tablets",
+   "qa_note": "Brand, 20 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2401",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/rizatop-10mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/rizatop-10mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2401.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Rizatop-10-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/rizatop-10mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Rizatop 10; Rizatriptan Tablets IP 10mg; 3 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 10 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2402",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2420",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/rosufree-10mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/rosufree-10mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2420.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Rosufree-10-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/rosufree-10mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Rosuvastatin Calcium IP 10 mg Tablets; ROSUFREE 10; 10 mg; 10 x 10 Tablets",
+   "qa_note": "Brand, 10 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2421",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/rosufree-20mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/rosufree-20mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2421.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Rosufree-20-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/rosufree-20mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Rosufree 20; Rosuvastatin Calcium Tablets IP 20 mg; 20 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 20 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2422",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/rosufree-40mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/rosufree-40mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2422.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Rosufree-40-New1.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/rosufree-40mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "ROSUFREE 40; Rosuvastatin Tablets IP 40 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 40mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-2423",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/rosufree-5mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/rosufree-5mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2423.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Rosufree-5-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/rosufree-5mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Rosuvastatin Tablets IP; Rosufree 5; 5 mg; 10 x 10 Tablets",
+   "qa_note": "Brand, 5 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2437",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sacubrook-v-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sacubrook-v-100/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2437.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/04/Sacubrook-V-100mg-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sacubrook-v-100/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Sacubrook-V 100; Sacubitril and Valsartan Tablets (49 mg+51 mg); 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand incl. V, strength 100 mg (49+51 mg), tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2438",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sacubrook-v-50/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sacubrook-v-50/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2438.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/04/Sacubrook-V-50mg-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sacubrook-v-50/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Sacubrook-V 50; Sacubitril and Valsartan Tablets (24 mg+26 mg); 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand Sacubrook-V, 50 (24+26 mg) strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-2443",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/scarheal-gel/",
+  "official_product_page_url": "https://www.healingpharma.in/product/scarheal-gel/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand and gel form match, but no ingredient strengths/concentrations are visible on tube or carton - strength not visible. Rejected per brief rule; lead may override (row name has no strength either).",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2454",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/seroquit-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/seroquit-100mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2454.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/SEROQUIT-100-mg-New-scaled.jpg?fit=2560%2C2560&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/seroquit-100mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Seroquit-100mg; Quetiapine Tablets IP; 10 X 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 100 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2455",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/seroquit-25mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/seroquit-25mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2455.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Seroquit-25-new.jpg?fit=2040%2C2040&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/seroquit-25mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Seroquit-25mg; Quetiapine Fumarate Tablets I.P. 25 mg; 10 X 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 25mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-2456",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/seroquit-50mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/seroquit-50mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2456.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Seroquit-50-new.jpg?fit=2040%2C2040&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/seroquit-50mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Quetiapine Fumarate Tablets I.P. 50 mg; Seroquit-50mg; 10 X 10 Tablets",
+   "qa_note": "Brand, 50 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2458",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sertafine-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sertafine-100mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2458.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Sertafine-100-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sertafine-100mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Sertafine-100; Sertraline Tablets IP 100mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 100 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2459",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sertafine-50mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sertafine-50mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2459.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Sertafine-50-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sertafine-50mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Sertafine-50; Sertraline Tablets IP 50mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 50mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-2521",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sitasmart-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sitasmart-100/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2521.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Sitasmart-100mg-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sitasmart-100/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Sitagliptin Phosphate Tablets IP 100 mg; Sitasmart-100; 100 mg; 3x10 Tablets",
+   "qa_note": "Brand, 100 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2544",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/slimgal-120/",
+  "official_product_page_url": "https://www.healingpharma.in/product/slimgal-120/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2544.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/05/SlimGal-120.jpeg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/slimgal-120/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Slimgal-120; Orlistat Capsules USP 120mg; 5 x 4 x 21 Capsules; Healing Pharma",
+   "qa_note": "Brand, strength 120 mg, capsule match"
+  }
+ },
+ {
+  "sku": "IMP-2545",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/slimtop-120mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/slimtop-120mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2545.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Slimtop-120-cap-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/slimtop-120mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Slimtop 120; Orlistat Capsules USP 120mg; 3 x 10 Capsules; Healing Pharma",
+   "qa_note": "Brand and 120mg strength match; capsules (row name has no form)."
+  }
+ },
+ {
+  "sku": "IMP-2546",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/slimtop-60mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/slimtop-60mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2546.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Slimtop-60-cap-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/slimtop-60mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Orlistat Capsules USP 60mg; Slimtop 60; 3 x 10 Capsules",
+   "qa_note": "Brand, 60mg, capsule match."
+  }
+ },
+ {
+  "sku": "IMP-2555",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sodiheal-500/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sodiheal-500/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2555.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Sodiheal-500-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sodiheal-500/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Sodiheal 500mg; Sodium Bicarbonate Tablets USP 500 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 500 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2566",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/spasmoheal/",
+  "official_product_page_url": "https://www.healingpharma.in/product/spasmoheal/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand and tablet form match, but no strength readable on pack (strength not visible).",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2609",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sumitop-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sumitop-100mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2609.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Sumitop-100-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sumitop-100mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Sumatriptan Tablets BP 100mg; SUMITOP-100; 3 x 10 Tablets",
+   "qa_note": "Brand, 100mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2610",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sumitop-25mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sumitop-25mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2610.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/SUMITOP-25MG-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sumitop-25mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Sumitop-25; Sumatriptan Tablets BP 25mg; 3 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 25 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2611",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sumitop-50mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sumitop-50mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2611.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Sumitop-50-new.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sumitop-50mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "SUMITOP-50; Sumatriptan Tablets BP 50mg; 3 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 50mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-2612",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/sunforce-d3-60k/",
+  "official_product_page_url": "https://www.healingpharma.in/product/sunforce-d3-60k/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2612.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Sunforce-D3-60k.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/sunforce-d3-60k/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Cholecalciferol Capsules USP; SUNFORCE D3 60K; 1 Blister Strip of 8 Capsules",
+   "qa_note": "Brand Sunforce D3, 60K (IU), capsule match."
+  }
+ },
+ {
+  "sku": "IMP-2618",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/super-hiforce/",
+  "official_product_page_url": "https://www.healingpharma.in/product/super-hiforce/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand and tablet form match, but no strength printed anywhere on the pack (strength not visible)",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2622",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/super-lash/",
+  "official_product_page_url": "https://www.healingpharma.in/product/super-lash/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2622.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Super-Lash..jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/super-lash/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "SUPER Lash; Bimatoprost Ophthalmic Solution 0.03% w/v; 3ml Sterile; dropper bottle + carton; Healing Pharma",
+   "qa_note": "Brand Super Lash, ophthalmic solution (drops) form match; row has no strength, pack is plain 0.03% variant."
+  }
+ },
+ {
+  "sku": "IMP-2632",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/super-varditra/",
+  "official_product_page_url": "https://www.healingpharma.in/product/super-varditra/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand and tablet form match, but no strength shown on the pack - strength not visible. Composition also differs from the list (see extra reason).",
+   "No verified manufacturer pack image found",
+   "Pack composition: Vardenafil (printed 'Verdenafil') & Dapoxetine; list says TADALAFIL & DAPOXETINE"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2705",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tadasiva/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tadasiva/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Pack is the 'Extra Power 150' variant (Sildenafil 100 mg + Tadalafil 20 mg); row name TADASIVA TAB does not specify Extra Power, so the image cannot be confirmed as the plain variant",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2719",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2720",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2725",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tamsuheal-0-4mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tamsuheal-0-4mg/",
+  "pack_size": null,
+  "review_reasons": [
+   "Pack says Modified Release Tablets; row name does not specify MR (standard form for tamsulosin 0.4 mg)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2725.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Tamsuheal-0.4-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/tamsuheal-0-4mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Tamsuheal 0.4 mg; Tamsulosin HCl Modified Release Tablets; 10x10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 0.4 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2726",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tamsuheal-d/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tamsuheal-d/",
+  "pack_size": null,
+  "review_reasons": [
+   "Image candidate rejected by QA: Brand Tamsuheal D and tablet form match, but no strength visible on pack (strength not visible).",
+   "No verified manufacturer pack image found"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2754",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tastilia-10/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tastilia-10/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2754.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Tastylia-10-1.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/tastilia-10/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Tadalafil Tablets IP 10 mg; Tastylia 10; 10 x 10 Tablets",
+   "qa_note": "Brand, 10 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2755",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tastylia-10-ods/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tastylia-10-ods/",
+  "pack_size": null,
+  "review_reasons": [
+   "List generic is blank; pack composition: Tadalafil 10 mg"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2755.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Tastylia-10-ODS.jpeg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/tastylia-10-ods/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Tastylia 10; Tadalafil Orally Disintegrating Strips; pouch: each orally disintegrating strip contains Tadalafil 10 mg; 1 x 10 Strips; Healing Pharma",
+   "qa_note": "Brand, strength 10 mg, ODS (orally disintegrating strip) form match"
+  }
+ },
+ {
+  "sku": "IMP-2757",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tastylia-20-ods/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tastylia-20-ods/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2757.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Tastylia-20-ODS.jpeg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/tastylia-20-ods/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Tastylia 20; Tadalafil Orally Disintegrating Strips; each strip contains Tadalafil 20 mg; 1 x 10 Strips; Healing Pharma India Pvt. Ltd.",
+   "qa_note": "Brand, 20mg strength and orally disintegrating strip (ODS) form match."
+  }
+ },
+ {
+  "sku": "IMP-2758",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tastylia-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tastylia-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2758.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/08/Tastylia-5.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/tastylia-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Tadalafil Tablets IP 5 mg; Tastylia 5; 10 x 10 Tablets",
+   "qa_note": "Brand, 5 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2773",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/telmaheal-80mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/telmaheal-80mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2773.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Telmaheal-80-New.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/telmaheal-80mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Telmaheal 80; Telmisartan Tablets IP 80 mg; 80 mg; 10 x 15 tablets; Healing Pharma",
+   "qa_note": "Brand, strength 80 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2774",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/telmaheal-40-am/",
+  "official_product_page_url": "https://www.healingpharma.in/product/telmaheal-40-am/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2774.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/TELMAHEAL-40-AM-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/telmaheal-40-am/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Telmaheal 40-AM; Telmisartan & Amlodipine Tablets IP; 40 mg / 5 mg; 10 x 15 Tablets; Healing Pharma",
+   "qa_note": "Brand Telmaheal AM, 40mg (+5mg amlodipine) strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-2798",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/terbiface-250mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/terbiface-250mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2798.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Terbiface-250-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/terbiface-250mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Terbinafine Tablets USP 250mg; TERBIFACE 250; 1 x 7 Tablets",
+   "qa_note": "Brand, 250mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2799",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/terbiface-500mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/terbiface-500mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2799.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Terbiface-500-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/terbiface-500mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Terbiface 500; Terbinafine Tablets USP 500mg; 1 x 7 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 500 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2918",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tofase-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tofase-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2918.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2024/07/Tofase-5.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/tofase-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Tofase 5; Tofacitinib Tablets IP 5 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 5mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-2932",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/topaheal-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/topaheal-100mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2932.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Topaheal-100-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/topaheal-100mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Topiramate Tablets IP; Topaheal-100; 10 x 10 Tablets",
+   "qa_note": "Brand, 100 (brand suffix), tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2936",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/topcynta-100mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/topcynta-100mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2936.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Topcynta-100-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/topcynta-100mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Topcynta 100; Tapentadol Hydrochloride Tablets 100 mg; 10 X 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 100 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-2939",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/torseheal-10mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/torseheal-10mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2939.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Torseheal-10-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/torseheal-10mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Torseheal-10mg; Torsemide Tablets IP 10 mg; 20 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 10mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-2942",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/tranexaheal-500/",
+  "official_product_page_url": "https://www.healingpharma.in/product/tranexaheal-500/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-2942.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Tranexaheal-500.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/tranexaheal-500/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Tranexamic Acid Tablets; Tranexaheal 500; 10 x 10 Tablets",
+   "qa_note": "Brand, 500 (badge), tablet match."
+  }
+ },
+ {
+  "sku": "IMP-2945",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-2946",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-3015",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-3016",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-3033",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/urenone-25/",
+  "official_product_page_url": "https://www.healingpharma.in/product/urenone-25/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-3033.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2025/01/Urenone-25.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/urenone-25/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Urenone-25; Eplerenone Tablets IP 25 mg; 1 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 25mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-3034",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/uriheal-100/",
+  "official_product_page_url": "https://www.healingpharma.in/product/uriheal-100/",
+  "pack_size": null,
+  "review_reasons": [
+   "List generic misspelt NITROFURANTION (pack: Nitrofurantoin)"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-3034.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/URIHEAL-100-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/uriheal-100/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Nitrofurantoin Capsules USP 100 mg; URIHEAL 100; 10x10 Capsules",
+   "qa_note": "Brand, 100 mg match. Row name has no form; pack is capsules."
+  }
+ },
+ {
+  "sku": "IMP-3038",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/ursodec-300/",
+  "official_product_page_url": "https://www.healingpharma.in/product/ursodec-300/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-3038.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Ursodec-300-15-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/ursodec-300/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Ursodec-300; Ursodeoxycholic Acid Tablets IP 300 mg; 1 x 15 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 300 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-3050",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/valclovir-1000mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/valclovir-1000mg/",
+  "pack_size": null,
+  "review_reasons": [
+   "Healing Pharma logo not visible on this render; manufacturer confirmed via catalogue listing"
+  ],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-3050.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Valclovir-1000-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/valclovir-1000mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Valclovir-1000; Valacyclovir Tablets USP 1000mg; 10 Tablets",
+   "qa_note": "Brand, 1000mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-3051",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/valclovir-500mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/valclovir-500mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-3051.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Valclovir-500-New.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/valclovir-500mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Valacyclovir Tablets USP 500mg; Valclovir-500; 10 Tablets",
+   "qa_note": "Brand, 500mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-3058",
+  "manufacturer": null,
+  "manufacturer_source_url": null,
+  "official_product_page_url": null,
+  "pack_size": null,
+  "review_reasons": [
+   "No verified manufacturer pack image found",
+   "Pack composition: Sodium Valproate IP 200 mg only; list says Valproate 200mg, Valproic Acid 87mg",
+   "Brand sold by more than one manufacturer (healingpharma, americanremedies); confirm which one your supplier stocks before attaching an image"
+  ],
+  "image": null
+ },
+ {
+  "sku": "IMP-3061",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/valsabrook-80mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/valsabrook-80mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-3061.jpeg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2023/05/Valsabrook-80-2.jpeg?fit=1280%2C1280&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/valsabrook-80mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Valsabrook-80; Valsartan Tablets IP 80 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 80mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-3065",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/varditra-40/",
+  "official_product_page_url": "https://www.healingpharma.in/product/varditra-40/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-3065.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Varditra-40.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/varditra-40/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Vardenafil Tablets 40 mg; Varditra 40; 10 x 10 Tablets",
+   "qa_note": "Brand, 40 mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-3066",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/varditra-60/",
+  "official_product_page_url": "https://www.healingpharma.in/product/varditra-60/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-3066.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/11/Varditra-60.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/varditra-60/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Varditra 60; Vardenafil Tablets 60 mg; 10 x 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 60 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-3279",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/zoviclovir-200mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/zoviclovir-200mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-3279.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Zoviclovir-200-3.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/zoviclovir-200mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "ZOVICLOVIR 200; Acyclovir Tablets IP 200mg; 3 X 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, 200mg strength and tablet form match."
+  }
+ },
+ {
+  "sku": "IMP-3280",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/zoviclovir-400mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/zoviclovir-400mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-3280.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Zoviclovir-400-3.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/zoviclovir-400mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Acyclovir Tablets IP 400mg; ZOVICLOVIR 400; 3 X 10 Tablets",
+   "qa_note": "Brand, 400mg, tablet match."
+  }
+ },
+ {
+  "sku": "IMP-3281",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/zoviclovir-800mg/",
+  "official_product_page_url": "https://www.healingpharma.in/product/zoviclovir-800mg/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-3281.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Zoviclovir-800-3.jpg?fit=1000%2C1000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/zoviclovir-800mg/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Zoviclovir 800; Acyclovir Tablets IP 800mg; 3 X 10 Tablets; Healing Pharma",
+   "qa_note": "Brand, strength 800 mg, tablet match"
+  }
+ },
+ {
+  "sku": "IMP-3282",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/zoviclovir-cream-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/zoviclovir-cream-5/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-3282.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2024/08/Zoviclovir-Cream-5.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/zoviclovir-cream-5/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Zoviclovir Cream; Aciclovir Cream I.P. 5% w/w; 10 g; Healing Pharma",
+   "qa_note": "Brand, 5% strength and cream form match."
+  }
+ },
+ {
+  "sku": "IMP-3300",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/zyzolide-600/",
+  "official_product_page_url": "https://www.healingpharma.in/product/zyzolide-600/",
+  "pack_size": null,
+  "review_reasons": [],
+  "image": {
+   "local_file": "data/enrichment/images_raw/hp/IMP-3300.jpg",
+   "image_url": "https://i0.wp.com/www.healingpharma.in/wp-content/uploads/2022/03/Zyzolide-600-2.jpg?fit=2000%2C2000&ssl=1",
+   "page_url": "https://www.healingpharma.in/product/zyzolide-600/",
+   "source_name": "Healing Pharma India Pvt. Ltd.",
+   "visible_pack_text": "Linezolid Tablets I.P. 600mg; Zyzolide 600; 1 x 10 Tablets",
+   "qa_note": "Brand, 600mg, tablet match."
+  }
+ }
+]

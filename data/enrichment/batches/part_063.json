@@ -1,0 +1,177 @@
+[
+ {
+  "sr": 3276,
+  "name": "ZOPISIGN 10MG",
+  "generic": "ZOPICLONE",
+  "price": "1.5",
+  "sku": "IMP-3276"
+ },
+ {
+  "sr": 3277,
+  "name": "ZOPISIGN 7.5MG",
+  "generic": "ZOPICLONE",
+  "price": "1.5",
+  "sku": "IMP-3277"
+ },
+ {
+  "sr": 3278,
+  "name": "ZOSTER CREAM 5GM",
+  "generic": "ACICLOVIR CREAM",
+  "price": "20",
+  "sku": "IMP-3278"
+ },
+ {
+  "sr": 3279,
+  "name": "ZOVICLOVIR 200MG",
+  "generic": "ACYCLOVIR",
+  "price": "2.5",
+  "sku": "IMP-3279"
+ },
+ {
+  "sr": 3280,
+  "name": "ZOVICLOVIR 400MG",
+  "generic": "ACYCLOVIR",
+  "price": "4",
+  "sku": "IMP-3280"
+ },
+ {
+  "sr": 3281,
+  "name": "ZOVICLOVIR 800MG",
+  "generic": "ACYCLOVIR",
+  "price": "8",
+  "sku": "IMP-3281"
+ },
+ {
+  "sr": 3282,
+  "name": "ZOVICLOVIR CREAM 5%",
+  "generic": "ACYCLOVIR",
+  "price": "32",
+  "sku": "IMP-3282"
+ },
+ {
+  "sr": 3283,
+  "name": "ZUBI-D3 INJ.",
+  "generic": "CHOLECALCIFEROL",
+  "price": "17",
+  "sku": "IMP-3283"
+ },
+ {
+  "sr": 3284,
+  "name": "ZUBINET INJ.",
+  "generic": "LEVOCARNITINE",
+  "price": "90",
+  "sku": "IMP-3284"
+ },
+ {
+  "sr": 3285,
+  "name": "ZUBIVOLT 75MG",
+  "generic": "TAPENTADOL",
+  "price": "7.5",
+  "sku": "IMP-3285"
+ },
+ {
+  "sr": 3286,
+  "name": "ZUDENA 100MG",
+  "generic": "UDENAFIL",
+  "price": "70",
+  "sku": "IMP-3286"
+ },
+ {
+  "sr": 3287,
+  "name": "ZUDENA 200MG",
+  "generic": "UDENAFIL",
+  "price": "140",
+  "sku": "IMP-3287"
+ },
+ {
+  "sr": 3288,
+  "name": "ZUNESTAR 2MG",
+  "generic": "ESZOPICLONE",
+  "price": "2",
+  "sku": "IMP-3288"
+ },
+ {
+  "sr": 3289,
+  "name": "ZUPION SR TAB",
+  "generic": "BUPROPION HCL",
+  "price": "12.5",
+  "sku": "IMP-3289"
+ },
+ {
+  "sr": 3290,
+  "name": "ZYHCG HP 10000IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN INJ",
+  "price": "515",
+  "sku": "IMP-3290"
+ },
+ {
+  "sr": 3291,
+  "name": "ZYHCG HP 5000IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN INJ",
+  "price": "290",
+  "sku": "IMP-3291"
+ },
+ {
+  "sr": 3292,
+  "name": "ZYLE 300MG",
+  "generic": "ALLOPURINOL",
+  "price": "3",
+  "sku": "IMP-3292"
+ },
+ {
+  "sr": 3293,
+  "name": "ZYLOMOX 500MG",
+  "generic": "AMOXYCILLIN CAP",
+  "price": "3",
+  "sku": "IMP-3293"
+ },
+ {
+  "sr": 3294,
+  "name": "ZYLOMOX CV 625MG",
+  "generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "price": "13",
+  "sku": "IMP-3294"
+ },
+ {
+  "sr": 3295,
+  "name": "ZYLOPRED DROP 5ML",
+  "generic": "GATIFLOXACIN+ LOTEPREDNOL",
+  "price": "243",
+  "sku": "IMP-3295"
+ },
+ {
+  "sr": 3296,
+  "name": "ZYPLON 10MG",
+  "generic": "ZALEPLON",
+  "price": "3.5",
+  "sku": "IMP-3296"
+ },
+ {
+  "sr": 3297,
+  "name": "ZYPLON 20MG",
+  "generic": "ZALEPLON",
+  "price": "7",
+  "sku": "IMP-3297"
+ },
+ {
+  "sr": 3298,
+  "name": "ZYRIK 100MG",
+  "generic": "ALLOPURINOL",
+  "price": "1.75",
+  "sku": "IMP-3298"
+ },
+ {
+  "sr": 3299,
+  "name": "ZYRIK 300MG",
+  "generic": "ALLOPURINOL",
+  "price": "3.5",
+  "sku": "IMP-3299"
+ },
+ {
+  "sr": 3300,
+  "name": "ZYZOLIDE 600MG",
+  "generic": "LINEZOLID",
+  "price": "11",
+  "sku": "IMP-3300"
+ }
+]

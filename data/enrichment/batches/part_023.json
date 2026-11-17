@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1234,
+  "name": "HEPBEST 25MG",
+  "generic": "TENOFOVIR ALAFENAMIDE",
+  "price": "28",
+  "sku": "IMP-1234"
+ },
+ {
+  "sr": 1235,
+  "name": "HEPPRA 500MG",
+  "generic": "LEVETIRACETAM",
+  "price": "3",
+  "sku": "IMP-1235"
+ },
+ {
+  "sr": 1236,
+  "name": "HERPIHEAL 250MG",
+  "generic": "FAMCYCLOVIR",
+  "price": "23",
+  "sku": "IMP-1236"
+ },
+ {
+  "sr": 1237,
+  "name": "HERTAB 250MG",
+  "generic": "LAPATINIB",
+  "price": "77",
+  "sku": "IMP-1237"
+ },
+ {
+  "sr": 1238,
+  "name": "HERTI 150MG INJ",
+  "generic": "TRASTUZUMAB",
+  "price": "3960",
+  "sku": "IMP-1238"
+ },
+ {
+  "sr": 1239,
+  "name": "HETRAZAN TAB",
+  "generic": "DIETHYLCARBAMAZINE",
+  "price": "2",
+  "sku": "IMP-1239"
+ },
+ {
+  "sr": 1240,
+  "name": "HEXIMAR B OINT 15GM",
+  "generic": "CALCIPOTRIOL & BETAMETHASONE",
+  "price": "540",
+  "sku": "IMP-1240"
+ },
+ {
+  "sr": 1241,
+  "name": "HIBOSE 50MG",
+  "generic": "ACARBOSE",
+  "price": "5",
+  "sku": "IMP-1241"
+ },
+ {
+  "sr": 1242,
+  "name": "HICK BAND GARD",
+  "generic": "",
+  "price": "100",
+  "sku": "IMP-1242"
+ },
+ {
+  "sr": 1243,
+  "name": "HICKSCREPE 8CM",
+  "generic": "",
+  "price": "80",
+  "sku": "IMP-1243"
+ },
+ {
+  "sr": 1244,
+  "name": "HIFI 200MG",
+  "generic": "CEFIXIME",
+  "price": "5.5",
+  "sku": "IMP-1244"
+ },
+ {
+  "sr": 1245,
+  "name": "HIFORCE 100MG",
+  "generic": "SILDENAFIL",
+  "price": "1",
+  "sku": "IMP-1245"
+ },
+ {
+  "sr": 1246,
+  "name": "HIFORCE 100MG ODS",
+  "generic": "SILDENAFIL",
+  "price": "135",
+  "sku": "IMP-1246"
+ },
+ {
+  "sr": 1247,
+  "name": "HIFORCE 200MG",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-1247"
+ },
+ {
+  "sr": 1248,
+  "name": "HIFORCE 2500 DELAY SPRAY 20GM",
+  "generic": "LIDOCAINE",
+  "price": "65",
+  "sku": "IMP-1248"
+ },
+ {
+  "sr": 1249,
+  "name": "HIFORCE 50MG ODS",
+  "generic": "SILDENAFIL",
+  "price": "95",
+  "sku": "IMP-1249"
+ },
+ {
+  "sr": 1250,
+  "name": "HILUX PLUS TAB",
+  "generic": "SILDENAFIL +DAPOXETINE",
+  "price": "11.5",
+  "sku": "IMP-1250"
+ },
+ {
+  "sr": 1251,
+  "name": "HIMCOLIN OINT 30GM",
+  "generic": "HIMALAYA",
+  "price": "192",
+  "sku": "IMP-1251"
+ },
+ {
+  "sr": 1252,
+  "name": "HIPEN P 500MG",
+  "generic": "AMOXYCILLIN",
+  "price": "3",
+  "sku": "IMP-1252"
+ },
+ {
+  "sr": 1253,
+  "name": "HIPRES 25MG",
+  "generic": "ATENOLOL",
+  "price": "1",
+  "sku": "IMP-1253"
+ },
+ {
+  "sr": 1254,
+  "name": "HIPRESS 50MG",
+  "generic": "ATENOLOL",
+  "price": "1.5",
+  "sku": "IMP-1254"
+ },
+ {
+  "sr": 1255,
+  "name": "HISONE 10MG",
+  "generic": "HYDROCORTISONE",
+  "price": "6.5",
+  "sku": "IMP-1255"
+ },
+ {
+  "sr": 1256,
+  "name": "HISONE 20MG",
+  "generic": "HYDROCORTISONE",
+  "price": "15",
+  "sku": "IMP-1256"
+ },
+ {
+  "sr": 1257,
+  "name": "HISONE 5MG",
+  "generic": "HYDROCORTISONE",
+  "price": "3",
+  "sku": "IMP-1257"
+ },
+ {
+  "sr": 1258,
+  "name": "HITEK INJ VET",
+  "generic": "IVERMECTIN INJECTION",
+  "price": "600",
+  "sku": "IMP-1258"
+ },
+ {
+  "sr": 1259,
+  "name": "HITIN-16",
+  "generic": "BETAHISTINE",
+  "price": "3",
+  "sku": "IMP-1259"
+ },
+ {
+  "sr": 1260,
+  "name": "HOLYBION INJ 2ML",
+  "generic": "VITAMIN B WITH COMPLEX VITAMIN B12",
+  "price": "7",
+  "sku": "IMP-1260"
+ },
+ {
+  "sr": 1261,
+  "name": "HOPEANA 1MG",
+  "generic": "ANASTROZOLE",
+  "price": "4.5",
+  "sku": "IMP-1261"
+ },
+ {
+  "sr": 1262,
+  "name": "HPDOL 5MG",
+  "generic": "HALOPERIDOL",
+  "price": "1",
+  "sku": "IMP-1262"
+ },
+ {
+  "sr": 1263,
+  "name": "HQ CHRIST 200MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "3.5",
+  "sku": "IMP-1263"
+ },
+ {
+  "sr": 1264,
+  "name": "HQ STAR 200MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "4",
+  "sku": "IMP-1264"
+ },
+ {
+  "sr": 1265,
+  "name": "HQ STAR 400MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "7",
+  "sku": "IMP-1265"
+ },
+ {
+  "sr": 1266,
+  "name": "HQASH 200MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "3.5",
+  "sku": "IMP-1266"
+ },
+ {
+  "sr": 1267,
+  "name": "HQASH 400MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "6.5",
+  "sku": "IMP-1267"
+ },
+ {
+  "sr": 1268,
+  "name": "HQCGUARD 200MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "3.5",
+  "sku": "IMP-1268"
+ },
+ {
+  "sr": 1269,
+  "name": "HQCHEAL 200MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "4.25",
+  "sku": "IMP-1269"
+ },
+ {
+  "sr": 1270,
+  "name": "HQCHEAL 400MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "7.5",
+  "sku": "IMP-1270"
+ },
+ {
+  "sr": 1271,
+  "name": "HUCOG HP 10000IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN",
+  "price": "500",
+  "sku": "IMP-1271"
+ },
+ {
+  "sr": 1272,
+  "name": "HUCOG HP 2000 INJ",
+  "generic": "CHORIONIC GONADOTROPHIN",
+  "price": "260",
+  "sku": "IMP-1272"
+ },
+ {
+  "sr": 1273,
+  "name": "HUCOG HP 5000IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN",
+  "price": "260",
+  "sku": "IMP-1273"
+ },
+ {
+  "sr": 1274,
+  "name": "HUMA PEN ERGO II",
+  "generic": "",
+  "price": "960",
+  "sku": "IMP-1274"
+ },
+ {
+  "sr": 1275,
+  "name": "HUMALOG 100 U/ML KWIK PEN",
+  "generic": "INSULIN LISPRO",
+  "price": "1050",
+  "sku": "IMP-1275"
+ },
+ {
+  "sr": 1276,
+  "name": "HUMALOG 100IU CART LISPRO 3ML",
+  "generic": "CHORIONIC GONADOTROPHIN",
+  "price": "840",
+  "sku": "IMP-1276"
+ },
+ {
+  "sr": 1277,
+  "name": "HUMALOG CARTRIDGE",
+  "generic": "INSULIN LISPRO",
+  "price": "4370",
+  "sku": "IMP-1277"
+ },
+ {
+  "sr": 1278,
+  "name": "HYDRASAFE 200MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "3.5",
+  "sku": "IMP-1278"
+ },
+ {
+  "sr": 1279,
+  "name": "HYDRASTAT 25MG",
+  "generic": "HYDRALAZINE",
+  "price": "7.5",
+  "sku": "IMP-1279"
+ },
+ {
+  "sr": 1280,
+  "name": "HYDRAX 25MG",
+  "generic": "HYDROXYZINE HYDROCHLORIDE",
+  "price": "1",
+  "sku": "IMP-1280"
+ },
+ {
+  "sr": 1281,
+  "name": "HYDROBACT 4% CREAM",
+  "generic": "HYDROQUINONE",
+  "price": "60",
+  "sku": "IMP-1281"
+ },
+ {
+  "sr": 1282,
+  "name": "HYDROEYES 0.05% DROPS 3ML",
+  "generic": "CYCLOSPORINE",
+  "price": "160",
+  "sku": "IMP-1282"
+ },
+ {
+  "sr": 1283,
+  "name": "HYDRONOL 25MG",
+  "generic": "HYDROCHLOROTHIAZIDE",
+  "price": "1",
+  "sku": "IMP-1283"
+ }
+]

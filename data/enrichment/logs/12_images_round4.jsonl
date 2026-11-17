@@ -1,0 +1,24 @@
+{"action":"image_similar_layout","hamming":4,"similar_to":"IMP-0015","sku":"IMP-0016","ts":"2026-11-17T06:28:23Z"}
+{"action":"integrated","image_key":"products/IMP-0016/accufine-20mg-1a0bf018.webp","manufacturer":"Healing Pharma India Pvt. Ltd.","sku":"IMP-0016","ts":"2026-11-17T06:28:23Z"}
+{"action":"integrated","image_key":"products/IMP-1245/hiforce-100mg-3e1d8fcb.webp","manufacturer":"Healing Pharma India Pvt. Ltd.","sku":"IMP-1245","ts":"2026-11-17T06:28:23Z"}
+{"action":"integrated","image_key":"products/IMP-1782/minoxytop-10-sol-b04ab1cf.webp","manufacturer":"Healing Pharma India Pvt. Ltd.","sku":"IMP-1782","ts":"2026-11-17T06:28:24Z"}
+{"action":"image_similar_layout","hamming":4,"similar_to":"IMP-1782","sku":"IMP-1785","ts":"2026-11-17T06:28:24Z"}
+{"action":"integrated","image_key":"products/IMP-1785/minoxytop-5-sol-21d0401e.webp","manufacturer":"Healing Pharma India Pvt. Ltd.","sku":"IMP-1785","ts":"2026-11-17T06:28:24Z"}
+{"action":"integrated","image_key":"products/IMP-1787/minoxytop-f-5-e0d34f32.webp","manufacturer":"Healing Pharma India Pvt. Ltd.","sku":"IMP-1787","ts":"2026-11-17T06:28:25Z"}
+{"action":"image_rejected_duplicate","same_file_as":"IMP-1787","sku":"IMP-1788","ts":"2026-11-17T06:28:25Z"}
+{"action":"image_similar_layout","hamming":3,"similar_to":"IMP-0263","sku":"IMP-2666","ts":"2026-11-17T06:28:25Z"}
+{"action":"integrated","image_key":"products/IMP-2666/tacroheal-1mg-682afd23.webp","manufacturer":"Healing Pharma India Pvt. Ltd.","sku":"IMP-2666","ts":"2026-11-17T06:28:25Z"}
+{"action":"integrated","image_key":"products/IMP-2843/testoheal-40mg-870a3a72.webp","manufacturer":"Healing Pharma India Pvt. Ltd.","sku":"IMP-2843","ts":"2026-11-17T06:28:25Z"}
+{"action":"integrated","image_key":"products/IMP-0580/clindanol-300mg-e38eb885.webp","manufacturer":"Knoll Healthcare Pvt Ltd","sku":"IMP-0580","ts":"2026-11-17T06:28:26Z"}
+{"action":"integrated","image_key":"products/IMP-0683/dabinol-150mg-82adbf8b.webp","manufacturer":"Knoll Healthcare Pvt Ltd","sku":"IMP-0683","ts":"2026-11-17T06:28:26Z"}
+{"action":"integrated","image_key":"products/IMP-2233/pregabel-300mg-d344683c.webp","manufacturer":"Knoll Healthcare Pvt Ltd","sku":"IMP-2233","ts":"2026-11-17T06:28:26Z"}
+{"action":"integrated","image_key":"products/IMP-0830/dutafox-0-5mg-17ed3d3d.webp","manufacturer":"American Remedies Healthcare Private Limited","sku":"IMP-0830","ts":"2026-11-17T06:28:27Z"}
+{"action":"integrated","image_key":"products/IMP-1095/fluxican-10mg-07424de5.webp","manufacturer":"American Remedies Healthcare Private Limited","sku":"IMP-1095","ts":"2026-11-17T06:28:27Z"}
+{"action":"integrated","image_key":"products/IMP-1096/fluxican-20mg-74b48114.webp","manufacturer":"American Remedies Healthcare Private Limited","sku":"IMP-1096","ts":"2026-11-17T06:28:27Z"}
+{"action":"image_similar_layout","hamming":3,"similar_to":"IMP-1096","sku":"IMP-1097","ts":"2026-11-17T06:28:28Z"}
+{"action":"integrated","image_key":"products/IMP-1097/fluxican-60mg-a47047ab.webp","manufacturer":"American Remedies Healthcare Private Limited","sku":"IMP-1097","ts":"2026-11-17T06:28:28Z"}
+{"action":"integrated","image_key":"products/IMP-1341/itrotab-100mg-3610d9aa.webp","manufacturer":"American Remedies Healthcare Private Limited","sku":"IMP-1341","ts":"2026-11-17T06:28:28Z"}
+{"action":"integrated","image_key":"products/IMP-1342/itrotab-200mg-7e603ce6.webp","manufacturer":"American Remedies Healthcare Private Limited","sku":"IMP-1342","ts":"2026-11-17T06:28:28Z"}
+{"action":"integrated","image_key":"products/IMP-2055/omeecan-20mg-0ba2cdad.webp","manufacturer":"American Remedies Healthcare Private Limited","sku":"IMP-2055","ts":"2026-11-17T06:28:29Z"}
+{"action":"integrated","image_key":"products/IMP-2235/pregafox-300mg-2cf44a3a.webp","manufacturer":"American Remedies Healthcare Private Limited","sku":"IMP-2235","ts":"2026-11-17T06:28:29Z"}
+{"action":"images_done","images_pending_review":18,"manufacturers":18,"sku":"","ts":"2026-11-17T06:28:29Z"}

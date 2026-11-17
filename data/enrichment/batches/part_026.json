@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1384,
+  "name": "IVERVID 12MG",
+  "generic": "IVERMECTIN",
+  "price": "1.5",
+  "sku": "IMP-1384"
+ },
+ {
+  "sr": 1385,
+  "name": "IVERVID 3MG",
+  "generic": "IVERMECTIN",
+  "price": "1.5",
+  "sku": "IMP-1385"
+ },
+ {
+  "sr": 1386,
+  "name": "IVERZOOM 3MG TAB.",
+  "generic": "IVERMECTIN",
+  "price": "2",
+  "sku": "IMP-1386"
+ },
+ {
+  "sr": 1387,
+  "name": "IVF HMG 75MG",
+  "generic": "MENOTROPIN",
+  "price": "190",
+  "sku": "IMP-1387"
+ },
+ {
+  "sr": 1388,
+  "name": "IVREA 1% CREAM 30GM",
+  "generic": "IVERMECTIN",
+  "price": "145",
+  "sku": "IMP-1388"
+ },
+ {
+  "sr": 1389,
+  "name": "IVREA LOTION",
+  "generic": "IVERMECTIN",
+  "price": "117",
+  "sku": "IMP-1389"
+ },
+ {
+  "sr": 1390,
+  "name": "IVREA SHAMPOO 30ML",
+  "generic": "IVERMECTIN",
+  "price": "105",
+  "sku": "IMP-1390"
+ },
+ {
+  "sr": 1391,
+  "name": "JANUMET 50/1000MG",
+  "generic": "SITAGLIPTIN PHOSPHATE ANDMETFORMIN HYDROCHLORIDE 50/500 MG",
+  "price": "22.5",
+  "sku": "IMP-1391"
+ },
+ {
+  "sr": 1392,
+  "name": "JANUMET 50/500MG",
+  "generic": "SITAGLIPTIN PHOSPHATE ANDMETFORMIN HYDROCHLORIDE 50/500 MG",
+  "price": "23",
+  "sku": "IMP-1392"
+ },
+ {
+  "sr": 1393,
+  "name": "JANUVIA 100MG",
+  "generic": "SITAGLIPTIN PHOSPHATE",
+  "price": "36",
+  "sku": "IMP-1393"
+ },
+ {
+  "sr": 1394,
+  "name": "JANUVIA 50MG",
+  "generic": "SITAGLIPTIN PHOSPHATE",
+  "price": "35",
+  "sku": "IMP-1394"
+ },
+ {
+  "sr": 1395,
+  "name": "JARDIANCE 10MG",
+  "generic": "EMPAGLIFLOZIN",
+  "price": "50",
+  "sku": "IMP-1395"
+ },
+ {
+  "sr": 1396,
+  "name": "JARDIANCE 25MG",
+  "generic": "EMPAGLIFLOZIN",
+  "price": "60",
+  "sku": "IMP-1396"
+ },
+ {
+  "sr": 1397,
+  "name": "JARDIANCE MET 12.5/1000MG",
+  "generic": "EMPAGLIFLOZIN METFORMIN",
+  "price": "37",
+  "sku": "IMP-1397"
+ },
+ {
+  "sr": 1398,
+  "name": "JARDIANCE MET 12.5/500MG",
+  "generic": "EMPAGLIFLOZIN METFORMIN",
+  "price": "39",
+  "sku": "IMP-1398"
+ },
+ {
+  "sr": 1399,
+  "name": "JEEQUIN 200MG",
+  "generic": "HYDROXYCHLOROQUINE SULFATE",
+  "price": "3.5",
+  "sku": "IMP-1399"
+ },
+ {
+  "sr": 1400,
+  "name": "JEEQUIN 400MG",
+  "generic": "HYDROXYCHLOROQUINE SULFATE",
+  "price": "7",
+  "sku": "IMP-1400"
+ },
+ {
+  "sr": 1401,
+  "name": "JGLUT 1200MG INJ",
+  "generic": "GLUTATHIONE",
+  "price": "400",
+  "sku": "IMP-1401"
+ },
+ {
+  "sr": 1402,
+  "name": "JGLUT 2000MG",
+  "generic": "GLUTATHIONE",
+  "price": "730",
+  "sku": "IMP-1402"
+ },
+ {
+  "sr": 1403,
+  "name": "JOHNCEF-400TAB (A A) MONO",
+  "generic": "CEFIXIME",
+  "price": "12",
+  "sku": "IMP-1403"
+ },
+ {
+  "sr": 1404,
+  "name": "JOHNCLAV 1000MG DUO",
+  "generic": "AMOXYCILLIN",
+  "price": "12",
+  "sku": "IMP-1404"
+ },
+ {
+  "sr": 1405,
+  "name": "JOHNLEE MPD 1GM",
+  "generic": "METHYL PREDNISOLONE",
+  "price": "285",
+  "sku": "IMP-1405"
+ },
+ {
+  "sr": 1406,
+  "name": "JORGEN TAB",
+  "generic": "PILOCARPINE",
+  "price": "20",
+  "sku": "IMP-1406"
+ },
+ {
+  "sr": 1407,
+  "name": "JPLEPRILL 10MG",
+  "generic": "ENALAPRIL MALEATE",
+  "price": "1.75",
+  "sku": "IMP-1407"
+ },
+ {
+  "sr": 1408,
+  "name": "JUCIQ 200MG",
+  "generic": "HYDROXYCHLOROQUINE SULFATE",
+  "price": "11",
+  "sku": "IMP-1408"
+ },
+ {
+  "sr": 1409,
+  "name": "JUNIOR LANZOL 30MG",
+  "generic": "LANSOPRAZOLE",
+  "price": "17",
+  "sku": "IMP-1409"
+ },
+ {
+  "sr": 1410,
+  "name": "JUSTIN 25MG",
+  "generic": "DICLOFENAC",
+  "price": "10",
+  "sku": "IMP-1410"
+ },
+ {
+  "sr": 1411,
+  "name": "JUVFEN 50MG",
+  "generic": "FENBENDAZOLE",
+  "price": "8",
+  "sku": "IMP-1411"
+ },
+ {
+  "sr": 1412,
+  "name": "JUVMOD 200MG",
+  "generic": "MODAFINIL",
+  "price": "14",
+  "sku": "IMP-1412"
+ },
+ {
+  "sr": 1413,
+  "name": "JUVOM 40MG",
+  "generic": "OMEPRAZOLE",
+  "price": "10",
+  "sku": "IMP-1413"
+ },
+ {
+  "sr": 1414,
+  "name": "K COR 10MG",
+  "generic": "NICORANDIL",
+  "price": "22.5",
+  "sku": "IMP-1414"
+ },
+ {
+  "sr": 1415,
+  "name": "KABBRO 0.5MG",
+  "generic": "CABERGOLINE",
+  "price": "19",
+  "sku": "IMP-1415"
+ },
+ {
+  "sr": 1416,
+  "name": "KAMAGRA 100MG EXPORT",
+  "generic": "SILDENAFIL",
+  "price": "8",
+  "sku": "IMP-1416"
+ },
+ {
+  "sr": 1417,
+  "name": "KAMAGRA CHEWABLE 100MG",
+  "generic": "SILDENAFIL",
+  "price": "10",
+  "sku": "IMP-1417"
+ },
+ {
+  "sr": 1418,
+  "name": "KAMAGRA CT CHEWABLE TAB",
+  "generic": "SILDENAFIL",
+  "price": "10",
+  "sku": "IMP-1418"
+ },
+ {
+  "sr": 1419,
+  "name": "KAMAGRA EFFERVESCENT 100MG",
+  "generic": "SILDENAFIL",
+  "price": "12.5",
+  "sku": "IMP-1419"
+ },
+ {
+  "sr": 1420,
+  "name": "KAMAGRA FX ORAL JELLY",
+  "generic": "SILDENAFIL",
+  "price": "95",
+  "sku": "IMP-1420"
+ },
+ {
+  "sr": 1421,
+  "name": "KAMAGRA GOLD 100MG",
+  "generic": "SILDENAFIL",
+  "price": "8",
+  "sku": "IMP-1421"
+ },
+ {
+  "sr": 1422,
+  "name": "KAMAGRA GOLD 50MG",
+  "generic": "SILDENAFIL",
+  "price": "6",
+  "sku": "IMP-1422"
+ },
+ {
+  "sr": 1423,
+  "name": "KAMAGRA ORAL JELLY",
+  "generic": "SILDENAFIL",
+  "price": "98",
+  "sku": "IMP-1423"
+ },
+ {
+  "sr": 1424,
+  "name": "KAMAGRA ORAL JELLY VOL II",
+  "generic": "SILDENAFIL",
+  "price": "110",
+  "sku": "IMP-1424"
+ },
+ {
+  "sr": 1425,
+  "name": "KAMAGRA ORAL JELLY VOL.2",
+  "generic": "SILDENAFIL",
+  "price": "130",
+  "sku": "IMP-1425"
+ },
+ {
+  "sr": 1426,
+  "name": "KAMAGRA POLO",
+  "generic": "SILDENAFIL",
+  "price": "10",
+  "sku": "IMP-1426"
+ },
+ {
+  "sr": 1427,
+  "name": "KAMAGRA POLO 100MG",
+  "generic": "SILDENAFIL",
+  "price": "10",
+  "sku": "IMP-1427"
+ },
+ {
+  "sr": 1428,
+  "name": "KAMAGRA POLO 100MG(STR/LIM)",
+  "generic": "SILDENAFIL",
+  "price": "10",
+  "sku": "IMP-1428"
+ },
+ {
+  "sr": 1429,
+  "name": "KAMAGRA POLO PIN/MINT",
+  "generic": "SILDENAFIL",
+  "price": "10",
+  "sku": "IMP-1429"
+ },
+ {
+  "sr": 1430,
+  "name": "KAMAJOY 100MG",
+  "generic": "SILDENAFIL",
+  "price": "1.5",
+  "sku": "IMP-1430"
+ },
+ {
+  "sr": 1431,
+  "name": "KAMAJOY 200MG",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-1431"
+ },
+ {
+  "sr": 1432,
+  "name": "KAMAJOY D TAB",
+  "generic": "DAPOXETINE+SILDENAFIL",
+  "price": "8",
+  "sku": "IMP-1432"
+ },
+ {
+  "sr": 1433,
+  "name": "KAYMEDROL 16MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "4",
+  "sku": "IMP-1433"
+ }
+]

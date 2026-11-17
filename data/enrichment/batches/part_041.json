@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2146,
+  "name": "PERINORM CD CAP",
+  "generic": "METOCLOPRAMIDE",
+  "price": "10",
+  "sku": "IMP-2146"
+ },
+ {
+  "sr": 2147,
+  "name": "PERINORM SYR 60ML",
+  "generic": "METOCLOPRAMIDE",
+  "price": "30",
+  "sku": "IMP-2147"
+ },
+ {
+  "sr": 2148,
+  "name": "PERINORM TAB",
+  "generic": "METOCLOPRAMIDE",
+  "price": "1.5",
+  "sku": "IMP-2148"
+ },
+ {
+  "sr": 2149,
+  "name": "PERMIFORCE CREAM 30GM",
+  "generic": "PERMETHRIN CREAM",
+  "price": "20",
+  "sku": "IMP-2149"
+ },
+ {
+  "sr": 2150,
+  "name": "PERMIN CREAM",
+  "generic": "PERMETHRIN CREAM",
+  "price": "26",
+  "sku": "IMP-2150"
+ },
+ {
+  "sr": 2151,
+  "name": "PERMITE 5% CREAM 60GM",
+  "generic": "PERMETHRIN CREAM",
+  "price": "100",
+  "sku": "IMP-2151"
+ },
+ {
+  "sr": 2152,
+  "name": "PERMITE CREAM 30GM",
+  "generic": "PERMETHRIN CREAM",
+  "price": "50",
+  "sku": "IMP-2152"
+ },
+ {
+  "sr": 2153,
+  "name": "PEROCLIN 5% GEL 15MG",
+  "generic": "BENZOYL PEROXIDE + CLINDAMYCIN",
+  "price": "445",
+  "sku": "IMP-2153"
+ },
+ {
+  "sr": 2154,
+  "name": "PETMECTIN INJ 50ML",
+  "generic": "IVERMECTIN",
+  "price": "90",
+  "sku": "IMP-2154"
+ },
+ {
+  "sr": 2155,
+  "name": "PETMEDIN 5 MG TABLET",
+  "generic": "PIMOBENDAN",
+  "price": "63",
+  "sku": "IMP-2155"
+ },
+ {
+  "sr": 2156,
+  "name": "PEXEP 30MG",
+  "generic": "PAROXETINE",
+  "price": "30",
+  "sku": "IMP-2156"
+ },
+ {
+  "sr": 2157,
+  "name": "PEXEP 40MG",
+  "generic": "PAROXETINE",
+  "price": "34.5",
+  "sku": "IMP-2157"
+ },
+ {
+  "sr": 2158,
+  "name": "PG CO 75MG",
+  "generic": "PREGABALIN",
+  "price": "2",
+  "sku": "IMP-2158"
+ },
+ {
+  "sr": 2159,
+  "name": "PHAGE 1000SR TAB",
+  "generic": "METFORMIN HCL",
+  "price": "1.5",
+  "sku": "IMP-2159"
+ },
+ {
+  "sr": 2160,
+  "name": "PHAGE 500MG",
+  "generic": "METFORMIN HCL",
+  "price": "1",
+  "sku": "IMP-2160"
+ },
+ {
+  "sr": 2161,
+  "name": "PHENERGAN 10MG",
+  "generic": "PROMETHAZINE",
+  "price": "2",
+  "sku": "IMP-2161"
+ },
+ {
+  "sr": 2162,
+  "name": "PHENERGAN 25MG",
+  "generic": "PROMETHAZINE",
+  "price": "4.5",
+  "sku": "IMP-2162"
+ },
+ {
+  "sr": 2163,
+  "name": "PHENERGAN SYR 100ML",
+  "generic": "PROMETHAZINE",
+  "price": "48",
+  "sku": "IMP-2163"
+ },
+ {
+  "sr": 2164,
+  "name": "PHENOJET 25MG",
+  "generic": "PROMETHAZINE",
+  "price": "1",
+  "sku": "IMP-2164"
+ },
+ {
+  "sr": 2165,
+  "name": "PHYSIOGEL CREAM",
+  "generic": "",
+  "price": "560",
+  "sku": "IMP-2165"
+ },
+ {
+  "sr": 2166,
+  "name": "PIBIRON 30ML",
+  "generic": "DEXAMETHASONE",
+  "price": "25",
+  "sku": "IMP-2166"
+ },
+ {
+  "sr": 2167,
+  "name": "PICSOLONE 10MG",
+  "generic": "PREDNISOLONE",
+  "price": "1",
+  "sku": "IMP-2167"
+ },
+ {
+  "sr": 2168,
+  "name": "PICSOLONE 5MG",
+  "generic": "PREDNISOLONE",
+  "price": "1",
+  "sku": "IMP-2168"
+ },
+ {
+  "sr": 2169,
+  "name": "PILOCAR 2% DROP",
+  "generic": "",
+  "price": "75",
+  "sku": "IMP-2169"
+ },
+ {
+  "sr": 2170,
+  "name": "PIM 800MG",
+  "generic": "PIRACETAM",
+  "price": "4",
+  "sku": "IMP-2170"
+ },
+ {
+  "sr": 2171,
+  "name": "PIMAPEXOLE 0.25MG",
+  "generic": "PRAMIPEXOLE DIHCL",
+  "price": "3",
+  "sku": "IMP-2171"
+ },
+ {
+  "sr": 2172,
+  "name": "PIMAPEXOLE 0.5MG",
+  "generic": "PRAMIPEXOLE DIHCL",
+  "price": "3.5",
+  "sku": "IMP-2172"
+ },
+ {
+  "sr": 2173,
+  "name": "PIMAPEXOLE 1MG",
+  "generic": "PRAMIPEXOLE DIHCL",
+  "price": "5.5",
+  "sku": "IMP-2173"
+ },
+ {
+  "sr": 2174,
+  "name": "PIOZ 15MG",
+  "generic": "PIOGLITAZONE",
+  "price": "6.5",
+  "sku": "IMP-2174"
+ },
+ {
+  "sr": 2175,
+  "name": "PIOZ 30MG",
+  "generic": "PIOGLITAZONE",
+  "price": "10",
+  "sku": "IMP-2175"
+ },
+ {
+  "sr": 2176,
+  "name": "PIRASMART 800MG",
+  "generic": "PIRACETAM",
+  "price": "4",
+  "sku": "IMP-2176"
+ },
+ {
+  "sr": 2177,
+  "name": "PIRCETAM 800MG",
+  "generic": "PIRACETAM",
+  "price": "4",
+  "sku": "IMP-2177"
+ },
+ {
+  "sr": 2178,
+  "name": "PIRETAM 1200MG",
+  "generic": "PIRACETAM",
+  "price": "6",
+  "sku": "IMP-2178"
+ },
+ {
+  "sr": 2179,
+  "name": "PIRFEHEAL 200MG",
+  "generic": "Pirfenidone",
+  "price": "8",
+  "sku": "IMP-2179"
+ },
+ {
+  "sr": 2180,
+  "name": "PIVASTA 2MG",
+  "generic": "PITAVASTATIN",
+  "price": "18",
+  "sku": "IMP-2180"
+ },
+ {
+  "sr": 2181,
+  "name": "PIVASTA 4MG",
+  "generic": "PITAVASTATIN",
+  "price": "26",
+  "sku": "IMP-2181"
+ },
+ {
+  "sr": 2182,
+  "name": "PL 10MG",
+  "generic": "PROPRANOLOL",
+  "price": "1",
+  "sku": "IMP-2182"
+ },
+ {
+  "sr": 2183,
+  "name": "PL 40MG",
+  "generic": "PROPRANOLOL",
+  "price": "1.25",
+  "sku": "IMP-2183"
+ },
+ {
+  "sr": 2184,
+  "name": "PLACENTREX CREAM",
+  "generic": "PLACENTA EXTRACT",
+  "price": "150",
+  "sku": "IMP-2184"
+ },
+ {
+  "sr": 2185,
+  "name": "PLACENTREX GEL",
+  "generic": "PLACENTA EXTRACT",
+  "price": "145",
+  "sku": "IMP-2185"
+ },
+ {
+  "sr": 2186,
+  "name": "PLAVIX 75MG",
+  "generic": "CLOPIDOGREL",
+  "price": "6",
+  "sku": "IMP-2186"
+ },
+ {
+  "sr": 2187,
+  "name": "PNOLOL 10MG",
+  "generic": "PROPRANOLOL HYDROCHLORIDE",
+  "price": "1",
+  "sku": "IMP-2187"
+ },
+ {
+  "sr": 2188,
+  "name": "PNOLOL 20MG",
+  "generic": "PROPRANOLOL HYDROCHLORIDE",
+  "price": "1",
+  "sku": "IMP-2188"
+ },
+ {
+  "sr": 2189,
+  "name": "PNOLOL 40MG",
+  "generic": "PROPRANOLOL HYDROCHLORIDE",
+  "price": "1.5",
+  "sku": "IMP-2189"
+ },
+ {
+  "sr": 2190,
+  "name": "POLYBCOM INJ 2ML",
+  "generic": "VITAMIN B12",
+  "price": "8",
+  "sku": "IMP-2190"
+ },
+ {
+  "sr": 2191,
+  "name": "POMIDE 2 MG CAP",
+  "generic": "POMALIDOMIDE",
+  "price": "134",
+  "sku": "IMP-2191"
+ },
+ {
+  "sr": 2192,
+  "name": "POSID 50MG CAP",
+  "generic": "ETOPOSIDE",
+  "price": "53",
+  "sku": "IMP-2192"
+ },
+ {
+  "sr": 2193,
+  "name": "POWERCORT SHAMPOO 100ML",
+  "generic": "CLOBETASOL",
+  "price": "265",
+  "sku": "IMP-2193"
+ },
+ {
+  "sr": 2194,
+  "name": "POXET 30GM",
+  "generic": "DAPOXETINE",
+  "price": "8",
+  "sku": "IMP-2194"
+ },
+ {
+  "sr": 2195,
+  "name": "POXET 60MG",
+  "generic": "DAPOXETINE",
+  "price": "11",
+  "sku": "IMP-2195"
+ }
+]

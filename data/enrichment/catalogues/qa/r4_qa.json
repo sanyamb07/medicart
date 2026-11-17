@@ -1,0 +1,199 @@
+[
+ {
+  "sku": "IMP-0016",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Isotretinoin Capsules IP 20 mg; Accufine TM; 20 mg; 1 x 10 Softgel Capsules; Healing Pharma",
+  "note": "Brand ACCUFINE, 20 mg, capsule (softgel) match catalogue form Capsules.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1245",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Sildenafil Citrate Tablets IP 100mg; HIFORCE-100; 10 x 10 Tablets; Healing Pharma",
+  "note": "Plain Hiforce-100 film tablet carton (not 'Soft'/chewable); brand, 100 mg, tablet match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1782",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Minoxidil Topical Solution USP 10%; Minoxytop 10%; Lipid Technology; 60 ml bottle + carton; Healing Pharma",
+  "note": "Brand MINOXYTOP, 10%, topical solution (bottle) match row 'SOL'; not tablets.",
+  "extra_reasons": [
+   "Carton side-panel composition text appears to read 'Each ml contains Minoxidil IP 50mg' (=5%), likely shared artwork with 5% pack; front panel and bottle clearly state 10%"
+  ]
+ },
+ {
+  "sku": "IMP-1785",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Minoxidil Topical Solution USP 5%; Minoxytop 5%; Lipid Technology; 60 ml bottle + carton; Healing Pharma",
+  "note": "Brand MINOXYTOP, 5%, topical solution (bottle) match row 'SOL'; not tablets.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1787",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Minoxidil & Finasteride Topical Solution; Minoxytop F5%; Lipid Technology; 60 ml bottle + carton; Healing Pharma",
+  "note": "Brand MINOXYTOP F, 5%, minoxidil + finasteride topical solution matches catalogue form Solution and list generic.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1788",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Minoxidil & Finasteride Topical Solution; Minoxytop F5%; Lipid Technology; 60 ml bottle + carton; Healing Pharma",
+  "note": "Brand MINOXYTOP F, 5%, minoxidil + finasteride topical solution matches catalogue form Solution. Same image file as IMP-1787 (duplicate list row).",
+  "extra_reasons": [
+   "Pack composition: Minoxidil & Finasteride Topical Solution; list says MINOXIDIL",
+   "Identical image to IMP-1787 (duplicate SKU for same product)"
+  ]
+ },
+ {
+  "sku": "IMP-2666",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Tacrolimus Capsules IP 1 mg; TACROHEAL 1; 1 x 10 Capsules; Healing Pharma",
+  "note": "Brand TACROHEAL, 1 mg, capsule match catalogue form.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2843",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Testosterone Undecanoate Capsules 40 mg; TESTOHEAL; 3 x 10 Capsules; Healing Pharma",
+  "note": "Brand TESTOHEAL, 40 mg, capsule (softgel) match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0580",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Clindamycin Hydrochloride Capsules IP; Clindanol-300; 20x10 Capsules; Knoll",
+  "note": "Brand CLINDANOL, strength 300 via brand suffix (no 'mg' printed; consistent with prior brand-suffix precedent), capsule match.",
+  "extra_reasons": [
+   "Strength shown only as brand suffix '300' (no mg on front panel)"
+  ]
+ },
+ {
+  "sku": "IMP-0683",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Dabigatran Etexilate Capsules 150 mg; Dabinol-150 Capsules; 10 x 1 x 10 Capsules; Knoll",
+  "note": "Brand DABINOL, 150 mg, capsule match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2233",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Knoll Healthcare Pvt Ltd",
+  "visible_pack_text": "Pregabalin 300 mg; Pregabel-300 Capsules; 10 x 10 Capsules; Knoll",
+  "note": "Brand PREGABEL, 300 mg, capsule match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-0830",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "Dutasteride Capsules IP 0.50 mg; American Dutafox 0.5 Capsules; 10 x 10 Capsules; American Remedies",
+  "note": "Brand DUTAFOX, 0.5 mg, capsule (softgel) match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1095",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "Fluoxetine Capsules I.P. 10 Mg.; American Fluxican; 10 mg; 20 x 10 Capsules; American Remedies",
+  "note": "Brand FLUXICAN, 10 mg, capsule match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1096",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "Fluoxetine Capsules I.P. 20 Mg.; American Fluxican; 20 mg; 20 x 10 Capsules; American Remedies",
+  "note": "Brand FLUXICAN, 20 mg, capsule match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1097",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "Fluoxetine Capsules I.P. 60 Mg.; American Fluxican; 60 mg; 20 x 10 Capsules; American Remedies",
+  "note": "Brand FLUXICAN, 60 mg, capsule match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1341",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "Itraconazole Capsules BP 100 mg; American Itrotab 100 Capsules; 1 x 10 Capsules; American Remedies",
+  "note": "Brand ITROTAB, 100 mg, capsule match catalogue form (brand contains 'tab' but pack is capsules).",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1342",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "Itraconazole Capsules BP 200 mg; American Itrotab 200 Capsules; 1 x 10 Capsules; American Remedies",
+  "note": "Brand ITROTAB, 200 mg, capsule match catalogue form.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2055",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "Omeprazole Gastro-Resistant Capsules IP 20 mg; American OMEECAN 20; 20x15 Capsules; American Remedies",
+  "note": "Brand OMEECAN, 20 mg, capsule (gastro-resistant) match.",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2235",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "American Remedies Healthcare Private Limited",
+  "visible_pack_text": "Pregabalin Capsules IP 300 mg; American PREGAFOX 300 Capsules; 10 x 15 Capsules; American Remedies",
+  "note": "Brand PREGAFOX, 300 mg, capsule match (image filename says 'tab' but pack is capsules).",
+  "extra_reasons": []
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2403,
+  "name": "ROCALTOP 0.25MG",
+  "generic": "CALCITRIOL",
+  "price": "4",
+  "sku": "IMP-2403"
+ },
+ {
+  "sr": 2404,
+  "name": "ROCKBON PTH 750MCG NEEDL",
+  "generic": "TERIPARATIDE",
+  "price": "7",
+  "sku": "IMP-2404"
+ },
+ {
+  "sr": 2405,
+  "name": "ROCKBON PTH PEN",
+  "generic": "TERIPARATIDE",
+  "price": "5050",
+  "sku": "IMP-2405"
+ },
+ {
+  "sr": 2406,
+  "name": "ROKO 2MG",
+  "generic": "LOPERAMIDE",
+  "price": "1.5",
+  "sku": "IMP-2406"
+ },
+ {
+  "sr": 2407,
+  "name": "ROLON 250MG INJ 1ML",
+  "generic": "NANDROLONE DECANOATE",
+  "price": "150",
+  "sku": "IMP-2407"
+ },
+ {
+  "sr": 2408,
+  "name": "ROLONABOL 100 MG BOX",
+  "generic": "NANDROLONE DECANOATE",
+  "price": "728",
+  "sku": "IMP-2408"
+ },
+ {
+  "sr": 2409,
+  "name": "ROPARK 0.5MG",
+  "generic": "ROPINIROLE",
+  "price": "10",
+  "sku": "IMP-2409"
+ },
+ {
+  "sr": 2410,
+  "name": "ROPARK 1MG",
+  "generic": "ROPINIROLE",
+  "price": "16",
+  "sku": "IMP-2410"
+ },
+ {
+  "sr": 2411,
+  "name": "ROPARK 2MG",
+  "generic": "ROPINIROLE",
+  "price": "20.5",
+  "sku": "IMP-2411"
+ },
+ {
+  "sr": 2412,
+  "name": "ROPINPRIME 1MG",
+  "generic": "ROPINIROLE",
+  "price": "4",
+  "sku": "IMP-2412"
+ },
+ {
+  "sr": 2413,
+  "name": "ROSALECT 1MG",
+  "generic": "RASAGILINE",
+  "price": "16.5",
+  "sku": "IMP-2413"
+ },
+ {
+  "sr": 2414,
+  "name": "ROSEDAY F 10MG",
+  "generic": "ROSUVASTATIN + FENOFIBRATE",
+  "price": "22",
+  "sku": "IMP-2414"
+ },
+ {
+  "sr": 2415,
+  "name": "ROSU HDL 10MG",
+  "generic": "ROSUVASTATIN",
+  "price": "1.5",
+  "sku": "IMP-2415"
+ },
+ {
+  "sr": 2416,
+  "name": "ROSU HDL 20MG",
+  "generic": "ROSUVASTATIN",
+  "price": "2",
+  "sku": "IMP-2416"
+ },
+ {
+  "sr": 2417,
+  "name": "ROSU HDL 40MG",
+  "generic": "ROSUVASTATIN",
+  "price": "3",
+  "sku": "IMP-2417"
+ },
+ {
+  "sr": 2418,
+  "name": "ROSU HDL 5MG",
+  "generic": "ROSUVASTATIN",
+  "price": "1.5",
+  "sku": "IMP-2418"
+ },
+ {
+  "sr": 2419,
+  "name": "ROSUBEST 10MG",
+  "generic": "ROSUVASTATIN",
+  "price": "4",
+  "sku": "IMP-2419"
+ },
+ {
+  "sr": 2420,
+  "name": "ROSUFREE 10MG",
+  "generic": "ROSUVASTATIN CALCIUM",
+  "price": "2",
+  "sku": "IMP-2420"
+ },
+ {
+  "sr": 2421,
+  "name": "ROSUFREE 20MG",
+  "generic": "ROSUVASTATIN CALCIUM",
+  "price": "3",
+  "sku": "IMP-2421"
+ },
+ {
+  "sr": 2422,
+  "name": "ROSUFREE 40MG",
+  "generic": "ROSUVASTATIN CALCIUM",
+  "price": "5",
+  "sku": "IMP-2422"
+ },
+ {
+  "sr": 2423,
+  "name": "ROSUFREE 5MG",
+  "generic": "ROSUVASTATIN CALCIUM",
+  "price": "1.5",
+  "sku": "IMP-2423"
+ },
+ {
+  "sr": 2424,
+  "name": "ROSU-HDL-20MG TAB",
+  "generic": "Rosuvastatin",
+  "price": "2",
+  "sku": "IMP-2424"
+ },
+ {
+  "sr": 2425,
+  "name": "ROXIKEM 150MG",
+  "generic": "ROXITHROMYCIN",
+  "price": "3.5",
+  "sku": "IMP-2425"
+ },
+ {
+  "sr": 2426,
+  "name": "ROZAVEL EZ TAB",
+  "generic": "EZETIMIBE + ROSUVASTATIN",
+  "price": "21",
+  "sku": "IMP-2426"
+ },
+ {
+  "sr": 2427,
+  "name": "RTSUNATE 100MG",
+  "generic": "ARTESUNATE",
+  "price": "8",
+  "sku": "IMP-2427"
+ },
+ {
+  "sr": 2428,
+  "name": "RTSUNATE 200MG",
+  "generic": "ARTESUNATE",
+  "price": "14",
+  "sku": "IMP-2428"
+ },
+ {
+  "sr": 2429,
+  "name": "RTSUNATE 50MG",
+  "generic": "ARTESUNATE",
+  "price": "5.25",
+  "sku": "IMP-2429"
+ },
+ {
+  "sr": 2430,
+  "name": "RUPACET TAB",
+  "generic": "RUPATADINE",
+  "price": "3.5",
+  "sku": "IMP-2430"
+ },
+ {
+  "sr": 2431,
+  "name": "RYBELSUS 14MG",
+  "generic": "SEMAGLUTIDE",
+  "price": "325",
+  "sku": "IMP-2431"
+ },
+ {
+  "sr": 2432,
+  "name": "RYBELSUS 3MG",
+  "generic": "SEMAGLUTIDE",
+  "price": "266",
+  "sku": "IMP-2432"
+ },
+ {
+  "sr": 2433,
+  "name": "RYBELSUS 7MG",
+  "generic": "SEMAGLUTIDE",
+  "price": "295",
+  "sku": "IMP-2433"
+ },
+ {
+  "sr": 2434,
+  "name": "S CITADEP 10MG",
+  "generic": "ESCITALOPRAM",
+  "price": "8.5",
+  "sku": "IMP-2434"
+ },
+ {
+  "sr": 2435,
+  "name": "SAAZ 500MG",
+  "generic": "SULFASALAZINE",
+  "price": "6",
+  "sku": "IMP-2435"
+ },
+ {
+  "sr": 2436,
+  "name": "SAAZ DS 1GM TAB",
+  "generic": "SULFASALAZINE",
+  "price": "14",
+  "sku": "IMP-2436"
+ },
+ {
+  "sr": 2437,
+  "name": "SACUBROOK V 100MG",
+  "generic": "SACUBITRIL + VALSARTAN",
+  "price": "9",
+  "sku": "IMP-2437"
+ },
+ {
+  "sr": 2438,
+  "name": "SACUBROOK V 50MG",
+  "generic": "SACUBITRIL + VALSARTAN",
+  "price": "4.5",
+  "sku": "IMP-2438"
+ },
+ {
+  "sr": 2439,
+  "name": "SACUFOX V 100MG",
+  "generic": "SACUBITRIL + VALSARTAN",
+  "price": "7",
+  "sku": "IMP-2439"
+ },
+ {
+  "sr": 2440,
+  "name": "SACUFOX V 50MG",
+  "generic": "SACUBITRIL + VALSARTAN",
+  "price": "5",
+  "sku": "IMP-2440"
+ },
+ {
+  "sr": 2441,
+  "name": "SAM MB INJ 10ML",
+  "generic": "METHYLENE BLUE",
+  "price": "200",
+  "sku": "IMP-2441"
+ },
+ {
+  "sr": 2442,
+  "name": "SCABVENT CREAM",
+  "generic": "PERMETHRIN CREAM",
+  "price": "25",
+  "sku": "IMP-2442"
+ },
+ {
+  "sr": 2443,
+  "name": "SCARHEAL GEL",
+  "generic": "Allantoin, Extractum Cepae, And Heparin,,",
+  "price": "72",
+  "sku": "IMP-2443"
+ },
+ {
+  "sr": 2444,
+  "name": "SECNIL FORTE 1GM",
+  "generic": "SECNIDAZOLE",
+  "price": "87",
+  "sku": "IMP-2444"
+ },
+ {
+  "sr": 2445,
+  "name": "SECNIL FORTE TAB",
+  "generic": "SECNIDAZOLE",
+  "price": "87",
+  "sku": "IMP-2445"
+ },
+ {
+  "sr": 2446,
+  "name": "SELGIN TAB",
+  "generic": "SELEGILINE HCL",
+  "price": "7",
+  "sku": "IMP-2446"
+ },
+ {
+  "sr": 2447,
+  "name": "SELOKEN XL 100MG",
+  "generic": "METOPROLOL",
+  "price": "15",
+  "sku": "IMP-2447"
+ },
+ {
+  "sr": 2448,
+  "name": "SELSUN DAILY SHAMPOO 120ML",
+  "generic": "SELENIUM SULFIDE",
+  "price": "340",
+  "sku": "IMP-2448"
+ },
+ {
+  "sr": 2449,
+  "name": "SERETIDE ACCUHALER 50MCG",
+  "generic": "FLUTICASONE+ SALMETEROL",
+  "price": "640",
+  "sku": "IMP-2449"
+ },
+ {
+  "sr": 2450,
+  "name": "SEROFLO 125MG INHALER",
+  "generic": "FLUTICASONE+ SALMETEROL",
+  "price": "530",
+  "sku": "IMP-2450"
+ },
+ {
+  "sr": 2451,
+  "name": "SEROFLO 250MG CIPHALER",
+  "generic": "FLUTICASONE+ SALMETEROL",
+  "price": "670",
+  "sku": "IMP-2451"
+ },
+ {
+  "sr": 2452,
+  "name": "SEROFLO 250MG INHALER",
+  "generic": "FLUTICASONE+ SALMETEROL",
+  "price": "710",
+  "sku": "IMP-2452"
+ }
+]

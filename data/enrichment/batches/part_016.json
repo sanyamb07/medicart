@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 884,
+  "name": "ENCLOMISIGN 50MG",
+  "generic": "ENCLOMIPHENE",
+  "price": "6.5",
+  "sku": "IMP-0884"
+ },
+ {
+  "sr": 885,
+  "name": "ENDFLU 75MG",
+  "generic": "OSELTAMIVIR",
+  "price": "25",
+  "sku": "IMP-0885"
+ },
+ {
+  "sr": 886,
+  "name": "ENSHINER GEL 15GM",
+  "generic": "KOJIC ACID + VITAMIN C",
+  "price": "55",
+  "sku": "IMP-0886"
+ },
+ {
+  "sr": 887,
+  "name": "EPLERENOL 25 TAB",
+  "generic": "EPLERENONE",
+  "price": "13",
+  "sku": "IMP-0887"
+ },
+ {
+  "sr": 888,
+  "name": "ERLY PEN INJ 5ML",
+  "generic": "LIRAGLUTIDE",
+  "price": "1700",
+  "sku": "IMP-0888"
+ },
+ {
+  "sr": 889,
+  "name": "ERYTHEGO GEL",
+  "generic": "BRIMONIDINE",
+  "price": "320",
+  "sku": "IMP-0889"
+ },
+ {
+  "sr": 890,
+  "name": "ERYTHROMYCIN 500MG",
+  "generic": "ERYTHROMYCIN",
+  "price": "4.5",
+  "sku": "IMP-0890"
+ },
+ {
+  "sr": 891,
+  "name": "ERYTHROMYCIN STEAR 250MG",
+  "generic": "ERYTHROMYCIN",
+  "price": "3",
+  "sku": "IMP-0891"
+ },
+ {
+  "sr": 892,
+  "name": "ERYTROMYCIN 500MG",
+  "generic": "ERYTHROMYCIN",
+  "price": "4.5",
+  "sku": "IMP-0892"
+ },
+ {
+  "sr": 893,
+  "name": "ERYXIA 250MG",
+  "generic": "ERYTHROMYCIN",
+  "price": "3",
+  "sku": "IMP-0893"
+ },
+ {
+  "sr": 894,
+  "name": "ERYXIA 500MG",
+  "generic": "ERYTHROMYCIN",
+  "price": "4.5",
+  "sku": "IMP-0894"
+ },
+ {
+  "sr": 895,
+  "name": "ES MATINIB 400MG",
+  "generic": "IMATINIB MESYLATE",
+  "price": "25.5",
+  "sku": "IMP-0895"
+ },
+ {
+  "sr": 896,
+  "name": "ESCITAL 5MG",
+  "generic": "ESCITALOPRAM OXALATE",
+  "price": "2",
+  "sku": "IMP-0896"
+ },
+ {
+  "sr": 897,
+  "name": "ESETALO 10MG",
+  "generic": "ESCITALOPRAM",
+  "price": "2",
+  "sku": "IMP-0897"
+ },
+ {
+  "sr": 898,
+  "name": "ESOHEAL 20MG",
+  "generic": "ESOMEPRAZOLE",
+  "price": "1",
+  "sku": "IMP-0898"
+ },
+ {
+  "sr": 899,
+  "name": "ESOHEAL 40MG",
+  "generic": "ESOMEPRAZOLE",
+  "price": "1.75",
+  "sku": "IMP-0899"
+ },
+ {
+  "sr": 900,
+  "name": "ESTOFERT TG GEL 0.06% 80GM",
+  "generic": "ESTRADIOL",
+  "price": "960",
+  "sku": "IMP-0900"
+ },
+ {
+  "sr": 901,
+  "name": "ESTRABET 1MG",
+  "generic": "ESTRADIOL",
+  "price": "10",
+  "sku": "IMP-0901"
+ },
+ {
+  "sr": 902,
+  "name": "ESTRABET 2MG",
+  "generic": "ESTRADIOL",
+  "price": "18",
+  "sku": "IMP-0902"
+ },
+ {
+  "sr": 903,
+  "name": "ESTRABET GEL",
+  "generic": "ESTRADIOL",
+  "price": "940",
+  "sku": "IMP-0903"
+ },
+ {
+  "sr": 904,
+  "name": "ESTRAHEAL 2MG",
+  "generic": "ESTRADIOL",
+  "price": "4",
+  "sku": "IMP-0904"
+ },
+ {
+  "sr": 905,
+  "name": "ESTRAPAUSE 2MG",
+  "generic": "ESTRADIOL",
+  "price": "3",
+  "sku": "IMP-0905"
+ },
+ {
+  "sr": 906,
+  "name": "ESTRASIGN 2MG",
+  "generic": "ESTRADIOL",
+  "price": "3",
+  "sku": "IMP-0906"
+ },
+ {
+  "sr": 907,
+  "name": "ESTRAVAL DEPOT 1ML",
+  "generic": "ESTRADIOL",
+  "price": "112",
+  "sku": "IMP-0907"
+ },
+ {
+  "sr": 908,
+  "name": "ESZOP 1MG",
+  "generic": "ESZOPICLONE",
+  "price": "1.5",
+  "sku": "IMP-0908"
+ },
+ {
+  "sr": 909,
+  "name": "ESZOP 2MG",
+  "generic": "ESZOPICLONE",
+  "price": "1.75",
+  "sku": "IMP-0909"
+ },
+ {
+  "sr": 910,
+  "name": "ESZOP 3MG",
+  "generic": "ESZOPICLONE",
+  "price": "2",
+  "sku": "IMP-0910"
+ },
+ {
+  "sr": 911,
+  "name": "ESZOPIMAXX 6MG",
+  "generic": "ESZOPICLONE",
+  "price": "6",
+  "sku": "IMP-0911"
+ },
+ {
+  "sr": 912,
+  "name": "ESZOPINAP 3MG",
+  "generic": "ESZOPICLONE",
+  "price": "2",
+  "sku": "IMP-0912"
+ },
+ {
+  "sr": 913,
+  "name": "ETADOL 100MG",
+  "generic": "TAPENTADOL",
+  "price": "10",
+  "sku": "IMP-0913"
+ },
+ {
+  "sr": 914,
+  "name": "ETADOL 200ER TAB",
+  "generic": "TAPENTADOL",
+  "price": "20",
+  "sku": "IMP-0914"
+ },
+ {
+  "sr": 915,
+  "name": "ETOLID TAB",
+  "generic": "ETODOLAC",
+  "price": "11.5",
+  "sku": "IMP-0915"
+ },
+ {
+  "sr": 916,
+  "name": "ETORIZOX 60MG",
+  "generic": "ETORICOXIB",
+  "price": "2",
+  "sku": "IMP-0916"
+ },
+ {
+  "sr": 917,
+  "name": "ETORIZOX 90MG",
+  "generic": "ETORICOXIB",
+  "price": "2.5",
+  "sku": "IMP-0917"
+ },
+ {
+  "sr": 918,
+  "name": "ETOSHINE 90MG",
+  "generic": "ETORICOXIB",
+  "price": "15.5",
+  "sku": "IMP-0918"
+ },
+ {
+  "sr": 919,
+  "name": "ETOVA 300MG",
+  "generic": "ETODOLAC",
+  "price": "7.5",
+  "sku": "IMP-0919"
+ },
+ {
+  "sr": 920,
+  "name": "EUKROMA CREAM 4% 20GM",
+  "generic": "HYDROQUINONE",
+  "price": "125",
+  "sku": "IMP-0920"
+ },
+ {
+  "sr": 921,
+  "name": "EUREPA MF 2MG",
+  "generic": "REPAGLINIDE  + METFORMIN",
+  "price": "26",
+  "sku": "IMP-0921"
+ },
+ {
+  "sr": 922,
+  "name": "EUTHYROX 100MG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.3",
+  "sku": "IMP-0922"
+ },
+ {
+  "sr": 923,
+  "name": "EUTHYROX 150MCG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.75",
+  "sku": "IMP-0923"
+ },
+ {
+  "sr": 924,
+  "name": "EUTHYROX 25MG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.15",
+  "sku": "IMP-0924"
+ },
+ {
+  "sr": 925,
+  "name": "EUTHYROX 50MCG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1",
+  "sku": "IMP-0925"
+ },
+ {
+  "sr": 926,
+  "name": "EUTHYROX 75MG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.4",
+  "sku": "IMP-0926"
+ },
+ {
+  "sr": 927,
+  "name": "EUTHYROX 88MG",
+  "generic": "LEVOTHYROXINE SODIUM",
+  "price": "1.75",
+  "sku": "IMP-0927"
+ },
+ {
+  "sr": 928,
+  "name": "EUTRIG HP 10000IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN",
+  "price": "500",
+  "sku": "IMP-0928"
+ },
+ {
+  "sr": 929,
+  "name": "EUTRIG HP 5000IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN",
+  "price": "190",
+  "sku": "IMP-0929"
+ },
+ {
+  "sr": 930,
+  "name": "EUTROPIN 4IU INJ",
+  "generic": "SOMATROPIN",
+  "price": "1050",
+  "sku": "IMP-0930"
+ },
+ {
+  "sr": 931,
+  "name": "EUVIFOL-HP 150IU",
+  "generic": "UROFOLLITROPIN (150IU)",
+  "price": "410",
+  "sku": "IMP-0931"
+ },
+ {
+  "sr": 932,
+  "name": "EVALON CREAM 15GM",
+  "generic": "ESTRIOL",
+  "price": "450",
+  "sku": "IMP-0932"
+ },
+ {
+  "sr": 933,
+  "name": "EVIC SR 200MG",
+  "generic": "CARBAMEZAPINE",
+  "price": "3",
+  "sku": "IMP-0933"
+ }
+]

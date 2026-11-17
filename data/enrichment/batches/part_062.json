@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 3226,
+  "name": "ZHEWITRA 60MG",
+  "generic": "VARDENAFIL HCL",
+  "price": "14.5",
+  "sku": "IMP-3226"
+ },
+ {
+  "sr": 3227,
+  "name": "ZHEWITRA SOFT 20",
+  "generic": "VARDENAFIL",
+  "price": "6.5",
+  "sku": "IMP-3227"
+ },
+ {
+  "sr": 3228,
+  "name": "ZHEWITRA SOFT 20MG",
+  "generic": "VARDENAFIL HCL",
+  "price": "6.5",
+  "sku": "IMP-3228"
+ },
+ {
+  "sr": 3229,
+  "name": "ZIMITRAX-100MG TAB.",
+  "generic": "SUMATROPTAN",
+  "price": "10",
+  "sku": "IMP-3229"
+ },
+ {
+  "sr": 3230,
+  "name": "ZINA 25MG",
+  "generic": "THIORIDAZINE",
+  "price": "2.5",
+  "sku": "IMP-3230"
+ },
+ {
+  "sr": 3231,
+  "name": "ZINCA 20MG",
+  "generic": "ZINC SULPHATE",
+  "price": "1.25",
+  "sku": "IMP-3231"
+ },
+ {
+  "sr": 3232,
+  "name": "ZINCO POWER TAB",
+  "generic": "VITAMINS MINERALS ZINC WITH GRAPE SEED",
+  "price": "2",
+  "sku": "IMP-3232"
+ },
+ {
+  "sr": 3233,
+  "name": "ZINCOFINE 20DT TAB",
+  "generic": "ZINC SULPHATE",
+  "price": "1",
+  "sku": "IMP-3233"
+ },
+ {
+  "sr": 3234,
+  "name": "ZINCOHEAL TAB",
+  "generic": "MULTIVITAMIN & MULTIMINERALS + ANTIOXIDANT",
+  "price": "3",
+  "sku": "IMP-3234"
+ },
+ {
+  "sr": 3235,
+  "name": "ZINKEL 50MG",
+  "generic": "ZINC ACETATE",
+  "price": "2",
+  "sku": "IMP-3235"
+ },
+ {
+  "sr": 3236,
+  "name": "ZINOCAINE INJ 30ML",
+  "generic": "LIGNOCAINE HCL",
+  "price": "10",
+  "sku": "IMP-3236"
+ },
+ {
+  "sr": 3237,
+  "name": "ZIOVIR EM TAB",
+  "generic": "TENOFOVIR DISOPROXIL FUMARATE AND EMTRICIABIN",
+  "price": "21",
+  "sku": "IMP-3237"
+ },
+ {
+  "sr": 3238,
+  "name": "ZIPRAX 200MG DT TAB",
+  "generic": "CEFIXIME",
+  "price": "9",
+  "sku": "IMP-3238"
+ },
+ {
+  "sr": 3239,
+  "name": "ZITATE 50MG",
+  "generic": "ZINC ACETATE",
+  "price": "1.5",
+  "sku": "IMP-3239"
+ },
+ {
+  "sr": 3240,
+  "name": "ZITHROKEM 250MG",
+  "generic": "AZITHROMYCIN",
+  "price": "4.5",
+  "sku": "IMP-3240"
+ },
+ {
+  "sr": 3241,
+  "name": "ZITHROKEM 500MG",
+  "generic": "AZITHROMYCIN",
+  "price": "9",
+  "sku": "IMP-3241"
+ },
+ {
+  "sr": 3242,
+  "name": "ZITHROSET 100MG XL 30ML",
+  "generic": "AZITHROMYCIN",
+  "price": "44",
+  "sku": "IMP-3242"
+ },
+ {
+  "sr": 3243,
+  "name": "ZIVERDO KIT SET",
+  "generic": "IVERMECTIN + ZINC ACETATE+ DOXYCYCLINE",
+  "price": "90",
+  "sku": "IMP-3243"
+ },
+ {
+  "sr": 3244,
+  "name": "ZIYAB 150MG",
+  "generic": "FENBENDAZOLE",
+  "price": "2",
+  "sku": "IMP-3244"
+ },
+ {
+  "sr": 3245,
+  "name": "ZOCAN EYE DROP 5ML",
+  "generic": "FLUCONAZOLE",
+  "price": "70",
+  "sku": "IMP-3245"
+ },
+ {
+  "sr": 3246,
+  "name": "ZOCON 200MG",
+  "generic": "FLUCONAZOLE",
+  "price": "16",
+  "sku": "IMP-3246"
+ },
+ {
+  "sr": 3247,
+  "name": "ZOCON 50MG DT",
+  "generic": "FLUCONAZOLE,",
+  "price": "9",
+  "sku": "IMP-3247"
+ },
+ {
+  "sr": 3248,
+  "name": "ZOCON AS KIT",
+  "generic": "FLUCONAZOLE,AZITHROMYCIN & SECNIDAZOLE",
+  "price": "112",
+  "sku": "IMP-3248"
+ },
+ {
+  "sr": 3249,
+  "name": "ZOFER 8MG",
+  "generic": "ONDANSETRON",
+  "price": "8.5",
+  "sku": "IMP-3249"
+ },
+ {
+  "sr": 3250,
+  "name": "ZOFER MD 4MG",
+  "generic": "ONDANSETRON",
+  "price": "5",
+  "sku": "IMP-3250"
+ },
+ {
+  "sr": 3251,
+  "name": "ZOLBEND 400MG",
+  "generic": "ALBENDAZOLE",
+  "price": "3",
+  "sku": "IMP-3251"
+ },
+ {
+  "sr": 3252,
+  "name": "ZOLBEND PLUS TAB.",
+  "generic": "IVERMECTIN + ALBENDAZOLE",
+  "price": "4",
+  "sku": "IMP-3252"
+ },
+ {
+  "sr": 3253,
+  "name": "ZOLMIST NASAL SPRAY",
+  "generic": "ZOLMITRIPTAN",
+  "price": "605",
+  "sku": "IMP-3253"
+ },
+ {
+  "sr": 3254,
+  "name": "ZONIMID 100MG",
+  "generic": "ZONISAMIDE",
+  "price": "17",
+  "sku": "IMP-3254"
+ },
+ {
+  "sr": 3255,
+  "name": "ZONISEP 100MG",
+  "generic": "ZONISAMIDE",
+  "price": "19",
+  "sku": "IMP-3255"
+ },
+ {
+  "sr": 3256,
+  "name": "ZOP 7.5MG",
+  "generic": "ZOPICLONE",
+  "price": "1.5",
+  "sku": "IMP-3256"
+ },
+ {
+  "sr": 3257,
+  "name": "ZOP 7.5MG WHITE",
+  "generic": "ZOPICLONE",
+  "price": "1.75",
+  "sku": "IMP-3257"
+ },
+ {
+  "sr": 3258,
+  "name": "ZOPANDA 10MG",
+  "generic": "ZOPICLONE",
+  "price": "2",
+  "sku": "IMP-3258"
+ },
+ {
+  "sr": 3259,
+  "name": "ZOPANDA 20MG",
+  "generic": "ZOPICLONE",
+  "price": "3",
+  "sku": "IMP-3259"
+ },
+ {
+  "sr": 3260,
+  "name": "ZOPANDA MAX 25MG",
+  "generic": "ZOPICLONE",
+  "price": "4",
+  "sku": "IMP-3260"
+ },
+ {
+  "sr": 3261,
+  "name": "ZOPFRESH 10MG",
+  "generic": "ZOPICLONE",
+  "price": "2.5",
+  "sku": "IMP-3261"
+ },
+ {
+  "sr": 3262,
+  "name": "ZOPFRESH 20MG",
+  "generic": "ZOPICLONE",
+  "price": "4.5",
+  "sku": "IMP-3262"
+ },
+ {
+  "sr": 3263,
+  "name": "ZOPFRESH 7.5MG",
+  "generic": "ZOPICLONE",
+  "price": "1.5",
+  "sku": "IMP-3263"
+ },
+ {
+  "sr": 3264,
+  "name": "ZOPFRESH E 6MG",
+  "generic": "ESZOPICLONE",
+  "price": "4.5",
+  "sku": "IMP-3264"
+ },
+ {
+  "sr": 3265,
+  "name": "ZOPIASH 25MG",
+  "generic": "ZOPICLONE",
+  "price": "4.5",
+  "sku": "IMP-3265"
+ },
+ {
+  "sr": 3266,
+  "name": "ZOPICON TAB INTAS",
+  "generic": "ZOPICLONE",
+  "price": "11.5",
+  "sku": "IMP-3266"
+ },
+ {
+  "sr": 3267,
+  "name": "ZOPIDAILY 10MG",
+  "generic": "ZOPICLONE",
+  "price": "1.75",
+  "sku": "IMP-3267"
+ },
+ {
+  "sr": 3268,
+  "name": "ZOPIDAILY 7.5MG",
+  "generic": "ZOPICLONE",
+  "price": "1.5",
+  "sku": "IMP-3268"
+ },
+ {
+  "sr": 3269,
+  "name": "ZOPIMAX 25MG",
+  "generic": "ZOPICLONE",
+  "price": "6",
+  "sku": "IMP-3269"
+ },
+ {
+  "sr": 3270,
+  "name": "ZOPIMAXX 20MG",
+  "generic": "ZOPICLONE",
+  "price": "3.5",
+  "sku": "IMP-3270"
+ },
+ {
+  "sr": 3271,
+  "name": "ZOPIMAXX 20MG",
+  "generic": "ZOPICLONE",
+  "price": "6",
+  "sku": "IMP-3271"
+ },
+ {
+  "sr": 3272,
+  "name": "ZOPIMINI 3.75MG",
+  "generic": "ZOPICLONE",
+  "price": "1.25",
+  "sku": "IMP-3272"
+ },
+ {
+  "sr": 3273,
+  "name": "ZOPINAP 10MG",
+  "generic": "ZOPICLONE",
+  "price": "1.5",
+  "sku": "IMP-3273"
+ },
+ {
+  "sr": 3274,
+  "name": "ZOPINAP 7.5 MG",
+  "generic": "ZOPICLONE",
+  "price": "1.5",
+  "sku": "IMP-3274"
+ },
+ {
+  "sr": 3275,
+  "name": "ZOPIRISE 7.5MG",
+  "generic": "ZOPICLONE",
+  "price": "1.5",
+  "sku": "IMP-3275"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 778,
+  "name": "DISTINON 60MG",
+  "generic": "PYRIDOSTIGMINE",
+  "price": "9.5",
+  "sku": "IMP-0778"
+ },
+ {
+  "sr": 779,
+  "name": "DIVAA 500MG",
+  "generic": "DIVALPROEX",
+  "price": "12.5",
+  "sku": "IMP-0779"
+ },
+ {
+  "sr": 780,
+  "name": "DIVABORT KIT",
+  "generic": "MIFEPRISTONE & MISOPROSTOL",
+  "price": "60",
+  "sku": "IMP-0780"
+ },
+ {
+  "sr": 781,
+  "name": "DIVYA MUKTA VATI EXTRA POWER",
+  "generic": "HERBAL",
+  "price": "2",
+  "sku": "IMP-0781"
+ },
+ {
+  "sr": 782,
+  "name": "DOBESIL 500 CAP",
+  "generic": "CALCIUM DOBESILATE",
+  "price": "21",
+  "sku": "IMP-0782"
+ },
+ {
+  "sr": 783,
+  "name": "DOLOKIND-MR",
+  "generic": "ACECLOFENAC+PARACETAMOL+CHLORZOXAZONE",
+  "price": "6.5",
+  "sku": "IMP-0783"
+ },
+ {
+  "sr": 784,
+  "name": "DOMIPEN 10MG",
+  "generic": "DOMPERIDONE",
+  "price": "1",
+  "sku": "IMP-0784"
+ },
+ {
+  "sr": 785,
+  "name": "DONAKEM 10MG",
+  "generic": "DONEPEZIL HCL",
+  "price": "3",
+  "sku": "IMP-0785"
+ },
+ {
+  "sr": 786,
+  "name": "DONAKEM 5MG",
+  "generic": "DONEPEZIL HCL",
+  "price": "1",
+  "sku": "IMP-0786"
+ },
+ {
+  "sr": 787,
+  "name": "DONAMEN 10MG",
+  "generic": "DONEPEZIL HCL",
+  "price": "21",
+  "sku": "IMP-0787"
+ },
+ {
+  "sr": 788,
+  "name": "DONECT 10MG",
+  "generic": "DONEPEZIL HCL",
+  "price": "4",
+  "sku": "IMP-0788"
+ },
+ {
+  "sr": 789,
+  "name": "DONECT 5MG",
+  "generic": "DONEPEZIL HCL",
+  "price": "3.5",
+  "sku": "IMP-0789"
+ },
+ {
+  "sr": 790,
+  "name": "DONECT M 10MG",
+  "generic": "DONEPEZIL HCL",
+  "price": "5",
+  "sku": "IMP-0790"
+ },
+ {
+  "sr": 791,
+  "name": "DORTAS EYE DROP 5ML",
+  "generic": "DORZOLAMIDE",
+  "price": "450",
+  "sku": "IMP-0791"
+ },
+ {
+  "sr": 792,
+  "name": "DOSETIL CREAM 15GM",
+  "generic": "DESONIDE",
+  "price": "150",
+  "sku": "IMP-0792"
+ },
+ {
+  "sr": 793,
+  "name": "DOSTIHEAL 0.25MG",
+  "generic": "CABERGOLINE",
+  "price": "14",
+  "sku": "IMP-0793"
+ },
+ {
+  "sr": 794,
+  "name": "DOSTIHEAL 0.50MG",
+  "generic": "CABERGOLINE",
+  "price": "25",
+  "sku": "IMP-0794"
+ },
+ {
+  "sr": 796,
+  "name": "DOXEPRIME 25MG",
+  "generic": "DOXYCYCLINE",
+  "price": "3",
+  "sku": "IMP-0796"
+ },
+ {
+  "sr": 797,
+  "name": "DOXT SL CAP",
+  "generic": "DOXYCYCLINE AND LACTIC ACID BACILLUS",
+  "price": "11",
+  "sku": "IMP-0797"
+ },
+ {
+  "sr": 798,
+  "name": "DOXYLIFE 100 LB CAP",
+  "generic": "DOXYCYCLINE AND LACTIC ACID",
+  "price": "2.5",
+  "sku": "IMP-0798"
+ },
+ {
+  "sr": 799,
+  "name": "DOXYLIFE 100MG",
+  "generic": "DOXYCYCLINE",
+  "price": "2.75",
+  "sku": "IMP-0799"
+ },
+ {
+  "sr": 800,
+  "name": "DOXYNEC CAP",
+  "generic": "DOXYCYCLINE",
+  "price": "4.5",
+  "sku": "IMP-0800"
+ },
+ {
+  "sr": 801,
+  "name": "DOXYNEX CAP",
+  "generic": "DOXYCYCLINE",
+  "price": "5",
+  "sku": "IMP-0801"
+ },
+ {
+  "sr": 802,
+  "name": "DOXYPEN 100MG",
+  "generic": "DOXYCYCLINE",
+  "price": "1.75",
+  "sku": "IMP-0802"
+ },
+ {
+  "sr": 803,
+  "name": "DOXYSAFE DT 100MG",
+  "generic": "DOXYCYCLINE",
+  "price": "2",
+  "sku": "IMP-0803"
+ },
+ {
+  "sr": 804,
+  "name": "DR.D3 600000IU 1ML",
+  "generic": "CHOLECALCIFEROL",
+  "price": "22",
+  "sku": "IMP-0804"
+ },
+ {
+  "sr": 805,
+  "name": "DR.ODIN ALCHOL PREP PADS",
+  "generic": "70% ISOPROPYL ALCOHOL",
+  "price": "1",
+  "sku": "IMP-0805"
+ },
+ {
+  "sr": 806,
+  "name": "DROJUST-80MG TAB",
+  "generic": "DROTAVERINE HYDROCHLORIDE",
+  "price": "4.5",
+  "sku": "IMP-0806"
+ },
+ {
+  "sr": 812,
+  "name": "DTM 90 SR TAB",
+  "generic": "DILTIAZEM",
+  "price": "2.5",
+  "sku": "IMP-0812"
+ },
+ {
+  "sr": 813,
+  "name": "DULATA 20MG",
+  "generic": "DULOXETINE GASTRO -RESISTANT",
+  "price": "2",
+  "sku": "IMP-0813"
+ },
+ {
+  "sr": 814,
+  "name": "DULATA 30MG",
+  "generic": "DULOXETINE GASTRO -RESISTANT",
+  "price": "3",
+  "sku": "IMP-0814"
+ },
+ {
+  "sr": 815,
+  "name": "DULATA 60MG",
+  "generic": "DULOXETINE GASTRO -RESISTANT",
+  "price": "4.5",
+  "sku": "IMP-0815"
+ },
+ {
+  "sr": 816,
+  "name": "DUOBES 625MG",
+  "generic": "AMOXYCILLIN & POTASSIUM CLAVULANATE",
+  "price": "7.5",
+  "sku": "IMP-0816"
+ },
+ {
+  "sr": 817,
+  "name": "DUOLIN INHALER",
+  "generic": "IPRATROPIUM BROMIDE+ LEVOSALBUTAMOL",
+  "price": "370",
+  "sku": "IMP-0817"
+ },
+ {
+  "sr": 818,
+  "name": "DUOLIN RESPULES",
+  "generic": "IPRATROPIUM BROMIDE+ LEVOSALBUTAMOL",
+  "price": "20",
+  "sku": "IMP-0818"
+ },
+ {
+  "sr": 819,
+  "name": "DUPHALAC SYP 150ML",
+  "generic": "LACTULOSE",
+  "price": "160",
+  "sku": "IMP-0819"
+ },
+ {
+  "sr": 820,
+  "name": "DUPLAT DEPOT 11.25MG",
+  "generic": "LEUPROLIDE ACETATE",
+  "price": "3360",
+  "sku": "IMP-0820"
+ },
+ {
+  "sr": 821,
+  "name": "DUPROST CAP",
+  "generic": "DUTASTERIDE HCL",
+  "price": "24",
+  "sku": "IMP-0821"
+ },
+ {
+  "sr": 822,
+  "name": "DURADEC 100MG INJ",
+  "generic": "NANDROLONE",
+  "price": "40",
+  "sku": "IMP-0822"
+ },
+ {
+  "sr": 823,
+  "name": "DURADEC-100MG INJ 100MG",
+  "generic": "NANDROLONE DECANOATE",
+  "price": "37",
+  "sku": "IMP-0823"
+ },
+ {
+  "sr": 824,
+  "name": "DURALAST 30MG",
+  "generic": "DAPOXETINE",
+  "price": "42",
+  "sku": "IMP-0824"
+ },
+ {
+  "sr": 825,
+  "name": "DURASHER 30MG",
+  "generic": "DAPOXETINE HCL",
+  "price": "5.5",
+  "sku": "IMP-0825"
+ },
+ {
+  "sr": 826,
+  "name": "DURASHER 60MG",
+  "generic": "DAPOXETINE HCL",
+  "price": "7.5",
+  "sku": "IMP-0826"
+ },
+ {
+  "sr": 827,
+  "name": "DURATIA 30MG",
+  "generic": "DAPOXETINE HCL",
+  "price": "7.5",
+  "sku": "IMP-0827"
+ },
+ {
+  "sr": 828,
+  "name": "DURATIA 60MG",
+  "generic": "DAPOXETINE HCL",
+  "price": "10.5",
+  "sku": "IMP-0828"
+ },
+ {
+  "sr": 829,
+  "name": "DURATIA 90MG",
+  "generic": "DAPOXETINE HCL",
+  "price": "17.5",
+  "sku": "IMP-0829"
+ },
+ {
+  "sr": 830,
+  "name": "DUTAFOX 0.5MG",
+  "generic": "DUTASTERIDE",
+  "price": "3",
+  "sku": "IMP-0830"
+ },
+ {
+  "sr": 831,
+  "name": "DUTAHEAL 0.5MG",
+  "generic": "DUTASTERIDE",
+  "price": "2",
+  "sku": "IMP-0831"
+ },
+ {
+  "sr": 832,
+  "name": "DUTANOL 0.5MG",
+  "generic": "DUTASTERIDE",
+  "price": "2",
+  "sku": "IMP-0832"
+ },
+ {
+  "sr": 833,
+  "name": "DUTAS CAP",
+  "generic": "DUTASTERIDE",
+  "price": "35",
+  "sku": "IMP-0833"
+ }
+]

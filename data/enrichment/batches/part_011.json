@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 624,
+  "name": "CORT S INJ 100MG 30ML",
+  "generic": "HYDROCORTISONE",
+  "price": "20",
+  "sku": "IMP-0624"
+ },
+ {
+  "sr": 625,
+  "name": "CORTIVAC CREAM",
+  "generic": "HYDROCORTISONE",
+  "price": "60",
+  "sku": "IMP-0625"
+ },
+ {
+  "sr": 626,
+  "name": "COSART 25MG",
+  "generic": "LOSARTAN",
+  "price": "1.5",
+  "sku": "IMP-0626"
+ },
+ {
+  "sr": 627,
+  "name": "COSART 50MG",
+  "generic": "LOSARTAN",
+  "price": "2.5",
+  "sku": "IMP-0627"
+ },
+ {
+  "sr": 628,
+  "name": "COSART H TAB",
+  "generic": "LOSARTAN",
+  "price": "2.5",
+  "sku": "IMP-0628"
+ },
+ {
+  "sr": 629,
+  "name": "COTRIMAX DS TAB",
+  "generic": "TRIMETHOPRIM +SULPHMETHOXAZOLE",
+  "price": "2.5",
+  "sku": "IMP-0629"
+ },
+ {
+  "sr": 630,
+  "name": "COTRIP 50MG",
+  "generic": "AMITRIPTYLINE",
+  "price": "3",
+  "sku": "IMP-0630"
+ },
+ {
+  "sr": 631,
+  "name": "COVILIFE 12MG",
+  "generic": "IVERMECTIN",
+  "price": "2.5",
+  "sku": "IMP-0631"
+ },
+ {
+  "sr": 632,
+  "name": "COVILIFE 20 MG TAB",
+  "generic": "IVERMECTIN",
+  "price": "2.5",
+  "sku": "IMP-0632"
+ },
+ {
+  "sr": 633,
+  "name": "COVILIFE 24MG",
+  "generic": "IVERMECTIN",
+  "price": "3.5",
+  "sku": "IMP-0633"
+ },
+ {
+  "sr": 634,
+  "name": "COVILIFE 40 MG",
+  "generic": "IVERMECTIN",
+  "price": "4.5",
+  "sku": "IMP-0634"
+ },
+ {
+  "sr": 635,
+  "name": "COVILIFE NAC 600MG",
+  "generic": "N-ACETYLCYSTEINE",
+  "price": "6",
+  "sku": "IMP-0635"
+ },
+ {
+  "sr": 636,
+  "name": "COVILIFE QTN 250MG",
+  "generic": "QUERCETIN",
+  "price": "4.5",
+  "sku": "IMP-0636"
+ },
+ {
+  "sr": 637,
+  "name": "COVIMECTIN 12MG",
+  "generic": "IVERMECTIN",
+  "price": "1.25",
+  "sku": "IMP-0637"
+ },
+ {
+  "sr": 638,
+  "name": "COVIQUEEN 400MG",
+  "generic": "HYDROXYCHLOROQUINE",
+  "price": "7",
+  "sku": "IMP-0638"
+ },
+ {
+  "sr": 639,
+  "name": "COVITHRO 250MG",
+  "generic": "AZITHROMYCIN",
+  "price": "6",
+  "sku": "IMP-0639"
+ },
+ {
+  "sr": 640,
+  "name": "COVITHRO 500MG",
+  "generic": "AZITHROMYCIN",
+  "price": "10",
+  "sku": "IMP-0640"
+ },
+ {
+  "sr": 641,
+  "name": "COZARTAN 100MG",
+  "generic": "LOSARTAN POTASSIUM",
+  "price": "2.5",
+  "sku": "IMP-0641"
+ },
+ {
+  "sr": 642,
+  "name": "COZARTAN 25MG",
+  "generic": "LOSARTAN POTASSIUM",
+  "price": "1",
+  "sku": "IMP-0642"
+ },
+ {
+  "sr": 643,
+  "name": "COZARTAN 50MG",
+  "generic": "LOSARTAN POTASSIUM",
+  "price": "1.5",
+  "sku": "IMP-0643"
+ },
+ {
+  "sr": 644,
+  "name": "COZARTAN H TAB",
+  "generic": "LOSARTAN POTASSIUM hcl",
+  "price": "2",
+  "sku": "IMP-0644"
+ },
+ {
+  "sr": 645,
+  "name": "CREAMAGEL 2%",
+  "generic": "DILTIAZEM",
+  "price": "185",
+  "sku": "IMP-0645"
+ },
+ {
+  "sr": 646,
+  "name": "CREMAFFIN FRESH TAB",
+  "generic": "BISACODYL",
+  "price": "1.5",
+  "sku": "IMP-0646"
+ },
+ {
+  "sr": 647,
+  "name": "CREMAGEL 2%",
+  "generic": "DILTIAZEM",
+  "price": "195",
+  "sku": "IMP-0647"
+ },
+ {
+  "sr": 648,
+  "name": "CREMAGEL 2% 30GM",
+  "generic": "DILTIAZEM",
+  "price": "225",
+  "sku": "IMP-0648"
+ },
+ {
+  "sr": 649,
+  "name": "CREON 10000MG CAP",
+  "generic": "PANCREATIN",
+  "price": "43",
+  "sku": "IMP-0649"
+ },
+ {
+  "sr": 650,
+  "name": "CTD AZ 12.5/40 TAB",
+  "generic": "AZILSARTAN MEDOXOMIL + CHLORTHALIDONE",
+  "price": "16",
+  "sku": "IMP-0650"
+ },
+ {
+  "sr": 651,
+  "name": "CURE STRESS 10MG",
+  "generic": "MELATONIN",
+  "price": "3.5",
+  "sku": "IMP-0651"
+ },
+ {
+  "sr": 652,
+  "name": "CUTISOFT CREAM",
+  "generic": "HYDROCORTISONE",
+  "price": "130",
+  "sku": "IMP-0652"
+ },
+ {
+  "sr": 653,
+  "name": "CUTRA 150MG INJ 1ML",
+  "generic": "CUT MIX COUMPOUND",
+  "price": "120",
+  "sku": "IMP-0653"
+ },
+ {
+  "sr": 654,
+  "name": "CWIN CREAM 30GM",
+  "generic": "CICLOPIROX",
+  "price": "200",
+  "sku": "IMP-0654"
+ },
+ {
+  "sr": 655,
+  "name": "CWIN LOTION 30ML",
+  "generic": "CICLOPIROX",
+  "price": "220",
+  "sku": "IMP-0655"
+ },
+ {
+  "sr": 656,
+  "name": "CYCLOBENZ 15MG ER",
+  "generic": "CYCLOBENZAPRINE HCL",
+  "price": "4",
+  "sku": "IMP-0656"
+ },
+ {
+  "sr": 657,
+  "name": "CYCLOBENZ 30MG ER",
+  "generic": "CYCLOBENZAPRINE HCL",
+  "price": "3",
+  "sku": "IMP-0657"
+ },
+ {
+  "sr": 658,
+  "name": "CYCLOBOON ER 15MG",
+  "generic": "CYCLOBENZAPRINE HCL",
+  "price": "3.5",
+  "sku": "IMP-0658"
+ },
+ {
+  "sr": 659,
+  "name": "CYCLOBOON ER 30MG",
+  "generic": "CYCLOBENZAPRINE HCL",
+  "price": "4.5",
+  "sku": "IMP-0659"
+ },
+ {
+  "sr": 660,
+  "name": "CYCLOCLEAN 100MG",
+  "generic": "CYCLOSPORINE",
+  "price": "24",
+  "sku": "IMP-0660"
+ },
+ {
+  "sr": 661,
+  "name": "CYCLOCLEAN 25MG",
+  "generic": "CYCLOSPORINE",
+  "price": "7",
+  "sku": "IMP-0661"
+ },
+ {
+  "sr": 662,
+  "name": "CYCLOCLEAN 50MG",
+  "generic": "CYCLOSPORINE",
+  "price": "13",
+  "sku": "IMP-0662"
+ },
+ {
+  "sr": 663,
+  "name": "CYCLODOM TAB",
+  "generic": "PARACETAMOL & DICYCLOMINE HCL",
+  "price": "2.5",
+  "sku": "IMP-0663"
+ },
+ {
+  "sr": 664,
+  "name": "CYCLOMUNE 0.05% DROPS",
+  "generic": "CYCLOSPORINE",
+  "price": "370",
+  "sku": "IMP-0664"
+ },
+ {
+  "sr": 665,
+  "name": "CYCLOMUNE EYE DROP 0.1%",
+  "generic": "CYCLOSPORINE",
+  "price": "400",
+  "sku": "IMP-0665"
+ },
+ {
+  "sr": 666,
+  "name": "CYCLONIL TAB",
+  "generic": "DICYCLOMINE+ PARACETAMOL",
+  "price": "1.5",
+  "sku": "IMP-0666"
+ },
+ {
+  "sr": 667,
+  "name": "CYCLOPAM TAB",
+  "generic": "DICYCLOMINE + PARACETAMOL",
+  "price": "5.5",
+  "sku": "IMP-0667"
+ },
+ {
+  "sr": 668,
+  "name": "CYCLOPYURIN 50MG",
+  "generic": "CYCLOSPORINE",
+  "price": "12",
+  "sku": "IMP-0668"
+ },
+ {
+  "sr": 669,
+  "name": "CYCLOXAN 50MG",
+  "generic": "CYCLOPHOSPHAMIDE",
+  "price": "4",
+  "sku": "IMP-0669"
+ },
+ {
+  "sr": 670,
+  "name": "CYFLOX 250MG",
+  "generic": "CIPROFLOXACIN HYDROCLORIDE",
+  "price": "2",
+  "sku": "IMP-0670"
+ },
+ {
+  "sr": 671,
+  "name": "CYFLOX 500MG",
+  "generic": "CIPROFLOXACIN HYDROCLORIDE",
+  "price": "2.5",
+  "sku": "IMP-0671"
+ },
+ {
+  "sr": 672,
+  "name": "CYFLOX EYE EAR DROP",
+  "generic": "CIPROFLOXACIN HYDROCLORIDE",
+  "price": "12",
+  "sku": "IMP-0672"
+ },
+ {
+  "sr": 673,
+  "name": "CYNODER PLUS INJ 30ML",
+  "generic": "CYANOCOBALAMIN",
+  "price": "20",
+  "sku": "IMP-0673"
+ }
+]

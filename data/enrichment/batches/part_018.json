@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 984,
+  "name": "FEMAFORD 2.5MG",
+  "generic": "LETROZOLE",
+  "price": "3",
+  "sku": "IMP-0984"
+ },
+ {
+  "sr": 985,
+  "name": "FEMALEGRA 100MG",
+  "generic": "SILDENAFIL",
+  "price": "3.5",
+  "sku": "IMP-0985"
+ },
+ {
+  "sr": 986,
+  "name": "FEMPRO 2.5MG",
+  "generic": "LETROZOLE",
+  "price": "4",
+  "sku": "IMP-0986"
+ },
+ {
+  "sr": 987,
+  "name": "FENBENDAZOLE 150MG",
+  "generic": "FENBENDAZOLE",
+  "price": "2",
+  "sku": "IMP-0987"
+ },
+ {
+  "sr": 988,
+  "name": "FENFORCE 222MG",
+  "generic": "FENBENDAZOLE",
+  "price": "3.5",
+  "sku": "IMP-0988"
+ },
+ {
+  "sr": 989,
+  "name": "FENFORCE 444MG",
+  "generic": "FENBENDAZOLE",
+  "price": "6.5",
+  "sku": "IMP-0989"
+ },
+ {
+  "sr": 990,
+  "name": "FENFORCE 500MG",
+  "generic": "FENBENDAZOLE",
+  "price": "7",
+  "sku": "IMP-0990"
+ },
+ {
+  "sr": 991,
+  "name": "FENODAY -145TAB",
+  "generic": "FENOFIBRATE",
+  "price": "2.5",
+  "sku": "IMP-0991"
+ },
+ {
+  "sr": 992,
+  "name": "FENODAY 160MG",
+  "generic": "FENOFIBRATE",
+  "price": "2.5",
+  "sku": "IMP-0992"
+ },
+ {
+  "sr": 993,
+  "name": "FENSAFE 222MG",
+  "generic": "FENBENDAZOLE",
+  "price": "3.5",
+  "sku": "IMP-0993"
+ },
+ {
+  "sr": 994,
+  "name": "FENSAFE 500MG",
+  "generic": "FENBENDAZOLE",
+  "price": "7",
+  "sku": "IMP-0994"
+ },
+ {
+  "sr": 995,
+  "name": "FENSANT 100MG",
+  "generic": "PHENYTOIN",
+  "price": "1",
+  "sku": "IMP-0995"
+ },
+ {
+  "sr": 996,
+  "name": "FENZE 1000MG",
+  "generic": "FENBENDAZOLE",
+  "price": "11",
+  "sku": "IMP-0996"
+ },
+ {
+  "sr": 997,
+  "name": "FENZE 222MG",
+  "generic": "FENBENDAZOLE",
+  "price": "3.5",
+  "sku": "IMP-0997"
+ },
+ {
+  "sr": 998,
+  "name": "FENZE 444MG",
+  "generic": "FENBENDAZOLE",
+  "price": "9",
+  "sku": "IMP-0998"
+ },
+ {
+  "sr": 999,
+  "name": "FENZE 500MG",
+  "generic": "FENBENDAZOLE",
+  "price": "7",
+  "sku": "IMP-0999"
+ },
+ {
+  "sr": 1000,
+  "name": "FENZE 888MG TAB.",
+  "generic": "FENBENDAZOLE",
+  "price": "10",
+  "sku": "IMP-1000"
+ },
+ {
+  "sr": 1001,
+  "name": "FERAVIR 200MG",
+  "generic": "FAVIPIRAVIR",
+  "price": "22",
+  "sku": "IMP-1001"
+ },
+ {
+  "sr": 1002,
+  "name": "FEROHEAL XT TAB",
+  "generic": "FERROUS ASCORBATE+FOLIC ACID",
+  "price": "3",
+  "sku": "IMP-1002"
+ },
+ {
+  "sr": 1003,
+  "name": "FEROPEN Z TAB",
+  "generic": "FERROUS FUMARATE+FOLIC ACID&ZINC",
+  "price": "1",
+  "sku": "IMP-1003"
+ },
+ {
+  "sr": 1004,
+  "name": "FERTIGYN HP 100000 INJ",
+  "generic": "HUMAN CHORIONIC GONADOTROPHIN",
+  "price": "780",
+  "sku": "IMP-1004"
+ },
+ {
+  "sr": 1005,
+  "name": "FERTIGYN HP 2000 INJ",
+  "generic": "HUMAN CHORIONIC GONADOTROPHIN",
+  "price": "290",
+  "sku": "IMP-1005"
+ },
+ {
+  "sr": 1006,
+  "name": "FERTIGYN HP 5000 INJ",
+  "generic": "HUMAN CHORIONIC GONADOTROPHIN",
+  "price": "370",
+  "sku": "IMP-1006"
+ },
+ {
+  "sr": 1007,
+  "name": "FERTOGARD 100MG",
+  "generic": "CLOMIFENE",
+  "price": "2.5",
+  "sku": "IMP-1007"
+ },
+ {
+  "sr": 1008,
+  "name": "FERTOGARD 25MG",
+  "generic": "CLOMIFENE",
+  "price": "1.25",
+  "sku": "IMP-1008"
+ },
+ {
+  "sr": 1009,
+  "name": "FERTOGARD 50MG",
+  "generic": "CLOMIFENE",
+  "price": "1.5",
+  "sku": "IMP-1009"
+ },
+ {
+  "sr": 1010,
+  "name": "FERTOLET TAB",
+  "generic": "LETROZOLE",
+  "price": "7",
+  "sku": "IMP-1010"
+ },
+ {
+  "sr": 1011,
+  "name": "FESOBIG 8MG",
+  "generic": "FESOTERODINE FUMARATE",
+  "price": "24",
+  "sku": "IMP-1011"
+ },
+ {
+  "sr": 1012,
+  "name": "FESTIVE EYE DROPS 10ML",
+  "generic": "OFLOXACIN",
+  "price": "15",
+  "sku": "IMP-1012"
+ },
+ {
+  "sr": 1013,
+  "name": "FHENA 150MG",
+  "generic": "FENBENDAZOLE",
+  "price": "2.5",
+  "sku": "IMP-1013"
+ },
+ {
+  "sr": 1014,
+  "name": "FHENA BOLUS 3GM",
+  "generic": "FENBENDAZOLE",
+  "price": "34",
+  "sku": "IMP-1014"
+ },
+ {
+  "sr": 1015,
+  "name": "FILAGRA SHOT GEL",
+  "generic": "SILDENAFIL",
+  "price": "40",
+  "sku": "IMP-1015"
+ },
+ {
+  "sr": 1016,
+  "name": "FILDENA 100MG",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-1016"
+ },
+ {
+  "sr": 1017,
+  "name": "FILDENA 150MG",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-1017"
+ },
+ {
+  "sr": 1018,
+  "name": "FILDENA 200MG",
+  "generic": "SILDENAFIL",
+  "price": "3",
+  "sku": "IMP-1018"
+ },
+ {
+  "sr": 1019,
+  "name": "FILDENA 50MG",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-1019"
+ },
+ {
+  "sr": 1020,
+  "name": "FILDENA CT 100MG",
+  "generic": "SILDENAFIL CITRATE SUBLINGUAL",
+  "price": "2.5",
+  "sku": "IMP-1020"
+ },
+ {
+  "sr": 1021,
+  "name": "FILDENA CT 50MG",
+  "generic": "SILDENAFIL CITRATE SUBLINGUAL",
+  "price": "2",
+  "sku": "IMP-1021"
+ },
+ {
+  "sr": 1022,
+  "name": "FILDENA DOUBLE 200MG",
+  "generic": "SILDENAFIL",
+  "price": "3",
+  "sku": "IMP-1022"
+ },
+ {
+  "sr": 1023,
+  "name": "FILDENA EXTRA POWER 150MG",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-1023"
+ },
+ {
+  "sr": 1024,
+  "name": "FILDENA PROFESSIONAL",
+  "generic": "SILDENAFIL CITRATE SUBLINGUAL",
+  "price": "2.5",
+  "sku": "IMP-1024"
+ },
+ {
+  "sr": 1025,
+  "name": "FILDENA PROFESSIONAL TAB",
+  "generic": "SILDENAFIL",
+  "price": "2.5",
+  "sku": "IMP-1025"
+ },
+ {
+  "sr": 1026,
+  "name": "FILDENA STRONG 120MG",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-1026"
+ },
+ {
+  "sr": 1027,
+  "name": "FILDENA SUPER ACTIVE TAB",
+  "generic": "SILDENAFIL",
+  "price": "2.5",
+  "sku": "IMP-1027"
+ },
+ {
+  "sr": 1028,
+  "name": "FILDENA XXX 100MG",
+  "generic": "SILDENAFIL",
+  "price": "4",
+  "sku": "IMP-1028"
+ },
+ {
+  "sr": 1029,
+  "name": "FILITRA 40MG",
+  "generic": "VARDENAFIL",
+  "price": "12",
+  "sku": "IMP-1029"
+ },
+ {
+  "sr": 1030,
+  "name": "FILITRA PROFESSIONAL TAB",
+  "generic": "VARDENAFIL SUBLINGUAL",
+  "price": "8.5",
+  "sku": "IMP-1030"
+ },
+ {
+  "sr": 1031,
+  "name": "FINAAS 5MG",
+  "generic": "FINASTERIDE",
+  "price": "4",
+  "sku": "IMP-1031"
+ },
+ {
+  "sr": 1032,
+  "name": "FINABATE 145MG",
+  "generic": "FENOFIBRATE",
+  "price": "2",
+  "sku": "IMP-1032"
+ },
+ {
+  "sr": 1033,
+  "name": "FINABATE 160MG",
+  "generic": "FENOFIBRATE",
+  "price": "2.5",
+  "sku": "IMP-1033"
+ }
+]

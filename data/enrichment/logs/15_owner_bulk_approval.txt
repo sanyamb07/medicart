@@ -1,0 +1,29 @@
+BEGIN
+SELECT 302
+UPDATE 302
+UPDATE 299
+UPDATE 299
+approved|302
+COMMIT
+BEGIN
+UPDATE 8
+UPDATE 5
+UPDATE 5
+reverted|IMP-1095|2
+reverted|IMP-1096|2
+reverted|IMP-1097|2
+reverted|IMP-1114|1
+reverted|IMP-3059|1
+COMMIT
+BEGIN
+SELECT 7
+UPDATE 7
+UPDATE 7
+IMP-0217|Sunrise Remedies Pvt. Ltd.|2880
+IMP-1095|Healing Pharma India Pvt. Ltd.|2000
+IMP-1096|Healing Pharma India Pvt. Ltd.|1600
+IMP-1097|Healing Pharma India Pvt. Ltd.|2000
+IMP-1114|Healing Pharma India Pvt. Ltd.|1600
+IMP-1782|Healing Pharma India Pvt. Ltd.|2560
+IMP-3059|American Remedies Healthcare Private Limited|1000
+COMMIT

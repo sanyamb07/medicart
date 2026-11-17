@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1636,
+  "name": "LYRICA 150MG",
+  "generic": "PREGABALIN",
+  "price": "66",
+  "sku": "IMP-1636"
+ },
+ {
+  "sr": 1637,
+  "name": "LYRICA 75MG",
+  "generic": "PREGABALIN",
+  "price": "52",
+  "sku": "IMP-1637"
+ },
+ {
+  "sr": 1638,
+  "name": "LYRIKARE 300MG",
+  "generic": "PREGABALIN",
+  "price": "4",
+  "sku": "IMP-1638"
+ },
+ {
+  "sr": 1639,
+  "name": "MACPLATIN TAB",
+  "generic": "CYPROHEPTADINE",
+  "price": "1",
+  "sku": "IMP-1639"
+ },
+ {
+  "sr": 1640,
+  "name": "MAGSOCAN 50% INJ 2ML",
+  "generic": "MAGNESIUM SULPHATE",
+  "price": "5.5",
+  "sku": "IMP-1640"
+ },
+ {
+  "sr": 1641,
+  "name": "MAHAPOD 200MG",
+  "generic": "CEFPODOXIME",
+  "price": "7",
+  "sku": "IMP-1641"
+ },
+ {
+  "sr": 1642,
+  "name": "MALARIA BEN 250MG",
+  "generic": "CHLOROQUINE PHOSPHATE",
+  "price": "1.5",
+  "sku": "IMP-1642"
+ },
+ {
+  "sr": 1643,
+  "name": "MALEGRA 100MG",
+  "generic": "SILDENAFIL",
+  "price": "1.5",
+  "sku": "IMP-1643"
+ },
+ {
+  "sr": 1644,
+  "name": "MALEGRA 100MG EFFERVESCENT",
+  "generic": "SILDENAFIL",
+  "price": "10",
+  "sku": "IMP-1644"
+ },
+ {
+  "sr": 1645,
+  "name": "MALEGRA 200MG",
+  "generic": "SILDENAFIL",
+  "price": "2.5",
+  "sku": "IMP-1645"
+ },
+ {
+  "sr": 1646,
+  "name": "MALEGRA 25MG",
+  "generic": "SILDENAFIL",
+  "price": "1",
+  "sku": "IMP-1646"
+ },
+ {
+  "sr": 1647,
+  "name": "MALEGRA 50MG",
+  "generic": "SILDENAFIL",
+  "price": "1.25",
+  "sku": "IMP-1647"
+ },
+ {
+  "sr": 1648,
+  "name": "MALEGRA DXT PLUS TAB",
+  "generic": "SILDENAFIL + DULOXETINE",
+  "price": "7.5",
+  "sku": "IMP-1648"
+ },
+ {
+  "sr": 1649,
+  "name": "MALEGRA DXT TAB",
+  "generic": "SILDENAFIL + DULOXETINE",
+  "price": "7",
+  "sku": "IMP-1649"
+ },
+ {
+  "sr": 1650,
+  "name": "MALEGRA FXT TAB",
+  "generic": "SILDENAFIL WITH FLUOXETINE",
+  "price": "6",
+  "sku": "IMP-1650"
+ },
+ {
+  "sr": 1651,
+  "name": "MALEGRA ORAL JELLY 100MG",
+  "generic": "SILDENAFIL",
+  "price": "35",
+  "sku": "IMP-1651"
+ },
+ {
+  "sr": 1652,
+  "name": "MALEGRA PRO 100MG",
+  "generic": "SILDENAFIL",
+  "price": "1.5",
+  "sku": "IMP-1652"
+ },
+ {
+  "sr": 1653,
+  "name": "MALEGRA PRO 50MG",
+  "generic": "SILDENAFIL",
+  "price": "1.5",
+  "sku": "IMP-1653"
+ },
+ {
+  "sr": 1654,
+  "name": "MALINATE 100MG",
+  "generic": "ARTESUNATE",
+  "price": "13",
+  "sku": "IMP-1654"
+ },
+ {
+  "sr": 1655,
+  "name": "MAMOFEN 10MG",
+  "generic": "TAMOXIFEN",
+  "price": "1.5",
+  "sku": "IMP-1655"
+ },
+ {
+  "sr": 1656,
+  "name": "MAMOFEN 20MG",
+  "generic": "TAMOXIFEN",
+  "price": "2",
+  "sku": "IMP-1656"
+ },
+ {
+  "sr": 1657,
+  "name": "MANFORCE 50",
+  "generic": "SILDENAFIL",
+  "price": "27",
+  "sku": "IMP-1657"
+ },
+ {
+  "sr": 1658,
+  "name": "MANFORCE STAYLONG GEL",
+  "generic": "LIDOCAINE & PRILOCAINE",
+  "price": "100",
+  "sku": "IMP-1658"
+ },
+ {
+  "sr": 1663,
+  "name": "MATERNA HCG 5000IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN",
+  "price": "270",
+  "sku": "IMP-1663"
+ },
+ {
+  "sr": 1664,
+  "name": "MAXIRICH CAP",
+  "generic": "MULTIVITAMIN & MINERALS",
+  "price": "2.5",
+  "sku": "IMP-1664"
+ },
+ {
+  "sr": 1665,
+  "name": "MAXMAN PLUS TAB",
+  "generic": "SILDENAFIL",
+  "price": "12",
+  "sku": "IMP-1665"
+ },
+ {
+  "sr": 1666,
+  "name": "MAYUS 50MG",
+  "generic": "FLUVOXAMINE",
+  "price": "3.5",
+  "sku": "IMP-1666"
+ },
+ {
+  "sr": 1667,
+  "name": "MAZETOL 100MG",
+  "generic": "CARBAMAZEPINE",
+  "price": "1.25",
+  "sku": "IMP-1667"
+ },
+ {
+  "sr": 1668,
+  "name": "MCSTAR TAB",
+  "generic": "BICTEGRAVIR+ TENOFOVIR +ALAFENAMIDE",
+  "price": "85",
+  "sku": "IMP-1668"
+ },
+ {
+  "sr": 1669,
+  "name": "MEBECHRIST 500MG",
+  "generic": "MEBENDAZOLE",
+  "price": "6",
+  "sku": "IMP-1669"
+ },
+ {
+  "sr": 1670,
+  "name": "MEBEJUV 100MG",
+  "generic": "MEBENDAZOLE",
+  "price": "6",
+  "sku": "IMP-1670"
+ },
+ {
+  "sr": 1671,
+  "name": "MEBENTEL 1000MG",
+  "generic": "Mebendazol",
+  "price": "11",
+  "sku": "IMP-1671"
+ },
+ {
+  "sr": 1672,
+  "name": "MEBENTEL 100MG",
+  "generic": "MEBENDAZOLE",
+  "price": "1.5",
+  "sku": "IMP-1672"
+ },
+ {
+  "sr": 1673,
+  "name": "MEBENTEL 500MG",
+  "generic": "MEBENDAZOLE",
+  "price": "6",
+  "sku": "IMP-1673"
+ },
+ {
+  "sr": 1674,
+  "name": "MEBEX 100MG",
+  "generic": "MEBENDAZOLE",
+  "price": "2",
+  "sku": "IMP-1674"
+ },
+ {
+  "sr": 1675,
+  "name": "MECOBROOK PLUS",
+  "generic": "VITAMIN B12 / MECOBALAMIN / CYNOCOBALAMIN / METHYLCOBALAMIN + ALPHA LIPOIC ACID + VITAMIN B9 / FOLIC ACID / FOLATE + VITAMIN B6 / PYRIDOXINE",
+  "price": "5.25",
+  "sku": "IMP-1675"
+ },
+ {
+  "sr": 1676,
+  "name": "MECODER OD TAB",
+  "generic": "VITAMIN B12 / MECOBALAMIN / CYNOCOBALAMIN / METHYLCOBALAMIN",
+  "price": "2.5",
+  "sku": "IMP-1676"
+ },
+ {
+  "sr": 1677,
+  "name": "MECOEDGE 2500MG INJ 1ML",
+  "generic": "METHYLCOBALAMIN",
+  "price": "20",
+  "sku": "IMP-1677"
+ },
+ {
+  "sr": 1678,
+  "name": "MEDITAM 20MG",
+  "generic": "TAMOXIFEN",
+  "price": "2",
+  "sku": "IMP-1678"
+ },
+ {
+  "sr": 1679,
+  "name": "MEDROCAN-40 INJ",
+  "generic": "METHYLPREDNISOLONE SODIUM SUCCINATE",
+  "price": "35",
+  "sku": "IMP-1679"
+ },
+ {
+  "sr": 1680,
+  "name": "MEDROL 16MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "9",
+  "sku": "IMP-1680"
+ },
+ {
+  "sr": 1681,
+  "name": "MEDROL 4MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "5",
+  "sku": "IMP-1681"
+ },
+ {
+  "sr": 1682,
+  "name": "MEDROL 8MG",
+  "generic": "METHYLPREDNISOLONE",
+  "price": "5.5",
+  "sku": "IMP-1682"
+ },
+ {
+  "sr": 1683,
+  "name": "MEFNIWEL-P TAB",
+  "generic": "MEFENAMIC ACID+ PARACETAMOL",
+  "price": "2",
+  "sku": "IMP-1683"
+ },
+ {
+  "sr": 1684,
+  "name": "MEFPEN SPAS TAB",
+  "generic": "MEFENAMIC ACID DICYCLOMINE HCL",
+  "price": "1",
+  "sku": "IMP-1684"
+ },
+ {
+  "sr": 1685,
+  "name": "MEGALIS 10MG",
+  "generic": "TADALAFIL",
+  "price": "41.5",
+  "sku": "IMP-1685"
+ },
+ {
+  "sr": 1686,
+  "name": "MEGALIS 20MG",
+  "generic": "TADALAFIL",
+  "price": "95",
+  "sku": "IMP-1686"
+ },
+ {
+  "sr": 1687,
+  "name": "MEGETROL 160 MG",
+  "generic": "MEGESTROL ACETATE",
+  "price": "17",
+  "sku": "IMP-1687"
+ },
+ {
+  "sr": 1688,
+  "name": "MEGTE 40MG",
+  "generic": "MEGESTROL ACETATE",
+  "price": "19",
+  "sku": "IMP-1688"
+ },
+ {
+  "sr": 1689,
+  "name": "MELACARE CREAM 25GM",
+  "generic": "HYDROQUINONE + MOMETASONE + TRETINOIN",
+  "price": "210",
+  "sku": "IMP-1689"
+ }
+]

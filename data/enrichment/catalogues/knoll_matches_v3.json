@@ -1,0 +1,677 @@
+[
+ {
+  "sku": "IMP-0013",
+  "sr": 13,
+  "name": "ACARBOZ 25 TAB",
+  "list_generic": "ACARBOSE",
+  "status": "matched",
+  "catalogue_name": "ACARBOZ\u00ae-25 TAB (ALU)20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/acarboz-25-tab-alu2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/acarboz-25.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-0033",
+  "sr": 33,
+  "name": "ACLOVEER 400MG TAB.",
+  "list_generic": "ACICLOVIR",
+  "status": "matched",
+  "catalogue_name": "ACLOVEER-400 TAB (BL) 10*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/acloveer-400-tab-bl-1010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/ACLOVEER-400.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-0365",
+  "sr": 365,
+  "name": "BUDENOL F 400MG INHALER",
+  "list_generic": "BUDESONIDE",
+  "status": "matched",
+  "catalogue_name": "BUDENOL-F 400 INHALER",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/budenol-f-400-inhaler/",
+  "composition": "",
+  "catalogue_form": "INHALER",
+  "list_form": "INHALER",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/BUDENOL-F-400-2.png?fit=388%2C388&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-0452",
+  "sr": 452,
+  "name": "CARVENOL 25MG",
+  "list_generic": "CARVEDILOL",
+  "status": "matched",
+  "catalogue_name": "CARVENOL-25 TAB (ALU) 20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/carvenol-25-tab-alu-2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/CARVENOL-25.png?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-0559",
+  "sr": 559,
+  "name": "CLARIFOD 500MG",
+  "list_generic": "CLARITHROMYCIN",
+  "status": "matched",
+  "catalogue_name": "CLARIFOD\u00ae-500 TAB (BL-MONO)10*1*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/clarifod-500-tab-bl-mono10110/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/clarifod-500.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-0580",
+  "name": "CLINDANOL 300MG",
+  "status": "form_conflict",
+  "candidates": [
+   {
+    "name": "CLINDANOL-300 CAP (BL) 20*10",
+    "url": "https://knollhealthcare.com/product/clindanol-300-cap-bl-2010/",
+    "form": "CAPSULE"
+   }
+  ],
+  "list_form": "TABLET"
+ },
+ {
+  "sku": "IMP-0683",
+  "name": "DABINOL 150MG",
+  "status": "form_conflict",
+  "candidates": [
+   {
+    "name": "DABINOL-150 CAP (ALU-MONO) 10*1*10",
+    "url": "https://knollhealthcare.com/product/dabinol-150-cap-alu-mono-10110/",
+    "form": "CAPSULE"
+   }
+  ],
+  "list_form": "TABLET"
+ },
+ {
+  "sku": "IMP-0832",
+  "sr": 832,
+  "name": "DUTANOL 0.5MG",
+  "list_generic": "DUTASTERIDE",
+  "status": "matched",
+  "catalogue_name": "DUTANOL-0.5 TABS (ALU) 10*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/dutanol-0-5-tabs-alu-1010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/DUTANOL-0.5.png?fit=388%2C388&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-0887",
+  "sr": 887,
+  "name": "EPLERENOL 25 TAB",
+  "list_generic": "EPLERENONE",
+  "status": "matched",
+  "catalogue_name": "EPLERENOL-25 TAB 10*1*10 (MONO-ALU)",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/eplerenol-25-tab-10110-mono-alu/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/EPLERENOL-25.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-0897",
+  "sr": 897,
+  "name": "ESETALO 10MG",
+  "list_generic": "ESCITALOPRAM",
+  "status": "matched",
+  "catalogue_name": "ESETALO-10 TAB (BL) 20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/esetalo-10-tab-bl-2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/ESETALO-10.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-1044",
+  "sr": 1044,
+  "name": "FINOBRATE 145",
+  "list_generic": "FENOFIBRATE",
+  "status": "matched",
+  "catalogue_name": "FINOBRATE-145 TAB (BL) 10*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/finobrate-145-tab-bl-1010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/FINOBRATE-145.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-1045",
+  "sr": 1045,
+  "name": "FINOBRATE 160MG",
+  "list_generic": "FENOFIBRATE",
+  "status": "matched",
+  "catalogue_name": "FINOBRATE-160 TAB (BL) 10*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/finobrate-160-tab-bl-1010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/FINOBRATE-160.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-1283",
+  "sr": 1283,
+  "name": "HYDRONOL 25MG",
+  "list_generic": "HYDROCHLOROTHIAZIDE",
+  "status": "matched",
+  "catalogue_name": "HYDRONOL-25 TAB (BL) 20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/hydronol-25-tab-bl-2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/HYDRONOL-25.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-1316",
+  "sr": 1316,
+  "name": "INDOSTAR-75MG TAB",
+  "list_generic": "INDOMETHACIN",
+  "status": "matched",
+  "catalogue_name": "INDOSTAR-75 TABS (ALU) 10*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/indostar-75-tabs-alu-1010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/INDOSTAR-75.png?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-1449",
+  "sr": 1449,
+  "name": "KETOCONOL 200MG",
+  "list_generic": "KETOCONAZOLE",
+  "status": "matched",
+  "catalogue_name": "KETOCONOL-200 TAB (ALU) 10*1*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/ketoconol-200-tab-alu-10110/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/ketoconol-200.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-1533",
+  "sr": 1533,
+  "name": "LETRONOL 2.5MG",
+  "list_generic": "LETROZOLE",
+  "status": "matched",
+  "catalogue_name": "LETRONOL-2.5 TAB (BL) 20*5",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/letronol-2-5-tab-bl-205/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/letronol-2.5.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-1713",
+  "sr": 1713,
+  "name": "METFORM SR 1000MG",
+  "list_generic": "METFORMIN HCL",
+  "status": "matched",
+  "catalogue_name": "METFORM-SR 1000 TAB (BL) 10*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/metform-sr-1000-tab-bl-1010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/metformin-sr-1000.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-1724",
+  "sr": 1724,
+  "name": "METNI 16MG",
+  "list_generic": "METHYLPREDNISOLONE",
+  "status": "matched",
+  "catalogue_name": "METNI-16 TAB (ALU) 20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/metni-16-tab-alu-2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/metni-16.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-1725",
+  "sr": 1725,
+  "name": "METNI 4MG",
+  "list_generic": "METHYLPREDNISOLONE",
+  "status": "matched",
+  "catalogue_name": "METNI-4 TAB (ALU) 20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/metni-4-tab-alu-2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/metni-4.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-1726",
+  "sr": 1726,
+  "name": "METNI 8MG",
+  "list_generic": "METHYLPREDNISOLONE",
+  "status": "matched",
+  "catalogue_name": "METNI-8 TAB (ALU) 20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/metni-8-tab-alu-2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/metni-8.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-1866",
+  "name": "MOXINCLAV CV 625MG",
+  "status": "ambiguous",
+  "candidates": [
+   {
+    "name": "MOXINCLAV-CV 625 TAB (ALU) 20*1*6",
+    "url": "https://knollhealthcare.com/product/moxinclav-cv-625-tab-alu-2016/"
+   },
+   {
+    "name": "MOXINCLAV-CV 625 TAB (ALU) 20*1*10",
+    "url": "https://knollhealthcare.com/product/moxinclav-cv-625-tab-alu-20110/"
+   }
+  ]
+ },
+ {
+  "sku": "IMP-1930",
+  "sr": 1930,
+  "name": "NEBIVOL 5MG",
+  "list_generic": "NEBIVOLOL HCL",
+  "status": "matched",
+  "catalogue_name": "NEBIVOL-5 TAB (ALU) 20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/nebivol-5-tab-alu-2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/NEBIVOL-5.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-1987",
+  "sr": 1987,
+  "name": "NITRO G 2.6MG",
+  "list_generic": "Nitroglycerin",
+  "status": "matched",
+  "catalogue_name": "NITRO-G 2.6 TAB 25*30",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/nitro-g-2-6-tab-2530/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/NITRO-G-2.6.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-1998",
+  "sr": 1998,
+  "name": "NOLCEE TAB",
+  "list_generic": "VITAMIN C",
+  "status": "matched",
+  "catalogue_name": "NOLCEE+ TAB 30*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/nolcee-tab-3010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/01/Nolcee-.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2047",
+  "sr": 2047,
+  "name": "OLMO 40MG TAB",
+  "list_generic": "OFLOXACIN",
+  "status": "matched",
+  "catalogue_name": "OLMO-40 TAB (ALU) 20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/olmo-40-tab-alu-2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/OLMO-40.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2048",
+  "sr": 2048,
+  "name": "OLMO H TAB",
+  "list_generic": "HYDROCHLOROTHIAZIDE + OLMESARTAN MEDOXOMIL",
+  "status": "matched",
+  "catalogue_name": "OLMO-H TAB (ALU) 20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/olmo-h-tab-alu-2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/OMLO-H.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2049",
+  "sr": 2049,
+  "name": "OLNEE-5",
+  "list_generic": "OLANZAPINE",
+  "status": "matched",
+  "catalogue_name": "OLNEE-5 TAB (ALU) 10*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/olnee-5-tab-alu-1010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/ONLEE-5.png?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2073",
+  "name": "ONDION 4MG",
+  "status": "form_conflict",
+  "candidates": [
+   {
+    "name": "ONDION INJ (BL) 10*5*4ML",
+    "url": "https://knollhealthcare.com/product/ondion-inj-bl-1054ml/",
+    "form": "INJECTION"
+   }
+  ],
+  "list_form": "TABLET"
+ },
+ {
+  "sku": "IMP-2177",
+  "sr": 2177,
+  "name": "PIRCETAM 800MG",
+  "list_generic": "PIRACETAM",
+  "status": "matched",
+  "catalogue_name": "PIRCETAM-800 TAB (BL)20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/pircetam-800-tab-bl2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/PIRCEATAM-800.png?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2205",
+  "sr": 2205,
+  "name": "PRAZICORS 600MG",
+  "list_generic": "PRAZIQUANTEL",
+  "status": "matched",
+  "catalogue_name": "PRAZICORS-600 TAB  10*4 (BL)",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/prazicors-600-tab-104-bl/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/07/Prazicors-600.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2233",
+  "name": "PREGABEL 300MG",
+  "status": "form_conflict",
+  "candidates": [
+   {
+    "name": "PREGABEL\u00ae-300 CAP (ALU) 10*10",
+    "url": "https://knollhealthcare.com/product/pregabel-300-cap-alu-1010/",
+    "form": "CAPSULE"
+   }
+  ],
+  "list_form": "TABLET"
+ },
+ {
+  "sku": "IMP-2267",
+  "sr": 2267,
+  "name": "PROGESTONE-100MG CAP.",
+  "list_generic": "Progesterone",
+  "status": "matched",
+  "catalogue_name": "PROGESTONE-100 CAP (BL-MONO) 10*1*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/progestone-100-cap-bl-mono-10110/",
+  "composition": "",
+  "catalogue_form": "CAPSULE",
+  "list_form": "CAPSULE",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/01/progestone-100.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2352",
+  "sr": 2352,
+  "name": "REFAXINOL 400MG",
+  "list_generic": "RIFAXIMIN",
+  "status": "matched",
+  "catalogue_name": "REFAXINOL-400 TAB (ALU) 10*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/refaxinol-400-tab-alu-1010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/REFAXINOL-400.png?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2353",
+  "sr": 2353,
+  "name": "REFAXINOL 550MG",
+  "list_generic": "RIFAXIMIN",
+  "status": "matched",
+  "catalogue_name": "REFAXINOL-550 TAB (ALU) 10*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/refaxinol-550-tab-alu-1010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/REFAXINOL-550.png?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2604",
+  "sr": 2604,
+  "name": "SULFUNOL 500MG",
+  "list_generic": "SULFASALAZINE",
+  "status": "matched",
+  "catalogue_name": "SULFUNOL-500 TAB (BL)10*15",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/sulfunol-500-tab-bl1015/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/SULFUNOL-500.png?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2766",
+  "sr": 2766,
+  "name": "TELKONOL 80MG",
+  "list_generic": "TELMISARTAN HCL",
+  "status": "matched",
+  "catalogue_name": "TELKONOL\u00ae-80 TAB (ALU) 20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/telkonol-80-tab-alu-2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/TELKONOL-80.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2891",
+  "sr": 2891,
+  "name": "THYROXINOL 100",
+  "list_generic": "Thyroxine",
+  "status": "matched",
+  "catalogue_name": "THYROXINOL-100 TAB 10*120 (PET)",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/thyroxinol-100-tab-10120-pet/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/THYROXINOL-100.png?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2892",
+  "sr": 2892,
+  "name": "THYROXINOL 125MG",
+  "list_generic": "THYROXINE SODIUM",
+  "status": "matched",
+  "catalogue_name": "THYROXINOL-125 TAB 10*120 (PET)",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/thyroxinol-125-tab-10120-pet/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/THYROXINOL-125.png?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2893",
+  "sr": 2893,
+  "name": "THYROXINOL 150MG",
+  "list_generic": "THYROXINE SODIUM",
+  "status": "matched",
+  "catalogue_name": "THYROXINOL-150 TAB 10*120 (PET)",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/thyroxinol-150-tab-10120-pet/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/THYROXINOL-150.png?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2894",
+  "sr": 2894,
+  "name": "THYROXINOL 75MG",
+  "list_generic": "THYROXINE SODIUM",
+  "status": "matched",
+  "catalogue_name": "THYROXINOL-75 TAB 10*120 (PET)",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/thyroxinol-75-tab-10120-pet/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/03/THYROXINOL-75.png?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-2917",
+  "sr": 2917,
+  "name": "TOFANOL OINT 2% 10GM",
+  "list_generic": "TOFACITINIB 2% OINTMENT",
+  "status": "matched",
+  "catalogue_name": "TOFANOL OINTMENT 2% 10GM",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/tofanol-ointment-2-10gm/",
+  "composition": "",
+  "catalogue_form": "OINTMENT",
+  "list_form": "OINTMENT",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/07/Tofanol.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-3018",
+  "sr": 3018,
+  "name": "TRYPTINOL 10MG",
+  "list_generic": "AMITRIPTYLINE",
+  "status": "matched",
+  "catalogue_name": "TRYPTINOL\u00ae-10 TAB (ALU) 20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/tryptinol-10-tab-alu-2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/TRYPTINOL-10.jpg?fit=426%2C426&ssl=1"
+  ]
+ },
+ {
+  "sku": "IMP-3019",
+  "sr": 3019,
+  "name": "TRYPTINOL 25MG",
+  "list_generic": "AMITRIPTYLINE",
+  "status": "matched",
+  "catalogue_name": "TRYPTINOL\u00ae-25 TAB (ALU) 20*10",
+  "catalogue_sku": "",
+  "url": "https://knollhealthcare.com/product/tryptinol-25-tab-alu-2010/",
+  "composition": "",
+  "catalogue_form": "TABLET",
+  "list_form": "TABLET",
+  "images": [
+   "https://i0.wp.com/knollhealthcare.com/wp-content/uploads/2024/02/TRYPTINOL-25.jpg?fit=426%2C426&ssl=1"
+  ]
+ }
+]

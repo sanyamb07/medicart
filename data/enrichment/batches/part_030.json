@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 1586,
+  "name": "LODONAK 4.5MG",
+  "generic": "NALTREXONE",
+  "price": "8",
+  "sku": "IMP-1586"
+ },
+ {
+  "sr": 1587,
+  "name": "LODONAK BP TAB",
+  "generic": "BUPROPION+NALTREXONE",
+  "price": "27",
+  "sku": "IMP-1587"
+ },
+ {
+  "sr": 1588,
+  "name": "LOMAC 20MG",
+  "generic": "OMEPRAZOLE",
+  "price": "1.5",
+  "sku": "IMP-1588"
+ },
+ {
+  "sr": 1589,
+  "name": "LOMOLEN TAB",
+  "generic": "DIPHENOXYLATE HCL AND ATROPINE SULFATE",
+  "price": "1",
+  "sku": "IMP-1589"
+ },
+ {
+  "sr": 1590,
+  "name": "LONITAB 10MG",
+  "generic": "MINOXIDIL",
+  "price": "51",
+  "sku": "IMP-1590"
+ },
+ {
+  "sr": 1591,
+  "name": "LONITAB 2.5MG",
+  "generic": "MINOXIDIL",
+  "price": "16",
+  "sku": "IMP-1591"
+ },
+ {
+  "sr": 1592,
+  "name": "LONITAB 5MG",
+  "generic": "MINOXIDIL",
+  "price": "39",
+  "sku": "IMP-1592"
+ },
+ {
+  "sr": 1593,
+  "name": "LOPID 300MG",
+  "generic": "GEMFIBROZIL",
+  "price": "24.5",
+  "sku": "IMP-1593"
+ },
+ {
+  "sr": 1594,
+  "name": "LORATOR 10MG",
+  "generic": "LORATADINE",
+  "price": "2",
+  "sku": "IMP-1594"
+ },
+ {
+  "sr": 1595,
+  "name": "LOSANTAN H TAB",
+  "generic": "HYDROCHLOROTHIAZIDE + LOSARTAN",
+  "price": "1.5",
+  "sku": "IMP-1595"
+ },
+ {
+  "sr": 1596,
+  "name": "LOSATAN 25MG",
+  "generic": "LOSARTAN POTASSIUM HCL",
+  "price": "2",
+  "sku": "IMP-1596"
+ },
+ {
+  "sr": 1597,
+  "name": "LOSATAN 50MG",
+  "generic": "LOSARTAN POTASSIUM",
+  "price": "1.5",
+  "sku": "IMP-1597"
+ },
+ {
+  "sr": 1598,
+  "name": "LOTEFAST EYE DROP 5ML",
+  "generic": "LOTEPREDNOL",
+  "price": "160",
+  "sku": "IMP-1598"
+ },
+ {
+  "sr": 1599,
+  "name": "LOTEPRED EYE DROPS",
+  "generic": "LOTEPREDNOL ETABONATE OPTHALMIC",
+  "price": "165",
+  "sku": "IMP-1599"
+ },
+ {
+  "sr": 1600,
+  "name": "LOVEGRA 100MG",
+  "generic": "SILDENAFIL",
+  "price": "6.5",
+  "sku": "IMP-1600"
+ },
+ {
+  "sr": 1601,
+  "name": "LOVEGRA JELLY",
+  "generic": "SILDENAFIL",
+  "price": "120",
+  "sku": "IMP-1601"
+ },
+ {
+  "sr": 1602,
+  "name": "LOVOLKEM 500MG",
+  "generic": "LEVOFLOXACIN",
+  "price": "4.5",
+  "sku": "IMP-1602"
+ },
+ {
+  "sr": 1603,
+  "name": "LOX 10% 20ML",
+  "generic": "LIDOCAINE",
+  "price": "260",
+  "sku": "IMP-1603"
+ },
+ {
+  "sr": 1604,
+  "name": "LOX 10% SPRAY 50ML",
+  "generic": "LIDOCAINE",
+  "price": "620",
+  "sku": "IMP-1604"
+ },
+ {
+  "sr": 1605,
+  "name": "LOX 2% ADRENALINE",
+  "generic": "ADRENALINE + LIDOCAINE",
+  "price": "30",
+  "sku": "IMP-1605"
+ },
+ {
+  "sr": 1606,
+  "name": "LOX 2% INJ 30ML",
+  "generic": "LIDOCAINE",
+  "price": "30",
+  "sku": "IMP-1606"
+ },
+ {
+  "sr": 1607,
+  "name": "LOX 2% JELLY 30GM",
+  "generic": "LIDOCAINE",
+  "price": "30",
+  "sku": "IMP-1607"
+ },
+ {
+  "sr": 1608,
+  "name": "LOX 4% TOPICAL SOLUTION 30ML",
+  "generic": "LIDOCAINE",
+  "price": "32",
+  "sku": "IMP-1608"
+ },
+ {
+  "sr": 1609,
+  "name": "LOX VISCOUS 2% 100ML",
+  "generic": "LIDOCAINE",
+  "price": "60",
+  "sku": "IMP-1609"
+ },
+ {
+  "sr": 1610,
+  "name": "L-PRED EYE DROPS",
+  "generic": "LOTEPREDNOL ETABONATE",
+  "price": "185",
+  "sku": "IMP-1610"
+ },
+ {
+  "sr": 1611,
+  "name": "LQUIN 250MG",
+  "generic": "LEVOFLOXACIN",
+  "price": "3.5",
+  "sku": "IMP-1611"
+ },
+ {
+  "sr": 1612,
+  "name": "LQUIN 500MG",
+  "generic": "LEVOFLOXACIN",
+  "price": "5",
+  "sku": "IMP-1612"
+ },
+ {
+  "sr": 1613,
+  "name": "LQUIN 750MG",
+  "generic": "LEVOFLOXACIN",
+  "price": "10",
+  "sku": "IMP-1613"
+ },
+ {
+  "sr": 1614,
+  "name": "L-RG9 TAB",
+  "generic": "",
+  "price": "8",
+  "sku": "IMP-1614"
+ },
+ {
+  "sr": 1615,
+  "name": "LUBIC JELLY",
+  "generic": "LUBRICATING JELLY",
+  "price": "120",
+  "sku": "IMP-1615"
+ },
+ {
+  "sr": 1616,
+  "name": "LULICONAZ CREAM 20GM",
+  "generic": "LULICONAZOLE",
+  "price": "85",
+  "sku": "IMP-1616"
+ },
+ {
+  "sr": 1617,
+  "name": "LULIRIGHT XL CREAM",
+  "generic": "LULICONAZOLE",
+  "price": "70",
+  "sku": "IMP-1617"
+ },
+ {
+  "sr": 1618,
+  "name": "LUMERAX 40MG",
+  "generic": "ARTEMETHER+ LUMEFANTRINE",
+  "price": "16.5",
+  "sku": "IMP-1618"
+ },
+ {
+  "sr": 1619,
+  "name": "LUPI FSH 75 AMP",
+  "generic": "UROFOLLITROPIN",
+  "price": "450",
+  "sku": "IMP-1619"
+ },
+ {
+  "sr": 1620,
+  "name": "LUPI HCG 10000IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN",
+  "price": "470",
+  "sku": "IMP-1620"
+ },
+ {
+  "sr": 1621,
+  "name": "LUPI HCG 2000 AMP",
+  "generic": "CHORIONIC GONADOTROPHIN",
+  "price": "160",
+  "sku": "IMP-1621"
+ },
+ {
+  "sr": 1622,
+  "name": "LUPI HCG 5000IU INJ",
+  "generic": "CHORIONIC GONADOTROPHIN",
+  "price": "255",
+  "sku": "IMP-1622"
+ },
+ {
+  "sr": 1623,
+  "name": "LUPI HMG 150 AMPS",
+  "generic": "MENOTROPHIN",
+  "price": "700",
+  "sku": "IMP-1623"
+ },
+ {
+  "sr": 1624,
+  "name": "LUPI HMG 75 AMP",
+  "generic": "MENOTROPHIN",
+  "price": "350",
+  "sku": "IMP-1624"
+ },
+ {
+  "sr": 1625,
+  "name": "LUPIDIUM TAB",
+  "generic": "LOPERAMIDE",
+  "price": "1",
+  "sku": "IMP-1625"
+ },
+ {
+  "sr": 1626,
+  "name": "LUPIHALER TAB",
+  "generic": "",
+  "price": "240",
+  "sku": "IMP-1626"
+ },
+ {
+  "sr": 1627,
+  "name": "LUPIMEB TAB",
+  "generic": "MEBENDAZOLE",
+  "price": "1.5",
+  "sku": "IMP-1627"
+ },
+ {
+  "sr": 1628,
+  "name": "LUPIRTIN CAP",
+  "generic": "FLUPIRTINE",
+  "price": "12",
+  "sku": "IMP-1628"
+ },
+ {
+  "sr": 1629,
+  "name": "LUPIRTIN P TAB",
+  "generic": "FLUPIRTINE MALEATE + PARACETAMOL",
+  "price": "15.5",
+  "sku": "IMP-1629"
+ },
+ {
+  "sr": 1630,
+  "name": "LUPIVON 20MG",
+  "generic": "VONOPRAZAN",
+  "price": "14",
+  "sku": "IMP-1630"
+ },
+ {
+  "sr": 1631,
+  "name": "LUPORAL CAP",
+  "generic": "TEGAFUR & URACIL",
+  "price": "116",
+  "sku": "IMP-1631"
+ },
+ {
+  "sr": 1632,
+  "name": "LURAMAX 40MG",
+  "generic": "LURASIDONE HCL",
+  "price": "10.5",
+  "sku": "IMP-1632"
+ },
+ {
+  "sr": 1633,
+  "name": "LURAMAX 80MG",
+  "generic": "LURASIDONE HCL",
+  "price": "20",
+  "sku": "IMP-1633"
+ },
+ {
+  "sr": 1634,
+  "name": "L-VIT 12MG INJ",
+  "generic": "CYANOCOBALAMIN",
+  "price": "25",
+  "sku": "IMP-1634"
+ },
+ {
+  "sr": 1635,
+  "name": "LYCEFT PLUS 1.5 INJ",
+  "generic": "CEFTRIAXONE",
+  "price": "56",
+  "sku": "IMP-1635"
+ }
+]

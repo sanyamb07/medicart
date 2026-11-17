@@ -1,0 +1,154 @@
+[
+ {
+  "sr": 51,
+  "sku": "IMP-0051",
+  "name": "AGEFINE CREAM",
+  "list_generic": "L-GLUTATHIONE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/agefine-cream/",
+  "official_product_page_url": "https://www.healingpharma.in/product/agefine-cream/",
+  "composition_on_source": "Pack: 'Enriched with L-Glutathione, Kojic Acid, Niacinamide and Glycolic Acid'; page 'Key Ingredients: L-Glutathione'",
+  "catalogue_name": null,
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/Agefine-Skin-Whitening-Cream.jpg",
+   "page_url": "https://www.healingpharma.in/product/agefine-cream/",
+   "local_file": "data/enrichment/images_raw/IMP-0051.jpg",
+   "visible_pack_text": "Agefine\u00ae cream; 20 g; Enriched with L-Glutathione, Kojic Acid, Niacinamide and Glycolic Acid; Healing Pharma"
+  }
+ },
+ {
+  "sr": 102,
+  "sku": "IMP-0102",
+  "name": "AMOXYHEAL CV DRY SYRUP 30ML",
+  "list_generic": "AMOXYCILIN AND POTASSIUM CLAVULANTE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/amoxyheal-cv-dry-syrup/",
+  "official_product_page_url": "https://www.healingpharma.in/product/amoxyheal-cv-dry-syrup/",
+  "composition_on_source": "AMOXICILLIN 200MG+POTASSIUM CLAVULANIC ACID 28.5 ,25X1X30 ml (page meta description; per 5 ml implied, pack composition panel partly visible: 200 mg / 28.5 mg)",
+  "catalogue_name": null,
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2023/04/Amoxyheal-CV-DRY-Syrup.jpg",
+   "page_url": "https://www.healingpharma.in/product/amoxyheal-cv-dry-syrup/",
+   "local_file": "data/enrichment/images_raw/IMP-0102.jpg",
+   "visible_pack_text": "Carton: 'Rx Amoxycillin & Potassium Clavulanate Oral Suspension IP', 'Amoxyheal-CV Dry Syrup', '3.3g/30ml', 'Healing Pharma'; side panel partly visible: '200 mg', '28.5 mg'. Bottle label: 'Amoxyheal-CV Dry Syrup 3.3g/30ml'. Diluent ampoule: '30 ml Sterile Water for Injections IP ... Sunrise Pharma'."
+  }
+ },
+ {
+  "sr": 123,
+  "sku": "IMP-0123",
+  "name": "ANGIOTESIN 2.5MG",
+  "list_generic": "LISINOPRIL",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/angiotensin-2-5/",
+  "official_product_page_url": "https://www.healingpharma.in/product/angiotensin-2-5/",
+  "composition_on_source": "Lisinopril Tablets IP 2.5mg (page: 'Angiotensin 2.5 (Lisinopril)'; strength from pack/page title)",
+  "catalogue_name": null,
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/03/ANGIOTENSIN-2.5.jpg",
+   "page_url": "https://www.healingpharma.in/product/angiotensin-2-5/",
+   "local_file": "data/enrichment/images_raw/IMP-0123.jpg",
+   "visible_pack_text": "Carton: 'Lisinopril Tablets IP 2.5mg', 'Angiotensin\u00ae-2.5', Hindi brand name, '30 x 10 Tablets', 'Healing Pharma'. Blister unprinted face (tablets)."
+  }
+ },
+ {
+  "sr": 217,
+  "sku": "IMP-0217",
+  "name": "AVANA 100MG",
+  "list_generic": "AVANAFIL",
+  "manufacturer": "Sunrise Remedies Pvt. Ltd. (Ahmedabad)",
+  "manufacturer_source_url": "https://sunriseremedies.in/our-products/avana/",
+  "official_product_page_url": "https://sunriseremedies.in/our-products/avana/",
+  "composition_on_source": "Avanafil (page lists 50 mg, 100 mg, 200 mg); carton: 'Avanafil Tablet 100 mg'",
+  "catalogue_name": null,
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://sunriseremedies.in/images/products/avana/Avana18-sunrise.jpg",
+   "page_url": "https://sunriseremedies.in/our-products/avana/",
+   "local_file": "data/enrichment/images_raw/IMP-0217.jpg",
+   "visible_pack_text": "Avanafil Tablet 100 mg; AVANA-100 (TM) on front and side panel; corner logo 'Sunrise Remedies Pvt. Ltd. Rising healthcare benchmarks www.sunriseremedies.in'"
+  }
+ },
+ {
+  "sr": 243,
+  "sku": "IMP-0243",
+  "name": "AZELAX CREAM 20GM",
+  "list_generic": "AZELAIC ACID",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/azelax-cream/",
+  "official_product_page_url": "https://www.healingpharma.in/product/azelax-cream/",
+  "composition_on_source": "Azelaic Acid 20% (page); pack: 'Azelaic Acid Cream 20% w/w'",
+  "catalogue_name": null,
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/08/Azelax-Cream-20-new.jpg",
+   "page_url": "https://www.healingpharma.in/product/azelax-cream/",
+   "local_file": "data/enrichment/images_raw/IMP-0243.jpg",
+   "visible_pack_text": "Azelaic Acid Cream 20% w/w; Azelax; 20 g (tube and carton); side panel 'Azelax 20%'; Healing Pharma"
+  }
+ },
+ {
+  "sr": 261,
+  "sku": "IMP-0261",
+  "name": "B COLEX CAP",
+  "list_generic": "MULTIVITAMIN",
+  "manufacturer": "Torque Pharmaceuticals Pvt. Ltd. (Torque Group) (marketer)",
+  "manufacturer_source_url": "https://torquepharma.com/b-colex-capsules",
+  "official_product_page_url": "https://torquepharma.com/b-colex-capsules",
+  "composition_on_source": "Each capsule: Vitamin B1 IP 10 mg, Vitamin B2 IP 10 mg, Vitamin B6 IP 3 mg, Nicotinamide IP 50 mg, Folic Acid IP 1000 mcg, Calcium Pantothenate IP 20 mg, L-Lysine Mono Hydrochloride USP 150 mg, Vitamin B12 IP 5 mcg",
+  "catalogue_name": null,
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://backend.torquepharma.com/storage/products/featured/NN5crT7sqvUvSjq6n9drcYpHKTsvT679CrZVyRT5.png",
+   "page_url": "https://torquepharma.com/b-colex-capsules",
+   "local_file": "data/enrichment/images_raw/IMP-0261.png",
+   "visible_pack_text": "Potent - Multivitamin Capsules; B-COLEX TM; 10 x 10 Capsules; TORQUE (carton and strip)"
+  }
+ },
+ {
+  "sr": 295,
+  "sku": "IMP-0295",
+  "name": "BENZO 2.5% GEL 30GM",
+  "list_generic": "BENZOYL PEROXIDE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/benzo-2-5-gel/",
+  "official_product_page_url": "https://www.healingpharma.in/product/benzo-2-5-gel/",
+  "composition_on_source": "Pack: 'Benzoyl Peroxide 2.5%'; page text: 'Benzyl Peroxide 2.5%' (sic)",
+  "catalogue_name": null,
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/08/Benzo-2.5.jpg",
+   "page_url": "https://www.healingpharma.in/product/benzo-2-5-gel/",
+   "local_file": "data/enrichment/images_raw/IMP-0295.jpg",
+   "visible_pack_text": "Benzoyl Peroxide 2.5%; BENZO 2.5% GEL; Acne Treatment Gel; 30g; Healing Pharma"
+  }
+ },
+ {
+  "sr": 296,
+  "sku": "IMP-0296",
+  "name": "BENZO 5% GEL 30GM",
+  "list_generic": "BENZOYL PEROXIDE",
+  "manufacturer": "Healing Pharma India Pvt. Ltd. (marketer)",
+  "manufacturer_source_url": "https://www.healingpharma.in/product/benzo-benzoyl-peroxide-5-gel-acne-spots-treatment-gel-manufacturers-india/",
+  "official_product_page_url": "https://www.healingpharma.in/product/benzo-benzoyl-peroxide-5-gel-acne-spots-treatment-gel-manufacturers-india/",
+  "composition_on_source": "Page: 'Active ingredients: Benzoyl peroxide Strength: 5%'; pack: 'Benzoyl Peroxide 5%'",
+  "catalogue_name": null,
+  "pack_size": null,
+  "image": {
+   "status": "candidate",
+   "image_url": "https://www.healingpharma.in/wp-content/uploads/2022/08/Benzo-5-GEL.jpg",
+   "page_url": "https://www.healingpharma.in/product/benzo-benzoyl-peroxide-5-gel-acne-spots-treatment-gel-manufacturers-india/",
+   "local_file": "data/enrichment/images_raw/IMP-0296.jpg",
+   "visible_pack_text": "Benzoyl Peroxide 5%; BENZO 5% GEL; Acne Treatment Gel; 30g; Healing Pharma"
+  }
+ }
+]

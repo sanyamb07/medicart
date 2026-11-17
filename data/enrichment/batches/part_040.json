@@ -1,0 +1,352 @@
+[
+ {
+  "sr": 2092,
+  "name": "OSTALMIV 75MG",
+  "generic": "SODIUM ALENDRONATE",
+  "price": "21",
+  "sku": "IMP-2092"
+ },
+ {
+  "sr": 2093,
+  "name": "OSTEOFOS 35MG",
+  "generic": "SODIUM ALENDRONATE",
+  "price": "35",
+  "sku": "IMP-2093"
+ },
+ {
+  "sr": 2094,
+  "name": "OSTEOFOS 70MG",
+  "generic": "SODIUM ALENDRONATE",
+  "price": "63.5",
+  "sku": "IMP-2094"
+ },
+ {
+  "sr": 2095,
+  "name": "OTRIVIN OXY FAST RELIEF",
+  "generic": "OXYMETAZOLINE",
+  "price": "10",
+  "sku": "IMP-2095"
+ },
+ {
+  "sr": 2096,
+  "name": "OVARIVAC TAB",
+  "generic": "DEHYDROEPIANDROSTERONE",
+  "price": "19.5",
+  "sku": "IMP-2096"
+ },
+ {
+  "sr": 2098,
+  "name": "OXCARB 150MG",
+  "generic": "Oxcarbazepine",
+  "price": "7",
+  "sku": "IMP-2098"
+ },
+ {
+  "sr": 2099,
+  "name": "OXCARBAVAC 300MG",
+  "generic": "OXCARBAZEPINE",
+  "price": "9",
+  "sku": "IMP-2099"
+ },
+ {
+  "sr": 2100,
+  "name": "OXETIN 60MG",
+  "generic": "FLUOXETINE",
+  "price": "3",
+  "sku": "IMP-2100"
+ },
+ {
+  "sr": 2101,
+  "name": "OXYNINE 5MG",
+  "generic": "OXYBUTYNIN",
+  "price": "2.5",
+  "sku": "IMP-2101"
+ },
+ {
+  "sr": 2102,
+  "name": "OXYSPRAY NASAL SPRAY 10GM",
+  "generic": "OXYMETAZOLINE",
+  "price": "215",
+  "sku": "IMP-2102"
+ },
+ {
+  "sr": 2104,
+  "name": "OZIM 20MG",
+  "generic": "OLANZAPINE",
+  "price": "2",
+  "sku": "IMP-2104"
+ },
+ {
+  "sr": 2105,
+  "name": "OZIM 5MG",
+  "generic": "OLANZAPINE",
+  "price": "1",
+  "sku": "IMP-2105"
+ },
+ {
+  "sr": 2106,
+  "name": "P FORCE CAP",
+  "generic": "SILDENAFIL",
+  "price": "1.5",
+  "sku": "IMP-2106"
+ },
+ {
+  "sr": 2107,
+  "name": "P FORCE FORT TAB",
+  "generic": "SILDENAFIL",
+  "price": "2.5",
+  "sku": "IMP-2107"
+ },
+ {
+  "sr": 2108,
+  "name": "P SOLONE 5MG",
+  "generic": "PREDNISOLONE",
+  "price": "1",
+  "sku": "IMP-2108"
+ },
+ {
+  "sr": 2109,
+  "name": "PACROMA CREAM",
+  "generic": "PIMECROLIMUS",
+  "price": "570",
+  "sku": "IMP-2109"
+ },
+ {
+  "sr": 2110,
+  "name": "PAHFIL 20MG",
+  "generic": "SILDENAFIL",
+  "price": "2",
+  "sku": "IMP-2110"
+ },
+ {
+  "sr": 2111,
+  "name": "PAINOSOMA 350MG",
+  "generic": "CARISOPRODOL",
+  "price": "2",
+  "sku": "IMP-2111"
+ },
+ {
+  "sr": 2112,
+  "name": "PALNAT 75 21CAP",
+  "generic": "PALBOCICLIB",
+  "price": "83",
+  "sku": "IMP-2112"
+ },
+ {
+  "sr": 2113,
+  "name": "PAN 80MG",
+  "generic": "PANTOPRAZOLE",
+  "price": "17",
+  "sku": "IMP-2113"
+ },
+ {
+  "sr": 2114,
+  "name": "PANACUR 150MG",
+  "generic": "FEBENDAZOLE",
+  "price": "5.5",
+  "sku": "IMP-2114"
+ },
+ {
+  "sr": 2115,
+  "name": "PANACUR 3.0 VET",
+  "generic": "FEBENDAZOLE",
+  "price": "52",
+  "sku": "IMP-2115"
+ },
+ {
+  "sr": 2116,
+  "name": "PANKREOFLAT TABLET",
+  "generic": "DIMETHICONE+ PANCREATIN",
+  "price": "18",
+  "sku": "IMP-2116"
+ },
+ {
+  "sr": 2117,
+  "name": "PANTAFOL SL CAP",
+  "generic": "LEVOSULPIRIDE  + PANTOPRAZOLE",
+  "price": "4.5",
+  "sku": "IMP-2117"
+ },
+ {
+  "sr": 2118,
+  "name": "PANTOCID 20MG",
+  "generic": "PANTOPRAZOLE",
+  "price": "7",
+  "sku": "IMP-2118"
+ },
+ {
+  "sr": 2119,
+  "name": "PANTODICE 40MG",
+  "generic": "PANTOPRAZOLE",
+  "price": "2",
+  "sku": "IMP-2119"
+ },
+ {
+  "sr": 2120,
+  "name": "PANTOSEC 40MG",
+  "generic": "PANTOPRAZOLE",
+  "price": "2.5",
+  "sku": "IMP-2120"
+ },
+ {
+  "sr": 2121,
+  "name": "PANTOSEC D TAB",
+  "generic": "DOMPERIDONE + PANTOPRAZOLE",
+  "price": "3",
+  "sku": "IMP-2121"
+ },
+ {
+  "sr": 2122,
+  "name": "PAPAVERINE AMP 2ML",
+  "generic": "PAPAVERINE",
+  "price": "22.5",
+  "sku": "IMP-2122"
+ },
+ {
+  "sr": 2123,
+  "name": "PARA 500MG",
+  "generic": "PARACETAMOL",
+  "price": "1",
+  "sku": "IMP-2123"
+ },
+ {
+  "sr": 2126,
+  "name": "PARACIP 500MG",
+  "generic": "PARACETAMOL",
+  "price": "1.5",
+  "sku": "IMP-2126"
+ },
+ {
+  "sr": 2127,
+  "name": "PARACIP 650MG",
+  "generic": "PARACETAMOL",
+  "price": "1.5",
+  "sku": "IMP-2127"
+ },
+ {
+  "sr": 2128,
+  "name": "PARAJAN TAB",
+  "generic": "PARACETAMOL",
+  "price": "1",
+  "sku": "IMP-2128"
+ },
+ {
+  "sr": 2129,
+  "name": "PARAXIN 500MG",
+  "generic": "CHLORAMPHENICOL",
+  "price": "19.5",
+  "sku": "IMP-2129"
+ },
+ {
+  "sr": 2130,
+  "name": "PARI 30MG TAB",
+  "generic": "",
+  "price": "24",
+  "sku": "IMP-2130"
+ },
+ {
+  "sr": 2131,
+  "name": "PAXIDEP CR 12.5MG",
+  "generic": "PAROXETINE",
+  "price": "16",
+  "sku": "IMP-2131"
+ },
+ {
+  "sr": 2132,
+  "name": "PAXIDEP CR 25MG",
+  "generic": "PAROXETINE",
+  "price": "21",
+  "sku": "IMP-2132"
+ },
+ {
+  "sr": 2133,
+  "name": "PAXIDEP CR 37.5",
+  "generic": "PAROXETINE",
+  "price": "29",
+  "sku": "IMP-2133"
+ },
+ {
+  "sr": 2134,
+  "name": "PAXIDEP CR 37.5MG",
+  "generic": "PAROXETINE",
+  "price": "27",
+  "sku": "IMP-2134"
+ },
+ {
+  "sr": 2135,
+  "name": "PAXOBROOK COMBIPACK",
+  "generic": "NIRMATRELVIR AND RITONAVIR",
+  "price": "4720",
+  "sku": "IMP-2135"
+ },
+ {
+  "sr": 2136,
+  "name": "PAZOM 20MG",
+  "generic": "PANTOPRAZOLE",
+  "price": "1.5",
+  "sku": "IMP-2136"
+ },
+ {
+  "sr": 2137,
+  "name": "PAZOM 40MG",
+  "generic": "PANTOPRAZOLE",
+  "price": "1",
+  "sku": "IMP-2137"
+ },
+ {
+  "sr": 2138,
+  "name": "PAZONAT 200MG",
+  "generic": "PAZOPANIB",
+  "price": "48",
+  "sku": "IMP-2138"
+ },
+ {
+  "sr": 2139,
+  "name": "PDOSTIGAMIN 60MG",
+  "generic": "PYRIDOSTIGMINE",
+  "price": "7",
+  "sku": "IMP-2139"
+ },
+ {
+  "sr": 2140,
+  "name": "PENICITIN CAP",
+  "generic": "PENICILLAMINE",
+  "price": "15",
+  "sku": "IMP-2140"
+ },
+ {
+  "sr": 2141,
+  "name": "PENIDURE LA 6MG INJ",
+  "generic": "BENZATHINE PENICILLIN",
+  "price": "12",
+  "sku": "IMP-2141"
+ },
+ {
+  "sr": 2142,
+  "name": "PENTIDS 200MG",
+  "generic": "PENICILLIN",
+  "price": "1.5",
+  "sku": "IMP-2142"
+ },
+ {
+  "sr": 2143,
+  "name": "PENTIDS 400MG",
+  "generic": "PENICILLIN",
+  "price": "2",
+  "sku": "IMP-2143"
+ },
+ {
+  "sr": 2144,
+  "name": "PENTIDS 800MG",
+  "generic": "PENICILLIN",
+  "price": "3.5",
+  "sku": "IMP-2144"
+ },
+ {
+  "sr": 2145,
+  "name": "PENTRAL 400MG",
+  "generic": "PENTOXIFYLLINE PROLONGED RELEASE",
+  "price": "5",
+  "sku": "IMP-2145"
+ }
+]

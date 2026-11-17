@@ -1,0 +1,42 @@
+[
+ {
+  "sku": "IMP-0585",
+  "image_verdict": "reject",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "",
+  "note": "Strength not visible: pack shows Clobetasol, Gentamicin, Miconazole & Clotrimazole Cream 15g without ingredient strengths",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1235",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Levetiracetam Tablets IP 500 mg; Heppra 500 mg; 10x10 Tablets; Healing Pharma",
+  "note": "Lead visual check",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-1849",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Levonorgestrel Tablets IP 1.5 mg; Morning Pill; 1 Tablet; Healing Pharma",
+  "note": "Lead visual check",
+  "extra_reasons": []
+ },
+ {
+  "sku": "IMP-2756",
+  "image_verdict": "approve",
+  "manufacturer_confirmed": true,
+  "pack_size_confirmed": false,
+  "source_name": "Healing Pharma India Pvt. Ltd.",
+  "visible_pack_text": "Tadalafil Tablets IP 20 mg; Tastylia 20; 10 x 10 Tablets; Healing Pharma",
+  "note": "Lead visual check; manufacturer catalogue title says Oral Strips but the pack image is the tablet",
+  "extra_reasons": []
+ }
+]

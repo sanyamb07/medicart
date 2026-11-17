@@ -1,0 +1,9 @@
+BEGIN
+SELECT 2
+IMP-2047|OLMO 40MG TAB|Ofloxacin|Olmesartan Medoxomil
+IMP-0300|BETABLOCK XL 50MG|Monobenzone Cream|Metoprolol Succinate
+UPDATE 2
+UPDATE 2
+UPDATE 2
+UPDATE 2
+COMMIT
